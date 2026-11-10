@@ -34,6 +34,8 @@ drops races off within 5 minutes.
 1b. History + models: `python3 pipeline/raceiq.py` (finishing speed from all RaceIQ files in raw/); `python3 pipeline/history.py build <yesterday's saved results file(s) from step 1>` (adds yesterday's runs to
    data/history_runs.csv.gz); after step 2, `python3 pipeline/models.py run DAY` (win model, run styles, shape, pros/cons, h2h ->
    store/DAY/model.json). Retrain only by a dated prereg amendment (prereg/MODEL_REBUILD_2026-11-10.md).
+2a. Paper angle (after step 2, before the first off): `python3 pipeline/angle_toprated.py pick DAY`; when settling a day also run
+   `python3 pipeline/angle_toprated.py settle DAY` and report its line (paper, prereg/ANGLE_CARD_TOPRATED_2026-11-10.md).
 2. Card: get_racecards_pro DAY gb,ire detailed limit 50 (skip 50 if total > 50);
    `python3 pipeline/save_card.py DAY <saved file(s)>` (reports NRs removed, abandoned meetings, first off).
    Publish the sealed card for McCoy straight away.
