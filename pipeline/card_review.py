@@ -98,12 +98,32 @@ def seal(day):
     if missing:
         sys.exit("NOT SEALED - missing/invalid: " + "; ".join(missing))
     rows, nchg, nbet, nchk, nskip = [], 0, 0, 0, 0
+    warn = []
+    stamp_dt = pd.Timestamp(now_utc())
+    if stamp_dt.tzinfo is None:
+        stamp_dt = stamp_dt.tz_localize("UTC")
     for r in card:
         key = meeting_key(r["course"])
+        if r["race_id"] not in outs.get(key, {}):
+            warn.append(f"{r['off_time']} {r['course']}: race missing from reviewer output (treated as no changes, no verdicts)")
         ro = outs.get(key, {}).get(r["race_id"], {"changes": [], "checks": []})
         mk = race_market(r)
+        ids = {h["horse_id"] for h in r["runners"]}
+        fav = max((h for h in r["runners"] if mk[h["horse_id"]]["mkt"]), key=lambda h: mk[h["horse_id"]]["mkt"], default=None)
+        chk_ids = {fav["horse_id"]} if (fav and len(r["runners"]) >= 5 and mk[fav["horse_id"]]["median"]
+                                        and 3.0 <= mk[fav["horse_id"]]["median"] <= 6.0) else set()
+        for c in ro.get("changes", []) + ro.get("checks", []):
+            if c.get("horse_id") and c["horse_id"] not in ids:
+                warn.append(f"{r['off_time']} {r['course']}: unknown horse_id {c['horse_id']} ({c.get('horse')}) ignored")
+        off_before_seal = pd.Timestamp(r["off_dt"]) <= stamp_dt
         ch = {c["horse_id"]: c for c in ro.get("changes", []) if c.get("horse_id")}
-        ck = {c["horse_id"]: c for c in ro.get("checks", []) if c.get("horse_id")}
+        ck = {c["horse_id"]: c for c in ro.get("checks", []) if c.get("horse_id") in chk_ids}
+        for c in ro.get("checks", []):
+            if c.get("horse_id") in ids and c["horse_id"] not in chk_ids:
+                warn.append(f"{r['off_time']} {r['course']}: verdict for non-CHECK runner {c.get('horse')} ignored")
+        for hid in chk_ids - set(ck):
+            warn.append(f"{r['off_time']} {r['course']}: CHECK runner without a verdict -> SKIP")
+            ck[hid] = {"verdict": "SKIP", "reason": "no verdict given (auto SKIP)"}
         raw = {}
         for h in r["runners"]:
             m = mk[h["horse_id"]]["mkt"]
@@ -123,8 +143,10 @@ def seal(day):
             for k in raw:
                 if k not in ch:
                     raw[k] = mk[k]["mkt"] * left / unch_mkt
-        tot = sum(raw.values()) or 1
-        excluded = any(unknown_runner(h) for h in r["runners"])
+        tot = max(sum(raw.values()), 100.0)  # scale down only: an under-100 book never inflates the reviewer's figures
+        excluded = any(unknown_runner(h) for h in r["runners"]) or off_before_seal
+        if off_before_seal:
+            warn.append(f"{r['off_time']} {r['course']}: already off at seal time -> excluded")
         hcap = "handicap" in (r.get("race_name") or "").lower() or "nursery" in (r.get("race_name") or "").lower()
         for h in r["runners"]:
             hid = h["horse_id"]
@@ -133,6 +155,15 @@ def seal(day):
                 continue
             rev = round(100 * raw[hid] / tot, 2)
             verdict = (ck.get(hid, {}).get("verdict") or "").upper() or None
+            if verdict == "BET":  # re-check the packet's own BET test instead of trusting the reviewer's arithmetic
+                yours = raw[hid] * 100 / tot
+                if not (m["best_ex"] and m["median"] and yours * m["best_ex"] / 100 >= 1.05 and m["best_ex"] >= 0.95 * m["median"]):
+                    warn.append(f"{r['off_time']} {r['course']}: {h['horse']} BET fails the packet test "
+                                f"(chance {yours:.1f}% x best {m['best_ex']}) -> SKIP")
+                    verdict = "SKIP"
+            if verdict not in (None, "BET", "SKIP"):
+                warn.append(f"{r['off_time']} {r['course']}: {h['horse']} verdict {verdict!r} not BET/SKIP -> SKIP")
+                verdict = "SKIP"
             reason = ck.get(hid, {}).get("reason") or ch.get(hid, {}).get("reason") or ""
             raised = hid in ch and float(ch[hid].get("chance_pct") or 0) > m["mkt"]
             bet = bool(raised and rev >= 1.25 * m["mkt"] and rev >= 3 and m["best_ex"] and m["best_ex"] >= 100 / rev)
@@ -159,6 +190,10 @@ def seal(day):
     stamp = now_utc()
     with open(os.path.join(rd, "SEAL.txt"), "w") as f:
         f.write(f"sealed {stamp}; first off {first_off}; sha256 of outputs {h.hexdigest()}\n")
+    for w in warn:
+        print("  WARNING:", w)
+    if pd.Timestamp(first_off) <= stamp_dt:
+        print(f"  WARNING: sealed AFTER the first off ({first_off}); races already off are excluded from the bot file")
     print(f"sealed {day} at {stamp} (first off {first_off}): {len(card)} races, {len(rows)} runners, {nchg} changed, "
           f"{nbet} value flags, {nchk} CHECK verdicts ({nskip} SKIP)")
 
@@ -190,6 +225,11 @@ def settle(day):
 def summary(df):
     s = df[df.pos.notna() & (df.pos.astype(str) != "NR")].copy()
     s["won"] = s.won.astype(float)
+    live = set()
+    if os.path.exists(p("data", "live_days.csv")):
+        ld = pd.read_csv(p("data", "live_days.csv"))
+        live = set(ld[ld.status == "LIVE"].day)
+    s["status"] = np.where(s.day.isin(live), "LIVE", "PAPER")
     ll = []
     for _, g in s.groupby(["day", "race_id"]):
         if g.won.sum() != 1:
@@ -197,7 +237,12 @@ def summary(df):
         w = g[g.won == 1].iloc[0]
         ll.append(math.log(w.rev / 100) - math.log(w.mkt / 100))
     print(f"  reviewer log-loss gain vs market (+ = reviewer better): {np.mean(ll):+.4f} per race (n {len(ll)})" if ll else "  no settled races")
-    for lab, x in [("CHECK BET", s[s.verdict == "BET"]), ("value flags", s[s.bet == True])]:
+    s = s[s.excluded.astype(str) != "True"]  # P/L only for rows that could reach the bot file
+    groups = []
+    for st in ("LIVE", "PAPER"):
+        g = s[s.status == st]
+        groups += [(f"{st} CHECK BET", g[g.verdict == "BET"]), (f"{st} value flags", g[g.bet == True])]  # noqa: E712
+    for lab, x in groups:
         if not len(x):
             continue
         p9 = np.where(x.won == 1, (x.best - 1) * 0.98, -1)

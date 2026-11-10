@@ -17,7 +17,7 @@ def main(day, files):
             seen.add(r["race_id"])
             uniq.append(r)
     d = day_dir(day)
-    save_json(os.path.join(d, "card_morning.json.gz"), {"fetched_at_uk": now_utc(), "racecards": uniq})
+    save_json(os.path.join(d, "card_morning.json.gz"), {"fetched_at_utc": now_utc(), "racecards": uniq})
     sealed, abandoned, n_nr = [], [], 0
     for r in uniq:
         if r.get("date") and r["date"] != day:
@@ -33,7 +33,7 @@ def main(day, files):
         r["field_size"] = str(len(r["runners"]))
         sealed.append(r)
     sealed.sort(key=lambda r: r["off_dt"])
-    out = {"fetched_at_uk": now_utc(), "racecards": sealed}
+    out = {"fetched_at_utc": now_utc(), "racecards": sealed}
     save_json(os.path.join(d, "sealed_card.json.gz"), out)
     os.makedirs(p("out", "for_vps"), exist_ok=True)
     for name in (f"sealed_card_{day}.json", "sealed_card_latest.json"):

@@ -11,6 +11,9 @@ from common import p
 
 
 def main(day):
+    if not os.path.exists(p("store", day, "review", "SEAL.txt")):
+        sys.exit(f"{day} is not sealed (no SEAL.txt) - no bot file written")
+    now = pd.Timestamp.now(tz="UTC")
     df = pd.read_csv(p("data", "card_review_tracker.csv"))
     d = df[(df.day == day) & ((df.verdict == "BET") | (df.bet == True))].copy()
     rows = []
@@ -20,7 +23,9 @@ def main(day):
         rows.append(dict(OffUK=pd.Timestamp(r.off_dt).tz_convert("Europe/London").strftime("%H:%M"), StartTimeUTC=r.off_dt,
                          Course=r.course, SelectionName=r.horse, Code=r.code, Source="CHECK verdict BET" if chk else "reviewer BET flag",
                          MorningMedian=r["median"], MinPrice=minp, BestPrice9am=r.best, ReviewerChancePct=r.rev, MarketChancePct=r.mkt,
-                         Reason=r.reason, Status="EXCLUDED - unknown runner(s) in race" if r.excluded else "BOT FILE"))
+                         Reason=r.reason, Status=("EXCLUDED - unknown runner(s) or off before seal" if r.excluded
+                                                     else "EXCLUDED - off within 5 min of file time" if pd.Timestamp(r.off_dt) <= now + pd.Timedelta(minutes=5)
+                                                     else "BOT FILE")))
     det = pd.DataFrame(rows, columns=["OffUK", "StartTimeUTC", "Course", "SelectionName", "Code", "Source", "MorningMedian", "MinPrice",
                                       "BestPrice9am", "ReviewerChancePct", "MarketChancePct", "Reason", "Status"])
     sd = p("store", day)

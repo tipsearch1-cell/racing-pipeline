@@ -24,6 +24,9 @@ files in data/history/ (only changed months are rewritten). Never commit files >
 - Big MCP results are saved to the tool-results folder; pass that saved file path to the scripts.
 
 ## Daily build (09:05 UTC)
+Order: 0, 1, 1b, 2, 3, 4, 4b, 5, 6. Seal now validates the reviewer output (non-CHECK verdicts ignored, BET re-tested, races
+off before the seal excluded; WARNING lines must be read and reported). The bot file refuses to build without SEAL.txt and
+drops races off within 5 minutes.
 1. Settle yesterday (if not done in the evening): get_results YESTERDAY gb,ire detailed limit 50 (skip 50 if total > 50);
    `python3 pipeline/save_res.py YESTERDAY <saved file(s)>`; `python3 pipeline/card_review.py settle YESTERDAY`.
    BSP often arrives 10:00-12:00 UK or a day late: re-save only when complete (the 12:00 check retries).
