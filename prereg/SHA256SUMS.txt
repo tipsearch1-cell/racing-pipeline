@@ -8,3 +8,4 @@ d77e62313d48b014f720324ab5fa4adf7b1fd449ea5d92257e88b70a538382b2  prereg/MODEL_T
 bf5ae1564f2530a65e0c0b93adb8ce46a2811d5720a7849c6faeeb0c0d1badb4  prereg/REBUILD_RULES_2026-11-10.md
 
 # note 10 Nov 2026: the first REBUILD_RULES_2026-11-10.md hash above is the pre-decision-note version; the later line is current.
+8039db6c4148c105a9855634963b18cec185b481152bc2900790171f5eb3dac4  prereg/REBUILD_RULES_2026-11-10.md

@@ -4,17 +4,29 @@
   python3 pipeline/card_review.py seal DAY      -> validates out_<meeting>.json, writes tracker rows + SEAL.txt
   python3 pipeline/card_review.py settle DAY    -> fills results (pos, SP, BSP) for DAY and prints running summaries
 
+Amendments 10 Nov 2026 (prereg/REBUILD_RULES_2026-11-10.md, from 11 Nov): price tests use the Matchbook 09:00 price;
+races with an unraced runner are excluded; the card's own rating/ranking sentences are removed from the packet comments.
 CHECK runners (rebuilt rule): the market favourite of each race with 5+ runners whose 09:00 median price is 3.0-6.0.
 Value flag: the reviewer actively raised the runner, final chance >= 1.25 x market chance and >= 3%,
 and best exchange price >= 100 / reviewer chance. Changed runners keep the reviewer's figure; unchanged runners share the rest.
 """
-import csv, glob, hashlib, json, math, os, sys
+import csv, glob, hashlib, json, math, os, re, sys
 import numpy as np, pandas as pd
 from common import load_card, race_market, code_of, is_aw, unknown_runner, meeting_key, now_utc, p, load_json
 
 TRACKER = p("data", "card_review_tracker.csv")
 COLS = ["day", "race_id", "off", "off_dt", "course", "code", "aw", "hcap", "runners", "horse_id", "horse", "mkt", "rev",
-        "median", "best", "check", "verdict", "bet", "reason", "excluded", "pos", "won", "sp", "bsp"]
+        "median", "best", "mb", "check", "verdict", "bet", "reason", "excluded", "pos", "won", "sp", "bsp"]
+
+OWN_RATING = re.compile(r"(?i)our rating|our top|top-rated|top rated|one to beat|leading danger|main danger|ranks? (him|her|it)|"
+                        r"ranked|tops? (the|our)|by our|on our|our figures|our ratings")
+
+
+def strip_own_ratings(txt):
+    """Drop sentences that quote the card provider's own rating or ranking (amended rule 10 Nov 2026)."""
+    sents = re.split(r"(?<=[.!?])\s+", txt.strip())
+    return " ".join(s for s in sents if not OWN_RATING.search(s)).strip()
+
 
 HEADER = """# Card review packet: {course}, {day}
 
@@ -28,8 +40,8 @@ You are a racing form reviewer. Use ONLY this packet. For every race:
 3. Keep changes moderate: normally within 0.67x to 1.5x of the market chance; never beyond 0.33x to 3x.
    Totals do not need to add to 100; they are rescaled afterwards.
 4. Runners marked CHECK need a verdict, BET or SKIP:
-   BET only if (a) your chance x best exchange price >= 1.05 AND (b) best exchange price >= the skip line
-   shown (0.95 x 09:00 median), and the card supports your chance. Otherwise SKIP. Give a one-line reason.
+   BET only if (a) your chance x Matchbook price >= 1.05 AND (b) Matchbook price >= the skip line
+   shown (0.95 x 09:00 median), and the card supports your chance. "Matchbook" is the price the bet would get. Otherwise SKIP. Give a one-line reason.
 
 Write valid JSON to the out path you were given, exactly this shape (use the exact race_id and horse_id values):
 {{"meeting": "{key}", "races": [
@@ -73,8 +85,8 @@ def prep(day):
                     f"draw {h.get('draw') or '-'} | jockey {h.get('jockey')} | trainer {h.get('trainer')} (14d {t14.get('wins', '?')}/{t14.get('runs', '?')}) | "
                     f"headgear {h.get('headgear') or '-'}{' (1st time)' if h.get('headgear_run') == '1' else ''}"
                     f"{' | wind surgery' if h.get('wind_surgery') else ''} | last run {h.get('last_run') or '-'} days | form {h.get('form') or '-'} | "
-                    f"MARKET {fmt(m['mkt'], 1)}% | 09:00 median {fmt(m['median'])} | best exchange {fmt(m['best_ex'])}{tag}")
-                txt = (h.get("spotlight") or h.get("comment") or "").strip()
+                    f"MARKET {fmt(m['mkt'], 1)}% | 09:00 median {fmt(m['median'])} | Matchbook {fmt(m['mb'])}{tag}")
+                txt = strip_own_ratings(h.get("spotlight") or h.get("comment") or "")
                 if txt:
                     lines.append(f"    comment: {txt}")
         inp, out = os.path.join(outdir, f"in_{key}.md"), os.path.join(outdir, f"out_{key}.json")
@@ -157,23 +169,23 @@ def seal(day):
             verdict = (ck.get(hid, {}).get("verdict") or "").upper() or None
             if verdict == "BET":  # re-check the packet's own BET test instead of trusting the reviewer's arithmetic
                 yours = raw[hid] * 100 / tot
-                if not (m["best_ex"] and m["median"] and yours * m["best_ex"] / 100 >= 1.05 and m["best_ex"] >= 0.95 * m["median"]):
+                if not (m["mb"] and m["median"] and yours * m["mb"] / 100 >= 1.05 and m["mb"] >= 0.95 * m["median"]):
                     warn.append(f"{r['off_time']} {r['course']}: {h['horse']} BET fails the packet test "
-                                f"(chance {yours:.1f}% x best {m['best_ex']}) -> SKIP")
+                                f"(chance {yours:.1f}% x Matchbook {m['mb']}) -> SKIP")
                     verdict = "SKIP"
             if verdict not in (None, "BET", "SKIP"):
                 warn.append(f"{r['off_time']} {r['course']}: {h['horse']} verdict {verdict!r} not BET/SKIP -> SKIP")
                 verdict = "SKIP"
             reason = ck.get(hid, {}).get("reason") or ch.get(hid, {}).get("reason") or ""
             raised = hid in ch and float(ch[hid].get("chance_pct") or 0) > m["mkt"]
-            bet = bool(raised and rev >= 1.25 * m["mkt"] and rev >= 3 and m["best_ex"] and m["best_ex"] >= 100 / rev)
+            bet = bool(raised and rev >= 1.25 * m["mkt"] and rev >= 3 and m["mb"] and m["mb"] >= 100 / rev)
             nchg += hid in ch
             nbet += bet
             nchk += verdict is not None
             nskip += verdict == "SKIP"
             rows.append(dict(day=day, race_id=r["race_id"], off=r["off_time"], off_dt=r["off_dt"], course=r["course"], code=code_of(r),
                              aw=is_aw(r), hcap=hcap, runners=len(r["runners"]), horse_id=hid, horse=h["horse"], mkt=m["mkt"], rev=rev,
-                             median=m["median"], best=m["best_ex"], check=verdict is not None, verdict=verdict, bet=bet,
+                             median=m["median"], best=m["best_ex"], mb=m["mb"], check=verdict is not None, verdict=verdict, bet=bet,
                              reason=reason, excluded=excluded, pos=None, won=None, sp=None, bsp=None))
     df = pd.DataFrame(rows, columns=COLS)
     if os.path.exists(TRACKER):
@@ -245,10 +257,11 @@ def summary(df):
     for lab, x in groups:
         if not len(x):
             continue
-        p9 = np.where(x.won == 1, (x.best - 1) * 0.98, -1)
+        px = x.mb.where(x.mb.notna(), x.best) if "mb" in x else x.best  # Matchbook 09:00 from 11 Nov; best exchange before
+        p9 = np.where(x.won == 1, (px - 1) * 0.98, -1)
         b = x[x.bsp.notna()]
         pb = np.where(b.won == 1, (b.bsp - 1) * 0.98, -1)
-        print(f"  {lab}: {len(x)} bets, won {int(x.won.sum())}, 09:00 best {p9.sum():+.2f} ({100 * p9.mean():+.1f}%)"
+        print(f"  {lab}: {len(x)} bets, won {int(x.won.sum())}, 09:00 Matchbook/best {p9.sum():+.2f} ({100 * p9.mean():+.1f}%)"
               + (f", BSP {pb.sum():+.2f} ({100 * pb.mean():+.1f}%, n {len(b)})" if len(b) else ""))
 
 

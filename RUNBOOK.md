@@ -23,7 +23,7 @@ files in data/history/ (only changed months are rewritten). Never commit files >
 - data/live_days.csv says whether a day's bot file was LIVE (published for McCoy) or PAPER.
 - Big MCP results are saved to the tool-results folder; pass that saved file path to the scripts.
 
-## Daily build (09:05 UTC)
+## Daily build (08:35 UK; = UTC in winter, 07:35 UTC in summer)
 Order: 0, 1, 1b, 2, 3, 4, 4b, 5, 6. Seal now validates the reviewer output (non-CHECK verdicts ignored, BET re-tested, races
 off before the seal excluded; WARNING lines must be read and reported). The bot file refuses to build without SEAL.txt and
 drops races off within 5 minutes.
@@ -57,7 +57,7 @@ drops races off within 5 minutes.
 5. Live checks: send_later 12:00/14:00/16:00/18:00 UTC (skip any after the last race): get_racecards_pro DAY ...;
    `python3 pipeline/live_changes.py DAY <saved file(s)>`; message the user only for lines marked "!" (important, still to run).
    The 12:00 one also re-fetches yesterday's results for BSP, re-saves when complete and re-runs settle.
-6. git add -A; commit; push. Schedule the next day's 09:05 build (same prompt, dates moved on).
+6. git add -A; commit; push. Schedule the next day's 08:35 build (same prompt, dates moved on).
 
 ## Evening settle (when the user asks "result today's card")
 get_results DAY ...; save_res.py; card_review.py settle DAY; report bot-file bets at SP, 09:00 best price and BSP

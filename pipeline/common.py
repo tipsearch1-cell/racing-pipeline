@@ -62,12 +62,26 @@ def runner_prices(h):
     return med, (max(ex) if ex else None), (sum(ex) / len(ex) if ex else None), len(allp)
 
 
+def matchbook_price(h):
+    """Matchbook back price for one runner (the exchange the bot bets on), or None."""
+    for o in h.get("odds", []) or []:
+        if o.get("bookmaker") == "Matchbook":
+            return num(o.get("decimal"))
+    return None
+
+
+def unraced(h):
+    """No form figures at all: a debutant (amended rule 10 Nov 2026 - see prereg/REBUILD_RULES_2026-11-10.md)."""
+    return not (h.get("form") or "").replace("-", "").replace("/", "").strip()
+
+
 def race_market(race):
-    """Per runner dict horse_id -> {median, best_ex, mkt (0-100)}; runners without prices get mkt None."""
+    """Per runner dict horse_id -> {median, best_ex, mb, mkt (0-100)}; runners without prices get mkt None.
+    From 11 Nov the bet tests use mb (Matchbook price); best_ex (best of three exchanges) is kept for display."""
     rows, raw = {}, {}
     for h in race["runners"]:
         med, best_ex, mean_ex, n = runner_prices(h)
-        rows[h["horse_id"]] = dict(median=med, best_ex=best_ex, n_books=n)
+        rows[h["horse_id"]] = dict(median=med, best_ex=best_ex, mb=matchbook_price(h), n_books=n)
         if med:
             pe = 1 / mean_ex if mean_ex else 1 / med
             raw[h["horse_id"]] = 0.6 * pe + 0.4 / med
@@ -87,8 +101,9 @@ def is_aw(race):
 
 
 def unknown_runner(h):
-    """A runner the card says nothing about: no form string and no comment/spotlight."""
-    return not (h.get("form") or "").strip() and not (h.get("comment") or "").strip() and not (h.get("spotlight") or "").strip()
+    """Race-exclusion test. Amended 10 Nov 2026: a runner with no form figures (unraced). The original test (no form AND
+    no comment) never fired because the API writes a comment for every runner."""
+    return unraced(h)
 
 
 def base_name(s):
