@@ -1,0 +1,19 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian,Source,BestPrice9am,ReviewerChancePct,MarketChancePct,Reason,Status
+,Padel Whacker,,,,25.11,,Fontwell,12:50,,,,29.0,,,,EXCLUDED - 1 unraced
+,Max d'Airy,,,,18.26,,Fontwell,12:50,,,,21.0,,,,EXCLUDED - 1 unraced
+,Queen Lily,,,,12.21,,Hexham,13:00,,,,15.0,,,,EXCLUDED - 4/4 runners with no card data
+Frankie,Mutley Crew,WIN,2026-11-06 13:25:00,BACK,11.19,false,Fontwell,13:25,Jumps,11.0,reviewer BET flag,16.0,8.9,7.1,Course-and-distance winner with best figure 25 lb above average; market underrates despite layoff.,BOT FILE
+Frankie,Mild Magic,WIN,2026-11-06 14:00:00,BACK,3.63,false,Fontwell,14:00,Jumps,3.75,reviewer BET flag,4.0,27.6,23.5,Won over 25f last time and finished strongly; proven stayer in a small field.,BOT FILE
+Frankie,Motazzen,WIN,2026-11-06 14:35:00,BACK,7.3,false,Fontwell,14:35,Jumps,7.65,reviewer BET flag,8.5,13.7,11.4,"Course-and-distance form (1-2-3 at Fontwell this autumn), fit after 16 days, best figure 21 lb above average.",BOT FILE
+Frankie,Kool Raoul,WIN,2026-11-06 14:45:00,BACK,3.44,false,Hexham,14:45,Jumps,3.62,CHECK verdict BET,3.75,24.0,23.4,Price 3.75 clears the 3.37 threshold; won C&D on Good 17 days ago for an in-form yard (6/37) with nothing specific against.,BOT FILE
+Frankie,Punxsutawney Phil,WIN,2026-11-06 14:45:00,BACK,21.16,false,Hexham,14:45,Jumps,23.0,reviewer BET flag,26.0,4.7,3.8,"Only habitual front-runner, may get an easy lead at a course where pace-setters outperform.",BOT FILE
+Frankie,Per Contra,WIN,2026-11-06 14:53:00,BACK,9.87,false,Newcastle (AW),14:53,Flat,8.0,reviewer BET flag,11.5,10.1,8.4,"Recent figures 19 lb above mark, finished strongly LTO, race-fit after 18 days",BOT FILE
+Frankie,Sovereign View,WIN,2026-11-06 14:53:00,BACK,13.39,false,Newcastle (AW),14:53,Flat,13.0,reviewer BET flag,15.0,7.5,6.1,"C&D profile, won last time and looks well handicapped",BOT FILE
+Frankie,Hold Your Fort,WIN,2026-11-06 15:35:00,BACK,32.53,false,Aintree,15:35,Jumps,34.0,reviewer BET flag,36.0,3.1,3.3,Front-runner likely to face a contested lead in a strongly run race.,BOT FILE
+Frankie,Printing Money,WIN,2026-11-06 16:00:00,BACK,5.8,false,Newcastle (AW),16:00,Flat,6.0,reviewer BET flag,7.4,17.2,13.6,"Only habitual front-runner, may get an uncontested lead",BOT FILE
+,Benedetti,,,,13.45,,Newcastle (AW),17:00,,,,15.5,,,,EXCLUDED - 3 unraced
+Frankie,Holbache,WIN,2026-11-06 17:30:00,BACK,46.84,false,Newcastle (AW),17:30,Flat,51.0,reviewer BET flag,85.0,2.1,1.3,"Lone habitual front-runner at 5f, may get an easy lead",BOT FILE
+Frankie,Oxford Circus,WIN,2026-11-06 18:00:00,BACK,3.8,false,Newcastle (AW),18:00,Flat,4.0,CHECK verdict BET,4.5,23.3,22.5,Last-time-out winner for a hot yard (16/57) with Hollie Doyle; 4.5 is above the 3.8 floor and fair against market,BOT FILE
+Frankie,Ana Emaraaty,WIN,2026-11-06 18:00:00,BACK,64.32,false,Newcastle (AW),18:00,Flat,26.0,reviewer BET flag,85.0,1.6,2.0,246-day absence and Goldie yard 0/21,BOT FILE
+Frankie,Palmezzano,WIN,2026-11-06 18:15:00,BACK,23.2,false,Dundalk (AW),18:15,Flat,19.0,reviewer BET flag,32.0,4.3,3.0,"Course-and-distance winner over 12f at Dundalk in February, with the highest official rating of 72 and the card's top-rated runner, though she was 9/9 last time.",BOT FILE
+,Naval Gazer,,,,9.69,,Dundalk (AW),19:15,,,,11.0,,,,EXCLUDED - 5 unraced

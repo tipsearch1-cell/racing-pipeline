@@ -1,0 +1,15 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-10-29,14:35,Punchestown,rac_32303284507,Wecouldavehaditall,hrs_17389790586,3.0,3.0,Bet Victor,2.88,"Betfred 3, William Hill 3",2026-10-29-Bet Victor-single,Single only (no partner leg),1,0.5,0.5
+2026-10-29,14:12,Bath,rac_32302701470,Spirit Lead Me,hrs_41814808,4.5,4.5,Betfred,4.5,William Hill 4.5,2026-10-29-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-29,14:35,Punchestown,rac_32303284507,Wecouldavehaditall,hrs_17389790586,3.0,3.0,Betfred,3.0,"Bet Victor 2.88, William Hill 3",2026-10-29-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-29,14:42,Bath,rac_32302703407,Albus Anne,hrs_25664877,5.0,4.5,Betfred,5.0,William Hill 5,2026-10-29-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-29,15:12,Bath,rac_32302705344,Pedros Dream,hrs_59186190,3.75,3.5,Betfred,3.75,,2026-10-29-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-29,16:05,Punchestown,rac_32303290318,Pocket Jacks,hrs_59025295,5.0,4.5,Betfred,5.0,William Hill 5,2026-10-29-Betfred-2,Trixie (3 doubles + treble),4,0.5,2.0
+2026-10-29,16:12,Bath,rac_32302709218,Legendsoftheland,hrs_40745929,6.0,5.5,Betfred,6.0,,2026-10-29-Betfred-2,Trixie (3 doubles + treble),4,0.5,2.0
+2026-10-29,19:00,Southwell (AW),rac_32302718903,Asuka,hrs_42912506,4.5,4.5,Betfred,4.5,William Hill 4.5,2026-10-29-Betfred-2,Trixie (3 doubles + treble),4,0.5,2.0
+2026-10-29,14:12,Bath,rac_32302701470,Spirit Lead Me,hrs_41814808,4.5,4.5,William Hill,4.5,Betfred 4.5,2026-10-29-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-29,14:35,Punchestown,rac_32303284507,Wecouldavehaditall,hrs_17389790586,3.0,3.0,William Hill,3.0,"Bet Victor 2.88, Betfred 3",2026-10-29-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-29,14:42,Bath,rac_32302703407,Albus Anne,hrs_25664877,5.0,4.5,William Hill,5.0,Betfred 5,2026-10-29-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-29,15:35,Punchestown,rac_32303288381,Tariff,hrs_57942115,3.75,3.5,William Hill,3.75,,2026-10-29-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-29,16:05,Punchestown,rac_32303290318,Pocket Jacks,hrs_59025295,5.0,4.5,William Hill,5.0,Betfred 5,2026-10-29-William Hill-2,Double,1,0.5,0.5
+2026-10-29,19:00,Southwell (AW),rac_32302718903,Asuka,hrs_42912506,4.5,4.5,William Hill,4.5,Betfred 4.5,2026-10-29-William Hill-2,Double,1,0.5,0.5

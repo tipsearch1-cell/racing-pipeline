@@ -1,0 +1,14 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-10-31,13:05,Newmarket,rac_32302982335,Beagle Bay,hrs_51557660,4.5,4.5,Bet Victor,4.5,"Betfred 4.5, William Hill 4.5",2026-10-31-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-10-31,15:23,Newmarket,rac_32302990083,Dancing Dunes,hrs_66619609,4.5,4.5,Bet Victor,4.5,"Betfred 4.5, William Hill 4.5",2026-10-31-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-10-31,15:58,Newmarket,rac_32302992020,George Wickham,hrs_55882337,7.0,7.0,Bet Victor,7.0,Betfred 7,2026-10-31-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-10-31,19:25,Southwell (AW),rac_32303003642,Hammer The Hammer,hrs_43003359,4.5,4.33,Bet Victor,4.33,"Betfred 4.33, William Hill 4.33",2026-10-31-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-10-31,13:05,Newmarket,rac_32302982335,Beagle Bay,hrs_51557660,4.5,4.5,Betfred,4.5,"Bet Victor 4.5, William Hill 4.5",2026-10-31-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-31,15:23,Newmarket,rac_32302990083,Dancing Dunes,hrs_66619609,4.5,4.5,Betfred,4.5,"Bet Victor 4.5, William Hill 4.5",2026-10-31-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-31,15:58,Newmarket,rac_32302992020,George Wickham,hrs_55882337,7.0,7.0,Betfred,7.0,Bet Victor 7,2026-10-31-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-31,19:25,Southwell (AW),rac_32303003642,Hammer The Hammer,hrs_43003359,4.5,4.33,Betfred,4.33,"Bet Victor 4.33, William Hill 4.33",2026-10-31-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-31,20:00,Southwell (AW),rac_32303005579,Guernsey Angel,hrs_54337367,4.5,4.5,Betfred,4.5,William Hill 4.5,2026-10-31-Betfred-single,Single only (no partner leg),1,0.5,0.5
+2026-10-31,13:05,Newmarket,rac_32302982335,Beagle Bay,hrs_51557660,4.5,4.5,William Hill,4.5,"Bet Victor 4.5, Betfred 4.5",2026-10-31-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-31,15:23,Newmarket,rac_32302990083,Dancing Dunes,hrs_66619609,4.5,4.5,William Hill,4.5,"Bet Victor 4.5, Betfred 4.5",2026-10-31-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-31,19:25,Southwell (AW),rac_32303003642,Hammer The Hammer,hrs_43003359,4.5,4.33,William Hill,4.33,"Bet Victor 4.33, Betfred 4.33",2026-10-31-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-31,20:00,Southwell (AW),rac_32303005579,Guernsey Angel,hrs_54337367,4.5,4.5,William Hill,4.5,Betfred 4.5,2026-10-31-William Hill-1,Lucky 15,15,0.5,7.5

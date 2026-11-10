@@ -1,0 +1,17 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian
+Frankie,Speculateur,WIN,2026-11-03 12:00:00,BACK,4.11,false,Fairyhouse,12:00,Jumps,4.33
+Frankie,Ceroc,WIN,2026-11-03 12:35:00,BACK,3.8,false,Fairyhouse,12:35,Jumps,4.0
+Frankie,Lucy The Wire,WIN,2026-11-03 14:03:00,BACK,4.79,false,Warwick,14:03,Jumps,4.33
+Frankie,Little Lady Lucy,WIN,2026-11-03 14:12:00,BACK,10.48,false,Lingfield,14:12,Jumps,12.0
+Frankie,Speisialta,WIN,2026-11-03 14:20:00,BACK,6.58,false,Fairyhouse,14:20,Jumps,7.0
+Frankie,Treaty Boy,WIN,2026-11-03 14:29:00,BACK,3.8,false,Sedgefield,14:29,Jumps,4.0
+Frankie,Reteti,WIN,2026-11-03 14:47:00,BACK,9.06,false,Lingfield,14:47,Jumps,9.0
+Frankie,Another Challenge,WIN,2026-11-03 14:55:00,BACK,3.56,false,Fairyhouse,14:55,Jumps,3.75
+Frankie,Market House,WIN,2026-11-03 15:22:00,BACK,6.28,false,Lingfield,15:22,Jumps,6.0
+Frankie,Curious Mrs Fox,WIN,2026-11-03 15:39:00,BACK,3.32,false,Sedgefield,15:39,Jumps,3.5
+Frankie,Slievehill,WIN,2026-11-03 15:39:00,BACK,14.79,false,Sedgefield,15:39,Jumps,15.0
+Frankie,Mersey Street,WIN,2026-11-03 15:57:00,BACK,12.65,false,Lingfield,15:57,Jumps,13.0
+Frankie,Superstorm,WIN,2026-11-03 16:30:00,BACK,19.5,false,Wolverhampton (AW),16:30,Flat,17.0
+Frankie,Politely,WIN,2026-11-03 19:00:00,BACK,3.32,false,Wolverhampton (AW),19:00,Flat,3.5
+Frankie,Evening Blues,WIN,2026-11-03 19:30:00,BACK,7.56,false,Wolverhampton (AW),19:30,Flat,8.5
+Frankie,Romantic Spirit,WIN,2026-11-03 20:30:00,BACK,13.44,false,Wolverhampton (AW),20:30,Flat,11.0

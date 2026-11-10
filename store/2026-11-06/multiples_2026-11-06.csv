@@ -1,0 +1,9 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-06,20:15,Dundalk (AW),rac_32303768757,Hooves Your Daddy,hrs_53328366,5.5,5.5,Bet Victor,5.5,"Betfred 5.5, William Hill 5.5",2026-11-06-Bet Victor-single,Single only (no partner leg),1,0.5,0.5
+2026-11-06,18:30,Newcastle (AW),rac_32304030252,Educating Rita,hrs_40919655,4.5,4.33,Betfred,4.33,William Hill 4.33,2026-11-06-Betfred-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-06,18:45,Dundalk (AW),rac_32303762946,Aviatrice,hrs_40745887,5.0,5.0,Betfred,5.0,William Hill 5,2026-11-06-Betfred-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-06,20:15,Dundalk (AW),rac_32303768757,Hooves Your Daddy,hrs_53328366,5.5,5.5,Betfred,5.5,"Bet Victor 5.5, William Hill 5.5",2026-11-06-Betfred-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-06,16:00,Newcastle (AW),rac_32303695151,Admiral Leach,hrs_62168820,5.5,5.0,William Hill,5.5,,2026-11-06-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-06,18:30,Newcastle (AW),rac_32304030252,Educating Rita,hrs_40919655,4.5,4.33,William Hill,4.33,Betfred 4.33,2026-11-06-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-06,18:45,Dundalk (AW),rac_32303762946,Aviatrice,hrs_40745887,5.0,5.0,William Hill,5.0,Betfred 5,2026-11-06-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-06,20:15,Dundalk (AW),rac_32303768757,Hooves Your Daddy,hrs_53328366,5.5,5.5,William Hill,5.5,"Bet Victor 5.5, Betfred 5.5",2026-11-06-William Hill-1,Lucky 15,15,0.5,7.5

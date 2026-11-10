@@ -1,0 +1,9 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-10-30,13:15,Newmarket,rac_32302825438,Fenlander,hrs_36235073,4.5,4.0,Bet Victor,4.33,,2026-10-30-Bet Victor-1,Double,1,0.5,0.5
+2026-10-30,16:05,Newmarket,rac_32302835123,Amused,hrs_48921838,4.0,4.0,Bet Victor,4.0,"Betfred 4, William Hill 4",2026-10-30-Bet Victor-1,Double,1,0.5,0.5
+2026-10-30,16:05,Newmarket,rac_32302835123,Amused,hrs_48921838,4.0,4.0,Betfred,4.0,"Bet Victor 4, William Hill 4",2026-10-30-Betfred-single,Single only (no partner leg),1,0.5,0.5
+2026-10-30,16:05,Newmarket,rac_32302835123,Amused,hrs_48921838,4.0,4.0,William Hill,4.0,"Bet Victor 4, Betfred 4",2026-10-30-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-30,18:00,Dundalk (AW),rac_32302941658,Jordan Breeze,hrs_53390176,3.25,3.0,William Hill,3.25,,2026-10-30-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-30,19:30,Dundalk (AW),rac_32302947469,Daler,hrs_42296870,5.0,4.5,William Hill,5.0,,2026-10-30-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-30,20:00,Dundalk (AW),rac_32302949406,Go Out,hrs_50282106,3.25,3.0,William Hill,3.25,,2026-10-30-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-30,20:20,Newcastle (AW),rac_32303292255,Cavallo Pazzo,hrs_30469544,3.25,3.0,William Hill,3.25,,2026-10-30-William Hill-single,Single only (no partner leg),1,0.5,0.5

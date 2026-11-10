@@ -1,0 +1,10 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian,Source,BestPrice9am,ReviewerChancePct,MarketChancePct,Reason,Status
+Frankie,Western Model,WIN,2026-11-09 12:00:00,BACK,5.22,false,Punchestown,12:00,Jumps,5.5,CHECK verdict BET,7.5,14.9,13.3,Prominent racer in a race where pace-pressers win 1.43x their share; OR 10 lb above field and finished strongly last time.,BOT FILE
+Frankie,Dubai Days,WIN,2026-11-09 12:50:00,BACK,7.14,false,Carlisle,12:50,Jumps,8.5,reviewer BET flag,8.5,14.0,11.3,"Our rating of 125 puts him second of three, ahead of Hello Judge, yet he is only 11.3% in the market.",BOT FILE
+,Mags Ocean,,,,50.76,,Stratford,13:10,,,,81.0,,,,EXCLUDED - 13/13 runners with no card data
+Frankie,Be Aware,WIN,2026-11-09 13:52:00,BACK,2.21,false,Carlisle,13:52,Jumps,2.38,reviewer BET flag,2.5,45.2,39.2,On official ratings he is 6 lb better off at the weights (147 for 158 lb against 137 for 154 lb) and tops our ratings.,BOT FILE
+,Locker Boum,,,,3.92,,Stratford,14:15,,,,5.0,,,,EXCLUDED - 6/6 runners with no card data
+Frankie,She Is For Me Boys,WIN,2026-11-09 14:50:00,BACK,4.85,false,Stratford,14:50,Jumps,5.0,reviewer BET flag,5.5,20.6,17.4,"Only habitual front-runner, may get an easy lead; Snowden yard in form 8/23.",BOT FILE
+Frankie,Harmony Heights,WIN,2026-11-09 15:02:00,BACK,7.16,false,Carlisle,15:02,Jumps,8.5,reviewer BET flag,9.0,14.0,10.6,Won last time; form figure 16 lb above the field average and finished strongly (+6.8%).,BOT FILE
+Frankie,Oh Clare,WIN,2026-11-09 15:02:00,BACK,6.2,false,Carlisle,15:02,Jumps,7.5,reviewer BET flag,8.0,16.1,12.0,Likely to get an uncontested lead at a course where pace-setters win more than their share; finished strongly last time.,BOT FILE
+Frankie,Apollon Forlonge,WIN,2026-11-09 15:55:00,BACK,2.85,false,Stratford,15:55,Jumps,3.0,CHECK verdict BET,3.25,28.2,27.7,Uncontested lead in a small field offsets the 260-day absence; 3.25 is above the 2.85 skip line.,BOT FILE

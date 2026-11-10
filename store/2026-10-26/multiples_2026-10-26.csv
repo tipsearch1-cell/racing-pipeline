@@ -1,0 +1,20 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-10-26,14:25,Redcar,rac_32302401235,Thunder Roar,hrs_26862346,4.0,4.0,Bet Victor,4.0,"Betfred 4, William Hill 4",2026-10-26-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-10-26,18:15,Kempton (AW),rac_32302370243,Liam Mera Kai,hrs_51186842,3.25,3.0,Bet Victor,3.25,,2026-10-26-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-10-26,18:45,Kempton (AW),rac_32302372180,Breathe Easy,hrs_50434265,5.0,4.5,Bet Victor,5.0,,2026-10-26-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-10-26,19:15,Kempton (AW),rac_32302374117,Brave Leader,hrs_57255660,5.0,4.5,Bet Victor,5.0,Betfred 5,2026-10-26-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-10-26,14:25,Redcar,rac_32302401235,Thunder Roar,hrs_26862346,4.0,4.0,Betfred,4.0,"Bet Victor 4, William Hill 4",2026-10-26-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-26,14:39,Leicester,rac_32302385739,Dinah Myte,hrs_53359586,5.0,5.0,Betfred,5.0,William Hill 5,2026-10-26-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-26,15:00,Redcar,rac_32302403172,Kiss Me My Love,hrs_41090882,4.5,4.0,Betfred,4.33,William Hill 4.33,2026-10-26-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-26,15:14,Leicester,rac_32302387676,Milteye,hrs_32638158,5.5,5.5,Betfred,5.5,William Hill 5.5,2026-10-26-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-26,19:15,Kempton (AW),rac_32302374117,Brave Leader,hrs_57255660,5.0,4.5,Betfred,5.0,Bet Victor 5,2026-10-26-Betfred-2,Double,1,0.5,0.5
+2026-10-26,19:30,Southwell (AW),rac_32302416731,Lady Roxby,hrs_42326606,4.5,4.33,Betfred,4.33,William Hill 4.33,2026-10-26-Betfred-2,Double,1,0.5,0.5
+2026-10-26,14:25,Redcar,rac_32302401235,Thunder Roar,hrs_26862346,4.0,4.0,William Hill,4.0,"Bet Victor 4, Betfred 4",2026-10-26-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-26,14:39,Leicester,rac_32302385739,Dinah Myte,hrs_53359586,5.0,5.0,William Hill,5.0,Betfred 5,2026-10-26-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-26,15:00,Redcar,rac_32302403172,Kiss Me My Love,hrs_41090882,4.5,4.0,William Hill,4.33,Betfred 4.33,2026-10-26-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-26,15:14,Leicester,rac_32302387676,Milteye,hrs_32638158,5.5,5.5,William Hill,5.5,Betfred 5.5,2026-10-26-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-26,16:30,Southwell (AW),rac_32302790572,Midnight Lir,hrs_35232029,3.75,3.5,William Hill,3.75,,2026-10-26-William Hill-2,Lucky 15,15,0.5,7.5
+2026-10-26,18:30,Southwell (AW),rac_32302412857,Sonbelievable,hrs_65451589,3.25,3.0,William Hill,3.25,,2026-10-26-William Hill-2,Lucky 15,15,0.5,7.5
+2026-10-26,19:30,Southwell (AW),rac_32302416731,Lady Roxby,hrs_42326606,4.5,4.33,William Hill,4.33,Betfred 4.33,2026-10-26-William Hill-2,Lucky 15,15,0.5,7.5
+2026-10-26,20:00,Southwell (AW),rac_32302418668,Riley Rocks,hrs_49141029,3.25,3.0,William Hill,3.25,,2026-10-26-William Hill-2,Lucky 15,15,0.5,7.5
+2026-10-26,20:30,Southwell (AW),rac_32302420605,Benvoy,hrs_37395106,3.25,3.0,William Hill,3.25,,2026-10-26-William Hill-single,Single only (no partner leg),1,0.5,0.5

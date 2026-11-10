@@ -1,0 +1,17 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian
+Frankie,Caragio,WIN,2026-10-31 11:20:00,BACK,8.06,false,Newmarket,11:20,Flat,8.0
+Frankie,Fort Rock,WIN,2026-10-31 13:05:00,BACK,10.46,false,Newmarket,13:05,Flat,9.25
+Frankie,Beagle Bay,WIN,2026-10-31 13:05:00,BACK,4.27,false,Newmarket,13:05,Flat,4.5
+Frankie,Bearin Up,WIN,2026-10-31 13:05:00,BACK,11.69,false,Newmarket,13:05,Flat,11.0
+Frankie,Merely A Detail,WIN,2026-10-31 13:25:00,BACK,7.98,false,Ascot,13:25,Jumps,9.0
+Frankie,Glengouly,WIN,2026-10-31 14:00:00,BACK,37.02,false,Ascot,14:00,Jumps,41.0
+Frankie,Dinoland,WIN,2026-10-31 14:38:00,BACK,4.75,false,Down Royal,14:38,Jumps,5.0
+Frankie,Riskintheground,WIN,2026-10-31 14:55:00,BACK,20.43,false,Wetherby,14:55,Jumps,29.0
+Frankie,Heart Wood,WIN,2026-10-31 15:15:00,BACK,3.56,false,Down Royal,15:15,Jumps,3.75
+Frankie,High Calibre,WIN,2026-10-31 15:23:00,BACK,6.35,false,Newmarket,15:23,Flat,7.5
+Frankie,Mic Drop,WIN,2026-10-31 15:50:00,BACK,61.38,false,Down Royal,15:50,Jumps,67.0
+Frankie,Distillate,WIN,2026-10-31 16:00:00,BACK,4.11,false,Southwell (AW),16:00,Flat,4.33
+Frankie,Upfordebate,WIN,2026-10-31 16:03:00,BACK,6.15,false,Wetherby,16:03,Jumps,7.0
+Frankie,Millbuie,WIN,2026-10-31 16:35:00,BACK,27.7,false,Southwell (AW),16:35,Flat,21.0
+Frankie,Portcullis,WIN,2026-10-31 18:15:00,BACK,3.09,false,Southwell (AW),18:15,Flat,3.25
+Frankie,Kind Touch,WIN,2026-10-31 19:25:00,BACK,7.73,false,Southwell (AW),19:25,Flat,5.5

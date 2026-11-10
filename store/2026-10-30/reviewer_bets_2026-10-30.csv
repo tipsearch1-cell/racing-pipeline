@@ -1,0 +1,12 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian
+Frankie,Dove Tale,WIN,2026-10-30 11:35:00,BACK,2.68,false,Newmarket,11:35,Flat,2.75
+Frankie,Florida Dreams,WIN,2026-10-30 13:20:00,BACK,4.17,false,Wetherby,13:20,Jumps,4.5
+Frankie,Kally des Bruyeres,WIN,2026-10-30 14:45:00,BACK,4.11,false,Uttoxeter,14:45,Jumps,4.33
+Frankie,Golspie,WIN,2026-10-30 16:15:00,BACK,4.82,false,Newcastle (AW),16:15,Flat,4.5
+Frankie,Ennoble,WIN,2026-10-30 17:45:00,BACK,4.27,false,Newcastle (AW),17:45,Flat,4.5
+Frankie,Try Storm Cat,WIN,2026-10-30 17:45:00,BACK,16.69,false,Newcastle (AW),17:45,Flat,17.5
+Frankie,Cosmos Raj,WIN,2026-10-30 18:45:00,BACK,10.94,false,Newcastle (AW),18:45,Flat,7.0
+Frankie,Massimo Blue,WIN,2026-10-30 19:15:00,BACK,3.09,false,Newcastle (AW),19:15,Flat,3.25
+Frankie,Daler,WIN,2026-10-30 19:30:00,BACK,4.27,false,Dundalk (AW),19:30,Flat,4.5
+Frankie,Go Out,WIN,2026-10-30 20:00:00,BACK,2.85,false,Dundalk (AW),20:00,Flat,3.0
+Frankie,Pallas Lord,WIN,2026-10-30 20:20:00,BACK,19.66,false,Newcastle (AW),20:20,Flat,17.0

@@ -1,0 +1,18 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-05,14:20,Southwell (AW),rac_32303588616,Fletcher's Flight,hrs_36921388,4.5,4.5,Betfred,4.5,William Hill 4.5,2026-11-05-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-05,14:53,Southwell (AW),rac_32303590553,John T,hrs_47869108,4.5,4.5,Betfred,4.33,William Hill 4.5,2026-11-05-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-05,15:05,Chelmsford (AW),rac_32303538254,Whiskey Galore,hrs_66234987,4.5,4.33,Betfred,4.33,William Hill 4.5,2026-11-05-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-05,16:15,Chelmsford (AW),rac_32303542128,Havana Touch,hrs_35938462,4.33,4.17,Betfred,4.33,William Hill 4.33,2026-11-05-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-05,16:30,Southwell (AW),rac_32303596364,Lady Mariko,hrs_47098863,4.2,4.0,Betfred,4.0,William Hill 4,2026-11-05-Betfred-2,Lucky 15,15,0.5,7.5
+2026-11-05,17:00,Southwell (AW),rac_32303598301,North Star Kodi,hrs_64555687,4.5,4.33,Betfred,4.33,William Hill 4.33,2026-11-05-Betfred-2,Lucky 15,15,0.5,7.5
+2026-11-05,18:15,Chelmsford (AW),rac_32303549876,Far Too Fizzy,hrs_52054849,6.5,6.0,Betfred,6.5,William Hill 6.5,2026-11-05-Betfred-2,Lucky 15,15,0.5,7.5
+2026-11-05,18:30,Southwell (AW),rac_32303602175,Prince of Pillo,hrs_30765133,3.75,3.75,Betfred,3.75,William Hill 3.75,2026-11-05-Betfred-2,Lucky 15,15,0.5,7.5
+2026-11-05,14:20,Southwell (AW),rac_32303588616,Fletcher's Flight,hrs_36921388,4.5,4.5,William Hill,4.5,Betfred 4.5,2026-11-05-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-05,14:53,Southwell (AW),rac_32303590553,John T,hrs_47869108,4.5,4.5,William Hill,4.5,Betfred 4.33,2026-11-05-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-05,15:05,Chelmsford (AW),rac_32303538254,Whiskey Galore,hrs_66234987,4.5,4.33,William Hill,4.5,Betfred 4.33,2026-11-05-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-05,15:28,Southwell (AW),rac_32303592490,Dovey Moon,hrs_45791914,3.75,3.62,William Hill,3.75,,2026-11-05-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-05,16:15,Chelmsford (AW),rac_32303542128,Havana Touch,hrs_35938462,4.33,4.17,William Hill,4.33,Betfred 4.33,2026-11-05-William Hill-2,Lucky 15,15,0.5,7.5
+2026-11-05,16:30,Southwell (AW),rac_32303596364,Lady Mariko,hrs_47098863,4.2,4.0,William Hill,4.0,Betfred 4,2026-11-05-William Hill-2,Lucky 15,15,0.5,7.5
+2026-11-05,17:00,Southwell (AW),rac_32303598301,North Star Kodi,hrs_64555687,4.5,4.33,William Hill,4.33,Betfred 4.33,2026-11-05-William Hill-2,Lucky 15,15,0.5,7.5
+2026-11-05,18:15,Chelmsford (AW),rac_32303549876,Far Too Fizzy,hrs_52054849,6.5,6.0,William Hill,6.5,Betfred 6.5,2026-11-05-William Hill-2,Lucky 15,15,0.5,7.5
+2026-11-05,18:30,Southwell (AW),rac_32303602175,Prince of Pillo,hrs_30765133,3.75,3.75,William Hill,3.75,Betfred 3.75,2026-11-05-William Hill-single,Single only (no partner leg),1,0.5,0.5

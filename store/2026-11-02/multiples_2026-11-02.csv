@@ -1,0 +1,13 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-02,17:15,Chelmsford (AW),rac_32303158602,Gemmari,hrs_45475591,3.5,3.38,Betfred,3.5,,2026-11-02-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-02,17:30,Wolverhampton (AW),rac_32303199279,Chalk Mountain,hrs_31631355,4.5,4.33,Betfred,4.33,William Hill 4.5,2026-11-02-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-02,19:15,Chelmsford (AW),rac_32303166350,Inside Story,hrs_52742116,3.75,3.75,Betfred,3.75,William Hill 3.75,2026-11-02-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-02,19:30,Wolverhampton (AW),rac_32303207027,Sovereign Bay,hrs_61307162,3.75,3.62,Betfred,3.75,William Hill 3.75,2026-11-02-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-02,19:45,Chelmsford (AW),rac_32303168287,Intervention,hrs_20260646,3.75,3.75,Betfred,3.75,William Hill 3.75,2026-11-02-Betfred-2,Double,1,0.5,0.5
+2026-11-02,20:15,Chelmsford (AW),rac_32303170224,Metallo,hrs_34471017,3.25,3.13,Betfred,3.25,William Hill 3.25,2026-11-02-Betfred-2,Double,1,0.5,0.5
+2026-11-02,16:45,Chelmsford (AW),rac_32303156665,Startling,hrs_41014057,4.0,3.75,William Hill,4.0,,2026-11-02-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-02,17:30,Wolverhampton (AW),rac_32303199279,Chalk Mountain,hrs_31631355,4.5,4.33,William Hill,4.5,Betfred 4.33,2026-11-02-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-02,19:15,Chelmsford (AW),rac_32303166350,Inside Story,hrs_52742116,3.75,3.75,William Hill,3.75,Betfred 3.75,2026-11-02-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-02,19:30,Wolverhampton (AW),rac_32303207027,Sovereign Bay,hrs_61307162,3.75,3.62,William Hill,3.75,Betfred 3.75,2026-11-02-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-02,19:45,Chelmsford (AW),rac_32303168287,Intervention,hrs_20260646,3.75,3.75,William Hill,3.75,Betfred 3.75,2026-11-02-William Hill-2,Double,1,0.5,0.5
+2026-11-02,20:15,Chelmsford (AW),rac_32303170224,Metallo,hrs_34471017,3.25,3.13,William Hill,3.25,Betfred 3.25,2026-11-02-William Hill-2,Double,1,0.5,0.5

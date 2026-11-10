@@ -1,0 +1,13 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-07,14:10,Doncaster,rac_32303790064,Coul Angel,hrs_42944041,4.5,4.35,Bet Victor,4.33,William Hill 4.33,2026-11-07-Bet Victor-1,Double,1,0.5,0.5
+2026-11-07,15:55,Doncaster,rac_32303795875,Flash Harry,hrs_41346501,7.0,7.0,Bet Victor,7.0,"Betfred 7, William Hill 7",2026-11-07-Bet Victor-1,Double,1,0.5,0.5
+2026-11-07,14:05,Southwell (AW),rac_32303797812,Titainium,hrs_41130194,4.0,3.75,Betfred,4.0,William Hill 4,2026-11-07-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-07,14:40,Southwell (AW),rac_32303799749,Highland Ranger,hrs_17395118230,4.5,4.17,Betfred,4.33,William Hill 4.33,2026-11-07-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-07,15:55,Doncaster,rac_32303795875,Flash Harry,hrs_41346501,7.0,7.0,Betfred,7.0,"Bet Victor 7, William Hill 7",2026-11-07-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-07,18:30,Southwell (AW),rac_32303840426,Fram Castle,hrs_38089177,3.75,3.5,Betfred,3.75,William Hill 3.75,2026-11-07-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-07,14:05,Southwell (AW),rac_32303797812,Titainium,hrs_41130194,4.0,3.75,William Hill,4.0,Betfred 4,2026-11-07-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-07,14:10,Doncaster,rac_32303790064,Coul Angel,hrs_42944041,4.5,4.35,William Hill,4.33,Bet Victor 4.33,2026-11-07-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-07,14:40,Southwell (AW),rac_32303799749,Highland Ranger,hrs_17395118230,4.5,4.17,William Hill,4.33,Betfred 4.33,2026-11-07-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-07,15:55,Doncaster,rac_32303795875,Flash Harry,hrs_41346501,7.0,7.0,William Hill,7.0,"Bet Victor 7, Betfred 7",2026-11-07-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-07,16:25,Southwell (AW),rac_32303832678,Blackjack,hrs_27794781,4.0,3.75,William Hill,4.0,,2026-11-07-William Hill-2,Double,1,0.5,0.5
+2026-11-07,18:30,Southwell (AW),rac_32303840426,Fram Castle,hrs_38089177,3.75,3.5,William Hill,3.75,Betfred 3.75,2026-11-07-William Hill-2,Double,1,0.5,0.5

@@ -1,0 +1,18 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian,Source,BestPrice9am,ReviewerChancePct,MarketChancePct,Reason,Status
+,S T Hamo,,,,5.05,,Clonmel,13:25,,,,6.0,,,,EXCLUDED - 1 unraced
+Frankie,William Yeats,WIN,2026-11-05 13:34:00,BACK,4.27,false,Newcastle,13:34,Jumps,4.5,CHECK verdict BET,5.5,22.1,19.9,"Only habitual front-runner, likely uncontested lead on a track where pace-pressers win 1.29x their share; finished strongly last time.",BOT FILE
+Frankie,Jenson Benson,WIN,2026-11-05 13:57:00,BACK,7.87,false,Chelmsford (AW),13:57,Flat,7.0,reviewer BET flag,9.0,12.7,10.3,"C&D, form 2-1-2 recently and a likely leader in an even gallop; rated well handicapped (9 lb above mark).",BOT FILE
+Frankie,Hopeful Hero,WIN,2026-11-05 14:00:00,BACK,3.56,false,Clonmel,14:00,Jumps,3.75,CHECK verdict BET,3.75,23.7,23.5,"Best price 3.75 is above the 3.56 cut-off, he won over 23f here last month and has finished in the first five in five of his last six.",BOT FILE
+Frankie,Fletcher's Flight,WIN,2026-11-05 14:20:00,BACK,4.27,false,Southwell (AW),14:20,Flat,4.5,CHECK verdict BET,5.1,20.2,20.2,Likely leader from stall 2 over 5f where front-runners win 1.3x their share; 5.1 is above the 4.27 floor and slightly above market fair price,BOT FILE
+Frankie,Optician,WIN,2026-11-05 14:53:00,BACK,8.81,false,Southwell (AW),14:53,Flat,9.0,reviewer BET flag,10.0,11.3,9.4,"Only habitual front-runner, may get an uncontested lead; won over C&D last time and yard 4/16 in 14 days",BOT FILE
+Frankie,Chaise Longue,WIN,2026-11-05 15:05:00,BACK,4.25,false,Chelmsford (AW),15:05,Flat,4.75,reviewer BET flag,6.0,23.6,20.2,"Last-time winner on an upward curve, hold-up style suited by the expected contested lead.",BOT FILE
+Frankie,Dovey Moon,WIN,2026-11-05 15:28:00,BACK,3.44,false,Southwell (AW),15:28,Flat,3.62,CHECK verdict BET,3.9,25.6,25.4,"Runner-up over C&D 7 days ago, figures 15 lb above mark; 3.9 is above the 3.44 floor",BOT FILE
+Frankie,Charging Thunder,WIN,2026-11-05 15:40:00,BACK,3.38,false,Chelmsford (AW),15:40,Flat,3.5,reviewer BET flag,3.75,29.6,26.2,"Won over C&D (Chelmsford) 3 days ago, progressive 4-3-2-1 and yard in strong form (15/57).",BOT FILE
+Frankie,Stily,WIN,2026-11-05 15:45:00,BACK,5.22,false,Clonmel,15:45,Jumps,5.5,CHECK verdict BET,6.0,13.3,12.9,"Best price 6.0 is above the 5.22 cut-off; he is improving (6-4-3), was third over course and distance last time and is well treated on 145 lb, though the yard is cold.",BOT FILE
+,Hubris,,,,13.33,,Newcastle,15:50,,,,15.0,,,,EXCLUDED - 6 unraced
+,That Guy,,,,3.09,,Newcastle,15:50,,,,3.4,,,,EXCLUDED - 6 unraced
+Frankie,Havana Touch,WIN,2026-11-05 16:15:00,BACK,3.96,false,Chelmsford (AW),16:15,Flat,4.17,CHECK verdict BET,4.5,22.6,21.9,"Last-time winner with C&D flags, model agrees with market (~22%) and 4.5 is above the 3.96 threshold.",BOT FILE
+,Red Seagull,,,,2.85,,Clonmel,16:20,,,,3.25,,,,EXCLUDED - 2 unraced
+Frankie,National Pride,WIN,2026-11-05 17:15:00,BACK,2.85,false,Chelmsford (AW),17:15,Flat,3.0,CHECK verdict BET,3.35,30.8,29.3,"Top-rated, fit, consistent at the trip and Haggas yard in form (7/47); 3.35 is above the 2.85 threshold.",BOT FILE
+Frankie,Fuseboard,WIN,2026-11-05 18:15:00,BACK,7.22,false,Chelmsford (AW),18:15,Flat,6.5,reviewer BET flag,8.4,13.9,12.0,Lone front-runner likely to get an easy lead; won last two starts.,BOT FILE
+Frankie,Curious Rover,WIN,2026-11-05 18:30:00,BACK,7.95,false,Southwell (AW),18:30,Flat,8.0,reviewer BET flag,9.0,12.6,10.1,"Only habitual front-runner, may get an uncontested lead from stall 1; front-runners win 1.2x share at 6f here",BOT FILE

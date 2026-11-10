@@ -1,0 +1,26 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-04,12:45,Nottingham,rac_32303456900,Maharajas Express,hrs_29228773,4.2,4.0,Bet Victor,4.0,"Betfred 4, William Hill 4",2026-11-04-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-11-04,14:25,Kempton (AW),rac_32303439467,Mythical Composer,hrs_39962615,4.2,4.0,Bet Victor,4.0,Betfred 4,2026-11-04-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-11-04,14:53,Nottingham,rac_32303462711,Borjina,hrs_57103368,4.5,4.5,Bet Victor,4.5,"Betfred 4.5, William Hill 4.5",2026-11-04-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-11-04,15:00,Kempton (AW),rac_32303441404,Palliser,hrs_17391035928,4.5,4.0,Bet Victor,4.33,,2026-11-04-Bet Victor-1,Lucky 15,15,0.5,7.5
+2026-11-04,15:23,Nottingham,rac_32303464648,Venetian Lion,hrs_56844109,3.25,3.0,Bet Victor,3.13,,2026-11-04-Bet Victor-2,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-04,15:30,Kempton (AW),rac_32303871418,Valentia Light,hrs_17394019951,3.5,3.25,Bet Victor,3.5,,2026-11-04-Bet Victor-2,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-04,18:00,Kempton (AW),rac_32303451089,Freddie's Star,hrs_56370664,4.2,4.0,Bet Victor,4.0,Betfred 4,2026-11-04-Bet Victor-2,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-04,12:45,Nottingham,rac_32303456900,Maharajas Express,hrs_29228773,4.2,4.0,Betfred,4.0,"Bet Victor 4, William Hill 4",2026-11-04-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-04,14:15,Musselburgh,rac_32303431719,Rich Belief,hrs_18705463,4.5,4.33,Betfred,4.33,William Hill 4.33,2026-11-04-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-04,14:25,Kempton (AW),rac_32303439467,Mythical Composer,hrs_39962615,4.2,4.0,Betfred,4.0,Bet Victor 4,2026-11-04-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-04,14:45,Musselburgh,rac_32303433656,Empirestateofmind,hrs_22413538,4.5,4.33,Betfred,4.33,William Hill 4.5,2026-11-04-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-04,14:53,Nottingham,rac_32303462711,Borjina,hrs_57103368,4.5,4.5,Betfred,4.5,"Bet Victor 4.5, William Hill 4.5",2026-11-04-Betfred-2,Lucky 15,15,0.5,7.5
+2026-11-04,15:55,Nottingham,rac_32303466585,Rogers Dream,hrs_41596940,6.0,5.5,Betfred,6.0,William Hill 6,2026-11-04-Betfred-2,Lucky 15,15,0.5,7.5
+2026-11-04,18:00,Kempton (AW),rac_32303451089,Freddie's Star,hrs_56370664,4.2,4.0,Betfred,4.0,Bet Victor 4,2026-11-04-Betfred-2,Lucky 15,15,0.5,7.5
+2026-11-04,18:30,Kempton (AW),rac_32303453026,Ataturk,hrs_53389994,3.6,3.25,Betfred,3.5,,2026-11-04-Betfred-2,Lucky 15,15,0.5,7.5
+2026-11-04,18:45,Dundalk (AW),rac_32303408475,Iff In Doubt,hrs_55633823,4.5,4.33,Betfred,4.33,,2026-11-04-Betfred-3,Double,1,0.5,0.5
+2026-11-04,19:15,Dundalk (AW),rac_32303410412,The Rock Factor,hrs_60343458,6.0,5.5,Betfred,6.0,William Hill 6,2026-11-04-Betfred-3,Double,1,0.5,0.5
+2026-11-04,12:45,Nottingham,rac_32303456900,Maharajas Express,hrs_29228773,4.2,4.0,William Hill,4.0,"Bet Victor 4, Betfred 4",2026-11-04-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-04,13:42,Musselburgh,rac_32303429782,Gemini Man,hrs_22523781,4.33,4.0,William Hill,4.33,,2026-11-04-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-04,14:15,Musselburgh,rac_32303431719,Rich Belief,hrs_18705463,4.5,4.33,William Hill,4.33,Betfred 4.33,2026-11-04-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-04,14:45,Musselburgh,rac_32303433656,Empirestateofmind,hrs_22413538,4.5,4.33,William Hill,4.5,Betfred 4.33,2026-11-04-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-04,14:53,Nottingham,rac_32303462711,Borjina,hrs_57103368,4.5,4.5,William Hill,4.5,"Bet Victor 4.5, Betfred 4.5",2026-11-04-William Hill-2,Lucky 15,15,0.5,7.5
+2026-11-04,15:50,Musselburgh,rac_32303437530,Vince Le Prince,hrs_30123793,4.5,4.0,William Hill,4.5,,2026-11-04-William Hill-2,Lucky 15,15,0.5,7.5
+2026-11-04,15:55,Nottingham,rac_32303466585,Rogers Dream,hrs_41596940,6.0,5.5,William Hill,6.0,Betfred 6,2026-11-04-William Hill-2,Lucky 15,15,0.5,7.5
+2026-11-04,19:15,Dundalk (AW),rac_32303410412,The Rock Factor,hrs_60343458,6.0,5.5,William Hill,6.0,Betfred 6,2026-11-04-William Hill-2,Lucky 15,15,0.5,7.5

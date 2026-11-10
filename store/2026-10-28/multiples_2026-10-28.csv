@@ -1,0 +1,13 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-10-28,12:46,Nottingham,rac_32302654982,Wolf's Gallop,hrs_64744596,4.33,4.27,Bet Victor,4.33,"Betfred 4.33, William Hill 4.33",2026-10-28-Bet Victor-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-10-28,15:16,Nottingham,rac_32302664667,Gaspacho,hrs_56437850,4.2,4.0,Bet Victor,4.0,"Betfred 4, William Hill 4",2026-10-28-Bet Victor-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-10-28,16:15,Kempton (AW),rac_32302625927,Insuspense,hrs_45950660,3.5,3.25,Bet Victor,3.5,,2026-10-28-Bet Victor-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-10-28,12:46,Nottingham,rac_32302654982,Wolf's Gallop,hrs_64744596,4.33,4.27,Betfred,4.33,"Bet Victor 4.33, William Hill 4.33",2026-10-28-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-28,15:16,Nottingham,rac_32302664667,Gaspacho,hrs_56437850,4.2,4.0,Betfred,4.0,"Bet Victor 4, William Hill 4",2026-10-28-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-28,16:30,Dundalk (AW),rac_32302606557,Una Matata,hrs_37701258,4.33,4.33,Betfred,4.33,William Hill 4.33,2026-10-28-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-28,17:30,Dundalk (AW),rac_32302610431,Enchanted Lady,hrs_64073009,4.5,4.33,Betfred,4.5,William Hill 4.33,2026-10-28-Betfred-1,Lucky 15,15,0.5,7.5
+2026-10-28,12:46,Nottingham,rac_32302654982,Wolf's Gallop,hrs_64744596,4.33,4.27,William Hill,4.33,"Bet Victor 4.33, Betfred 4.33",2026-10-28-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-28,14:30,Dundalk (AW),rac_32302598809,Coasting,hrs_63551180,4.0,3.75,William Hill,4.0,,2026-10-28-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-28,15:16,Nottingham,rac_32302664667,Gaspacho,hrs_56437850,4.2,4.0,William Hill,4.0,"Bet Victor 4, Betfred 4",2026-10-28-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-28,16:30,Dundalk (AW),rac_32302606557,Una Matata,hrs_37701258,4.33,4.33,William Hill,4.33,Betfred 4.33,2026-10-28-William Hill-1,Lucky 15,15,0.5,7.5
+2026-10-28,17:30,Dundalk (AW),rac_32302610431,Enchanted Lady,hrs_64073009,4.5,4.33,William Hill,4.33,Betfred 4.5,2026-10-28-William Hill-single,Single only (no partner leg),1,0.5,0.5

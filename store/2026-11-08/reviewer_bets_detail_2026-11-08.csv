@@ -1,0 +1,8 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian,Source,BestPrice9am,ReviewerChancePct,MarketChancePct,Reason,Status
+Frankie,Bowmore,WIN,2026-11-08 12:40:00,BACK,3.32,false,Sandown,12:40,Jumps,3.5,CHECK verdict BET,3.75,26.2,24.5,Trainer in strong form (6/14 last 14 days) outweighs 168-day absence.,BOT FILE
+Frankie,Karoline Banbou,WIN,2026-11-08 13:40:00,BACK,22.89,false,Sandown,13:40,Jumps,29.0,reviewer BET flag,34.0,4.4,3.3,Held-up style should benefit from the contested lead.,BOT FILE
+Frankie,Clondaw Royale,WIN,2026-11-08 13:52:00,BACK,17.04,false,Ffos Las,13:52,Jumps,19.0,reviewer BET flag,23.0,5.9,4.6,"Fit after 18 days and the only habitual front-runner, may get an uncontested lead.",BOT FILE
+Frankie,Jaminska,WIN,2026-11-08 14:15:00,BACK,3.56,false,Sandown,14:15,Jumps,3.75,CHECK verdict BET,4.0,24.0,22.2,Best price 4.0 is above the 3.56 skip line and beats the 22% market chance; only one rival leader so pace is even.,BOT FILE
+Frankie,Bound For Glory,WIN,2026-11-08 14:27:00,BACK,5.85,false,Ffos Las,14:27,Jumps,6.5,reviewer BET flag,7.0,17.1,13.1,"Fit after 28 days, placed in 4 of last 6, has run over trip and going and finished strongly last time.",BOT FILE
+,Little Patience,,,,2.85,,Ffos Las,15:02,,,,3.4,,,,EXCLUDED - 3 unraced
+Frankie,Parnell Street,WIN,2026-11-08 15:13:00,BACK,80.44,false,Naas,15:13,Jumps,51.0,reviewer BET flag,91.0,1.2,1.5,"Cold yard (1/20), 245 days off, and likely taken on for the lead.",BOT FILE
