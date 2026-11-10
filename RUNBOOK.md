@@ -3,7 +3,11 @@
 Repo: github.com/tipsearch1-cell/racing-pipeline (private). Work in /home/claude/racing-pipeline.
 If that folder is missing (workspace reclaimed): add_repo tipsearch1-cell/racing-pipeline with push access, clone it there
 (`git clone --depth 1 https://github.com/tipsearch1-cell/racing-pipeline /home/claude/racing-pipeline`, 10-min timeout), register it.
-Everything needed for the daily chain is in the repo. raw/ (RBD, RaceIQ, odds zips) is only for model work; it is not in git.
+Everything needed for the daily chain is in the repo. raw/ (RBD, RaceIQ, RaceData, odds) is NOT in the main branch: it lives on the
+`raw-data` branch (archives + daily files the VPS pushes to daily/raceiq/YYYY-MM-DD/ and daily/racedata/YYYY-MM-DD/).
+`bash tools/restore_raw.sh` (re)builds raw/ from it - run it at the start of EVERY build (it also pulls the newest daily files).
+Size rules: report/race-reports.html and data/raceiq_runs.csv.gz are rebuilt, never committed; history is stored as monthly
+files in data/history/ (only changed months are rewritten). Never commit files > 50 MB to main.
 
 ## Hard rules
 - Read-only data use; nobody places bets but the user. Racing API only through the MCP tools.
@@ -23,7 +27,8 @@ Everything needed for the daily chain is in the repo. raw/ (RBD, RaceIQ, odds zi
 1. Settle yesterday (if not done in the evening): get_results YESTERDAY gb,ire detailed limit 50 (skip 50 if total > 50);
    `python3 pipeline/save_res.py YESTERDAY <saved file(s)>`; `python3 pipeline/card_review.py settle YESTERDAY`.
    BSP often arrives 10:00-12:00 UK or a day late: re-save only when complete (the 12:00 check retries).
-1b. History + models: new RaceIQ exports -> unzip under raw/raceiq/ and `python3 pipeline/raceiq.py` (finishing speed, data/raceiq_runs.csv.gz); `python3 pipeline/history.py build <yesterday's saved results file(s) from step 1>` (adds yesterday's runs to
+0. `bash tools/restore_raw.sh`. It prints the latest RaceIQ / RaceData daily push: if yesterday's is missing, say so in the morning message.
+1b. History + models: `python3 pipeline/raceiq.py` (finishing speed from all RaceIQ files in raw/); `python3 pipeline/history.py build <yesterday's saved results file(s) from step 1>` (adds yesterday's runs to
    data/history_runs.csv.gz); after step 2, `python3 pipeline/models.py run DAY` (win model, run styles, shape, pros/cons, h2h ->
    store/DAY/model.json). Retrain only by a dated prereg amendment (prereg/MODEL_REBUILD_2026-11-10.md).
 2. Card: get_racecards_pro DAY gb,ire detailed limit 50 (skip 50 if total > 50);

@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import p  # noqa: E402
 from history import norm  # noqa: E402
 
-OUT = p("data", "raceiq_runs.csv.gz")
+OUT = p("data", "raceiq_runs.csv.gz")  # rebuilt from raw/ each morning; not committed
 
 
 def build():

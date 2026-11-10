@@ -6,3 +6,5 @@ __pycache__/
 out/for_vps/
 backups/
 *.log
+report/race-reports.html
+data/raceiq_runs.csv.gz

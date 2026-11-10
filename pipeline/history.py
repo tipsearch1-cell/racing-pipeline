@@ -12,7 +12,28 @@ import pandas as pd
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import p  # noqa: E402
 
-OUT = p("data", "history_runs.csv.gz")
+OUT = p("data", "history")  # one gzip per month: runs_YYYY-MM.csv.gz (only changed months get rewritten)
+GZ = {"method": "gzip", "mtime": 0}  # deterministic bytes: an unchanged month is not a new git version
+
+
+def read_all():
+    fs = sorted(glob.glob(os.path.join(OUT, "runs_*.csv.gz")))
+    return pd.concat([pd.read_csv(f, low_memory=False) for f in fs], ignore_index=True) if fs else None
+
+
+def write_months(d):
+    os.makedirs(OUT, exist_ok=True)
+    changed = 0
+    for m, g in d.groupby(d.date.astype(str).str[:7]):
+        f = os.path.join(OUT, f"runs_{m}.csv.gz")
+        tmp = f + ".tmp"
+        g.to_csv(tmp, index=False, compression=GZ)
+        if os.path.exists(f) and open(f, "rb").read() == open(tmp, "rb").read():
+            os.remove(tmp)
+        else:
+            os.replace(tmp, f)
+            changed += 1
+    return changed
 
 
 def norm(name):
@@ -52,8 +73,14 @@ def code_from_type(t):
     return "Flat"
 
 
-def from_racedata():
-    fs = sorted(glob.glob(p("raw", "racedata", "files", ".openclaw", "**", "*.csv"), recursive=True))
+def from_racedata_daily():
+    """RaceData results files pushed daily by the VPS (raw/racedata/daily/, restored from the raw-data branch)."""
+    fs = sorted(glob.glob(p("raw", "racedata", "daily", "**", "*.csv*"), recursive=True))
+    return from_racedata(fs) if fs else None
+
+
+def from_racedata(fs=None):
+    fs = fs or sorted(glob.glob(p("raw", "racedata", "files", ".openclaw", "**", "*.csv"), recursive=True))
     keep = {"Date": "date", "Time": "time", "Course": "course", "Race type": "rtype", "Going": "going", "Class": "cls",
             "Distance (in miles, yards, furlongs)": "dist", "Runners": "n", "Horse": "horse", "Finish Position": "pos",
             "Weight (pounds)": "lbs", "OR Rating": "or", "SP": "sp", "Betfair SP": "bsp", "Dynamic speed rating": "spd",
@@ -109,16 +136,18 @@ def from_api(files):
 
 def build(files):
     api = from_api(files)
-    if os.path.exists(OUT):
-        old = pd.read_csv(OUT, low_memory=False)
-    else:
+    old = read_all()
+    if old is None:
         old = from_racedata()
+    rd_new = from_racedata_daily()
+    if rd_new is not None:
+        old = pd.concat([old, rd_new], ignore_index=True)
     d = pd.concat([old, api], ignore_index=True)
     d["dkey"] = d.date.astype(str) + "|" + d.course.map(course_key) + "|" + d.hkey.astype(str)
     d = d.sort_values("src").drop_duplicates("dkey", keep="first").drop(columns="dkey")  # api beats rd on overlap
-    d = d.sort_values(["date", "race_key"])
-    d.to_csv(OUT, index=False, compression="gzip")
-    print(f"history: {len(d)} runs, {d.race_key.nunique()} races, {d.date.min()} to {d.date.max()}; "
+    d = d.sort_values(["date", "race_key", "hkey", "src"], kind="mergesort").reset_index(drop=True)
+    ch = write_months(d)
+    print(f"history ({ch} month file(s) changed): {len(d)} runs, {d.race_key.nunique()} races, {d.date.min()} to {d.date.max()}; "
           f"api runs {int((d.src == 'api').sum())}, racedata runs {int((d.src == 'rd').sum())}")
 
 
@@ -126,7 +155,7 @@ NR_RE = r"(?i)^(non.?runner|nr|withdrawn|w/?d|void|res.*)$"
 
 
 def load():
-    d = pd.read_csv(OUT, low_memory=False)
+    d = read_all()
     pos = d.pos.astype(str).str.strip()
     d = d[~pos.str.match(NR_RE) & ~pos.isin(["-", "", "nan", "Result Awaiting"])].copy()
     d["pos"] = d.pos.astype(str).str.strip().replace(LONG_POS)
