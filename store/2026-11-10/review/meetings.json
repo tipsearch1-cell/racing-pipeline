@@ -1,0 +1,30 @@
+{
+ "fairyhouse": {
+  "course": "Fairyhouse",
+  "in": "/home/claude/racing-pipeline/store/2026-11-10/review/in_fairyhouse.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-10/review/out_fairyhouse.json",
+  "races": 8,
+  "checks": 2
+ },
+ "huntingdon": {
+  "course": "Huntingdon",
+  "in": "/home/claude/racing-pipeline/store/2026-11-10/review/in_huntingdon.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-10/review/out_huntingdon.json",
+  "races": 6,
+  "checks": 2
+ },
+ "lingfield_aw": {
+  "course": "Lingfield (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-10/review/in_lingfield_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-10/review/out_lingfield_aw.json",
+  "races": 1,
+  "checks": 0
+ },
+ "lingfield": {
+  "course": "Lingfield",
+  "in": "/home/claude/racing-pipeline/store/2026-11-10/review/in_lingfield.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-10/review/out_lingfield.json",
+  "races": 5,
+  "checks": 1
+ }
+}

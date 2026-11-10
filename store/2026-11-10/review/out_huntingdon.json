@@ -1,0 +1,41 @@
+{"meeting": "huntingdon", "races": [
+  {"race_id": "rac_32304055433", "changes": [
+    {"horse_id": "hrs_23274083", "horse": "Charles Ritz", "chance_pct": 23.0, "reason": "200-day absence, fifth last time out, our rating ranks him only 3rd of 5"},
+    {"horse_id": "hrs_18324103", "horse": "Onemorefortheroad", "chance_pct": 21.0, "reason": "Top-rated at 130 vs OR 118, fit after 12 days, second two starts back"},
+    {"horse_id": "hrs_17571050", "horse": "Escaria Ten", "chance_pct": 17.0, "reason": "Rating 129 (2nd of 5) vs OR 122, third last time out; tempered by 192-day absence"},
+    {"horse_id": "hrs_21131054", "horse": "Fern Hill", "chance_pct": 14.0, "reason": "Ranked last of 5, seventh last time out, trainer 0/7 in 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_23274083", "horse": "Charles Ritz", "verdict": "SKIP", "reason": "23% x 3.70 = 0.85 < 1.05; 200-day absence and 3rd-of-5 rating do not support a bet"}
+  ]},
+  {"race_id": "rac_32304047685", "changes": [
+    {"horse_id": "hrs_20387024", "horse": "Bread And Butter", "chance_pct": 15.5, "reason": "Second last time out, our rating 87 is 6lb above OR 81"},
+    {"horse_id": "hrs_24311434", "horse": "Ocean Heights", "chance_pct": 18.5, "reason": "Trainer 0/14 in last 14 days and 166lb burden"},
+    {"horse_id": "hrs_29735615", "horse": "U Asking Me", "chance_pct": 10.0, "reason": "Form 7P08F8, winless in six, ranked 5th on our figures"},
+    {"horse_id": "hrs_29479247", "horse": "Watchoutitscookie", "chance_pct": 8.0, "reason": "Pulled up last time out and rated last on our figures"}
+  ], "checks": []},
+  {"race_id": "rac_32304049622", "changes": [
+    {"horse_id": "hrs_50841945", "horse": "Seven Stars", "chance_pct": 60.0, "reason": "215 days since last run and trainer only 1/21 in 14 days"},
+    {"horse_id": "hrs_36123108", "horse": "Dancing Dame", "chance_pct": 23.0, "reason": "Won last time out (form 251), trainer 14/50 in 14 days, fit after 35 days"},
+    {"horse_id": "hrs_60250050", "horse": "Marvelous Dragones", "chance_pct": 8.5, "reason": "Wind surgery and trainer 8/21 in 14 days, offset partly by 313-day absence"}
+  ], "checks": []},
+  {"race_id": "rac_32304051559", "changes": [
+    {"horse_id": "hrs_38002461", "horse": "Mountain Port", "chance_pct": 6.0, "reason": "Tops our ranking with a 4lb edge over OR 100"},
+    {"horse_id": "hrs_39296446", "horse": "Blackijo Dagrostis", "chance_pct": 6.5, "reason": "Our rating 82 above OR 76, regularly placed"},
+    {"horse_id": "hrs_41410593", "horse": "Walk The Plank", "chance_pct": 10.0, "reason": "Our rating 73 ranks him last of 6, below OR 74"},
+    {"horse_id": "hrs_23240721", "horse": "Helios Allen", "chance_pct": 16.0, "reason": "Ranked 5th of 6, only fourth last time and back within 7 days, trainer 0/7"}
+  ], "checks": []},
+  {"race_id": "rac_32304053496", "changes": [
+    {"horse_id": "hrs_35430472", "horse": "Latin", "chance_pct": 28.0, "reason": "Trainer 0/23 in last 14 days, our rating ranks him only 4th"},
+    {"horse_id": "hrs_32278428", "horse": "Polemon", "chance_pct": 3.5, "reason": "Top-rated at 115 vs OR 106; tempered by 96-day absence and PU last time"},
+    {"horse_id": "hrs_42912520", "horse": "Blackwater Lilly", "chance_pct": 18.0, "reason": "Winless in six and ranked 6th of 7 on our rating"}
+  ], "checks": []},
+  {"race_id": "rac_32304057370", "changes": [
+    {"horse_id": "hrs_27343379", "horse": "Virtual Rock", "chance_pct": 25.0, "reason": "168lb top weight and our ratings place him only 5th of 8"},
+    {"horse_id": "hrs_40605845", "horse": "Mister Cessna", "chance_pct": 6.5, "reason": "Top-rated 121 vs OR 113, first-time cheekpieces, trainer 3/28"},
+    {"horse_id": "hrs_44232769", "horse": "Turn And Finish", "chance_pct": 2.2, "reason": "Our rating 115 (3rd of 8) vs OR 105; tempered by 170-day absence and PU last time"},
+    {"horse_id": "hrs_50188915", "horse": "Lewisham Grove", "chance_pct": 4.5, "reason": "242-day absence under 168lb, rated 7th of 8"},
+    {"horse_id": "hrs_45921631", "horse": "Amalfina", "chance_pct": 2.0, "reason": "Seventh last time, 109-day break, rated last of 8"}
+  ], "checks": [
+    {"horse_id": "hrs_27343379", "horse": "Virtual Rock", "verdict": "SKIP", "reason": "25% x 3.40 = 0.85 < 1.05; rated only 5th of 8 under 168lb"}
+  ]}
+]}

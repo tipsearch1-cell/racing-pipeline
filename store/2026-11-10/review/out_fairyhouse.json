@@ -1,0 +1,70 @@
+{"meeting": "fairyhouse", "races": [
+  {"race_id": "rac_32304105795", "changes": [
+    {"horse_id": "hrs_17393735212", "horse": "Rich Treasure", "chance_pct": 6.3, "reason": "Comment: our rating of 66 makes him the one to beat; has run on today's going, fit after 27 days."},
+    {"horse_id": "hrs_17393736255", "horse": "Way Horn", "chance_pct": 1.5, "reason": "Comment: rating 56 puts him second of 14, a leading danger; run on today's going."},
+    {"horse_id": "hrs_17394394388", "horse": "Hilarion", "chance_pct": 4.4, "reason": "Trainer Ciaran Murphy 0/17 in last 14 days."},
+    {"horse_id": "hrs_17395249648", "horse": "Klaus", "chance_pct": 1.6, "reason": "Trainer Ciaran Murphy 0/17 in last 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304107732", "changes": [
+    {"horse_id": "hrs_17393307582", "horse": "Leading Rose", "chance_pct": 2.0, "reason": "Blinkers first time; form P4-195 includes a recent win."},
+    {"horse_id": "hrs_63586236", "horse": "Senorita Diana", "chance_pct": 1.1, "reason": "Form 0-900 and trainer 0/9 in last 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304109669", "changes": [
+    {"horse_id": "hrs_40786592", "horse": "Live To Laugh", "chance_pct": 22.0, "reason": "Good form but our rating 105 ranks him only ninth of 13, below his OR 108 under 156 lb."},
+    {"horse_id": "hrs_27684524", "horse": "Moonovercloon", "chance_pct": 7.5, "reason": "Our rating 124 tops the field, well above OR 111; fresh after 38 days."},
+    {"horse_id": "hrs_29622516", "horse": "My Trump Card", "chance_pct": 6.0, "reason": "Rated 120, second of 13; trainer 3/14 in last 14 days."},
+    {"horse_id": "hrs_23165219", "horse": "West Is Awake", "chance_pct": 5.0, "reason": "Our rating 117 vs OR 108 hints at a bit in hand."},
+    {"horse_id": "hrs_26756044", "horse": "The Friday Man", "chance_pct": 1.8, "reason": "Our 118 rates him fourth of 13 vs OR 112."},
+    {"horse_id": "hrs_62645317", "horse": "Pilgrims Walk", "chance_pct": 8.5, "reason": "Ranked 12th of 13 on our ratings; trainer 0/16 in last 14 days."},
+    {"horse_id": "hrs_34775153", "horse": "Warmer Days Ahead", "chance_pct": 13.5, "reason": "Our rating has him tenth of 13; inconsistent form."},
+    {"horse_id": "hrs_52055493", "horse": "Well Bud", "chance_pct": 11.0, "reason": "Ranked seventh of 13; trainer 0/14 in last 14 days."},
+    {"horse_id": "hrs_43097369", "horse": "Knocknagoran Lady", "chance_pct": 2.6, "reason": "Pulled up last time, 52 days off, ranked last of 13 on our figures."}
+  ], "checks": [
+    {"horse_id": "hrs_40786592", "horse": "Live To Laugh", "verdict": "SKIP", "reason": "22.0% x 3.70 = 0.81, below 1.05; rating ranks him ninth of 13."}
+  ]},
+  {"race_id": "rac_32304111606", "changes": [
+    {"horse_id": "hrs_52236751", "horse": "Ballyfad", "chance_pct": 28.0, "reason": "213-day layoff and only sixth-ranked on our rating of 135."},
+    {"horse_id": "hrs_32599273", "horse": "Storm Heart", "chance_pct": 33.0, "reason": "Rated second of 12 and trainer 7/24 in last 14 days."},
+    {"horse_id": "hrs_27888903", "horse": "Hiddenvalley Lake", "chance_pct": 9.5, "reason": "Comment: our rating makes him the one to beat; second last time out; trainer 8/43."},
+    {"horse_id": "hrs_28607999", "horse": "Franciscan Rock", "chance_pct": 3.0, "reason": "Ranked fourth of 12, a live threat, though 194 days off."},
+    {"horse_id": "hrs_27565986", "horse": "Largy Hill", "chance_pct": 1.5, "reason": "Ranked tenth of 12 on our figures, fifth last time."},
+    {"horse_id": "hrs_40786501", "horse": "Accustomed", "chance_pct": 0.6, "reason": "Rating 100 ranks him eleventh of 12."},
+    {"horse_id": "hrs_49974302", "horse": "Sound As A Bell", "chance_pct": 0.6, "reason": "Ranked 12 of 12 and 280 days off."}
+  ], "checks": []},
+  {"race_id": "rac_32304113543", "changes": [
+    {"horse_id": "hrs_58963051", "horse": "Urbs Intacta Manet", "chance_pct": 31.0, "reason": "Our rating 73 ranks him last of six, below OR 84."},
+    {"horse_id": "hrs_40806220", "horse": "A Year Older", "chance_pct": 22.0, "reason": "Unplaced and pulled up in last two, quick 7-day turnaround, top weight 167 lb."},
+    {"horse_id": "hrs_34665351", "horse": "Kilkee Bay", "chance_pct": 20.0, "reason": "Our rating 94 ranks him second of six, above OR 92."},
+    {"horse_id": "hrs_40225206", "horse": "Revolut Ned", "chance_pct": 14.5, "reason": "Our 91 rating sits well above OR 82; described as a leading threat."},
+    {"horse_id": "hrs_16855440", "horse": "Heroes of Renown", "chance_pct": 7.0, "reason": "Tops our ratings, consistent before pulled up last time."}
+  ], "checks": []},
+  {"race_id": "rac_32304115480", "changes": [
+    {"horse_id": "hrs_38666523", "horse": "Hearts And Spades", "chance_pct": 27.5, "reason": "Three straight wins but our rating 114 ranks him only fifth of ten."},
+    {"horse_id": "hrs_38002510", "horse": "Bartlemy Boy", "chance_pct": 10.5, "reason": "Our rating 128 ranks him top of ten, a leading threat."},
+    {"horse_id": "hrs_39699163", "horse": "Big Interest", "chance_pct": 7.5, "reason": "Comment names him our pick, rating 128, third last time out."},
+    {"horse_id": "hrs_37790137", "horse": "Gale Force Jet", "chance_pct": 3.0, "reason": "304 days off and rated eighth of ten."},
+    {"horse_id": "hrs_24206217", "horse": "Grageen", "chance_pct": 2.2, "reason": "536-day absence; rated seventh of ten."},
+    {"horse_id": "hrs_41190422", "horse": "Bower House Boy", "chance_pct": 1.2, "reason": "522 days off and no win in recent form."}
+  ], "checks": []},
+  {"race_id": "rac_32304117417", "changes": [
+    {"horse_id": "hrs_27428786", "horse": "West Of Carrig", "chance_pct": 18.5, "reason": "Pulled up last time, returns after 234 days, rated only fifth of 14."},
+    {"horse_id": "hrs_48019930", "horse": "Annie Button", "chance_pct": 12.0, "reason": "Bottom-ranked figure of 81 vs OR 86; well held since win."},
+    {"horse_id": "hrs_27902630", "horse": "Granville Street", "chance_pct": 12.5, "reason": "Tops our ratings at 113 vs OR 110; blinkers first time (trainer 0/17 tempers it)."},
+    {"horse_id": "hrs_33903989", "horse": "Jerisk Star", "chance_pct": 7.0, "reason": "Our rating 112 ranks him second of 14, well above OR 99, though 172 days off."},
+    {"horse_id": "hrs_24555454", "horse": "Getaway Charlie", "chance_pct": 7.0, "reason": "Our rating 109 ranks him third of 14."},
+    {"horse_id": "hrs_18645599", "horse": "Cahirdown Boy", "chance_pct": 8.3, "reason": "Our rating 101 above OR 94."},
+    {"horse_id": "hrs_43164611", "horse": "Boola Times", "chance_pct": 8.0, "reason": "Pulled up last time and ranked tenth of 14."},
+    {"horse_id": "hrs_59678773", "horse": "Annie's Belle", "chance_pct": 6.0, "reason": "Ninth last time, winless in five, 148 days off."},
+    {"horse_id": "hrs_30002329", "horse": "Hidalgo Des Mottes", "chance_pct": 3.6, "reason": "Ranked 12th of 14, winless in five."},
+    {"horse_id": "hrs_35025536", "horse": "Joya Del Mar", "chance_pct": 1.1, "reason": "Form tailed off (P0) and trainer 0/12 in last 14 days."},
+    {"horse_id": "hrs_14995246", "horse": "Futurum Regem", "chance_pct": 1.0, "reason": "316 days off, winless in five."},
+    {"horse_id": "hrs_17393625697", "horse": "The Bosses Order", "chance_pct": 1.0, "reason": "Our rating 89 below OR 94; ninth last time."}
+  ], "checks": [
+    {"horse_id": "hrs_27428786", "horse": "West Of Carrig", "verdict": "SKIP", "reason": "18.5% x 4.40 = 0.81, below 1.05; 234-day layoff after pulled up."}
+  ]},
+  {"race_id": "rac_32304119354", "changes": [
+    {"horse_id": "hrs_17395255906", "horse": "Heron Hill", "chance_pct": 50.0, "reason": "Returns from 226 days off."},
+    {"horse_id": "hrs_17390481052", "horse": "Bellahill", "chance_pct": 31.0, "reason": "Comment: our rating makes him the one to beat; placed in both recent starts."},
+    {"horse_id": "hrs_17395259035", "horse": "Unfastened", "chance_pct": 5.0, "reason": "Won last time out, lightly raced and fresh after 9 days."}
+  ], "checks": []}
+]}

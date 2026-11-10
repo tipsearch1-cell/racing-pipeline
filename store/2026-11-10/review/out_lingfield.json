@@ -1,0 +1,34 @@
+{"meeting": "lingfield", "races": [
+  {"race_id": "rac_32304059307", "changes": [
+    {"horse_id": "hrs_17395223573", "horse": "Wild Wescht", "chance_pct": 19.0, "reason": "Returns from a 709-day absence; fitness a real doubt."},
+    {"horse_id": "hrs_52236422", "horse": "Unknown Stranger", "chance_pct": 0.6, "reason": "Pulled up on both last two starts (form /44-PP), trainer 0/9 in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304063181", "changes": [
+    {"horse_id": "hrs_46547165", "horse": "Ride Like A Girl", "chance_pct": 24.0, "reason": "First two in all five recent runs and yard in form at 8/21 in 14 days."},
+    {"horse_id": "hrs_412694800", "horse": "Reel Orange", "chance_pct": 9.0, "reason": "Ranked fifth of five on card figures and returning from 32 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304065118", "changes": [
+    {"horse_id": "hrs_24216962", "horse": "Western Soldier", "chance_pct": 17.0, "reason": "Winless in five, 159 lb off 82, and only fifth of nine on card rating 87 - favouritism not supported."},
+    {"horse_id": "hrs_44721733", "horse": "Zaraquelle", "chance_pct": 18.5, "reason": "Consistent 42-24 form and trainer 14/50 in the last 14 days."},
+    {"horse_id": "hrs_15233358", "horse": "Castle Quarter", "chance_pct": 10.0, "reason": "Winless in six and ranked eighth of nine on card figures."},
+    {"horse_id": "hrs_30441110", "horse": "Foinix", "chance_pct": 7.5, "reason": "Card rating 61 ranks him last of nine; trainer 0/9 in 14 days."},
+    {"horse_id": "hrs_37380882", "horse": "Raffles Nobu", "chance_pct": 7.0, "reason": "Two sevenths last two starts and trainer 0/19 in 14 days."},
+    {"horse_id": "hrs_32278421", "horse": "Dotties Star", "chance_pct": 10.0, "reason": "Card rating 92 makes him the one to beat on figures."},
+    {"horse_id": "hrs_32401761", "horse": "Most Wanted", "chance_pct": 7.5, "reason": "Third last time out and card rating 90 ranks him third of nine."}
+  ], "checks": [
+    {"horse_id": "hrs_24216962", "horse": "Western Soldier", "verdict": "SKIP", "reason": "Revised 17% x 4.20 = 0.71, well below 1.05; card (winless, 5th of 9 on figures) does not support the price."}
+  ]},
+  {"race_id": "rac_32304067055", "changes": [
+    {"horse_id": "hrs_56559342", "horse": "Sailing By", "chance_pct": 33.0, "reason": "Winless in five and the outsider of five on card figures despite being favourite."},
+    {"horse_id": "hrs_31698009", "horse": "Cinnodin", "chance_pct": 24.0, "reason": "Won last time out, yard 8/21 in 14 days, and named the card's pick."},
+    {"horse_id": "hrs_32567801", "horse": "Betty's Tiara", "chance_pct": 24.0, "reason": "Placed last two starts and card rating 110 is best of the five."},
+    {"horse_id": "hrs_30245712", "horse": "Robber's Bridge", "chance_pct": 10.0, "reason": "Returns from a 233-day absence carrying top weight 168 lb."},
+    {"horse_id": "hrs_36614928", "horse": "One Cool Dreamer", "chance_pct": 5.0, "reason": "Card rating 104 well clear of official mark 91."}
+  ], "checks": []},
+  {"race_id": "rac_32304068992", "changes": [
+    {"horse_id": "hrs_27578957", "horse": "Secret Trix", "chance_pct": 18.0, "reason": "Card rating 125 makes him the one to beat on figures; consistent placed form."},
+    {"horse_id": "hrs_26459993", "horse": "Spike Jones", "chance_pct": 14.0, "reason": "Back after 264 days off a seventh last time; fitness the risk."},
+    {"horse_id": "hrs_61684714", "horse": "That's It Paddy", "chance_pct": 6.5, "reason": "Winless in five and card rating 104 ranks him last of six."},
+    {"horse_id": "hrs_45920595", "horse": "Lacrima", "chance_pct": 4.0, "reason": "Ranked fifth of six on card figures, 49 days off, trainer 0/19 in 14 days."}
+  ], "checks": []}
+]}

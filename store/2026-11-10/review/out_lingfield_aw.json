@@ -1,0 +1,9 @@
+{"meeting": "lingfield_aw", "races": [
+  {"race_id": "rac_32304375038",
+   "changes": [
+     {"horse_id": "hrs_17394529978", "horse": "Got To Be Real", "chance_pct": 55.0, "reason": "Returns from 247 days off after only one recent start (form 1-), so fitness is a doubt at a short price."},
+     {"horse_id": "hrs_17391211152", "horse": "Bombus Pascuorum", "chance_pct": 30.0, "reason": "Last-time-out winner (form 41), proven at the trip, fit after 28 days and rated top of the four; uplift kept small because the stable is 0/23 over 14 days."},
+     {"horse_id": "hrs_17394289045", "horse": "Ezenli", "chance_pct": 4.0, "reason": "First-time cheekpieces, ran 16 days ago so should be fit, trainer 1/6 over 14 days."}
+   ],
+   "checks": []}
+]}
