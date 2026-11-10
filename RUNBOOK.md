@@ -40,6 +40,8 @@ Everything needed for the daily chain is in the repo. raw/ (RBD, RaceIQ, odds zi
    SendUserFile store/DAY/reviewer_bets_DAY.csv and reviewer_bets_detail_DAY.csv; SendUserMessage with a time-ordered table
    (time, course, horse, CHECK BET / value flag, 09:00 median, min price, best 09:00 exchange price), excluded picks, SKIPs,
    and the reminder that the rebuilt reviewer is on trial (small stakes).
+4b. Page: `python3 report/build_page.py DAY` (re-run after settling and after live checks) and publish report/race-reports.html
+   to the artifact (daily/ files and archive/race-reports-to-2026-11-09.html are kept when not passed).
 5. Live checks: send_later 12:00/14:00/16:00/18:00 UTC (skip any after the last race): get_racecards_pro DAY ...;
    `python3 pipeline/live_changes.py DAY <saved file(s)>`; message the user only for lines marked "!" (important, still to run).
    The 12:00 one also re-fetches yesterday's results for BSP, re-saves when complete and re-runs settle.
