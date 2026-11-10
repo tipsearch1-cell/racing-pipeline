@@ -1,0 +1,508 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Daily Race Reports</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: a racecard — race headers in condensed caps, runner rows like a form guide, one tracker strip on top. */
+:root{
+  --bg:#f6f7f4; --panel:#ffffff; --ink:#18211d; --muted:#5d6a63; --line:#dfe4df;
+  --accent:#b8611a; --accent-soft:#f6e6d6; --good:#2f7a4a; --good-soft:#dcefe3; --bad:#a63a32; --bad-soft:#f5dfdc;
+  --chip:#eef1ed;
+  --f-display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121815; --panel:#1a221e; --ink:#e7ece8; --muted:#9aa8a0; --line:#2c3732;
+  --accent:#e08a44; --accent-soft:#3a2a1c; --good:#6cc28d; --good-soft:#1f3328; --bad:#e3847b; --bad-soft:#3b2421; --chip:#232d28; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121815; --panel:#1a221e; --ink:#e7ece8; --muted:#9aa8a0; --line:#2c3732;
+  --accent:#e08a44; --accent-soft:#3a2a1c; --good:#6cc28d; --good-soft:#1f3328; --bad:#e3847b; --bad-soft:#3b2421; --chip:#232d28; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:14px;line-height:1.45}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:16px;padding-block:20px 48px;display:flex;flex-direction:column;gap:18px}
+h1,h2,h3{font-family:var(--f-display);font-weight:700;letter-spacing:.01em;margin:0;text-wrap:balance}
+h1{font-size:30px;text-transform:uppercase}
+.sub{color:var(--muted);font-size:13px}
+.chgbox{margin:8px 0 0;padding:8px 10px;border-radius:8px;border:1px solid #d9a400;background:rgba(217,164,0,.10);font-size:13px}.chgbox ul{margin:4px 0 0 18px;padding:0}
+.betbox{margin:10px 0 2px;padding:10px 12px;border-radius:6px;font-size:14px} .betbox.yes{background:var(--good-soft);border-left:4px solid var(--good)} .betbox.no{background:var(--chip);border-left:4px solid var(--muted)} .betbox ul{margin:4px 0 6px;padding-left:18px} .bb-h{font-weight:700;letter-spacing:.04em} .betbox.yes .bb-h{color:var(--good)} .betbox.no .bb-h{color:var(--muted)} .bb-p{color:var(--muted);font-size:12px;margin-top:4px}
+
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.seg{display:flex;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:var(--panel)}
+.seg button{font:inherit;font-size:13px;padding:6px 12px;border:0;background:transparent;color:var(--ink);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.seg button:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+select{font:inherit;font-size:13px;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--ink)}
+.tracker{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px 16px;display:flex;flex-direction:column;gap:10px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
+.kpi{display:flex;flex-direction:column;gap:2px}
+.kpi b{font-family:var(--f-display);font-size:24px;font-weight:600;font-variant-numeric:tabular-nums}
+.kpi span{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.pos{color:var(--good)} .neg{color:var(--bad)}
+li.minor{opacity:.55} .mtag{font-size:10px;text-transform:uppercase;letter-spacing:.04em;border:1px solid currentColor;border-radius:4px;padding:0 4px;margin-left:4px}
+.note{font-size:12px;color:var(--muted);max-width:75ch}
+.race{background:var(--panel);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.rhead{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:baseline;padding:12px 16px;border-bottom:1px solid var(--line)}
+.time{font-family:var(--f-display);font-size:26px;font-weight:700;font-variant-numeric:tabular-nums}
+.course{font-family:var(--f-display);font-size:22px;font-weight:600;text-transform:uppercase}
+.rname{flex-basis:100%;font-size:13px;color:var(--muted)}
+.tags{display:flex;flex-wrap:wrap;gap:6px}
+.tag{font-size:11px;letter-spacing:.05em;text-transform:uppercase;background:var(--chip);border-radius:4px;padding:2px 7px;color:var(--muted)}
+.tag.j{background:var(--ink);color:var(--bg)}
+.tag.h{background:var(--accent-soft);color:var(--accent)}
+.shape{display:flex;gap:10px;align-items:flex-start;padding:10px 16px;background:var(--bg);border-bottom:1px solid var(--line);font-size:13px}
+.shape .pill{flex:none;font-family:var(--f-display);font-weight:600;font-size:14px;text-transform:uppercase;border:1px solid var(--ink);border-radius:4px;padding:1px 8px}
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:760px;font-variant-numeric:tabular-nums}
+th{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500;text-align:left;padding:7px 8px;border-bottom:1px solid var(--line)}
+td{padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:has(+ tr.detail) td{border-bottom:0;padding-bottom:0}
+tr.detail td{padding-top:0}
+td.n,th.n{text-align:right}
+tr.top td{background:var(--accent-soft)}
+.horse{font-weight:600}
+.style{font-size:11px;padding:1px 6px;border-radius:3px;background:var(--chip);white-space:nowrap}
+.style.Leader{background:var(--ink);color:var(--bg)}
+.figs{white-space:nowrap;color:var(--muted)} .figs b{color:var(--ink);font-weight:600}
+.flag{font-size:11px;padding:1px 6px;border-radius:3px;white-space:nowrap}
+.flag.up{background:var(--good-soft);color:var(--good)} .flag.dn{background:var(--chip);color:var(--muted)}
+details{font-size:13px}
+summary{cursor:pointer;color:var(--accent);font-size:12px;list-style:none}
+summary::-webkit-details-marker{display:none}
+.why{display:grid;grid-template-columns:1fr 1fr;gap:6px 18px;padding:8px 0 4px;max-width:min(760px, calc(100vw - 72px))}
+.silk{flex:none;margin-right:6px;filter:drop-shadow(0 0 .5px rgba(0,0,0,.25))} div.horse:has(.silk){display:flex;align-items:center} .flag.ang{background:var(--accent-soft);color:var(--accent);font-size:11px;margin-right:4px;display:inline-block} .h2h{margin:2px 0 6px;max-width:min(760px, calc(100vw - 72px))} .h2h h4{margin:0 0 2px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)} .h2h ul{margin:0;padding-left:16px}
+.why ul{margin:0;padding-left:16px} .why h4{margin:0 0 2px;font-size:11px;letter-spacing:.06em;text-transform:uppercase}
+.why .f h4{color:var(--good)} .why .a h4{color:var(--bad)}
+.runs{width:auto;min-width:0;margin:6px 0 4px;font-size:12px} .runs td,.runs th{padding:3px 6px}
+.empty{color:var(--muted);font-size:12px}
+.foot{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:6px;max-width:80ch}
+.how{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px 16px;color:var(--ink)}
+.howbody{font-size:13px;line-height:1.5}
+.howbody p{margin:8px 0} .howbody ol{margin:4px 0 8px;padding-left:20px} .howbody li{margin:3px 0}
+.rvlist{display:flex;flex-direction:column;gap:8px;margin-top:8px} .rvrow{border:1px solid var(--line);border-radius:6px;padding:8px 10px;background:var(--bg);font-size:13px;display:flex;flex-direction:column;gap:3px}
+details.ord summary{font-size:12px} table.ordt{min-width:0;margin-top:4px;font-size:12px} table.ordt td,table.ordt th{padding:4px 6px}
+.rvh{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+.ewgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:8px;margin-top:6px}
+.ewc{border:1px solid var(--line);border-radius:6px;padding:8px 10px;display:flex;flex-direction:column;gap:3px;font-size:13px;background:var(--bg)}
+.ewh{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap} .ewh span:first-child{font-family:var(--f-display);font-weight:600;font-size:16px;text-transform:uppercase}
+.ewv{margin-left:auto;font-weight:600;color:var(--good);font-variant-numeric:tabular-nums}
+table.gt{min-width:0} .gt th.grp{text-align:center;border-bottom:1px solid var(--line);color:var(--ink)} .gt td:nth-child(3),.gt th:nth-child(3){border-left:1px solid var(--line)} .gt td:nth-child(6),.gt tr+tr th:nth-child(6){border-left:1px solid var(--line)}
+@media (max-width:640px){.gt td,.gt th{padding:6px 3px;font-size:11.5px;letter-spacing:0} .gt td:nth-child(2),.gt th:nth-child(2){display:none}}
+.gbg{background:var(--good-soft);color:var(--good);font-weight:600} .gbb{background:var(--bad-soft);color:var(--bad);font-weight:600} .gbn{color:var(--muted)}
+.biasln{padding-top:0;margin-top:-1px} .biasln .pill{border-color:var(--muted);color:var(--muted)}
+@media (max-width:640px){.why{grid-template-columns:1fr} h1{font-size:24px}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header style="display:flex;flex-direction:column;gap:6px">
+    <h1 id="title">Race Reports</h1>
+    <div class="sub" id="meta"></div>
+  </header>
+
+  <section class="tracker" aria-labelledby="trk">
+    <h2 id="trk" style="font-size:18px;text-transform:uppercase">Tracker: model top picks</h2>
+    <div class="kpis" id="kpis"></div>
+    <div class="note" id="trknote"></div>
+    <details><summary>Show every pick</summary><div class="tbl" style="margin-top:8px"><table id="trktbl"></table></div></details>
+  </section>
+
+  <section class="tracker" aria-labelledby="byh" id="bayes">
+    <h2 id="byh" style="font-size:18px;text-transform:uppercase">How sure are we?</h2>
+    <div class="tbl"><table id="bytbl"></table></div>
+    <details><summary>How to read this</summary><div class="howbody" style="max-width:75ch">
+      <p>Each strategy starts from a sceptical belief: racing markets are close to efficient, so the true long-run return is probably near 0% and rarely beyond ±5%. Every settled bet then updates that belief. <b>Best guess</b> is the observed return pulled toward zero, more strongly when there are few bets or the results swing a lot (big-priced winners). <b>Chance the edge is real</b> is the probability the true return is above zero.</p>
+      <p>Use it for staking: keep stakes small while the chance sits between 30% and 80%; only increase when it stays above about 90% on live bets. One big winner moves the observed return a lot but the best guess only a little, which is the point.</p>
+    </div></details>
+  </section>
+
+  <section class="tracker" aria-labelledby="xwh" id="xw">
+    <h2 id="xwh" style="font-size:18px;text-transform:uppercase">Winners vs expected (xW)</h2>
+    <p class="note" style="max-width:75ch;margin:4px 0 8px">For each list: how many winners it produced against how many the market expected. Expected winners (xW) adds up each pick's chance from the 9am prices with the bookmakers' margin removed, and from Betfair's starting price (BSP) where it is in. <b>Actual ÷ expected</b> above 1.00 means more winners than the market expected. It says nothing about profit on its own. Beating the 9am prices is easier than beating BSP.</p>
+    <div class="tbl"><table id="xwtbl"></table></div>
+    <details><summary>Split by race type (all time)</summary><div class="tbl" style="margin-top:8px"><table id="xwseg"></table></div></details>
+    <details><summary>How to read the luck check</summary><div class="howbody" style="max-width:75ch">Winners swing a lot by chance. The luck check measures how far the actual count is from the expected count, allowing for the normal day-to-day swing. "Ahead beyond luck" or "Behind beyond luck" needs the gap to be about twice the normal swing; everything else is "Within luck". A list needs a few hundred picks before a real edge would usually show up as beyond luck.</div></details>
+  </section>
+  <section class="tracker" aria-labelledby="rvh" id="review">
+    <h2 id="rvh" style="font-size:18px;text-transform:uppercase">Results review</h2>
+    <div id="rvbody"></div>
+  </section>
+
+  <section class="tracker" aria-labelledby="angh" id="angles">
+    <h2 id="angh" style="font-size:18px;text-transform:uppercase">Angles (paper test)</h2>
+    <div class="kpis" id="angkpis"></div>
+    <div id="anglist"></div>
+    <details><summary>About these angles</summary><div class="howbody" style="max-width:75ch">
+      <p>Two angles passed a sealed test on six years of GB Flat racing (42 angles tested, discovered on 2020–23, confirmed on 2024–26, judged against Betfair SP). Both beat BSP in 6 of 7 years:</p>
+      <p><b>Sprint after a mile</b>: running at 6f or less after a last run at a mile or more. Actual/expected vs BSP 1.19 and 1.20; +11% at BSP up to 20/1.<br>
+      <b>First time on soft</b>: soft or heavy ground today, never run on it before, at least 3 runs. Actual/expected 1.08 and 1.06; +4% at BSP up to 20/1.</p>
+      <p><b>Lay: up in trip after fading</b> (added 16 Oct 2026): stepping up 1f or more after a last run where the horse's finishing speed was in the bottom quarter of its race. Horses like this won only 0.84 and 0.92 times what BSP implied in 2023–24 and 2025–26. Paper-tracked as a lay at BSP capped at 10.0, £1 liability; a winner costs £1. This rule was found by looking at the data, so only the forward record counts.</p>
+      <p>With 42 angles tested, about one could pass by luck, so these are paper-tracked at 1 point at BSP from 15 Oct 2026 and judged after 150 bets each. Not a betting recommendation. First time on soft uses the going declared on the morning card; if the ground changes, the flag stays as declared.</p>
+    </div></details>
+  </section>
+
+  <div class="bar">
+    <div class="seg" role="group" aria-label="Day" id="days"></div>
+    <div class="seg" role="group" aria-label="Code" id="codes">
+      <button aria-pressed="true" data-c="all">Flat + jumps</button>
+      <button aria-pressed="false" data-c="Flat">Flat</button>
+      <button aria-pressed="false" data-c="Jumps">Jumps</button>
+    </div>
+    <div class="seg" role="group" aria-label="Race type" id="types">
+      <button id="t-all" aria-pressed="true" data-v="all">All races</button>
+      <button id="t-h" aria-pressed="false" data-v="h">Handicaps</button>
+      <button id="t-n" aria-pressed="false" data-v="n">Non-handicaps</button>
+    </div>
+    <label class="sub" for="course">Course</label>
+    <select id="course"></select>
+  </div>
+
+  <main id="races" style="display:flex;flex-direction:column;gap:16px"></main>
+
+  <section class="tracker" aria-labelledby="gh" id="guide">
+    <h2 id="gh" style="font-size:18px;text-transform:uppercase">Draw & pace guide</h2>
+    <div class="note">How often each draw third and run style has won compared with its fair share (1.0 = fair share), GB Flat 2020–Oct 2026. Draw uses fields of 8+. <b class="pos">Green</b> or <b class="neg">red</b> means the effect is at least 10% and showed up in both 2020–23 and 2024–26. Grey means it's small, inconsistent or based on few runners. Turf draw figures are discounted more heavily than all-weather ones, because they repeat less reliably from one period to the next. Splitting by going was tested and didn't help: a course's soft-ground draw pattern in 2020–23 didn't predict its 2024–26 pattern. The one general effect is small: across all turf, low draws do slightly better on soft ground (1.09× against 1.03×). Betfair SP already allows for these effects on average, so they explain races; they don't find value on their own.</div>
+    <div class="bar"><div class="seg" role="group" aria-label="Guide code" id="gcode"><button data-g="flat" aria-pressed="true">Flat</button><button data-g="jumps" aria-pressed="false">Jumps</button></div>
+      <label class="sub" for="gcourse" id="gclab">Course</label><select id="gcourse"></select></div>
+    <div class="note" id="gjnote" hidden>Jumps: the <b>edge</b> for runners racing on the pace early (led or close up at the 2f marker): share of winners on the pace ÷ share of all runners on the pace. 1.00 = no advantage; across all GB &amp; IRE jumps it is about 1.31 (hurdles 1.40, chases 1.32, bumpers 1.30). Green = clearly above average (1.40+), grey = based on fewer than 60 races. RaceIQ races Mar 2023–Oct 2026; race types only known from Oct 2025. The market already prices this in on average.</div>
+    <div class="tbl"><table id="gtbl" class="gt"></table></div>
+  </section>
+
+  <footer class="foot">
+    <div><b>Model %</b>: the form model's win chance, with no price input. <b>Fair (market)</b>: the market's fair win chance and, underneath, the fair decimal price. From 22 Oct 2026 it is the sharp-weighted 09:00 market (bookmakers whose prices have historically been more accurate count for more), with the margin removed; earlier days use the best bookmaker price with the margin removed. A best price above the fair price is not on its own a value bet: a test on Jan–Oct 2026 found no reliable edge from that alone. <b>Model/market</b> is flagged when the two differ by 25% or more.</div>
+    <details id="how" class="how" open>
+      <summary style="font-size:13px">How the figures work</summary>
+      <div class="howbody">
+        <p><b>Greyed "minor" notes</b> under For / Against come from things that add nothing to a horse's chance once the rest of its profile is known (feature-strength check, Oct 2025–Oct 2026): change of going, course or trip, an excuse last time, first-time headgear, pace, draw and course run-style notes, jumping mistakes and falls, the length of a jumps break, carrying less weight, and "looks well handicapped" (all else equal, those horses do slightly worse). They are context, not reasons to back or oppose a horse.</p>
+        <p><b>Last 3: form fig / SR</b> shows three past runs, oldest on the left and most recent on the right. Both numbers are in pounds on roughly the official-rating (OR) scale, so you can compare them with the OR column. <b>–/–</b> means there's no figure for that run, for example when the horse didn't finish or a margin is missing.</p>
+        <p><b>Form fig (bold)</b> measures how well the horse ran against the field:</p>
+        <ol>
+          <li>Lengths beaten are converted to pounds at 15 ÷ furlongs: 3 lb a length at 5f, 2.5 lb at 6f, about 1.9 lb at 1m and about 0.9 lb at 2m. Margins are capped at 30 lengths.</li>
+          <li>Weight: pounds carried (after the jockey's claim) above the race average are added back, and pounds below it are taken off.</li>
+          <li>The race level is the median, across the rated runners, of OR + pounds beaten − weight adjustment, which is the winner's figure each runner's rating implies. At least 3 rated runners are needed; otherwise the provider's performance rating sets the level.</li>
+          <li>Figure = race level − pounds beaten + weight adjustment. An ordinary handicap winner usually comes out close to its OR.</li>
+        </ol>
+        <p><b>Jumps races:</b> the form figure uses 30 ÷ furlongs pounds per length (about 1.9 lb at 2m and 1.25 lb at 3m), and the grey number is the provider's performance rating, because speed ratings aren't published for most jumps races. Falls, unseats, pulled-up runs and jumping mistakes mentioned in race comments come from the last six jumps runs.</p>
+        <p><b>SR (grey)</b> is the Racing API's speed rating, worked out from the race time against the course-and-distance standard after removing the effect of the ground. The provider revises SRs after the race (non-handicap figures can change for up to 90 days).</p>
+        <p><b>Reading the two together:</b> a form fig well above the SR means the horse finished close in a race that wasn't run quickly, so the form may flatter it if today's race looks strongly run. An SR well above the form fig means it ran fast despite an ordinary placing. Both rising across the three runs means the horse is improving.</p>
+        <p><b>Time vs std</b> (in the expanded runner view) is our own time figure: pounds faster or slower than the median winning time at that course and distance, adjusted for the ground at that meeting. It's usually negative because it is measured against winners, so compare it between horses.</p>
+        <p><b>Run style</b> is the horse's average position at the 2f marker over its last three RaceIQ runs: Leader, Prominent, Midfield or Held up (Unknown with fewer than 2 runs). <b>Race shape</b> counts the likely leaders: none means it could be slow and tactical, one is a lone leader, two is an even pace, and three or more is a strong pace.</p>
+        <p><b>Limits:</b> the figures use the last 12 months of results only. Races with few rated runners can produce odd form figures. When the two figures disagree sharply, look closer before reading anything into it.</p>
+      </div>
+    </details>
+    <div>Backtests on six years of races found that none of these factors, alone or combined, beats Betfair SP. Use the reports to understand races and to spot where the model and the market disagree. They are not a list of value bets. Prices captured the evening before are early and incomplete, and Rule 4 is not applied.</div>
+  </footer>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const DATA = JSON.parse(document.getElementById('data').textContent);
+const days = DATA.reports.map(r => r.day);
+let state = { day: days[days.length - 1], type: 'all', course: 'all', code: 'all' };
+try { const s = JSON.parse(localStorage.getItem('rr-state') || '{}'); if (s.type) state.type = s.type; if (s.code) state.code = s.code; } catch (e) {}
+const saveState = () => { try { localStorage.setItem('rr-state', JSON.stringify({ type: state.type, code: state.code })); } catch (e) {} };
+const codeOf = x => x.code || 'Flat';
+const fmtDay = d => new Date(d + 'T12:00:00').toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short' });
+const pct = x => x == null ? '–' : (x * 100).toFixed(x < 0.1 ? 1 : 0) + '%';
+const pts = x => (x >= 0 ? '+' : '') + x.toFixed(2);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+function tracker() {
+  const T = DATA.tracker.filter(t => t.hcap && codeOf(t) === 'Flat');
+  const J = DATA.tracker.filter(t => codeOf(t) === 'Jumps'); const Js = J.filter(t => t.pl_sp != null);
+  const jw = Js.filter(t => String(t.pos) === '1').length, jpl = Js.reduce((a, t) => a + t.pl_sp, 0);
+  const settled = T.filter(t => t.pl_sp != null);
+  const wins = settled.filter(t => String(t.pos) === '1').length;
+  const plsp = settled.reduce((a, t) => a + t.pl_sp, 0);
+  const withP = settled.filter(t => t.pl_price != null);
+  const plp = withP.reduce((a, t) => a + t.pl_price, 0);
+  const k = [
+    ['Handicap picks settled', settled.length], ['Winners', `${wins} (${settled.length ? Math.round(wins / settled.length * 100) : 0}%)`],
+    ['P/L at SP, 1 pt', `<span class="${plsp >= 0 ? 'pos' : 'neg'}">${pts(plsp)}</span>`],
+    ['P/L at report price', `<span class="${plp >= 0 ? 'pos' : 'neg'}">${pts(plp)}</span>`],
+    ['Awaiting result', T.filter(t => t.pl_sp == null && String(t.pos) !== 'NR').length], ['Non-runners (void)', T.filter(t => String(t.pos) === 'NR').length],
+    ['Jumps picks settled · won', `${Js.length} · ${jw}`], ['Jumps P/L at SP', Js.length ? `<span class="${jpl >= 0 ? 'pos' : 'neg'}">${pts(jpl)}</span>` : '–'], ['Jumps awaiting', J.filter(t => t.pl_sp == null && String(t.pos) !== 'NR').length]];
+  document.getElementById('kpis').innerHTML = k.map(([l, v]) => `<div class="kpi"><b>${v}</b><span>${l}</span></div>`).join('');
+  document.getElementById('trknote').textContent = `Flat: started 12 Oct 2026, one pick per Flat handicap (the model's highest-rated runner). Jumps: started 13 Oct 2026, one pick per jumps race. ` +
+    `A few hundred settled picks are needed before the P/L means anything; ±15 points over a day is normal variance.`;
+  const rows = DATA.tracker.slice().sort((a, b) => (b.day + b.off).localeCompare(a.day + a.off));
+  document.getElementById('trktbl').innerHTML = `<thead><tr><th>Day</th><th>Race</th><th>Type</th><th>Pick</th><th class="n">Model</th><th class="n">Price</th><th class="n">SP</th><th>Result</th><th class="n">P/L SP</th></tr></thead><tbody>` +
+    rows.map(t => `<tr><td>${fmtDay(t.day)}</td><td>${esc(t.off)} ${esc(t.course)}</td><td>${codeOf(t) === 'Jumps' ? 'Jumps · ' : ''}${t.hcap ? 'Hcap' : 'Non-hcap'}</td><td class="horse">${esc(t.horse)}</td>` +
+      `<td class="n">${pct(t.model_p)}</td><td class="n">${t.price ?? '–'}</td><td class="n">${t.sp ?? '–'}</td><td>${t.pos == null ? 'pending' : String(t.pos) === 'NR' ? 'Non-runner (void)' : t.pos}</td>` +
+      `<td class="n ${t.pl_sp > 0 ? 'pos' : t.pl_sp < 0 ? 'neg' : ''}">${t.pl_sp == null ? '–' : pts(t.pl_sp)}</td></tr>`).join('') + '</tbody>';
+}
+
+function l15Section() {
+  if (!document.getElementById('lucky15')) return;
+  const L = DATA.l15 || [];
+  const kp = (rows, lab) => ['win', 'ew'].map(k => { const S = rows.filter(r => r.kind === k && r.pl != null); const pl = S.reduce((a, r) => a + r.pl, 0), st = S.reduce((a, r) => a + r.stake, 0);
+    return [`${k === 'win' ? 'Win' : 'Each-way'} ${lab}: settled · staked · P/L`, S.length ? `${S.length} · £${st} · <span class="${pl >= 0 ? 'pos' : 'neg'}">${pts(pl)}</span>` : '0']; });
+  const kp2 = (rows, lab) => [['win', 'Win'], ['ew', 'Each-way'], ['win_j', 'Win, hand-picked'], ['ew_j', 'Each-way, hand-picked']].map(([k, n]) => { const S = rows.filter(r => r.kind === k && r.pl != null); const pl = S.reduce((a, r) => a + r.pl, 0), st = S.reduce((a, r) => a + r.stake, 0);
+    return [`${n} ${lab}: settled · staked · P/L`, S.length ? `${S.length} · £${st} · <span class="${pl >= 0 ? 'pos' : 'neg'}">${pts(pl)}</span>` : '0']; });
+  const k = [...kp2(L.filter(r => !r.backdated), 'forward'), ...kp2(L.filter(r => r.backdated), 'back-dated 12–18 Oct')];
+  document.getElementById('l15kpis').innerHTML = k.map(([l, v]) => `<div class="kpi"><b>${v}</b><span>${l}</span></div>`).join('');
+  const D = L.filter(r => r.day === state.day);
+  document.getElementById('l15list').innerHTML = D.length ? '<div class="ewgrid">' + D.map(r => { const legs = JSON.parse(r.legs); const res = r.result ? String(r.result).split('-') : [];
+    return `<div class="ewc"><div class="ewh"><span>${({win: 'Win Lucky 15', ew: 'Each-way Lucky 15', win_j: 'Win Lucky 15 · hand-picked', ew_j: 'Each-way Lucky 15 · hand-picked'})[r.kind]}${r.backdated ? ' <span class="sub">(back-dated)</span>' : ''}</span><span class="sub">stake £${r.stake} · model expects £${Number(r.exp_return).toFixed(2)}</span></div>` +
+      legs.map((l, i) => `<div>${esc(l.off)} ${esc(l.course)} · <b class="horse">${esc(l.horse)}</b> at ${l.price}${r.kind.startsWith('ew') ? ` <span class="sub">(${l.places} places 1/${l.denom}, ${esc(l.book)}; place ${pct(l.q)})</span>` : ''} <span class="sub">model ${pct(l.p)}</span>${res[i] ? ` · finished ${esc(res[i])}` : ''}${l.why ? `<div class="sub" style="margin:2px 0 6px">${esc(l.why)}</div>` : ''}</div>`).join('') +
+      `<div>${r.pl == null ? '<span class="empty">pending</span>' : `Returned £${Number(r.ret).toFixed(2)} · <span class="${r.pl >= 0 ? 'pos' : 'neg'}">${pts(r.pl)}</span>`}</div></div>`; }).join('') + '</div>'
+    : `<p class="empty">No Lucky 15s on ${fmtDay(state.day)}${state.day < '2026-10-12' ? '' : ''}.</p>`;
+}
+
+function angleSection() {
+  const A = DATA.angles || [];
+  const S = A.filter(a => a.pl != null && a.pos !== 'NR');
+  const k = ['A13', 'A17', 'L1'].map(c => { const L = S.filter(a => a.angle === c && a.settle_price !== 'unmatched'); const pl = L.reduce((t, a) => t + a.pl, 0); const w = L.filter(a => a.pos === '1').length;
+    return [`${c === 'A13' ? 'Sprint after a mile' : c === 'A17' ? 'First time on soft' : 'Lay: up in trip after fading (£1 liability)'}: settled · won · P/L`, L.length ? `${L.length} · ${w} · <span class="${pl >= 0 ? 'pos' : 'neg'}">${pts(pl)}</span>` : '0']; });
+  document.getElementById('angkpis').innerHTML = k.map(([l, v]) => `<div class="kpi"><b>${v}</b><span>${l}</span></div>`).join('');
+  const D = A.filter(a => a.day === state.day).sort((a, b) => a.off.padStart(5, '0').localeCompare(b.off.padStart(5, '0')));
+  document.getElementById('anglist').innerHTML = D.length ? `<div class="tbl"><table class="gt"><thead><tr><th>Race</th><th>Horse</th><th>Angle</th><th>Why</th><th class="n">Model</th><th class="n">Price</th><th>Result</th></tr></thead><tbody>` +
+    D.map(a => `<tr><td>${esc(a.off)} ${esc(a.course)}</td><td class="horse">${esc(a.horse)}</td><td>${esc(a.name)}</td><td class="sub">${esc(a.why)}</td><td class="n">${pct(a.model_p)}</td><td class="n">${a.price ?? '–'}</td>` +
+      `<td>${a.pl == null ? '<span class="empty">pending</span>' : `${esc(a.pos)} · <span class="${a.pl >= 0 ? 'pos' : 'neg'}">${pts(a.pl)}</span>${a.settle_price === 'SP' ? ' <span class="sub">(SP)</span>' : ''}`}</td></tr>`).join('') + '</tbody></table></div>'
+    : `<p class="empty">No angle qualifiers on ${fmtDay(state.day)}${state.day < '2026-10-15' ? ' (tracking started 15 Oct 2026)' : ''}.</p>`;
+}
+
+function ewSection() {
+  if (!document.getElementById('ew')) return;
+  const E = DATA.ew || [];
+  const fw = E.filter(e => !e.pilot && e.void !== 'stale lay');
+  const kpi = st => { const S = fw.filter(e => e.strategy === st && e.pl != null); const pl = S.reduce((a, e) => a + e.pl, 0);
+    const exp = S.reduce((a, e) => a + 2 * (st === 'A' ? e.ev : e.evB), 0);
+    return [[`Plan ${st} bets settled`, S.length], [`Plan ${st} P/L (£1 e/w)`, S.length ? `<span class="${pl >= 0 ? 'pos' : 'neg'}">${pts(pl)}</span>` : '–'], [`Plan ${st} expected`, S.length ? pts(exp) : '–']]; };
+  const S = st => fw.filter(e => e.strategy === st && e.pl != null);
+  const plOf = L => L.reduce((a, e) => a + e.pl, 0), expOf = (L, st) => L.reduce((a, e) => a + 2 * (st === 'A' ? e.ev : e.evB), 0);
+  const cell = st => { const L = S(st); return L.length ? `<span class="${plOf(L) >= 0 ? 'pos' : 'neg'}">${pts(plOf(L))}</span>` : '–'; };
+  const k = [['Plan B bets settled', S('B').length], ['Plan B P/L, £1 e/w', cell('B')], ['Plan B expected P/L', S('B').length ? pts(expOf(S('B'), 'B')) : '–'],
+    ['Plan A settled · P/L', `${S('A').length} · ${cell('A')}`], ['Awaiting result', fw.filter(e => e.pl == null).length]];
+  document.getElementById('ewkpis').innerHTML = k.map(([l, v]) => `<div class="kpi"><b>${v}</b><span>${l}</span></div>`).join('');
+  const D = E.filter(e => e.day === state.day).sort((a, b) => (a.off.padStart(5, '0')).localeCompare(b.off.padStart(5, '0')) || a.strategy.localeCompare(b.strategy));
+  const snap = D.length ? String(D[0].captured).slice(11, 16) + ' UK' : '';
+  const res = e => e.void === 'stale lay' ? `Finished ${esc(e.pos)} · <span class="sub">void: exchange lay price was stale (under 70% of the bookmaker price), not counted</span>` : e.pl == null ? '<span class="empty">pending</span>' : `Finished ${esc(e.pos)} · <span class="${e.pl >= 0 ? 'pos' : 'neg'}">${pts(e.pl)}</span>`;
+  const val = e => { const v = 100 * (e.strategy === 'A' ? e.ev : e.evB); return (v >= 0 ? '+' : '') + v.toFixed(1) + '%'; };
+  document.getElementById('ewlist').innerHTML = D.length ? `<div class="note">${fmtDay(state.day)}${D.some(e => e.pilot) ? ' (pilot, not counted)' : ''} · prices at ${snap} · stakes per £1 each-way (£2 total)</div>` +
+    `<div class="ewgrid">` + D.map(e => `<div class="ewc"><div class="ewh"><span>${esc(e.off)} ${esc(e.course)}</span><span class="sub">${e.n} runners${e.hcap ? ' · hcap' : ''}</span><span class="ewv">${val(e)}</span></div>` +
+      `<div class="horse">${esc(e.horse)} <span class="tag">Plan ${e.strategy}</span>${e.extra_place ? ' <span class="flag up">extra place</span>' : ''}</div>` +
+      `<div>Back £1 e/w with <b>${esc(e.book)}</b> at <b>${e.price_frac ? esc(e.price_frac) : e.price}</b> · ${e.places} places at 1/${e.denom}</div>` +
+      (e.strategy === 'B' ? `<div>Lay <b>£${(e.price / (e.lay - 0.02)).toFixed(2)}</b> win on Betfair at <b>${e.lay}</b> or lower</div>` : '') +
+      `<div class="sub">${res(e)}</div></div>`).join('') + `</div>`
+    : `<p class="empty">No each-way bets flagged for ${fmtDay(state.day)}.</p>`;
+}
+
+function guide() {
+  const G = DATA.guide || {}; const courses = [...new Set(Object.values(G).map(e => e.c))].sort();
+  const sel = document.getElementById('gcourse');
+  let cur = courses[0];
+  try { const c = localStorage.getItem('rr-guide'); if (c && courses.includes(c)) cur = c; } catch (e) {}
+  sel.innerHTML = courses.map(c => `<option ${c === cur ? 'selected' : ''}>${esc(c)}</option>`).join('');
+  const cellH = v => { if (!v) return '<td class="n empty">–</td>';
+    const [iv, e, r, n, ivs, ex] = v; const strong = ex >= 15 && e != null && r != null;
+    const cls = strong && ivs >= 1.12 && e > 1.05 && r > 1.05 ? 'gbg' : strong && ivs <= 0.89 && e < 0.95 && r < 0.95 ? 'gbb' : 'gbn';
+    return `<td class="n ${cls}" title="2020–23: ${e ?? '–'} · 2024–26: ${r ?? '–'} · ${n} runners">${iv.toFixed(2)}</td>`; };
+  const draw = () => { const rows = Object.values(G).filter(e => e.c === sel.value).sort((a, b) => a.d - b.d);
+    document.getElementById('gtbl').innerHTML = `<thead><tr><th></th><th></th><th colspan="3" class="grp">Draw</th><th colspan="4" class="grp">Run style</th></tr><tr><th>Dist</th><th class="n">Races</th><th class="n">Low</th><th class="n">Mid</th><th class="n">High</th><th class="n">Lead</th><th class="n">Prom</th><th class="n">Mid</th><th class="n">Held up</th></tr></thead><tbody>` +
+      rows.map(e => `<tr><td>${e.d}f</td><td class="n">${e.r}</td>${['Low', 'Middle', 'High'].map(k => cellH(e.dr[k])).join('')}${['Leader', 'Prominent', 'Midfield', 'Held up'].map(k => cellH(e.st[k])).join('')}</tr>`).join('') + '</tbody>'; };
+  sel.onchange = () => { try { localStorage.setItem('rr-guide', sel.value); } catch (e) {} draw(); };
+  const JE = DATA.jedges || [];
+  const jdraw = () => {
+    const by = {}; JE.forEach(e => { (by[e.course] = by[e.course] || {})[e.rtype] = e; });
+    const cs = Object.keys(by).filter(c => c !== 'All courses' && by[c].All && by[c].All.races >= 60).sort((a, b) => by[b].All.edge_s - by[a].All.edge_s);
+    const cell = e => !e ? '<td class="n empty">–</td>' : `<td class="n ${e.races < 60 ? 'gbn' : e.edge_s >= 1.40 ? 'gbg' : ''}" title="${e.races} races">${e.edge_s.toFixed(2)}</td>`;
+    document.getElementById('gtbl').innerHTML = `<thead><tr><th>Course</th><th class="n">Races</th><th class="n">All jumps</th><th class="n">Hurdle</th><th class="n">Chase</th><th class="n">Bumper</th></tr></thead><tbody>` +
+      ['All courses', ...cs].map(c => `<tr><td>${esc(c)}</td><td class="n">${by[c].All ? by[c].All.races : '–'}</td>${cell(by[c].All)}${cell(by[c].Hurdle)}${cell(by[c].Chase)}${cell(by[c]['NH Flat'])}</tr>`).join('') + '</tbody>';
+  };
+  document.querySelectorAll('#gcode button').forEach(b => b.onclick = () => {
+    const j = b.dataset.g === 'jumps';
+    document.querySelectorAll('#gcode button').forEach(x => x.setAttribute('aria-pressed', x === b));
+    sel.hidden = j; document.getElementById('gclab').hidden = j; document.getElementById('gjnote').hidden = !j;
+    j ? jdraw() : draw();
+  });
+  draw();
+}
+
+function reviewSection() {
+  const R = (DATA.reviews || {})[state.day], el = document.getElementById('rvbody');
+  if (!R) { el.innerHTML = `<p class="empty">The review for ${fmtDay(state.day)} appears once that day's results are in.</p>`; return; }
+  const s = R.summary, c = R.cumulative;
+  const k = [['Races reviewed', s.races], ['Top picks won · placed', `${s.top_won} · ${s.top_placed}`], ['Market favourite won', s.fav_won ?? '–'],
+    ['Winner in model top 3', `${s.winner_in_top3} of ${s.races}`], ['Pace as predicted', `${s.pace_right} of ${s.pace_checked}`],
+    ['Predicted leaders on the pace', `${s.leaders_on_pace} of ${s.leaders_checked}`],
+    ['Finishing order match: model · market', `${s.rho_model ?? '–'} · ${s.rho_market ?? '–'}`],
+    ['Places out per runner: model · market', `${s.out_model ?? '–'} · ${s.out_market ?? '–'}`],
+    ['Races where model order was closer', `${s.model_closer ?? '–'} of ${s.races}`]];
+  const vcls = v => v === 'As predicted' ? 'pos' : v === "Can't tell" ? 'empty' : 'neg';
+  el.innerHTML = `<div class="kpis">${k.map(([l, v]) => `<div class="kpi"><b>${v}</b><span>${l}</span></div>`).join('')}</div>` +
+    `<div class="note">Running total over ${c.days} reviewed day${c.days > 1 ? 's' : ''}: top picks won ${c.top_won} of ${c.races} races; market favourites ${c.fav_won}; ` +
+    `pace as predicted ${c.pace_right ?? '–'} of ${c.pace_checked ?? '–'}; finishing-order match model ${c.rho_model ?? '–'} vs market ${c.rho_market ?? '–'}. ` +
+    `<b>Finishing order match</b> is the rank correlation between predicted order and finishing order (1 = perfect, 0 = random); over Jan–Oct 2026 the model averaged 0.33 and Betfair SP 0.47. Early positions come from ${R.races.some(r => r.src === 'RaceIQ') ? 'RaceIQ sectionals where available, otherwise ' : ''}the in-running comments.</div>` +
+    `<details><summary>Race by race</summary><div class="rvlist">` + R.races.map(r => `<div class="rvrow">` +
+      `<div class="rvh"><b>${esc(r.off)} ${esc(r.course)}</b><span class="sub">${r.code === 'Jumps' ? 'Jumps · ' : ''}${r.field} ran</span></div>` +
+      `<div>Won: <b>${esc(r.winner)}</b> <span class="sub">(model #${r.winner_rank}, ${pct(r.winner_p)}${r.winner_sp ? ', SP ' + r.winner_sp : ''}${r.winner_style !== 'Unknown' ? ', raced ' + r.winner_style.toLowerCase() : ''})</span></div>` +
+      (r.winner_rank > 1 ? `<div>Top pick <b>${esc(r.top)}</b> finished ${esc(r.top_pos)}${r.top_trouble.length ? ` <span class="flag dn">${esc(r.top_trouble.join(', '))}</span>` : ''}<div class="sub">${esc(r.top_comment)}</div></div>` : '<div class="pos">Top pick won</div>') +
+      `<div class="sub">Finishing order match: model ${r.rho_model ?? '–'} · market ${r.rho_market ?? '–'}</div>` +
+      (r.movers && r.movers.length ? `<div>Biggest surprises: ${r.movers.map(m => `<b>${esc(m.horse)}</b> (ranked ${m.pred}, finished ${esc(m.pos)}${m.trouble.length ? ' · ' + esc(m.trouble.join(', ')) : ''})`).join('; ')}</div>` : '') +
+      `<details class="ord"><summary>Every runner: predicted vs finished</summary><table class="ordt"><thead><tr><th>Finished</th><th>Horse</th><th class="n">Our rank</th><th class="n">Places</th></tr></thead><tbody>` +
+      r.order.map(o => `<tr><td>${esc(o.pos)}</td><td>${esc(o.horse)}</td><td class="n">${o.pred}</td><td class="n ${o.diff > 0 ? 'pos' : o.diff < 0 ? 'neg' : ''}">${o.diff > 0 ? '+' : ''}${o.diff}</td></tr>`).join('') + `</tbody></table></details>` +
+      `<div>Pace: predicted <b>${esc(r.pred_shape)}</b>, ran <b>${esc(r.act_shape)}</b> · <span class="${vcls(r.verdict)}">${esc(r.verdict)}</span>` +
+      (r.leaders.length ? `<span class="sub"> · predicted leaders: ${r.leaders.map(l => `${esc(l.horse)} (${l.act === 'Unknown' ? '?' : l.act.toLowerCase()})`).join(', ')}</span>` : '') + `</div></div>`).join('') + `</div></details>` +
+    `<details><summary>Scoreboard: did each reason work?</summary><div class="note" style="margin:6px 0">For each reason shown on the cards, over all reviewed days: <b>Actual / expected</b> compares winners with the model's expected winners (1.00 = as expected), and <b>Places vs expected</b> compares every horse's finishing position with its expected position from the model's chances (positive = those horses finished better than the model thought). The places measure uses every runner, so it settles much faster than the winners measure. Wait for 200+ runners before reading anything into a figure.</div>` +
+    `<div class="tbl"><table class="gt"><thead><tr><th>Reason (+ for, − against)</th><th class="n">Runners</th><th class="n">Won</th><th class="n">Expected</th><th class="n">Actual / expected</th><th class="n">Places vs expected</th></tr></thead><tbody>` +
+    R.board.map(b => `<tr><td>${esc(b.flag.replace(/ -$/, ' −'))}</td><td class="n">${b.runners}</td><td class="n">${b.wins}</td><td class="n">${b.expected}</td><td class="n ${b.runners >= 200 ? (b.ae >= 1.15 ? 'pos' : b.ae <= 0.85 ? 'neg' : '') : 'empty'}">${b.ae ?? '–'}</td><td class="n ${b.runners >= 200 ? (b.places >= 0.3 ? 'pos' : b.places <= -0.3 ? 'neg' : '') : 'empty'}">${b.places == null ? '–' : (b.places > 0 ? '+' : '') + b.places}</td></tr>`).join('') + '</tbody></table></div></details>';
+}
+
+function controls() {
+  document.getElementById('days').innerHTML = days.map((d, i) => `<button id="d-${i}" data-d="${d}" aria-pressed="${d === state.day}">${fmtDay(d)}</button>`).join('');
+  document.querySelectorAll('#days button').forEach(b => b.onclick = () => { state.day = b.dataset.d; state.course = 'all'; render(); });
+  document.querySelectorAll('#types button').forEach(b => b.onclick = () => { state.type = b.dataset.v; saveState(); render(); });
+  document.querySelectorAll('#codes button').forEach(b => b.onclick = () => { state.code = b.dataset.c; state.course = 'all'; saveState(); render(); });
+  document.getElementById('course').onchange = e => { state.course = e.target.value; render(); };
+}
+
+let SILK_N = 0;
+function silkSVG(s) {
+  if (!s) return '';
+  const id = 'sk' + (++SILK_N);
+  const star = (cx, cy, r, c) => { let p = ''; for (let i = 0; i < 10; i++) { const a = -Math.PI / 2 + i * Math.PI / 5, rr = i % 2 ? r * 0.45 : r; p += (i ? 'L' : 'M') + (cx + rr * Math.cos(a)).toFixed(2) + ' ' + (cy + rr * Math.sin(a)).toFixed(2); } return `<path d="${p}Z" fill="${c}"/>`; };
+  const R = (x, y, w, h, c) => `<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="${c}"/>`;
+  const P = (pts, c) => `<polygon points="${pts}" fill="${c}"/>`;
+  const C = (cx, cy, r, c) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="${c}"/>`;
+  const L = (x1, y1, x2, y2, c, w) => `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="${c}" stroke-width="${w}"/>`;
+  function paint(pt, c1, c2, b) {
+    c2 = c2 || c1; const { x, y, w, h } = b, cx = x + w / 2, cy = y + h / 2; let o = R(x, y, w, h, c1);
+    switch (pt) {
+      case 'hoops': for (let i = 1; i < 6; i += 2) o += R(x, y + i * h / 6, w, h / 6, c2); break;
+      case 'hoop': case 'armlet': o += R(x, y + h * 0.42, w, h * 0.18, c2); break;
+      case 'stripes': for (let i = 1; i < 7; i += 2) o += R(x + i * w / 7, y, w / 7, h, c2); break;
+      case 'stripe': o += R(cx - w * 0.09, y, w * 0.18, h, c2); break;
+      case 'check': for (let i = 0; i < 5; i++) for (let j = 0; j < 5; j++) if ((i + j) % 2) o += R(x + i * w / 5, y + j * h / 5, w / 5, h / 5, c2); break;
+      case 'quartered': o += R(x, y, w / 2, h / 2, c2) + R(cx, cy, w / 2, h / 2, c2); break;
+      case 'halved': o += R(cx, y, w / 2, h, c2); break;
+      case 'diamond': o += P(`${cx},${y + h * 0.15} ${x + w * 0.82},${cy} ${cx},${y + h * 0.85} ${x + w * 0.18},${cy}`, c2); break;
+      case 'triple-diamond': for (let i = 0; i < 3; i++) { const yy = y + h * (0.2 + i * 0.3); o += P(`${cx},${yy - h * 0.13} ${cx + w * 0.2},${yy} ${cx},${yy + h * 0.13} ${cx - w * 0.2},${yy}`, c2); } break;
+      case 'diamonds': for (let i = 0; i < 3; i++) for (let j = 0; j < 3; j++) { const xx = x + w * (0.2 + i * 0.3), yy = y + h * (0.2 + j * 0.3); o += P(`${xx},${yy - h * 0.1} ${xx + w * 0.1},${yy} ${xx},${yy + h * 0.1} ${xx - w * 0.1},${yy}`, c2); } break;
+      case 'star': case 'fleur-de-lys': o += star(cx, cy, Math.min(w, h) * 0.32, c2); break;
+      case 'stars': for (let i = 0; i < 3; i++) for (let j = 0; j < 3; j++) o += star(x + w * (0.2 + i * 0.3), y + h * (0.2 + j * 0.3), Math.min(w, h) * 0.11, c2); break;
+      case 'spots': for (let i = 0; i < 3; i++) for (let j = 0; j < 3; j++) o += C(x + w * (0.2 + i * 0.3), y + h * (0.2 + j * 0.3), Math.min(w, h) * 0.07, c2); break;
+      case 'large-spots': for (let i = 0; i < 2; i++) for (let j = 0; j < 2; j++) o += C(x + w * (0.3 + i * 0.4), y + h * (0.3 + j * 0.4), Math.min(w, h) * 0.13, c2); break;
+      case 'disc': o += C(cx, cy, Math.min(w, h) * 0.28, c2); break;
+      case 'chevron': o += `<polyline points="${x},${y + h * 0.3} ${cx},${y + h * 0.6} ${x + w},${y + h * 0.3}" fill="none" stroke="${c2}" stroke-width="${h * 0.14}"/>`; break;
+      case 'chevrons': case 'chevrons-dual': for (let i = 0; i < (pt === 'chevrons' ? 3 : 2); i++) o += `<polyline points="${x},${y + h * (0.15 + i * 0.28)} ${cx},${y + h * (0.35 + i * 0.28)} ${x + w},${y + h * (0.15 + i * 0.28)}" fill="none" stroke="${c2}" stroke-width="${h * 0.08}"/>`; break;
+      case 'cross-belts': o += L(x, y, x + w, y + h, c2, w * 0.14) + L(x + w, y, x, y + h, c2, w * 0.14); break;
+      case 'sash': o += L(x, y, x + w, y + h, c2, w * 0.2); break;
+      case 'braces': o += R(x + w * 0.25, y, w * 0.1, h, c2) + R(x + w * 0.65, y, w * 0.1, h, c2); break;
+      case 'epaulettes': o += R(x, y, w * 0.28, h * 0.14, c2) + R(x + w * 0.72, y, w * 0.28, h * 0.14, c2); break;
+      case 'seams': o += R(x + w * 0.12, y, w * 0.05, h, c2) + R(x + w * 0.83, y, w * 0.05, h, c2); break;
+      case 'diabolo': o += P(`${x + w * 0.15},${y} ${x + w * 0.85},${y} ${cx},${cy} ${x + w * 0.85},${y + h} ${x + w * 0.15},${y + h} ${cx},${cy}`, c2); break;
+      case 'cross': case 'cross-of-lorraine': o += R(cx - w * 0.08, y, w * 0.16, h, c2) + R(x, y + h * 0.3, w, h * 0.12, c2) + (pt === 'cross-of-lorraine' ? R(x + w * 0.2, y + h * 0.55, w * 0.6, h * 0.1, c2) : ''); break;
+      case 'inverted-triangle': o += P(`${x + w * 0.1},${y + h * 0.08} ${x + w * 0.9},${y + h * 0.08} ${cx},${y + h * 0.75}`, c2); break;
+      case 'hollow-box': o += `<rect x="${x + w * 0.22}" y="${y + h * 0.25}" width="${w * 0.56}" height="${h * 0.45}" fill="none" stroke="${c2}" stroke-width="${w * 0.08}"/>`; break;
+      case 'braid': o += `<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="none" stroke="${c2}" stroke-width="${w * 0.1}"/>`; break;
+      case 'yoke': o += R(x, y, w, h * 0.22, c2); break;
+    }
+    return o;
+  }
+  const body = 'M13 9 L27 9 L29.5 34 L10.5 34 Z', sl = 'M13 9 L5.5 11.5 L2 24 L7.5 25 L11 15.5 Z', sr = 'M27 9 L34.5 11.5 L38 24 L32.5 25 L29 15.5 Z';
+  const cap = 'M13.5 8.6 C13.5 1.2 26.5 1.2 26.5 8.6 Z', peak = 'M25 7.2 L32 8.4 L25.5 9.4 Z';
+  const [bp, b1, b2] = s.b, [spt, s1, s2] = s.s, [kp, k1, k2] = s.k;
+  const ol = 'stroke="rgba(0,0,0,.45)" stroke-width=".6" fill="none" stroke-linejoin="round"';
+  return `<svg class="silk" viewBox="0 0 40 35" width="34" height="30" aria-hidden="true"><defs>` +
+    `<clipPath id="${id}b"><path d="${body}"/></clipPath><clipPath id="${id}s"><path d="${sl}"/><path d="${sr}"/></clipPath><clipPath id="${id}k"><path d="${cap}"/></clipPath></defs>` +
+    `<g clip-path="url(#${id}s)">${paint(spt, s1, s2, { x: 1, y: 9, w: 38, h: 17 })}</g>` +
+    `<g clip-path="url(#${id}b)">${paint(bp, b1, b2, { x: 10, y: 9, w: 20, h: 25 })}</g>` +
+    `<g clip-path="url(#${id}k)">${paint(kp, k1, k2, { x: 13, y: 1, w: 14, h: 8 })}</g>` +
+    `<path d="${peak}" fill="${s.pk || k1}"/>` +
+    (s.co ? `<path d="M16.5 9 L20 12.5 L23.5 9 Z" fill="${s.co}"/>` : '') +
+    (s.cu ? `<path d="M2 22.3 L7.8 23.4 L7.5 25 L2 24 Z M38 22.3 L32.2 23.4 L32.5 25 L38 24 Z" fill="${s.cu}"/>` : '') +
+    `<path d="${sl}" ${ol}/><path d="${sr}" ${ol}/><path d="${body}" ${ol}/><path d="${cap}" ${ol}/></svg>`;
+}
+
+// Notes from inputs that add nothing once the rest of the profile is known (Bayesian feature-strength report, 20 Oct 2026):
+// shown greyed and listed last. "Looks well handicapped" is minor because, all else equal, such horses do slightly WORSE.
+const MINOR = [/similar (going|course|trip)/i, /excuse last time/i, /First-time headgear/i, /^Pace:/i, /^Course:/i, /^Draw \d/i,
+  /jumping mistakes/i, /Fell or unseated/i, /^First run for \d+ days/i, /lb less than average/i, /current mark \(looks (well handicapped|high)/i];
+const isMinor = x => MINOR.some(re => re.test(x));
+const noteList = L => { const a = L.filter(x => !isMinor(x)), b = L.filter(isMinor);
+  return '<ul>' + a.map(x => `<li>${esc(x)}</li>`).join('') + b.map(x => `<li class="minor">${esc(x)} <span class="mtag">minor</span></li>`).join('') + '</ul>'; };
+function runnerRow(h, i) {
+  const ratio = h.mkt ? h.p / h.mkt : null;
+  const flag = ratio == null ? '' : ratio >= 1.25 ? `<span class="flag up" title="Model rates it higher than the market">model ×${ratio.toFixed(1)}</span>` : ratio <= 0.8 ? `<span class="flag dn">market ×${(1 / ratio).toFixed(1)}</span>` : '';
+  const figs = h.hist.length ? h.hist.map(r => `<b>${r.fig ?? '–'}</b>/${r.spd ?? '–'}`).join(' · ') : '<span class="empty">no runs in data</span>';
+  const why = `<details><summary>Why · last runs</summary><div class="why">` +
+    `<div class="f"><h4>For</h4>${h.pros.length ? noteList(h.pros) : '<div class="empty">Nothing stands out</div>'}</div>` +
+    `<div class="a"><h4>Against</h4>${h.cons.length ? noteList(h.cons) : '<div class="empty">Nothing stands out</div>'}</div></div>` +
+    (h.h2h && h.h2h.length ? `<div class="h2h"><h4>Met today's rivals (last 12 months)</h4><ul>${h.h2h.map(x => `<li>${esc(x.text)}</li>`).join('')}</ul><div class="sub">Context only: in testing, head-to-heads added nothing to the form figures already in the model.</div></div>` : '') +
+    (h.hist.length ? `<table class="runs"><thead><tr><th>Date</th><th>Course</th><th>Dist</th><th>Going</th><th class="n">Pos</th><th class="n">Form fig</th><th class="n">SR</th><th class="n">Time vs std</th></tr></thead><tbody>` +
+      h.hist.slice().reverse().map(r => `<tr><td>${r.date}</td><td>${esc(r.course)}</td><td>${r.dist}</td><td>${esc(r.going)}</td><td class="n">${esc(r.pos)}/${r.n}</td>` +
+        `<td class="n">${r.fig ?? '–'}</td><td class="n">${r.spd ?? '–'}</td><td class="n">${r.tfig == null ? '–' : (r.tfig > 0 ? '+' : '') + r.tfig + ' lb'}</td></tr>`).join('') + '</tbody></table>' : '') + `</details>`;
+  return `<tr class="${i === 0 ? 'top' : ''}"><td class="n">${i + 1}</td><td><div class="horse">${silkSVG(h.silk)}<span>${esc(h.horse)}</span></div>${(h.angles || []).map(a => `<span class="flag ang" title="${esc(a.why)} (paper-tracked angle, not proven)">${esc(a.name)}</span>`).join(' ')}</td>` +
+    `<td><span class="style ${h.style.replace(' ', '')}">${h.style}</span></td><td class="n">${h.OR ?? '–'}</td><td class="n">${h.lbs ?? '–'}</td><td class="n">${h.draw ?? '–'}</td>` +
+    `<td class="figs">${figs}</td><td class="n"><b>${pct(h.p)}</b></td><td class="n">${h.best ?? '–'}</td><td class="n">${pct(h.mkt)}${h.mkt ? `<div class="sub">${(1 / h.mkt) < 10 ? (1 / h.mkt).toFixed(2) : (1 / h.mkt).toFixed(1)}</div>` : ''}</td><td>${flag}</td></tr><tr class="detail ${i === 0 ? 'top' : ''}"><td></td><td colspan="10">${why}</td></tr>`;
+}
+
+function render() {
+  const rep = DATA.reports.find(r => r.day === state.day);
+  ewSection(); l15Section(); angleSection(); reviewSection();
+  document.getElementById('title').textContent = `Race Reports · ${fmtDay(rep.day)}`;
+  const nj = rep.races.filter(r => codeOf(r) === 'Jumps').length;
+  document.getElementById('meta').textContent = `${rep.races.length} races (${rep.races.length - nj} Flat, ${nj} jumps) · GB & IRE · prices: ${rep.price_note || 'n/a'} · built ${rep.generated} UK`;
+  document.querySelectorAll('#days button').forEach(b => b.setAttribute('aria-pressed', b.dataset.d === state.day));
+  document.querySelectorAll('#types button').forEach(b => b.setAttribute('aria-pressed', b.dataset.v === state.type));
+  document.querySelectorAll('#codes button').forEach(b => b.setAttribute('aria-pressed', b.dataset.c === state.code));
+  const pool = rep.races.filter(r => state.code === 'all' || codeOf(r) === state.code);
+  const courses = [...new Set(pool.map(r => r.course))];
+  const sel = document.getElementById('course');
+  sel.innerHTML = '<option value="all">All courses</option>' + courses.map(c => `<option ${c === state.course ? 'selected' : ''}>${esc(c)}</option>`).join('');
+  const races = pool.filter(r => (state.type === 'all' || (state.type === 'h') === r.hcap) && (state.course === 'all' || r.course === state.course));
+  const res = Object.fromEntries(DATA.tracker.filter(t => t.day === rep.day).map(t => [t.race_id, t]));
+  document.getElementById('races').innerHTML = races.length ? races.map(r => {
+    const t = res[r.race_id];
+    const out = t && t.pos != null ? `<span class="tag ${String(t.pos) === '1' ? 'h' : ''}">Top pick finished ${esc(t.pos)}${t.sp ? ' · SP ' + t.sp : ''}</span>` : '';
+    return `<article class="race" id="r-${r.race_id}"><div class="rhead"><span class="time">${esc(r.off)}</span><span class="course">${esc(r.course)}</span>` +
+      `<div class="tags">${r.rtype ? `<span class="tag j">${esc(r.rtype)}</span>` : ''}${r.hcap ? '<span class="tag h">Handicap</span>' : ''}<span class="tag">${esc(r.dist)}</span><span class="tag">${esc(r.going)}</span>` +
+      `${r.cls ? `<span class="tag">${esc(r.cls)}</span>` : ''}<span class="tag">${r.field} runners</span>${out}</div><div class="rname">${esc(r.name)}</div></div>` +
+      `<div class="shape"><span class="pill">${esc(r.shape.label)}</span><span>${esc(r.shape.note)}</span></div>` +
+      (r.bias && r.bias.length ? `<div class="shape biasln"><span class="pill">Course</span><span>${r.bias.map(b => `<span class="${b[0] === '+' ? 'pos' : 'neg'}">${esc(b[0])}</span> ${esc(b.slice(2))}`).join('<br>')}</span></div>` : '') +
+      `<div class="tbl"><table><thead><tr><th class="n">#</th><th>Horse</th><th>Run style</th><th class="n">OR</th><th class="n">Lbs</th><th class="n">Draw</th>` +
+      `<th>Last 3: form fig / SR <a href="#how" style="color:var(--accent);text-decoration:none" aria-label="How the figures work">ⓘ</a></th><th class="n">Model</th><th class="n">Best price</th><th class="n">Fair (market)</th><th></th></tr></thead><tbody>` +
+      r.runners.map(runnerRow).join('') + '</tbody></table></div>' + changeBox(rep.day, r.race_id) + betBox(rep.day, r.race_id) + '</article>';
+  }).join('') : '<p class="empty">No races match these filters.</p>';
+}
+function changeBox(day, rid) {
+  const c = (DATA.changes || {})[day]; if (!c) return '';
+  const b = (c.races || {})[rid] || []; if (!b.length) return '';
+  return '<div class="chgbox"><div class="bb-h">CHANGED SINCE 9AM' + (c.updated ? ' (last check ' + esc(c.updated) + ')' : '') + '</div><ul>' + b.map(x => '<li>' + esc(x) + '</li>').join('') + '</ul></div>';
+}
+function betBox(day, rid) {
+  const all = (DATA.bets || {})[day]; if (!all) return '';
+  const b = all[rid] || [];
+  return '<div class="betbox ' + (b.length ? 'yes' : 'no') + '">' + (b.length ? '<div class="bb-h">REVIEWER SAYS BET</div><ul>' + b.map(x => '<li>' + esc(x) + '</li>').join('') + '</ul>' : '<div class="bb-h">Reviewer: no bet</div>') + '</div>';
+}
+function bayesSection() {
+  const B = (DATA.bayes || []); const el = document.getElementById('bytbl'); if (!el) return;
+  const pc = v => (v >= 0 ? '+' : '') + (100 * v).toFixed(1) + '%';
+  el.innerHTML = '<thead><tr><th>Strategy</th><th>Settled bets</th><th>Observed return</th><th>Best guess</th><th>Chance the edge is real</th><th>Basis</th></tr></thead><tbody>' +
+    B.map(b => `<tr><td>${esc(b.strategy)}${b.note ? `<div class="sub">${esc(b.note)}</div>` : ''}</td><td>${b.n}</td><td class="${b.obs >= 0 ? 'pos' : 'neg'}">${pc(b.obs)}</td>` +
+      `<td class="${b.best >= 0 ? 'pos' : 'neg'}"><b>${pc(b.best)}</b></td><td><b>${Math.round(100 * b.p)}%</b></td><td class="sub">${esc(b.basis)}</td></tr>`).join('') + '</tbody>';
+}
+function xwSection() {
+  const X = DATA.xw || [], el = document.getElementById('xwtbl'); if (!el) return;
+  if (!X.length) { el.innerHTML = '<tbody><tr><td>No settled picks yet.</td></tr></tbody>'; return; }
+  const lists = [...new Set(X.map(r => r.list))];
+  const f2 = v => v == null ? '–' : v.toFixed(2);
+  const cell = r => r ? `${r.won} <span class="sub">/ ${f2(r.xw9)}</span>` : '–';
+  const luck = z => z == null ? '–' : z >= 2 ? '<b class="pos">Ahead beyond luck</b>' : z <= -2 ? '<b class="neg">Behind beyond luck</b>' : 'Within luck';
+  const ae = v => v == null ? '–' : `<span class="${v >= 1 ? 'pos' : 'neg'}">${v.toFixed(2)}</span>`;
+  el.innerHTML = '<thead><tr><th>List</th><th>Last day<div class="sub">winners / xW</div></th><th>This month<div class="sub">winners / xW</div></th><th>All time<div class="sub">winners / xW</div></th>' +
+    '<th>Actual ÷ expected<div class="sub">9am prices</div></th><th>Luck check<div class="sub">9am prices</div></th><th>Actual ÷ expected<div class="sub">BSP</div></th></tr></thead><tbody>' +
+    lists.map(l => {
+      const g = p => X.find(r => r.list === l && r.period.startsWith(p));
+      const d = g('Last day'), m = g('This month'), a = g('All time');
+      return `<tr><td>${esc(l)}<div class="sub">${a ? a.n + ' picks since ' + a.first.slice(8) + '/' + a.first.slice(5, 7) : ''}${d ? ' · last day ' + d.period.slice(10, 15) : ''}</div></td><td>${cell(d)}</td><td>${cell(m)}</td><td>${cell(a)}</td>` +
+        `<td>${ae(a && a.ae9)}</td><td>${luck(a && a.z9)}</td><td>${a && a.aeb != null ? ae(a.aeb) + `<div class="sub">${a.wb} / ${f2(a.xwb)} (${a.nb} picks)</div>` : '–'}</td></tr>`;
+    }).join('') + '</tbody>';
+  const S = X.filter(r => r.period === 'Segment'), es = document.getElementById('xwseg');
+  if (es) es.innerHTML = '<thead><tr><th>List</th><th>Race type</th><th>Picks</th><th>Winners / xW<div class="sub">9am prices</div></th><th>Actual ÷ expected<div class="sub">9am prices</div></th><th>Luck check</th><th>Actual ÷ expected<div class="sub">BSP</div></th></tr></thead><tbody>' +
+    S.map(r => `<tr><td>${esc(r.list)}</td><td>${esc(r.seg)}</td><td>${r.n}</td><td>${r.won} <span class="sub">/ ${f2(r.xw9)}</span></td><td>${ae(r.ae9)}</td><td>${luck(r.z9)}</td><td>${r.aeb != null ? ae(r.aeb) + ` <span class="sub">(${r.nb})</span>` : '–'}</td></tr>`).join('') + '</tbody>';
+}
+controls(); tracker(); bayesSection(); xwSection(); guide(); render();
+</script>
+
+</body></html>
