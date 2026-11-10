@@ -68,14 +68,18 @@ def main(day):
         s = pd.read_csv(p("data", "live_days.csv"))
         if (s.day == day).any():
             status = s[s.day == day].status.iloc[-1]
+    mf = p("store", day, "model.json")
+    model = json.load(open(mf))["races"] if os.path.exists(mf) else {}
     races, bets = [], {}
     for r in card:
+        mr = model.get(r["race_id"], {})
         mk = race_market(r)
         name = r.get("race_name") or ""
         hcap = "handicap" in name.lower() or "nursery" in name.lower()
         runners = []
         for h in r["runners"]:
             m = mk[h["horse_id"]]
+            md = (mr.get("runners") or {}).get(h["horse_id"])
             row = t.loc[(r["race_id"], h["horse_id"])] if (r["race_id"], h["horse_id"]) in t.index else None
             rev = None if row is None else float(row.rev) / 100
             pros, cons = [], []
@@ -86,19 +90,27 @@ def main(day):
             if unknown_runner(h):
                 cons.append("Unknown runner: no form and no card comment (race excluded from the bot file)")
             txt = (h.get("spotlight") or h.get("comment") or "").strip()
+            if md:
+                pros = md["pros"] + pros
+                cons = md["cons"] + cons
+                if rev is not None:
+                    (pros if rev > (m["mkt"] or 0) / 100 else cons).append(f"Sealed reviewer chance {rev:.0%} (market {(m['mkt'] or 0):.0f}%)")
             runners.append({"horse": h["horse"], "age": h.get("age"), "OR": None if h.get("ofr") in ("", "-", None) else h.get("ofr"),
-                            "lbs": h.get("lbs"), "draw": None if str(h.get("draw")) in ("", "0") else h.get("draw"), "style": "Unknown",
-                            "lead": None, "p": rev, "best": m["best_ex"], "bf": None, "mkt": (m["mkt"] or 0) / 100 or None,
-                            "runs": None, "days": h.get("last_run"), "hist": [], "pros": pros + ([note] if note else []),
-                            "cons": cons + ([f"Card comment: {txt}"] if txt else []), "h2h": [], "silk": silk(h.get("silk_url", ""))})
+                            "lbs": h.get("lbs"), "draw": None if str(h.get("draw")) in ("", "0") else h.get("draw"),
+                            "style": md["style"] if md else "Unknown", "lead": md["lead"] if md else None,
+                            "p": md["p"] if md else rev, "best": m["best_ex"], "bf": None, "mkt": (m["mkt"] or 0) / 100 or None,
+                            "runs": md["runs"] if md else None, "days": h.get("last_run"), "hist": md["hist"] if md else [],
+                            "pros": pros + ([note] if note and not md else []),
+                            "cons": cons + ([f"Card comment: {txt}"] if txt else []), "h2h": md["h2h"] if md else [],
+                            "silk": silk(h.get("silk_url", ""))})
         runners.sort(key=lambda x: -(x["p"] or x["mkt"] or 0))
         off = pd.Timestamp(r["off_dt"]).tz_convert("Europe/London").strftime("%H:%M")
         rtype = None if code_of(r) == "Flat" else r.get("type")
         races.append({"race_id": r["race_id"], "course": r["course"], "off": off, "off_dt": r["off_dt"], "name": name[:80],
                       "dist": r.get("distance_round") or r.get("distance"), "going": r.get("going"), "cls": r.get("race_class"),
                       "region": r.get("region"), "hcap": hcap, "field": len(r["runners"]), "code": code_of(r), "rtype": rtype,
-                      "shape": {"label": "Pace: not rebuilt yet", "note": "The early-position model is being rebuilt; run styles and race shape return when it is."},
-                      "bias": [], "bias_key": f"{r['course']} {furlongs(r.get('distance_f'))}", "runners": runners,
+                      "shape": mr.get("shape") or {"label": "Unclear", "note": "No model output for this race."},
+                      "bias": [], "bias_key": mr.get("bias_key"), "runners": runners,
                       "top": runners[0]["horse"] if runners else None})
         if len(det):
             b = det[(det.Status == "BOT FILE") & (det.Course == r["course"]) & (det.OffUK == off)]
@@ -106,8 +118,9 @@ def main(day):
                 bets[r["race_id"]] = [f"{x.SelectionName} ({'CHECK BET' if 'CHECK' in x.Source else 'value flag'}; best price {x.BestPrice9am}; "
                                       f"min {x.MinPrice}; reviewer {x.ReviewerChancePct:.0f}% vs market {x.MarketChancePct:.0f}%) - {x.Reason}"
                                       for x in b.itertuples()]
-    note = (f"{status}. Rebuilt pipeline from 10 Nov: the Model column shows the sealed reviewer's chance until the win model is rebuilt; "
-            "best price = best 09:00 exchange price; fair (market) = sharp-weighted 09:00 market")
+    note = (f"{status}. Rebuilt pipeline from 10 Nov: Model = rebuilt win model (form, earlier Betfair prices, ratings; no market), "
+            "run styles from in-running comments; best price = best 09:00 exchange price; market = sharp-weighted 09:00 market"
+            if model else f"{status}. Rebuilt pipeline: Model column shows the sealed reviewer's chance (no model output for this day)")
     rep = {"day": day, "generated": datetime.now(timezone.utc).astimezone().strftime("%H:%M"), "price_note": note, "races": races}
     hist["reports"] = [x for x in hist["reports"] if x["day"] != day] + [rep]
     hist["reports"].sort(key=lambda x: x["day"])

@@ -1,0 +1,26 @@
+Compared 571 races / 5690 runners, 2026-10-26 to 2026-11-09
+
+All: 571 races
+  same top pick as old model: 49%
+  correlation of win chances new vs old: 0.82  (old vs market 0.75, new vs market 0.68)
+  old model: log-loss 2.008; top pick won 27% of 558; top pick at BSP -0.3%
+  new model: log-loss 2.045; top pick won 26% of 558; top pick at BSP +7.3%
+  09:00 market: log-loss 1.751
+
+Jumps: 313 races
+  same top pick as old model: 47%
+  correlation of win chances new vs old: 0.81  (old vs market 0.72, new vs market 0.66)
+  old model: log-loss 1.944; top pick won 26% of 306; top pick at BSP +0.3%
+  new model: log-loss 1.955; top pick won 25% of 306; top pick at BSP +4.2%
+  09:00 market: log-loss 1.650
+
+Run style: both known for 4313 runners; same label 54%; within one step 94%
+Styles known: old 81%, new 83%
+Race shape: same label 37% of 571 races
+shape_new        Even  Lone leader  Slow / tactical  Strong pace  Unclear
+shape_old                                                                
+Even               56           70               76           29       17
+Lone leader        32           53               31            6        9
+Slow / tactical     9           40               58            2        2
+Strong pace         9            6                4           18        1
+Unclear             0            7               10            0       26
