@@ -75,7 +75,7 @@ def code_from_type(t):
 
 def from_racedata_daily():
     """RaceData results files pushed daily by the VPS (raw/racedata/daily/, restored from the raw-data branch)."""
-    fs = sorted(glob.glob(p("raw", "racedata", "daily", "**", "*.csv*"), recursive=True))
+    fs = sorted(glob.glob(p("raw", "racedata", "daily", "**", "*.csv"), recursive=True))
     return from_racedata(fs) if fs else None
 
 
