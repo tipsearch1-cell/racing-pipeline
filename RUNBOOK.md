@@ -23,7 +23,7 @@ Everything needed for the daily chain is in the repo. raw/ (RBD, RaceIQ, odds zi
 1. Settle yesterday (if not done in the evening): get_results YESTERDAY gb,ire detailed limit 50 (skip 50 if total > 50);
    `python3 pipeline/save_res.py YESTERDAY <saved file(s)>`; `python3 pipeline/card_review.py settle YESTERDAY`.
    BSP often arrives 10:00-12:00 UK or a day late: re-save only when complete (the 12:00 check retries).
-1b. History + models: `python3 pipeline/history.py build <yesterday's saved results file(s) from step 1>` (adds yesterday's runs to
+1b. History + models: new RaceIQ exports -> unzip under raw/raceiq/ and `python3 pipeline/raceiq.py` (finishing speed, data/raceiq_runs.csv.gz); `python3 pipeline/history.py build <yesterday's saved results file(s) from step 1>` (adds yesterday's runs to
    data/history_runs.csv.gz); after step 2, `python3 pipeline/models.py run DAY` (win model, run styles, shape, pros/cons, h2h ->
    store/DAY/model.json). Retrain only by a dated prereg amendment (prereg/MODEL_REBUILD_2026-11-10.md).
 2. Card: get_racecards_pro DAY gb,ire detailed limit 50 (skip 50 if total > 50);

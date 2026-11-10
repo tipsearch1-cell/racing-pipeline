@@ -177,6 +177,10 @@ def run_day(day, card=None, oos=False):
     H = load_hist()
     H = H[H.date < day]
     guide = json.load(open(p("report", "history_data.json"))).get("guide", {})
+    from raceiq import load as load_riq
+    riq = load_riq()
+    riq = riq[(riq.date < day) & riq.fsp_rel.notna()]
+    riq_last = {(r.hkey, r.date): r.fsp_rel for r in riq.itertuples()}
     rows = []
     for r in card:
         for h in r["runners"]:
@@ -283,6 +287,12 @@ def run_day(day, card=None, oos=False):
                     cons.append(f"Trainer 0 wins from {tn} runs, last 14 days")
             except (TypeError, ValueError):
                 pass
+            if len(past):
+                fr = riq_last.get((norm(h["horse"]), str(past.date.iloc[-1])))
+                if fr is not None and fr >= 2:
+                    pros.append(f"Last-run finishing speed {fr:+.1f}% vs that field (finished strongly)")
+                elif fr is not None and fr <= -2:
+                    cons.append(f"Last-run finishing speed {fr:+.1f}% vs that field (faded)")
             pn = past.pos.map(pos_num)
             same = past[past.type.isin(["Hurdle", "Chase", "NH Flat"]) == jumps]
             if ((same.pos.map(pos_num) == 1) & (same.dist_f >= float(r.get("distance_f") or 0) - 0.5)).any():
