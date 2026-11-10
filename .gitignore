@@ -1,0 +1,8 @@
+# Large raw inputs live outside git (re-unpacked from attachments by setup)
+raw/
+*.zip
+*.pkl
+__pycache__/
+out/for_vps/
+backups/
+*.log
