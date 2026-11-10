@@ -23,6 +23,9 @@ Everything needed for the daily chain is in the repo. raw/ (RBD, RaceIQ, odds zi
 1. Settle yesterday (if not done in the evening): get_results YESTERDAY gb,ire detailed limit 50 (skip 50 if total > 50);
    `python3 pipeline/save_res.py YESTERDAY <saved file(s)>`; `python3 pipeline/card_review.py settle YESTERDAY`.
    BSP often arrives 10:00-12:00 UK or a day late: re-save only when complete (the 12:00 check retries).
+1b. History + models: `python3 pipeline/history.py build <yesterday's saved results file(s) from step 1>` (adds yesterday's runs to
+   data/history_runs.csv.gz); after step 2, `python3 pipeline/models.py run DAY` (win model, run styles, shape, pros/cons, h2h ->
+   store/DAY/model.json). Retrain only by a dated prereg amendment (prereg/MODEL_REBUILD_2026-11-10.md).
 2. Card: get_racecards_pro DAY gb,ire detailed limit 50 (skip 50 if total > 50);
    `python3 pipeline/save_card.py DAY <saved file(s)>` (reports NRs removed, abandoned meetings, first off).
    Publish the sealed card for McCoy straight away.
@@ -53,5 +56,6 @@ get_results DAY ...; save_res.py; card_review.py settle DAY; report bot-file bet
 (BSP usually next day); commit and push.
 
 ## Not yet rebuilt (old pipeline, lost 10 Nov)
-Model top picks (xW), early-position/pace model, SHADOW reviewer, bookmaker multiples, morning favourites, angle flags,
+Rebuilt 10 Nov: win model + early-position/pace model (pipeline/models.py; back-check data/rebuild_vs_old_summary.txt).
+Still to do: model-pick tracker/xW tables on the page, feeding model/pace lines into the reviewer packets, SHADOW reviewer, bookmaker multiples, morning favourites, angle flags,
 fair-price N1, the full report page. Old results 21 Oct - 9 Nov are kept separately (store/ daily files + FINDINGS/summary).
