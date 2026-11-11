@@ -1,0 +1,58 @@
+{"meeting": "dundalk_aw", "races": [
+  {"race_id": "rac_32304134850", "changes": [
+    {"horse_id": "hrs_54842501", "horse": "Coincidental Glory", "chance_pct": 11.0, "reason": "Comment: consistent recent form (302314), quick back after 7 days, proven over trip and going."},
+    {"horse_id": "hrs_28533918", "horse": "Cuban Grey", "chance_pct": 5.8, "reason": "Form 350880: two eighths and unplaced last time, winless in last six."},
+    {"horse_id": "hrs_57622173", "horse": "Sovereign Cry", "chance_pct": 5.8, "reason": "Well beaten recently (form 499809, ninth last time); first-time blinkers only a partial offset."},
+    {"horse_id": "hrs_22250802", "horse": "Harry's Hill", "chance_pct": 6.0, "reason": "Spotlight pick on profile: proven over trip and going, fit after 10 days."},
+    {"horse_id": "hrs_55882253", "horse": "Treasured Royal", "chance_pct": 3.3, "reason": "Winless in last six, form 400005; comment says hard to fancy."},
+    {"horse_id": "hrs_56127617", "horse": "Astute Power", "chance_pct": 2.2, "reason": "Winless in last five, eighth last time; comment says hard to fancy."},
+    {"horse_id": "hrs_35979433", "horse": "Tarsus", "chance_pct": 0.9, "reason": "651 days off and top weight 144lb."},
+    {"horse_id": "hrs_34976186", "horse": "Mary Shoelaces", "chance_pct": 3.3, "reason": "Form declining since win four back: 4th, 5th, then 9th last time."}
+  ], "checks": [
+    {"horse_id": "hrs_53390176", "horse": "Jordan Breeze", "verdict": "SKIP", "reason": "Won LTO and trainer 3/7, but 132lb from draw 11 offsets; 16.8% x 5.70 = 0.96, below 1.05."}
+  ]},
+  {"race_id": "rac_32304136787", "changes": [
+    {"horse_id": "hrs_17391299807", "horse": "Lady H", "chance_pct": 16.0, "reason": "Unplaced in all three starts (form 000) and back after 47 days."},
+    {"horse_id": "hrs_17391818178", "horse": "Lady Quigley", "chance_pct": 3.0, "reason": "Form 900, winless and unplaced; 33 days off."},
+    {"horse_id": "hrs_17390957703", "horse": "Savannah Sun", "chance_pct": 2.0, "reason": "Unplaced in each of last five (form 00000)."},
+    {"horse_id": "hrs_17391817135", "horse": "Imply", "chance_pct": 1.8, "reason": "Unplaced last time, winless in four; comment says hard to fancy."}
+  ], "checks": [
+    {"horse_id": "hrs_17389030239", "horse": "Invincible Irish", "verdict": "SKIP", "reason": "Improving form 00742 and first-time cheekpieces, but 44 days off; 22.7% x 3.95 = 0.90, card doesn't support the 26.6% needed."}
+  ]},
+  {"race_id": "rac_32304138724", "changes": [
+    {"horse_id": "hrs_45982377", "horse": "Justenzia", "chance_pct": 37.0, "reason": "Won LTO 5 days ago, form 022621 'cracking form', proven over trip and going."},
+    {"horse_id": "hrs_37014103", "horse": "Red Hugh O'Donnell", "chance_pct": 15.5, "reason": "Winless in last six, form 480696."},
+    {"horse_id": "hrs_19208000", "horse": "Shoot To Kill", "chance_pct": 13.5, "reason": "Inconsistent (ninth and sixth in mix), winless in last six."},
+    {"horse_id": "hrs_23208983", "horse": "Morning Approach", "chance_pct": 3.0, "reason": "Five unplaced runs before a third (form 000003); comment says hard to fancy."}
+  ], "checks": []},
+  {"race_id": "rac_32304140661", "changes": [
+    {"horse_id": "hrs_34457073", "horse": "Ossie's Lodge", "chance_pct": 1.4, "reason": "Off 880 days."},
+    {"horse_id": "hrs_61078766", "horse": "Donna Time", "chance_pct": 3.8, "reason": "Off 119 days and unplaced last time (form 7620)."}
+  ], "checks": []},
+  {"race_id": "rac_32304142598", "changes": [
+    {"horse_id": "hrs_66399466", "horse": "Pennsylvania Ave", "chance_pct": 7.5, "reason": "Off 103 days, ninth last time (form 49)."}
+  ], "checks": [
+    {"horse_id": "hrs_66655358", "horse": "Marcescence", "verdict": "SKIP", "reason": "Form 33 and in-form trainer (7/39) fit the market, but 21.8% x 3.65 = 0.80; would need 28.8%."}
+  ]},
+  {"race_id": "rac_32304144535", "changes": [
+    {"horse_id": "hrs_50282106", "horse": "Go Out", "chance_pct": 17.0, "reason": "Won LTO, second two back, 12 days off, proven over trip and going."},
+    {"horse_id": "hrs_62779164", "horse": "Golddream", "chance_pct": 11.5, "reason": "Winless in last six (form 550564), carries top weight 144lb."},
+    {"horse_id": "hrs_40805534", "horse": "Usuario Amigo", "chance_pct": 6.4, "reason": "Back after 47 days with patchy form before LTO win."},
+    {"horse_id": "hrs_52995131", "horse": "Thaloria", "chance_pct": 3.8, "reason": "Form 600046, winless in six, nothing better than fourth."},
+    {"horse_id": "hrs_35040054", "horse": "The Bear Trap", "chance_pct": 3.0, "reason": "Well beaten lately (7th, 9th); comment says hard to fancy."},
+    {"horse_id": "hrs_50875377", "horse": "Teffian Warrior", "chance_pct": 2.6, "reason": "Off 156 days."},
+    {"horse_id": "hrs_53808853", "horse": "Isthatrightkatie", "chance_pct": 0.8, "reason": "Eighth LTO, winless in four; comment says hard to fancy."}
+  ], "checks": [
+    {"horse_id": "hrs_50282106", "horse": "Go Out", "verdict": "SKIP", "reason": "Card supports a modest rise to 17%, but 17% x 4.10 = 0.70, well short of 1.05."}
+  ]},
+  {"race_id": "rac_32304146472", "changes": [
+    {"horse_id": "hrs_42041454", "horse": "Eastern Peace", "chance_pct": 16.0, "reason": "Yard out of form at 1/23 and winless in recent starts (form 305734)."},
+    {"horse_id": "hrs_53081231", "horse": "Femme Beauty", "chance_pct": 12.5, "reason": "Three wins in last six (form 143113), proven over trip and going."},
+    {"horse_id": "hrs_22689310", "horse": "No More Porter", "chance_pct": 6.6, "reason": "Form of sevenths and fifths, winless in last six."},
+    {"horse_id": "hrs_55241690", "horse": "Highlander Addict", "chance_pct": 4.2, "reason": "Form 800 and back after 67 days; comment says hard to fancy."},
+    {"horse_id": "hrs_17391872414", "horse": "Almost Okay", "chance_pct": 0.9, "reason": "Unplaced LTO, form 040; comment says hard to fancy."},
+    {"horse_id": "hrs_16761360", "horse": "Cozone", "chance_pct": 1.6, "reason": "Three unplaced runs most recently (form 6/8000)."}
+  ], "checks": [
+    {"horse_id": "hrs_42041454", "horse": "Eastern Peace", "verdict": "SKIP", "reason": "Cold yard (1/23) cuts chance to 16%; 16% x 3.55 = 0.57."}
+  ]}
+]}

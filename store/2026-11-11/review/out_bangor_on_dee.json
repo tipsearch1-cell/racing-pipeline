@@ -1,0 +1,40 @@
+{"meeting": "bangor_on_dee", "races": [
+  {"race_id": "rac_32304148409", "changes": [
+    {"horse_id": "hrs_40352459", "horse": "Wandering Ego", "chance_pct": 32.0, "reason": "Fit after 28 days with recent win in form 3219-4 and trainer 8/36 in 14d, while three main rivals return from 200+ day absences"},
+    {"horse_id": "hrs_51434285", "horse": "Laguna Beach", "chance_pct": 21.0, "reason": "Comment flags fitness as main risk after 207 days off following a seventh last time"},
+    {"horse_id": "hrs_32853135", "horse": "Bowenspark", "chance_pct": 13.0, "reason": "Comment flags 204-day absence and hefty 161 lb"},
+    {"horse_id": "hrs_39431742", "horse": "Supreme George", "chance_pct": 4.5, "reason": "Trainer 0/25 in last 14 days; comment says hard to fancy"}
+  ], "checks": [
+    {"horse_id": "hrs_40352459", "horse": "Wandering Ego", "verdict": "SKIP", "reason": "32% x 3.20 = 1.02, below the 1.05 value threshold"}
+  ]},
+  {"race_id": "rac_32304150346", "changes": [
+    {"horse_id": "hrs_40959219", "horse": "Mighty Fleur", "chance_pct": 23.0, "reason": "Four straight wins (form 2-1111) and fit after 30 days, tempered by OR 124 vs 137 top-rated at level weights"},
+    {"horse_id": "hrs_45887688", "horse": "Getawhisky", "chance_pct": 7.5, "reason": "First-time cheekpieces and trainer 20/94 in 14d"},
+    {"horse_id": "hrs_40493908", "horse": "Onefournine", "chance_pct": 11.0, "reason": "Won last two (form 2201-1) and fit after 32 days vs several 230+ day absentees"}
+  ], "checks": [
+    {"horse_id": "hrs_40959219", "horse": "Mighty Fleur", "verdict": "SKIP", "reason": "23% x 4.50 = 1.035, below 1.05; rating gap to Jubilee Alpha limits upgrade"}
+  ]},
+  {"race_id": "rac_32304152283", "changes": [
+    {"horse_id": "hrs_38203130", "horse": "First Confession", "chance_pct": 25.0, "reason": "Comment flags 246-day absence and unplaced last time out"},
+    {"horse_id": "hrs_27551125", "horse": "Blenkinsop", "chance_pct": 16.0, "reason": "Comment flags 320-day absence with fitness the big question"},
+    {"horse_id": "hrs_21512085", "horse": "Arizona Cardinal", "chance_pct": 9.0, "reason": "648 days off at age 10; first-time tp only a partial offset"}
+  ], "checks": [
+    {"horse_id": "hrs_38203130", "horse": "First Confession", "verdict": "SKIP", "reason": "25% x 3.60 = 0.90, no value given long absence"}
+  ]},
+  {"race_id": "rac_32304154220", "changes": [
+    {"horse_id": "hrs_17395271551", "horse": "Fika", "chance_pct": 17.0, "reason": "Wind surgery and first-time tongue tie on debut"}
+  ], "checks": [
+    {"horse_id": "hrs_17395275723", "horse": "Rockson Piel", "verdict": "SKIP", "reason": "Debutant with no form to justify upgrade; 27.5% x 3.45 = 0.95"}
+  ]},
+  {"race_id": "rac_32304156157", "changes": [
+    {"horse_id": "hrs_17394658267", "horse": "Hang Out", "chance_pct": 6.0, "reason": "256 days off and trainer 0/25 in last 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32304158094", "changes": [
+    {"horse_id": "hrs_52495282", "horse": "Solid Performer", "chance_pct": 42.0, "reason": "228 days off and trainer 0/25 in last 14 days"},
+    {"horse_id": "hrs_51434334", "horse": "Mr Rafiki", "chance_pct": 44.0, "reason": "Fit after 11 days with consecutive seconds (form 42FF22) and trainer 4/41"}
+  ], "checks": []},
+  {"race_id": "rac_32304160031", "changes": [
+    {"horse_id": "hrs_46295837", "horse": "Brookside La", "chance_pct": 33.5, "reason": "Won last time (form 4133-1), fit after 35 days, trainer 20/94 in 14d"},
+    {"horse_id": "hrs_41845636", "horse": "Charisma Cat", "chance_pct": 21.0, "reason": "Comment flags sixth last time, 214 days off and 167 lb"}
+  ], "checks": []}
+]}

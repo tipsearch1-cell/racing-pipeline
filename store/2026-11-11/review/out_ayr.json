@@ -1,0 +1,45 @@
+{"meeting": "ayr", "races": [
+  {"race_id": "rac_32304167779", "changes": [
+    {"horse_id": "hrs_46450362", "horse": "Stride On", "chance_pct": 40.0, "reason": "Comment flags 207-day absence as main risk."},
+    {"horse_id": "hrs_34571264", "horse": "Jeriko du Reponet", "chance_pct": 46.0, "reason": "Top-rated (OR 138 vs 127/130) at level weights and fresh, second 22 days ago."},
+    {"horse_id": "hrs_40920187", "horse": "Welonlyhavedone", "chance_pct": 11.0, "reason": "Comment: patchy record, pulled up and unseated in last five (P3PU-3)."}
+  ], "checks": []},
+  {"race_id": "rac_32304161968", "changes": [
+    {"horse_id": "hrs_55484422", "horse": "Moon Reign", "chance_pct": 11.0, "reason": "Trainer Iain Jardine 0/11 in last 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304163905", "changes": [
+    {"horse_id": "hrs_46974886", "horse": "Jack Dempsey", "chance_pct": 19.5, "reason": "Comment: winless in last five, looks a mid-pack type off 86; trainer 0/4 in 14 days."},
+    {"horse_id": "hrs_34373773", "horse": "Kinbara Firstdraft", "chance_pct": 13.0, "reason": "Comment makes him the selection on profile; back quickly, second three starts back, proven trip/going."},
+    {"horse_id": "hrs_55061580", "horse": "Largy Meadow", "chance_pct": 11.0, "reason": "Comment: 157-day absence and a fall and pull-up in last five."},
+    {"horse_id": "hrs_34571376", "horse": "Gone With The Tide", "chance_pct": 2.0, "reason": "Pulled up in four of last five and 176 days off."},
+    {"horse_id": "hrs_60594772", "horse": "Brewdog", "chance_pct": 2.6, "reason": "Comment: lightly raced, unexposed, could improve off a low weight."},
+    {"horse_id": "hrs_53539668", "horse": "Boston Queen", "chance_pct": 1.2, "reason": "Pulled up last time and three starts back; comment says hard to fancy."}
+  ], "checks": [
+    {"horse_id": "hrs_46974886", "horse": "Jack Dempsey", "verdict": "SKIP", "reason": "19.5% x 4.30 = 0.84 < 1.05; card describes a winless mid-pack type."}
+  ]},
+  {"race_id": "rac_32304165842", "changes": [
+    {"horse_id": "hrs_48052480", "horse": "Ballynoe Boy", "chance_pct": 28.0, "reason": "Hat-trick of wins (-74111) and trainer Nicky Richards 4/14 in 14 days."},
+    {"horse_id": "hrs_51341493", "horse": "Allfor", "chance_pct": 21.5, "reason": "Comment: winless in that spell and returns after 207 days off."},
+    {"horse_id": "hrs_43859837", "horse": "Boston Jury", "chance_pct": 10.0, "reason": "Comment: 158 lb a big burden for a midfield type, winless in last five."},
+    {"horse_id": "hrs_29327018", "horse": "Jem In Em", "chance_pct": 3.5, "reason": "Comment: fitness the big risk after 565 days off."},
+    {"horse_id": "hrs_33080817", "horse": "Micks Jet", "chance_pct": 1.8, "reason": "Pulled up last time out, winless in last four."}
+  ], "checks": [
+    {"horse_id": "hrs_48052480", "horse": "Ballynoe Boy", "verdict": "SKIP", "reason": "28% x 3.50 = 0.98 < 1.05; in-form but winning sequence leaves him higher in the handicap, no clear edge."}
+  ]},
+  {"race_id": "rac_32304169716", "changes": [
+    {"horse_id": "hrs_34859790", "horse": "Bridge Court", "chance_pct": 23.0, "reason": "Comment: slipped to sixth and fourth since last win, hard to fancy under 152 lb."},
+    {"horse_id": "hrs_51185890", "horse": "Green Angel", "chance_pct": 18.0, "reason": "Comment: 208-day absence leaves fitness open under 162 lb."},
+    {"horse_id": "hrs_18311041", "horse": "No Regrets", "chance_pct": 18.0, "reason": "Comment: consistent 1234 profile, proven trip and going; trainer 4/14."},
+    {"horse_id": "hrs_42452193", "horse": "Blakey Boy", "chance_pct": 13.0, "reason": "Comment: hard to fancy off 111; trainer Ewan Whillans 0/13 in 14 days."},
+    {"horse_id": "hrs_34166734", "horse": "Whistle Stop Tour", "chance_pct": 11.5, "reason": "Winless in last five and returns after 201 days off."},
+    {"horse_id": "hrs_21512232", "horse": "If Not For Dylan", "chance_pct": 6.5, "reason": "Comment: 170-day absence with 163 lb after a fifth last time."}
+  ], "checks": [
+    {"horse_id": "hrs_34859790", "horse": "Bridge Court", "verdict": "SKIP", "reason": "23% x 3.45 = 0.79 < 1.05; card form is declining."}
+  ]},
+  {"race_id": "rac_32304171653", "changes": [
+    {"horse_id": "hrs_64325723", "horse": "Eillis", "chance_pct": 26.0, "reason": "Comment: 191-day absence makes fitness the question; trainer 0/4 in 14 days."},
+    {"horse_id": "hrs_64360912", "horse": "Office Banter", "chance_pct": 14.0, "reason": "Trainer Ewan Whillans 0/13 in last 14 days."},
+    {"horse_id": "hrs_17395175595", "horse": "Vienna Blue", "chance_pct": 2.1, "reason": "First-time tongue tie; comment says unexposed and may have more to offer."},
+    {"horse_id": "hrs_57504363", "horse": "Milano Lady", "chance_pct": 1.2, "reason": "Comment: 399-day absence, fitness the question."}
+  ], "checks": []}
+]}

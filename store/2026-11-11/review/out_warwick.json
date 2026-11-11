@@ -1,0 +1,32 @@
+{"meeting": "warwick", "races": [
+  {"race_id": "rac_32304121291", "changes": [
+    {"horse_id": "hrs_39239851", "horse": "Henrysbrotherjack", "chance_pct": 7.0, "reason": "Returns from a 359-day absence after a ninth last time out (form 511/9-)."}
+  ], "checks": []},
+  {"race_id": "rac_32304123228", "changes": [
+    {"horse_id": "hrs_44570708", "horse": "Arcturus Flame", "chance_pct": 11.0, "reason": "Hood and tongue-tie first time; trainer in strong form at 14/47 over 14 days."},
+    {"horse_id": "hrs_62170871", "horse": "Dylans Moon", "chance_pct": 13.5, "reason": "Fell last time (form 3F-), off 204 days, and trainer only 1/21 over 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304125165", "changes": [
+    {"horse_id": "hrs_39431364", "horse": "Fresh Perspective", "chance_pct": 40.0, "reason": "Trainer 9/24 over 14 days, and has won over today's trip and going."},
+    {"horse_id": "hrs_41346634", "horse": "Soldier's Leap", "chance_pct": 18.0, "reason": "202-day break and the yard is only 1/21 over 14 days."},
+    {"horse_id": "hrs_52495583", "horse": "Adonedeal", "chance_pct": 15.5, "reason": "Pulled up last time out and returns after 202 days off."}
+  ], "checks": []},
+  {"race_id": "rac_32304127102", "changes": [
+    {"horse_id": "hrs_50590253", "horse": "Broadway Honey", "chance_pct": 40.0, "reason": "Three wins in a row (form 513111) and back in 10 days."},
+    {"horse_id": "hrs_46384233", "horse": "Jupiter des Bordes", "chance_pct": 20.5, "reason": "Winless in last five with a seventh last time (0559-7); trainer 0/2 over 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304129039", "changes": [
+    {"horse_id": "hrs_25325202", "horse": "Oakley", "chance_pct": 11.5, "reason": "116 days off, fifth last time out, and 168 lb off OR 117."},
+    {"horse_id": "hrs_17837393", "horse": "Jaytee", "chance_pct": 10.0, "reason": "11yo, winless in last five (503-67) and trainer 2/26 over 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304130976", "changes": [
+    {"horse_id": "hrs_26740679", "horse": "Tropical Talent", "chance_pct": 18.0, "reason": "Winless in last four; comment says the 74 rating is fifth of six and calls him hard to fancy."},
+    {"horse_id": "hrs_51766547", "horse": "Alba Crus", "chance_pct": 15.0, "reason": "Off 173 days and unseated last time, with poor recent form (734-9U)."}
+  ], "checks": [
+    {"horse_id": "hrs_34542648", "horse": "Mary", "verdict": "SKIP", "reason": "The card gives no reason to raise her above the 22.5% market chance (winless in five, top weight 168 lb off OR 100, 43 days off, trainer 2/26), and 22.5% x 4.50 = 1.01, below 1.05."}
+  ]},
+  {"race_id": "rac_32304132913", "changes": [
+    {"horse_id": "hrs_17395268422", "horse": "Sunshine Sheila", "chance_pct": 17.0, "reason": "Debutante from a yard that is 0/25 over the last 14 days."},
+    {"horse_id": "hrs_17394608203", "horse": "Maria's Double", "chance_pct": 3.2, "reason": "Only form is a seventh on her one start (form 7)."}
+  ], "checks": []}
+]}
