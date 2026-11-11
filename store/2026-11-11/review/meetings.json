@@ -1,0 +1,30 @@
+{
+ "bangor_on_dee": {
+  "course": "Bangor-on-Dee",
+  "in": "/home/claude/racing-pipeline/store/2026-11-11/review/in_bangor_on_dee.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-11/review/out_bangor_on_dee.json",
+  "races": 7,
+  "checks": 4
+ },
+ "warwick": {
+  "course": "Warwick",
+  "in": "/home/claude/racing-pipeline/store/2026-11-11/review/in_warwick.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-11/review/out_warwick.json",
+  "races": 7,
+  "checks": 1
+ },
+ "ayr": {
+  "course": "Ayr",
+  "in": "/home/claude/racing-pipeline/store/2026-11-11/review/in_ayr.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-11/review/out_ayr.json",
+  "races": 6,
+  "checks": 3
+ },
+ "dundalk_aw": {
+  "course": "Dundalk (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-11/review/in_dundalk_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-11/review/out_dundalk_aw.json",
+  "races": 7,
+  "checks": 5
+ }
+}
