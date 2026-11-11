@@ -36,7 +36,7 @@ def pick(day):
 
 
 def settle(day):
-    d = pd.read_csv(p("store", day, f"angle_toprated_{day}.csv"))
+    d = pd.read_csv(p("store", day, f"angle_toprated_{day}.csv")).astype({"pos": object, "won": object, "bsp": object})
     res = load_json(p("store", day, "results_all.json.gz"))["results"]
     info = {(race["race_id"], hh["horse_id"]): hh for race in res for hh in race["runners"]}
     for i, x in d.iterrows():
