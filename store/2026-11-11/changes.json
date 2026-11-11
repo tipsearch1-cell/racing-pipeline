@@ -1,0 +1,25 @@
+{
+ "events": [
+  {
+   "key": "nr|rac_32304123228|hrs_62170871",
+   "text": "1:20 Warwick: Dylans Moon now a non-runner. Re-worked market: Kefir d'Oudairies 48%, Largy Force 41%, Arcturus Flame 8%, Orchard County 3%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304171653|hrs_64325723",
+   "text": "3:43 Ayr: Eillis now a non-runner. Re-worked market: Double Annie 51%, Office Banter 22%, Pony Express 12%, Kiki K 7%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304140661|hrs_34457073",
+   "text": "4:02 Dundalk (AW): Ossie's Lodge now a non-runner. Re-worked market: Resurgence 36%, Lookingforarainbow 30%, Riyazanka 10%, Queen Creek 5%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  }
+ ]
+}
