@@ -1,6 +1,6 @@
 """Bot upload file from the sealed LIVE reviewer: python3 pipeline/reviewer_bets_csv.py DAY
 
-CHECK verdict BET  -> MinPrice = 0.95 x 09:00 median
+CHECK verdict BET  -> MinPrice = 0.95 x 09:00 median (CHECK rule amended 12 Nov: fav, median 3.0-7.0, not marked down)
 reviewer value flag -> MinPrice = 100 / reviewer chance
 Races with an unraced runner (no form figures; amended 10 Nov) are EXCLUDED from the bot file.
 Writes store/DAY/reviewer_bets_DAY.csv (MB Bot Manager format), reviewer_bets_detail_DAY.csv and out/for_vps copies.

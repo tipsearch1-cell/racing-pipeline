@@ -6,7 +6,7 @@
 
 Amendments 10 Nov 2026 (prereg/REBUILD_RULES_2026-11-10.md, from 11 Nov): price tests use the Matchbook 09:00 price;
 races with an unraced runner are excluded; the card's own rating/ranking sentences are removed from the packet comments.
-CHECK runners (rebuilt rule): the market favourite of each race with 5+ runners whose 09:00 median price is 3.0-6.0.
+CHECK runners (amended 12 Nov 2026): the market favourite of each race with 5+ runners whose 09:00 median price is 3.0-7.0.
 Value flag: the reviewer actively raised the runner, final chance >= 1.25 x market chance and >= 3%,
 and best exchange price >= 100 / reviewer chance. Changed runners keep the reviewer's figure; unchanged runners share the rest.
 """
@@ -41,9 +41,9 @@ You are a racing form reviewer. Use ONLY this packet. For every race:
    that names the card fact. No reason on the card = no change. Do not use outside knowledge of the horses.
 3. Keep changes moderate: normally within 0.67x to 1.5x of the market chance; never beyond 0.33x to 3x.
    Totals do not need to add to 100; they are rescaled afterwards.
-4. Runners marked CHECK need a verdict, BET or SKIP:
-   BET only if (a) your chance x Matchbook price >= 1.05 AND (b) Matchbook price >= the skip line
-   shown (0.95 x 09:00 median), and the card supports your chance. "Matchbook" is the price the bet would get. Otherwise SKIP. Give a one-line reason.
+4. Runners marked CHECK are the market favourite. Give a verdict, BET or SKIP, with a one-line reason:
+   BET unless the card gives a specific reason to doubt the favourite (then lower its chance and SKIP).
+   You do not need to do any price arithmetic; the price check (skip line shown) is applied afterwards.
 
 Write valid JSON to the out path you were given, exactly this shape (use the exact race_id and horse_id values):
 {{"meeting": "{key}", "races": [
@@ -78,7 +78,7 @@ def prep(day):
                          f"{r.get('surface')} | {len(r['runners'])} runners | rating band {r.get('rating_band') or '-'} | age {r.get('age_band')}")
             for h in sorted(r["runners"], key=lambda h: -(mk[h["horse_id"]]["mkt"] or 0)):
                 m = mk[h["horse_id"]]
-                is_chk = (fav is h and len(r["runners"]) >= 5 and m["median"] and 3.0 <= m["median"] <= 6.0)
+                is_chk = (fav is h and len(r["runners"]) >= 5 and m["median"] and 3.0 <= m["median"] <= 7.0)
                 nchk += bool(is_chk)
                 t14 = h.get("trainer_14_days") or {}
                 tag = f" | CHECK (skip line {0.95 * m['median']:.2f})" if is_chk else ""
@@ -125,7 +125,7 @@ def seal(day):
         ids = {h["horse_id"] for h in r["runners"]}
         fav = max((h for h in r["runners"] if mk[h["horse_id"]]["mkt"]), key=lambda h: mk[h["horse_id"]]["mkt"], default=None)
         chk_ids = {fav["horse_id"]} if (fav and len(r["runners"]) >= 5 and mk[fav["horse_id"]]["median"]
-                                        and 3.0 <= mk[fav["horse_id"]]["median"] <= 6.0) else set()
+                                        and 3.0 <= mk[fav["horse_id"]]["median"] <= 7.0) else set()
         for c in ro.get("changes", []) + ro.get("checks", []):
             if c.get("horse_id") and c["horse_id"] not in ids:
                 warn.append(f"{r['off_time']} {r['course']}: unknown horse_id {c['horse_id']} ({c.get('horse')}) ignored")
@@ -169,11 +169,12 @@ def seal(day):
                 continue
             rev = round(100 * raw[hid] / tot, 2)
             verdict = (ck.get(hid, {}).get("verdict") or "").upper() or None
-            if verdict == "BET":  # re-check the packet's own BET test instead of trusting the reviewer's arithmetic
+            if verdict == "BET":  # CHECK BET test (amended 12 Nov): not marked down, price not below the skip line
                 yours = raw[hid] * 100 / tot
-                if not (m["mb"] and m["median"] and yours * m["mb"] / 100 >= 1.05 and m["mb"] >= 0.95 * m["median"]):
-                    warn.append(f"{r['off_time']} {r['course']}: {h['horse']} BET fails the packet test "
-                                f"(chance {yours:.1f}% x Matchbook {m['mb']}) -> SKIP")
+                px = m["mb"] or m["median"]  # Matchbook 09:00; median when the data has no Matchbook price
+                if not (m["median"] and yours >= 0.98 * m["mkt"] and px >= 0.95 * m["median"]):
+                    warn.append(f"{r['off_time']} {r['course']}: {h['horse']} BET fails the CHECK test "
+                                f"(chance {yours:.1f}% vs market {m['mkt']:.1f}%, price {px}) -> SKIP")
                     verdict = "SKIP"
             if verdict not in (None, "BET", "SKIP"):
                 warn.append(f"{r['off_time']} {r['course']}: {h['horse']} verdict {verdict!r} not BET/SKIP -> SKIP")

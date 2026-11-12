@@ -36,3 +36,17 @@ The amendment-3 filter (remove the card's own rating/ranking sentences) missed w
 to every sentence in the provider's own voice (our/us/we, ranks/ranked/ranking, rated N, Nth/best of N, leading/main
 threat or danger, top-rated, one to beat) and the review re-run once more. Both earlier seals are kept in
 store/2026-11-12/review/first_seal_v1 and second_seal_v2. Only the third seal was published.
+
+## Amendment 12 Nov 2026 10:15 Budapest (user-approved, before any 13 Nov data) - applies from 13 Nov
+Reason: the rebuilt CHECK BET test (reviewer chance x Matchbook >= 1.05) needed the reviewer to RAISE favourites 1.07-1.15x;
+the old pipeline's 26 CHECK BETs (5-9 Nov, 8 won, +50% at 09:00) had reviewer/market ratios 0.98-1.12 (median 1.03),
+24/26 were the favourite, medians 3.0-7.0. Result since the rebuild: 0 CHECK BETs from 24 checks on 10-12 Nov.
+New CHECK rule:
+- CHECK runner = market favourite, race of 5+ runners, 09:00 median 3.0-7.0 (was 3.0-6.0).
+- Reviewer verdict: BET unless the card gives a specific reason to doubt the favourite (no price arithmetic asked).
+- Seal keeps BET only if reviewer chance >= 0.98 x market chance AND price >= 0.95 x median, where price = Matchbook 09:00,
+  or the 09:00 median when the data has no Matchbook price for that runner (12 Nov: no Matchbook prices for all of Market Rasen).
+- Bot MinPrice unchanged: 0.95 x median. Settle P/L at Matchbook 09:00 (median where missing) and BSP.
+Value flags unchanged (still need a Matchbook price). Estimate on sealed data: 11 Nov 9 of 13 checks would pass the
+price/not-marked-down part (3 won, +1.0 pt), 12 Nov 7 of 11 - verdicts were given under the old instruction, so not exact.
+Review: after 150 settled CHECK BETs, or earlier at the user's request.
