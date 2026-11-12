@@ -49,7 +49,7 @@ drops races off within 5 minutes.
    percent. Reply with just done and the number of changes you made."
    Re-run any missing/invalid meeting. `python3 pipeline/card_review.py seal DAY` (refuses after a day is sealed; check
    the seal time is before the first off). `python3 pipeline/reviewer_bets_csv.py DAY`.
-4. Publish reviewer bets (+ empty multiples until the multiples are rebuilt) for McCoy; append DAY,LIVE to data/live_days.csv;
+4. `python3 pipeline/multiples.py build DAY` (rebuilt 12 Nov; prereg/MULTIPLES_REBUILD_2026-11-12.md), then publish reviewer bets + multiples for McCoy; append DAY,LIVE to data/live_days.csv;
    SendUserFile store/DAY/reviewer_bets_DAY.csv and reviewer_bets_detail_DAY.csv; SendUserMessage with a time-ordered table
    (time, course, horse, CHECK BET / value flag, 09:00 median, min price, best 09:00 exchange price), excluded picks, SKIPs,
    and the reminder that the rebuilt reviewer is on trial (small stakes).
@@ -62,7 +62,7 @@ drops races off within 5 minutes.
 6. git add -A; commit; push. Schedule the next day's 08:35 build (same prompt, dates moved on).
 
 ## Evening settle (when the user asks "result today's card")
-get_results DAY ...; save_res.py; card_review.py settle DAY; report bot-file bets at SP, 09:00 best price and BSP
+get_results DAY ...; save_res.py; card_review.py settle DAY; multiples.py settle DAY; report bot-file bets at SP, 09:00 best price and BSP
 (BSP usually next day); commit and push.
 
 ## Not yet rebuilt (old pipeline, lost 10 Nov)
