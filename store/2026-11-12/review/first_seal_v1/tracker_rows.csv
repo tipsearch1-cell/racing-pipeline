@@ -1,0 +1,199 @@
+day,race_id,off,off_dt,course,code,aw,hcap,runners,horse_id,horse,mkt,rev,median,best,check,verdict,bet,reason,excluded,pos,won,sp,bsp,mb
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_39208127,Harry's Dream,4.3,3.5,17.0,24.0,False,,False,Returns after 240 days off after an eighth last time out; fitness a question,False,,,,,24.0
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_47129495,Itsaworkinmaniam,6.52,5.5,13.0,13.5,False,,False,Two eighth-place finishes in last two (26-588) and 166lb burden flagged,False,,,,,13.5
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_51650060,Jonny Carrol,4.73,4.75,15.0,23.0,False,,False,,False,,,,,23.0
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_17389453697,Kingston Silver,1.33,1.1,67.0,75.0,False,,False,"Form 0909, ninth last time out",False,,,,,75.0
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_41013952,Space Warrior,4.79,4.81,17.0,19.0,False,,False,,False,,,,,19.0
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_39699240,Tea In The Park,1.84,1.85,41.0,55.0,False,,False,,False,,,,,55.0
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_49974519,The Monkey Pole,10.22,10.26,9.0,8.2,False,,False,,False,,,,,8.2
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_26219452,Angelsworknovrtime,2.99,3.0,26.0,32.0,False,,False,,False,,,,,32.0
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_46233593,I C U In My Dreams,8.52,8.56,9.0,11.5,False,,False,,False,,,,,11.5
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_37789969,Kimy,19.74,21.5,4.0,4.7,True,SKIP,False,"21.5% x 4.70 = 1.01, below 1.05 threshold despite price above skip line 3.80",False,,,,,4.7
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_50412635,Might Be The One,17.45,17.52,4.33,5.5,False,,False,,False,,,,,5.5
+2026-11-12,rac_32304173590,11:43,2026-11-12T11:43:00+00:00,Thurles,Jumps,False,False,12,hrs_51341759,Whispering Willow,17.57,17.64,4.33,5.5,False,,False,,False,,,,,5.5
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_59186575,Ballydine Boy,43.34,43.75,1.91,2.16,False,,False,,True,,,,,
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_61874456,Equi Libre,0.79,0.8,81.0,170.0,False,,False,,True,,,,,
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_57758428,Icy Glen,1.04,0.8,81.0,95.0,False,,False,356 days off with form 60- and trainer 0/12 in 14 days.,True,,,,,
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_412712006,Northern Olympian,30.88,31.17,2.5,3.2,False,,False,,True,,,,,
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_17393891662,Ricky Roma,1.06,1.07,67.0,100.0,False,,False,,True,,,,,
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_56559566,Show Your Hand,10.7,10.8,7.0,9.4,False,,False,,True,,,,,
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_63618261,Silver Salver,3.94,3.3,17.0,30.0,False,,False,Trainer Joel Parkinson & Sue Smith 0/12 in last 14 days.,True,,,,,
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_17391215324,Treshnish Point,0.33,0.33,201.0,510.0,False,,False,,True,,,,,
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_52021340,Wyrley Birch,4.77,4.82,17.0,20.0,False,,False,,True,,,,,
+2026-11-12,rac_32304235574,12:06,2026-11-12T12:06:00+00:00,Market Rasen,Jumps,False,False,10,hrs_39960508,Yafaarr,3.13,3.16,26.0,30.0,False,,False,,True,,,,,
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_40494265,Cappa Hill,11.49,11.11,7.0,8.0,False,,False,,False,,,,,8.0
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_29104544,Banjaxed,2.34,3.0,34.0,42.0,False,,True,"Card ranks him top on 119 vs OR 110, first-time blinkers; tempered by pulled up last time",False,,,,,42.0
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_35351323,Beauforts Storm,2.6,3.2,26.0,44.0,False,,False,"Card rates her 114, third best of twelve, first-time blinkers",False,,,,,44.0
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_35054964,Littlebiggie,8.43,9.2,9.5,11.0,False,,False,"Second last time out, fit after 21 days, has run over trip and going",False,,,,,11.0
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_40920208,Mags Nelson,5.44,4.6,15.0,18.0,False,,False,Yard in poor form (1/23) and 161lb off 105 flagged,False,,,,,18.0
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_50188432,Potters Pal,16.34,15.8,4.5,6.0,False,,False,,False,,,,,6.0
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_38649562,Aurea Fortuna,11.61,11.23,7.0,8.0,False,,False,,False,,,,,8.0
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_38649737,Stoneyford Lady,21.3,23.5,3.75,4.3,True,SKIP,False,"23.5% x 4.30 = 1.01, below 1.05 threshold",False,,,,,4.3
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_51373693,Orkneys Jack,1.67,1.61,41.0,70.0,False,,False,,False,,,,,70.0
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_33774461,That's About Right,5.92,5.0,13.0,16.0,False,,False,"Winless in last six (048485), trainer 0/16 in 14 days",False,,,,,16.0
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_39978218,Springboard,5.89,5.0,13.0,16.5,False,,False,"Ninth last time out, ninth-fifth-ninth in recent runs",False,,,,,16.5
+2026-11-12,rac_32304175527,12:18,2026-11-12T12:18:00+00:00,Thurles,Jumps,False,True,12,hrs_37052323,Burlington House,6.98,6.75,11.0,15.0,False,,False,,False,,,,,12.5
+2026-11-12,rac_32304223952,12:30,2026-11-12T12:30:00+00:00,Hereford,Jumps,False,False,3,hrs_58033731,Antiquarian,4.7,4.38,19.0,22.0,False,,False,,True,,,,,22.0
+2026-11-12,rac_32304223952,12:30,2026-11-12T12:30:00+00:00,Hereford,Jumps,False,False,3,hrs_59367301,Koala Rose,53.28,49.62,1.7,1.88,False,,False,,True,,,,,1.86
+2026-11-12,rac_32304223952,12:30,2026-11-12T12:30:00+00:00,Hereford,Jumps,False,False,3,hrs_17395296583,Princess of Habo,42.01,46.0,2.25,2.3,False,,False,Yard flying with 11/26 winners in last 14 days per card.,True,,,,,2.3
+2026-11-12,rac_32304237511,12:41,2026-11-12T12:41:00+00:00,Market Rasen,Jumps,False,False,9,hrs_30454494,Definite Call,3.06,2.6,21.0,38.0,False,,False,"328 days off, pulled up last time, trainer with no runners in 14 days (0/0).",False,,,,,
+2026-11-12,rac_32304237511,12:41,2026-11-12T12:41:00+00:00,Market Rasen,Jumps,False,False,9,hrs_52495303,Eastern Rock,36.61,37.03,2.25,2.52,False,,False,,False,,,,,
+2026-11-12,rac_32304237511,12:41,2026-11-12T12:41:00+00:00,Market Rasen,Jumps,False,False,9,hrs_58196544,Prince of Clova,0.94,0.95,126.0,100.0,False,,False,,False,,,,,
+2026-11-12,rac_32304237511,12:41,2026-11-12T12:41:00+00:00,Market Rasen,Jumps,False,False,9,hrs_17395264250,Supreme Force,14.49,14.66,5.5,6.6,False,,False,,False,,,,,
+2026-11-12,rac_32304237511,12:41,2026-11-12T12:41:00+00:00,Market Rasen,Jumps,False,False,9,hrs_62615091,Zains Hope,2.72,2.75,29.0,36.0,False,,False,,False,,,,,
+2026-11-12,rac_32304237511,12:41,2026-11-12T12:41:00+00:00,Market Rasen,Jumps,False,False,9,hrs_60250071,Ivor Bear,33.57,33.95,2.5,2.72,False,,False,,False,,,,,
+2026-11-12,rac_32304237511,12:41,2026-11-12T12:41:00+00:00,Market Rasen,Jumps,False,False,9,hrs_63323575,Jack The Master,3.22,3.26,21.0,36.0,False,,False,,False,,,,,
+2026-11-12,rac_32304237511,12:41,2026-11-12T12:41:00+00:00,Market Rasen,Jumps,False,False,9,hrs_58686831,Striking Midnight,4.29,3.7,15.0,28.0,False,,False,Trainer 0/12 in 14 days and ninth last time (form 32-9).,False,,,,,
+2026-11-12,rac_32304237511,12:41,2026-11-12T12:41:00+00:00,Market Rasen,Jumps,False,False,9,hrs_55148618,Jax Belle,1.09,1.1,67.0,110.0,False,,False,,False,,,,,
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_37701594,Way Down South,11.35,12.0,6.0,8.0,False,,False,"Won two starts back, has run over trip and going, trainer 1/2 in 14 days",False,,,,,8.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_16596174,Grange Walk,6.61,6.69,11.0,13.5,False,,False,,False,,,,,13.5
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_38002601,Barton Sky,1.9,1.6,34.0,55.0,False,,False,"Winless in five, 49 days off, 159lb off OR 90",False,,,,,55.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_31287816,Island McCoo,9.59,9.71,8.0,8.8,False,,False,,False,,,,,8.8
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_30122974,Onefortheditch,20.41,20.66,3.5,4.3,True,SKIP,False,"Unseated last time out, no card reason to raise; 20.4% x 4.30 = 0.88, below 1.05",False,,,,,4.3
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_35054691,Sharetheknowledge,5.74,5.81,13.0,15.0,False,,False,,False,,,,,15.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_24228792,It's Time Again,2.95,2.99,26.0,30.0,False,,False,,False,,,,,30.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_412672925,Orlando Spirit,7.26,7.35,9.0,14.0,False,,False,,False,,,,,13.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_38666495,Hickeys Hill,3.15,2.4,17.0,40.0,False,,False,"Pulled up last time out, tailed off since win, 66 days off",False,,,,,38.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_37246587,Synchronize,3.15,3.19,23.0,28.0,False,,False,,False,,,,,28.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_53539626,Tantrum Boy,8.84,8.95,8.5,9.8,False,,False,,False,,,,,9.8
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_21686623,Esticky End,2.21,2.24,34.0,42.0,False,,False,,False,,,,,42.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_412673023,Gortmore Lady,9.42,9.53,7.5,10.0,False,,False,,False,,,,,10.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_38532858,Vroomvroomboo,4.55,4.6,17.0,18.5,False,,False,,False,,,,,18.5
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_21678636,Battle Of Benburb,1.26,1.0,51.0,120.0,False,,False,Pulled up in three of last five including last time out,False,,,,,120.0
+2026-11-12,rac_32304177464,12:53,2026-11-12T12:53:00+00:00,Thurles,Jumps,False,True,16,hrs_34253499,Annie Questions,1.61,1.3,41.0,70.0,False,,False,Unplaced last time out and 76-day absence,False,,,,,70.0
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_54304502,Governors Rock,52.08,52.32,1.62,1.7,False,,False,,False,,,,,1.7
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_17394593601,Dressed Overall,1.15,1.16,81.0,130.0,False,,False,,False,,,,,130.0
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_65974657,Jaunty Trooper,8.24,8.28,7.25,15.5,False,,False,,False,,,,,15.5
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_61910660,Jersey Tex,0.35,0.35,201.0,330.0,False,,False,,False,,,,,330.0
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_60250064,Moscow Star,23.44,23.55,3.25,4.1,False,,False,,False,,,,,4.1
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_17392197830,Sir Vinnie Kent,0.4,0.4,201.0,350.0,False,,False,,False,,,,,350.0
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_17394597773,Unbelievable Jeff,1.26,1.27,51.0,120.0,False,,False,,False,,,,,120.0
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_55882407,Valenciaga,1.13,1.14,67.0,95.0,False,,False,,False,,,,,95.0
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_63875413,Bonnie Lazarevic,0.59,0.59,126.0,280.0,False,,False,,False,,,,,280.0
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_46547193,Maria's Joy,0.38,0.38,201.0,380.0,False,,False,,False,,,,,380.0
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_50965586,Robin Blue Breast,2.06,1.6,26.0,85.0,False,,False,Returns after 547 days off; trainer has had no runners in 14 days.,False,,,,,65.0
+2026-11-12,rac_32304225889,1:05,2026-11-12T13:05:00+00:00,Hereford,Jumps,False,False,12,hrs_61911752,Thetype Istitle,8.92,8.96,8.0,12.0,False,,False,,False,,,,,12.0
+2026-11-12,rac_32304239448,1:16,2026-11-12T13:16:00+00:00,Market Rasen,Jumps,False,True,6,hrs_51831773,Firm But Fair,15.1,16.5,6.0,6.2,False,,False,"Placed in all four recent runs, first-time tongue tie, yard in form (6/21), though 240 days off.",False,,,,,
+2026-11-12,rac_32304239448,1:16,2026-11-12T13:16:00+00:00,Market Rasen,Jumps,False,True,6,hrs_49757855,Catwalk Girl,6.15,5.5,13.0,17.0,False,,False,184-day absence and top weight 165lb flagged as big asks.,False,,,,,
+2026-11-12,rac_32304239448,1:16,2026-11-12T13:16:00+00:00,Market Rasen,Jumps,False,True,6,hrs_59150651,Chemoulin,16.19,16.27,5.5,6.0,False,,False,,False,,,,,
+2026-11-12,rac_32304239448,1:16,2026-11-12T13:16:00+00:00,Market Rasen,Jumps,False,True,6,hrs_48853931,Western George,11.37,11.43,7.5,8.8,False,,False,,False,,,,,
+2026-11-12,rac_32304239448,1:16,2026-11-12T13:16:00+00:00,Market Rasen,Jumps,False,True,6,hrs_41052396,Another High Five,13.08,12.0,7.0,7.2,False,,False,Eighth last time and 49-day break flagged as worries in comment.,False,,,,,
+2026-11-12,rac_32304239448,1:16,2026-11-12T13:16:00+00:00,Market Rasen,Jumps,False,True,6,hrs_41052879,Tell The Tale,38.11,38.3,2.2,2.62,False,,False,,False,,,,,
+2026-11-12,rac_32304179401,1:28,2026-11-12T13:28:00+00:00,Thurles,Jumps,False,False,7,hrs_51341815,Zambezi Moon,27.99,27.99,3.0,3.55,False,,False,,False,,,,,3.55
+2026-11-12,rac_32304179401,1:28,2026-11-12T13:28:00+00:00,Thurles,Jumps,False,False,7,hrs_38074057,Doctor Elvis,58.97,58.97,1.53,1.6,False,,False,,False,,,,,1.6
+2026-11-12,rac_32304179401,1:28,2026-11-12T13:28:00+00:00,Thurles,Jumps,False,False,7,hrs_49325864,Go Mike Go,0.95,0.95,81.0,290.0,False,,False,,False,,,,,42.0
+2026-11-12,rac_32304179401,1:28,2026-11-12T13:28:00+00:00,Thurles,Jumps,False,False,7,hrs_17391809834,Minella Maverick,1.75,1.75,41.0,75.0,False,,False,,False,,,,,75.0
+2026-11-12,rac_32304179401,1:28,2026-11-12T13:28:00+00:00,Thurles,Jumps,False,False,7,hrs_47655503,The Goose's Acre,5.69,5.69,15.0,17.5,False,,False,,False,,,,,17.5
+2026-11-12,rac_32304179401,1:28,2026-11-12T13:28:00+00:00,Thurles,Jumps,False,False,7,hrs_47952996,Through The Storm,2.57,2.57,29.0,48.0,False,,False,,False,,,,,48.0
+2026-11-12,rac_32304179401,1:28,2026-11-12T13:28:00+00:00,Thurles,Jumps,False,False,7,hrs_60343493,Pacy Macie,2.08,2.08,34.0,65.0,False,,False,,False,,,,,60.0
+2026-11-12,rac_32304227826,1:40,2026-11-12T13:40:00+00:00,Hereford,Jumps,False,True,7,hrs_37686894,Lightning Flash,12.91,16.0,6.5,7.8,False,,False,"Won last time out 18 days ago, trainer 5/31 in 14 days, card's pick on profile.",False,,,,,7.8
+2026-11-12,rac_32304227826,1:40,2026-11-12T13:40:00+00:00,Hereford,Jumps,False,True,7,hrs_51273327,Mr Jukebox,25.51,21.5,3.5,3.75,True,SKIP,False,"21.5% x 3.75 = 0.81, well below 1.05; 202-day absence and 167lb count against him.",False,,,,,3.75
+2026-11-12,rac_32304227826,1:40,2026-11-12T13:40:00+00:00,Hereford,Jumps,False,True,7,hrs_51678963,Windsor Blue,13.23,15.96,6.5,7.4,False,,False,,False,,,,,7.4
+2026-11-12,rac_32304227826,1:40,2026-11-12T13:40:00+00:00,Hereford,Jumps,False,True,7,hrs_39826850,City of Diamonds,8.46,7.0,9.0,13.0,False,,False,"Form 600-70, winless recent spell flagged as main risk.",False,,,,,13.0
+2026-11-12,rac_32304227826,1:40,2026-11-12T13:40:00+00:00,Hereford,Jumps,False,True,7,hrs_40095713,Person of Interest,12.02,11.0,7.5,8.0,False,,False,Trainer 0/14 in last 14 days.,False,,,,,8.0
+2026-11-12,rac_32304227826,1:40,2026-11-12T13:40:00+00:00,Hereford,Jumps,False,True,7,hrs_48953128,Lydeard Girl,14.97,13.0,6.0,6.4,False,,False,Winless in last five and off 225 days; trainer 0/5 in 14 days.,False,,,,,6.4
+2026-11-12,rac_32304227826,1:40,2026-11-12T13:40:00+00:00,Hereford,Jumps,False,True,7,hrs_52896921,Dublinofficecallin,12.89,15.54,7.0,7.4,False,,False,,False,,,,,7.4
+2026-11-12,rac_32304241385,1:51,2026-11-12T13:51:00+00:00,Market Rasen,Jumps,False,True,7,hrs_40553849,Riviera Walk,5.85,6.05,15.0,16.5,False,,False,,False,,,,,
+2026-11-12,rac_32304241385,1:51,2026-11-12T13:51:00+00:00,Market Rasen,Jumps,False,True,7,hrs_38809596,Bongo Man,11.17,11.55,8.0,8.6,False,,False,,False,,,,,
+2026-11-12,rac_32304241385,1:51,2026-11-12T13:51:00+00:00,Market Rasen,Jumps,False,True,7,hrs_48818973,Miss Denver,21.06,21.78,4.0,4.7,False,,False,,False,,,,,
+2026-11-12,rac_32304241385,1:51,2026-11-12T13:51:00+00:00,Market Rasen,Jumps,False,True,7,hrs_39315136,Noble Recall,25.23,26.09,3.5,3.75,True,SKIP,False,"No Matchbook price available, so neither the value nor skip-line test can be met.",False,,,,,
+2026-11-12,rac_32304241385,1:51,2026-11-12T13:51:00+00:00,Market Rasen,Jumps,False,True,7,hrs_24769822,Boys of Wexford,6.31,5.5,14.0,16.0,False,,False,Two pulled-up efforts in last five and only fifth last time.,False,,,,,
+2026-11-12,rac_32304241385,1:51,2026-11-12T13:51:00+00:00,Market Rasen,Jumps,False,True,7,hrs_30454564,Calli Black,13.43,11.5,6.5,7.2,False,,False,"Winless, nothing better than fifth in last five starts (form 577-85).",False,,,,,
+2026-11-12,rac_32304241385,1:51,2026-11-12T13:51:00+00:00,Market Rasen,Jumps,False,True,7,hrs_35796593,Crac de Megaudais,16.95,17.53,5.0,5.8,False,,False,,False,,,,,
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_17393180336,Beeverstown Boy,19.92,19.92,4.33,4.4,False,,False,,True,,,,,4.3
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_17393178250,George Dundee,0.69,0.69,81.0,300.0,False,,False,,True,,,,,300.0
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_40095629,Gunnery Sergeant,39.33,39.33,2.1,2.3,False,,False,,True,,,,,2.3
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_58745701,Kiltinan,9.28,9.28,7.5,11.5,False,,False,,True,,,,,11.5
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_65069081,Long Story,0.63,0.63,101.0,270.0,False,,False,,True,,,,,270.0
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_17395288239,Two Pats,2.73,2.73,29.0,36.0,False,,False,,True,,,,,36.0
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_64780926,Flashy Fred,12.5,12.5,5.5,8.6,False,,False,,True,,,,,8.2
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_17392709943,Quarry Road,9.42,9.42,8.5,9.8,False,,False,,True,,,,,9.8
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_17394406904,Vango At Dawn,1.76,1.76,41.0,70.0,False,,False,,True,,,,,70.0
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_57071777,Bayswater Bloom,2.42,2.42,29.0,44.0,False,,False,,True,,,,,44.0
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_17394784470,Potters Queen,0.88,0.88,67.0,210.0,False,,False,,True,,,,,210.0
+2026-11-12,rac_32304181338,2:03,2026-11-12T14:03:00+00:00,Thurles,Jumps,False,False,12,hrs_17394376657,Soldier Power,0.43,0.43,201.0,310.0,False,,False,,True,,,,,310.0
+2026-11-12,rac_32304229763,2:15,2026-11-12T14:15:00+00:00,Hereford,Jumps,False,True,5,hrs_50036350,Oneinthewell,42.61,45.0,2.2,2.22,False,,False,"Consistent form -22143, proven at trip and going, trainer 13/47 in 14 days.",False,,,,,2.22
+2026-11-12,rac_32304229763,2:15,2026-11-12T14:15:00+00:00,Hereford,Jumps,False,True,5,hrs_58843974,Elated,13.61,15.0,6.0,7.8,False,,False,Runner-up last two and placed in five of last six; tempered by 158lb after 47 days.,False,,,,,7.8
+2026-11-12,rac_32304229763,2:15,2026-11-12T14:15:00+00:00,Hereford,Jumps,False,True,5,hrs_50622481,Alan Bresil,25.89,23.96,3.25,3.95,False,,False,,False,,,,,3.95
+2026-11-12,rac_32304229763,2:15,2026-11-12T14:15:00+00:00,Hereford,Jumps,False,True,5,hrs_51800336,Lord Cauvelliere,12.69,11.74,7.5,7.6,False,,False,,False,,,,,7.6
+2026-11-12,rac_32304229763,2:15,2026-11-12T14:15:00+00:00,Hereford,Jumps,False,True,5,hrs_52709356,Wishful Wings,5.19,4.3,18.75,18.5,False,,False,Off 204 days and winless in last five; trainer 0/5.,False,,,,,18.5
+2026-11-12,rac_32304243322,2:26,2026-11-12T14:26:00+00:00,Market Rasen,Jumps,False,True,6,hrs_412693071,Teofimo,25.46,23.5,3.25,3.95,True,SKIP,False,"No Matchbook price available, and card chance cut below market on cold trainer.",False,,,,,
+2026-11-12,rac_32304243322,2:26,2026-11-12T14:26:00+00:00,Market Rasen,Jumps,False,True,6,hrs_53328443,This Sway,23.31,27.27,3.9,4.0,False,,False,,False,,,,,
+2026-11-12,rac_32304243322,2:26,2026-11-12T14:26:00+00:00,Market Rasen,Jumps,False,True,6,hrs_42780738,Toby Two Scoops,6.3,7.37,15.0,15.0,False,,False,,False,,,,,
+2026-11-12,rac_32304243322,2:26,2026-11-12T14:26:00+00:00,Market Rasen,Jumps,False,True,6,hrs_56559433,C'Est Pour Moi,9.03,7.8,10.0,10.5,False,,False,Modest recent record (form 96783) noted as the risk.,False,,,,,
+2026-11-12,rac_32304243322,2:26,2026-11-12T14:26:00+00:00,Market Rasen,Jumps,False,True,6,hrs_41190093,Stylia,23.88,20.0,3.5,4.1,False,,False,"544-day absence, called the big worry in comment.",False,,,,,
+2026-11-12,rac_32304243322,2:26,2026-11-12T14:26:00+00:00,Market Rasen,Jumps,False,True,6,hrs_48700470,Bouboule,12.02,14.06,7.5,7.8,False,,False,,False,,,,,
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_32779978,Fratas,15.35,15.34,5.0,6.2,False,,False,,False,,,,,6.2
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_36614354,Theflyingbee,10.38,11.5,7.5,9.0,False,,False,"Card rating 126 puts her top of the 11, twice second in last five",False,,,,,9.0
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_46450215,Tir Og,12.87,14.0,6.0,7.4,False,,False,"Won last time out 11 days ago, trip/going experience, trainer 1/1 in 14 days",False,,,,,7.4
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_40260647,Shoda,20.28,18.5,4.0,4.4,True,SKIP,False,"Card negatives on weight and form; 18.5% x 4.40 = 0.81, below 1.05",False,,,,,4.4
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_40260703,Preparations,1.91,1.5,41.0,60.0,False,,False,"Pulled up last time out, trainer 1/22, 161lb",False,,,,,60.0
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_31300192,Stepdance,2.92,2.92,23.0,42.0,False,,False,,False,,,,,42.0
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_50433285,Jennyfromtheblock,9.29,9.28,8.5,10.0,False,,False,,False,,,,,10.0
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_52709188,Tutu Twist,14.73,14.72,5.5,6.2,False,,False,,False,,,,,6.2
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_45856020,Crystabel,1.65,1.65,41.0,70.0,False,,False,,False,,,,,70.0
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_41813905,Pure Logic,5.64,5.63,12.0,21.0,False,,False,,False,,,,,21.0
+2026-11-12,rac_32304183275,2:38,2026-11-12T14:38:00+00:00,Thurles,Jumps,False,True,11,hrs_63171717,Mastertown Miss,4.97,4.97,15.0,19.5,False,,False,,False,,,,,19.5
+2026-11-12,rac_32304231700,2:50,2026-11-12T14:50:00+00:00,Hereford,Jumps,False,True,9,hrs_48644673,Gaelic Saint,16.51,15.28,5.0,5.9,False,,False,,False,,,,,5.9
+2026-11-12,rac_32304231700,2:50,2026-11-12T14:50:00+00:00,Hereford,Jumps,False,True,9,hrs_31189564,Maasai Mara,4.79,4.43,17.0,22.0,False,,False,,False,,,,,22.0
+2026-11-12,rac_32304231700,2:50,2026-11-12T14:50:00+00:00,Hereford,Jumps,False,True,9,hrs_37774513,Zenato,6.02,5.0,12.0,18.5,False,,False,Pulled up last time out.,False,,,,,18.5
+2026-11-12,rac_32304231700,2:50,2026-11-12T14:50:00+00:00,Hereford,Jumps,False,True,9,hrs_27414751,Phoenix Risen,6.06,5.61,13.0,17.5,False,,False,,False,,,,,17.5
+2026-11-12,rac_32304231700,2:50,2026-11-12T14:50:00+00:00,Hereford,Jumps,False,True,9,hrs_34220970,Seraphic,49.12,52.0,1.815,1.86,False,,False,"On a hat-trick (form 4-3111), proven at trip and going, trainer 4/10 in 14 days.",False,,,,,1.86
+2026-11-12,rac_32304231700,2:50,2026-11-12T14:50:00+00:00,Hereford,Jumps,False,True,9,hrs_29918658,Taritino,8.94,8.28,9.0,11.5,False,,False,,False,,,,,11.5
+2026-11-12,rac_32304231700,2:50,2026-11-12T14:50:00+00:00,Hereford,Jumps,False,True,9,hrs_41596954,No Hard Feelings,1.81,1.5,41.0,65.0,False,,False,"Comment: form heading the wrong way, sixth then unplaced since winning streak.",False,,,,,65.0
+2026-11-12,rac_32304231700,2:50,2026-11-12T14:50:00+00:00,Hereford,Jumps,False,True,9,hrs_36137234,Happy Chandler,3.0,3.4,23.0,40.0,False,,False,"Improving 5-4-3 sequence, low weight 154lb, proven at trip and going.",False,,,,,40.0
+2026-11-12,rac_32304231700,2:50,2026-11-12T14:50:00+00:00,Hereford,Jumps,False,True,9,hrs_60818471,Lucky Sevens,3.77,4.5,19.0,30.0,False,,False,"In the frame in three of last four (form 2142), light 146lb, proven at trip and going.",False,,,,,30.0
+2026-11-12,rac_32304245259,3:01,2026-11-12T15:01:00+00:00,Market Rasen,Jumps,False,True,8,hrs_30726213,It's Maisy,10.29,8.8,8.5,9.0,False,,False,"194-day absence, eighth last time, trainer 0/12 in 14 days.",False,,,,,
+2026-11-12,rac_32304245259,3:01,2026-11-12T15:01:00+00:00,Market Rasen,Jumps,False,True,8,hrs_40919984,Fireball Frenzy,13.0,13.5,6.5,7.4,False,,False,,False,,,,,
+2026-11-12,rac_32304245259,3:01,2026-11-12T15:01:00+00:00,Market Rasen,Jumps,False,True,8,hrs_51434425,Diamond Grace,6.33,6.57,14.0,15.0,False,,False,,False,,,,,
+2026-11-12,rac_32304245259,3:01,2026-11-12T15:01:00+00:00,Market Rasen,Jumps,False,True,8,hrs_39020926,Briery Butterfly,14.38,13.0,6.0,6.6,False,,False,186-day absence and 165lb flagged as main risks.,False,,,,,
+2026-11-12,rac_32304245259,3:01,2026-11-12T15:01:00+00:00,Market Rasen,Jumps,False,True,8,hrs_57439242,Burning Embers,22.27,23.12,3.75,4.3,True,SKIP,False,"No Matchbook price available, so neither the value nor skip-line test can be met.",False,,,,,
+2026-11-12,rac_32304245259,3:01,2026-11-12T15:01:00+00:00,Market Rasen,Jumps,False,True,8,hrs_37701342,Reflection of You,16.93,17.58,5.0,5.6,False,,False,,False,,,,,
+2026-11-12,rac_32304245259,3:01,2026-11-12T15:01:00+00:00,Market Rasen,Jumps,False,True,8,hrs_29523333,Seasmoke,11.14,11.57,7.5,8.6,False,,False,,False,,,,,
+2026-11-12,rac_32304245259,3:01,2026-11-12T15:01:00+00:00,Market Rasen,Jumps,False,True,8,hrs_59895682,Bits Ballou,5.65,5.87,15.0,17.0,False,,False,,False,,,,,
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_36192702,Liceo,8.27,8.8,7.5,13.5,False,,False,"Second last time out, in solid nick, has run over trip and going",False,,,,,13.5
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_15942199,Pakens Rock,3.88,3.88,17.0,28.0,False,,False,,False,,,,,28.0
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_28891485,Titanium,2.77,2.77,23.0,38.0,False,,False,,False,,,,,38.0
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_37193247,Big Dee,3.19,2.7,23.0,34.0,False,,False,"Poor form: unplaced, seventh and two pulled-up efforts; trainer 0/15",False,,,,,34.0
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_48853805,Daisy Fingall,10.09,10.09,7.0,9.2,False,,False,,False,,,,,9.2
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_22731436,Duke Otto,3.37,3.37,21.0,28.0,False,,False,,False,,,,,28.0
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_35528612,Jaadil,7.94,7.94,9.5,11.5,False,,False,,False,,,,,11.5
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_40260661,Max Meridius,15.93,15.94,5.0,5.3,True,SKIP,False,"Two fifths last two, no card reason to raise; 15.9% x 5.30 = 0.84, below 1.05",False,,,,,5.3
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_59961482,Ddakji,5.29,5.29,12.0,20.0,False,,False,,False,,,,,20.0
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_50465772,I Feel Fine,9.62,9.62,8.0,9.0,False,,False,,False,,,,,9.0
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_57008273,Grennanstown Lady,5.89,5.89,11.0,18.5,False,,False,,False,,,,,18.5
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_40669041,Arctic Piper,6.78,6.78,11.0,13.5,False,,False,,False,,,,,13.5
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_52087252,Ozark's Walk,7.56,7.56,11.0,11.5,False,,False,,False,,,,,11.5
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_41325123,Polly Poppins,4.95,4.95,15.0,19.0,False,,False,,False,,,,,19.0
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_412693015,Kidam Roque,0.57,0.5,101.0,300.0,False,,False,"Pulled up last time out, form 9-PU0P",False,,,,,300.0
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_24506524,Vairue,1.53,1.53,34.0,95.0,False,,False,,False,,,,,95.0
+2026-11-12,rac_32304553242,3:15,2026-11-12T15:15:00+00:00,Thurles,Jumps,False,True,17,hrs_54432448,Dark Berkshire,2.37,2.37,29.0,42.0,False,,False,,False,,,,,42.0
+2026-11-12,rac_32304233637,3:25,2026-11-12T15:25:00+00:00,Hereford,Jumps,False,False,5,hrs_65549946,Eagles Promise,35.53,35.53,2.5,2.76,False,,False,,True,,,,,2.76
+2026-11-12,rac_32304233637,3:25,2026-11-12T15:25:00+00:00,Hereford,Jumps,False,False,5,hrs_64072911,Flora Hobbs,7.39,7.39,13.0,13.0,False,,False,,True,,,,,13.0
+2026-11-12,rac_32304233637,3:25,2026-11-12T15:25:00+00:00,Hereford,Jumps,False,False,5,hrs_17395173509,Ms Belle,26.42,26.42,3.5,3.6,False,,False,,True,,,,,3.6
+2026-11-12,rac_32304233637,3:25,2026-11-12T15:25:00+00:00,Hereford,Jumps,False,False,5,hrs_17395099456,Nova Foresta,18.69,18.69,4.5,5.5,False,,False,,True,,,,,5.5
+2026-11-12,rac_32304233637,3:25,2026-11-12T15:25:00+00:00,Hereford,Jumps,False,False,5,hrs_65287187,Three of Spades,11.97,11.97,7.5,8.4,False,,False,,True,,,,,8.4
+2026-11-12,rac_32304247196,3:36,2026-11-12T15:36:00+00:00,Market Rasen,Jumps,False,True,7,hrs_35054474,Trust House,4.48,4.45,19.0,22.0,False,,False,,False,,,,,
+2026-11-12,rac_32304247196,3:36,2026-11-12T15:36:00+00:00,Market Rasen,Jumps,False,True,7,hrs_32290839,St Faz,20.26,20.11,4.33,4.9,False,,False,,False,,,,,
+2026-11-12,rac_32304247196,3:36,2026-11-12T15:36:00+00:00,Market Rasen,Jumps,False,True,7,hrs_30124724,Pigeon House,4.77,5.5,17.0,21.0,False,,False,"Three straight fourths, latest 11 days ago; spotlight names him its pick.",False,,,,,
+2026-11-12,rac_32304247196,3:36,2026-11-12T15:36:00+00:00,Market Rasen,Jumps,False,True,7,hrs_46046000,Tilehurst,27.45,27.24,3.0,3.65,True,SKIP,False,"No Matchbook price available, so neither the value nor skip-line test can be met.",False,,,,,
+2026-11-12,rac_32304247196,3:36,2026-11-12T15:36:00+00:00,Market Rasen,Jumps,False,True,7,hrs_40225311,Time In A Bottle,9.91,9.84,8.5,10.0,False,,False,,False,,,,,
+2026-11-12,rac_32304247196,3:36,2026-11-12T15:36:00+00:00,Market Rasen,Jumps,False,True,7,hrs_29522605,Ballygeary,22.38,22.21,4.0,4.2,False,,False,,False,,,,,
+2026-11-12,rac_32304247196,3:36,2026-11-12T15:36:00+00:00,Market Rasen,Jumps,False,True,7,hrs_36824116,Moutarde,10.74,10.66,8.0,9.2,False,,False,,False,,,,,
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_60279975,Je Suis Celebre,1.78,1.85,29.0,85.0,False,,False,,False,,,,,85.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_49359758,Mad Maxios,11.43,11.86,7.0,7.6,False,,False,,False,,,,,7.6
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_51766225,Euro Maker,11.92,12.5,6.5,7.4,False,,False,"Card rates him 100 vs OR 97, won three starts back, called a strong threat",False,,,,,7.4
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_48259442,Walk On Annilog,3.09,3.21,17.0,50.0,False,,False,,False,,,,,50.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_34153483,Bowgate Street,11.56,12.2,6.5,7.8,False,,False,"Second last time out and third in two of three before, trip/going experience",False,,,,,7.8
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_36986173,Sinbad My Dad,16.11,14.5,4.33,5.9,True,SKIP,False,"Card negatives on weight and form; 14.5% x 5.90 = 0.86, below 1.05",False,,,,,5.9
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_28706895,Topothelane,11.62,12.06,7.0,7.6,False,,False,,False,,,,,7.6
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_52709041,Speakasyoufind,5.01,5.2,15.0,18.5,False,,False,,False,,,,,18.5
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_30567943,Getaway Henry,4.05,4.2,19.0,23.0,False,,False,,False,,,,,23.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_46077948,Shakita,1.21,1.26,41.0,130.0,False,,False,,False,,,,,130.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_51373665,Centaq,6.56,6.81,11.0,14.0,False,,False,,False,,,,,14.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_31480344,La Tulipe Noire,3.06,3.18,23.0,32.0,False,,False,,False,,,,,32.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_16652251,Romella,3.19,2.6,17.0,46.0,False,,False,"Winless in five, sixth last time out, unplaced before that",False,,,,,46.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_26460056,Thegooseiscooked,4.37,3.6,12.0,32.0,False,,False,"Fell last time out, unplaced in two runs before",False,,,,,32.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_44690233,Chesterbaylad,3.68,3.82,17.0,29.0,False,,False,,False,,,,,29.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_51766316,Middlethird Marvel,0.64,0.66,101.0,240.0,False,,False,,False,,,,,240.0
+2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_51557604,Slea Head,0.72,0.5,81.0,240.0,False,,False,Pulled up last time out and returns after 345 days off,False,,,,,240.0

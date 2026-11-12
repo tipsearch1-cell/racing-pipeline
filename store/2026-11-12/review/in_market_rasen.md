@@ -75,7 +75,7 @@ Chase | Class 5 | 2m5f89y | going Good To Soft | Turf | 7 runners | rating band 
 - Boys of Wexford (hrs_24769822) | 9yo G | 149lb | OR 81 | draw 0 | jockey David Noonan | trainer Henry Oliver (14d 1/5) | headgear v | last run 15 days | form P41-P5 | MARKET 6.3% | 09:00 median 14.00 | Matchbook -
     comment: Boys of Wexford is hard to fancy, with two pulled-up efforts in his last five and only a fifth last time out, though he did win three starts back and has run over today's trip and going.
 - Riviera Walk (hrs_40553849) | 6yo M | 168lb | OR 100 | draw 0 | jockey Jonjo O'Neill Jr. | trainer Jonjo & A.J. O'Neill (14d 5/41) | headgear - | last run 16 days | form F1P-UP | MARKET 5.8% | 09:00 median 15.00 | Matchbook -
-    comment: Riviera Walk is a winner four starts back and has run on today's going, and she's fresh enough after 16 days off, though her last three runs have ended in a pulled up, an unseated and another pulled up. Our 107 puts her top of the seven despite 168 lb, with an official 100.
+    comment: Riviera Walk is a winner four starts back and has run on today's going, and she's fresh enough after 16 days off, though her last three runs have ended in a pulled up, an unseated and another pulled up.
 
 ## 2:26 Market Rasen | race_id rac_32304243322 | NFU Mutual Agriculture Raceday Novices' Handicap Hurdle Race
 Hurdle | Class 5 | 2m4f139y | going Good To Soft | Turf | 6 runners | rating band 0-100 | age 3yo+
@@ -90,7 +90,6 @@ Hurdle | Class 5 | 2m4f139y | going Good To Soft | Turf | 6 runners | rating ban
 - C'Est Pour Moi (hrs_56559433) | 4yo G | 154lb | OR 87 | draw 0 | jockey Amber Jackson-Fennell(7) | trainer Nigel & Willy Twiston-Davies (14d 5/31) | headgear - | last run 17 days | form 96783 | MARKET 9.0% | 09:00 median 10.00 | Matchbook -
     comment: The risk is a modest recent record, with an eighth, a seventh, a sixth and a ninth before that, and he carries 154 lb.
 - Toby Two Scoops (hrs_42780738) | 4yo G | 158lb | OR 91 | draw 0 | jockey Brian Hughes | trainer Micky Hammond (14d 1/13) | headgear b | last run 215 days | form 23P2P- | MARKET 6.3% | 09:00 median 15.00 | Matchbook -
-    comment: Toby Two Scoops showed his best with a second two starts back and a third four starts back, and he's rated 92 by us, a point above his official mark of 91, but he was pulled up last time and returns after 215 days off, so rust is the main risk under 158 lb.
 
 ## 3:01 Market Rasen | race_id rac_32304245259 | PricedUp Boosts And BOG Mares' Handicap Hurdle Race
 Hurdle | Class 5 | 2m7f16y | going Good To Soft | Turf | 8 runners | rating band 0-100 | age 4yo+
@@ -118,12 +117,12 @@ Hurdle | Class 4 | 2m0f125y | going Good To Soft | Turf | 7 runners | rating ban
 - Ballygeary (hrs_29522605) | 9yo G | 154lb | OR 106 | draw 0 | jockey Joshua Thompson(5) | trainer Mike Sowersby (14d 0/5) | headgear t | last run 26 days | form 535512 | MARKET 22.4% | 09:00 median 4.00 | Matchbook -
     comment: Ballygeary showed up well with a second last time out and a win two starts back, but a fifth three starts back and another fifth four starts back sit in the mix, and 154 lb is a big weight to carry.
 - St Faz (hrs_32290839) | 6yo G | 168lb | OR 120 | draw 0 | jockey Oakley Brown(5) | trainer Adrian Keatley (14d 1/4) | headgear tp | last run 117 days | form 5746-P | MARKET 20.3% | 09:00 median 4.33 | Matchbook -
-    comment: St Faz has run over today's trip and going before, and his last-time pull-up follows a sixth two runs ago and a fourth three starts back, leaving him without a win in his last five. Rated 118 by us and top of this seven-runner field, he's a leading threat, though 117 days off and 168 lb are the risks.
+    comment: St Faz has run over today's trip and going before, and his last-time pull-up follows a sixth two runs ago and a fourth three starts back, leaving him without a win in his last five.
 - Moutarde (hrs_36824116) | 5yo G | 154lb | OR 106 | draw 0 | jockey Dylan Johnston | trainer Syd Hosie (14d 1/6) | headgear t | wind surgery | last run 234 days | form P8P52- | MARKET 10.7% | 09:00 median 8.00 | Matchbook -
     comment: The main risk is a 234-day absence, with two pulled-up efforts in his last five starts.
 - Time In A Bottle (hrs_40225311) | 6yo M | 155lb | OR 107 | draw 0 | jockey Harry Skelton | trainer Dan Skelton (14d 21/93) | headgear ht | last run 58 days | form 226F-6 | MARKET 9.9% | 09:00 median 8.50 | Matchbook -
     comment: Without a win in her last five outings, Time In A Bottle was sixth last time out after a fall two starts back, and she has been off 58 days; a second four starts back is the best of it.
 - Pigeon House (hrs_30124724) | 6yo G | 163lb | OR 115 | draw 0 | jockey Sean Quinlan | trainer Charles & Adam Pogson (14d 0/2) | headgear p | last run 11 days | form P2P444 | MARKET 4.8% | 09:00 median 17.00 | Matchbook -
-    comment: Three straight fourths, the latest just 11 days ago, show Pigeon House is in good heart, and he has run over today's trip and going before. Carrying 163 lb is a reservation, but his consistency makes him our pick.
+    comment: Three straight fourths, the latest just 11 days ago, show Pigeon House is in good heart, and he has run over today's trip and going before.
 - Trust House (hrs_35054474) | 6yo G | 168lb | OR 120 | draw 0 | jockey Philip Armson(3) | trainer Jake Thomas Coulson (14d 0/0) | headgear - | last run 153 days | form 511-23 | MARKET 4.5% | 09:00 median 19.00 | Matchbook -
     comment: Trust House arrives in cracking form, a third last time out, a second two starts back, and a winner three starts back and four starts back, and he has run over today's trip and going before. The one concern is a 153-day absence under 168 lb.

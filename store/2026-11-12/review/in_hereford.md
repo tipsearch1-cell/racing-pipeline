@@ -53,7 +53,7 @@ Hurdle | Class 4 | 2m5f163y | going Good | Turf | 7 runners | rating band 0-110 
     comment: Winless in her last five, Lydeard Girl was second last time out, but that came 225 days ago and she has an unseated and a sixth in the book too.
 - Windsor Blue (hrs_51678963) | 5yo M | 164lb | OR 106 | draw 0 | jockey David Bass | trainer Henry Daly (14d 1/10) | headgear - | last run 204 days | form 54152- | MARKET 13.2% | 09:00 median 6.50 | Matchbook 7.40
 - Lightning Flash (hrs_37686894) | 6yo G | 168lb | OR 110 | draw 0 | jockey Mr Eddie Edge(7) | trainer Nigel & Willy Twiston-Davies (14d 5/31) | headgear - | last run 18 days | form 63-341 | MARKET 12.9% | 09:00 median 6.50 | Matchbook 7.80
-    comment: Lightning Flash won last time out and was fourth two starts back, a run of form that, with only 18 days since that success, makes him our pick on overall profile. He has run on today's going before and carries 168 lb off an official mark of 110, which is the one reservation.
+    comment: He has run on today's going before and carries 168 lb off an official mark of 110, which is the one reservation.
 - Dublinofficecallin (hrs_52896921) | 5yo G | 147lb | OR 89 | draw 0 | jockey Tom Cannon | trainer Kerry Lee (14d 0/4) | headgear - | last run 149 days | form 071-70 | MARKET 12.9% | 09:00 median 7.00 | Matchbook 7.40
     comment: Dublinofficecallin has been well beaten recently, unplaced last time out and a seventh two starts back, and he returns after 149 days off, so he is hard to fancy under 147 lb. On the plus side, he won three starts back and has run on today's going before.
 - Person of Interest (hrs_40095713) | 6yo G | 158lb | OR 100 | draw 0 | jockey J. P. O'Neill(10) | trainer Faye Bramley (14d 0/14) | headgear - | last run 65 days | form B612P5 | MARKET 12.0% | 09:00 median 7.50 | Matchbook 8.00
@@ -66,7 +66,6 @@ Hurdle | Class 4 | 3m1f119y | going Good | Turf | 5 runners | rating band 0-110 
 - Oneinthewell (hrs_50036350) | 5yo G | 168lb | OR 109 | draw 0 | jockey Jonathan Burke | trainer James Owen (14d 13/47) | headgear p | last run 48 days | form -22143 | MARKET 42.6% | 09:00 median 2.20 | Matchbook 2.22
     comment: Oneinthewell arrives consistent, with a third last time out, a fourth two starts back and a win three starts back, and he has run over today's trip and going.
 - Alan Bresil (hrs_50622481) | 6yo G | 152lb | OR 93 | draw 0 | jockey Nathan Andrews(10) | trainer Nick Scholfield (14d 0/18) | headgear b | last run 11 days | form 254633 | MARKET 25.9% | 09:00 median 3.25 | Matchbook 3.95
-    comment: Alan Bresil comes here sharp after a third last time out, and a third two starts back, with just 11 days since that run; he has run over today's trip and going, and our 96 puts him third of five.
 - Elated (hrs_58843974) | 5yo M | 158lb | OR 99 | draw 0 | jockey Charlie Price | trainer Robbie Llewellyn (14d 1/2) | headgear - | last run 47 days | form 332F22 | MARKET 13.6% | 09:00 median 6.00 | Matchbook 7.80
     comment: Elated has been runner-up in her last two starts and placed in five of her last six, so she arrives in fine heart despite being winless, and she has run on today's going before. The one concern is 158 lb on a 47-day break, which is a hefty burden.
 - Lord Cauvelliere (hrs_51800336) | 5yo G | 142lb | OR 78 | draw 0 | jockey Callum Pritchard | trainer Sheila Lewis (14d 0/5) | headgear t (1st time) | last run 17 days | form 456P74 | MARKET 12.7% | 09:00 median 7.50 | Matchbook 7.60
@@ -79,7 +78,6 @@ Hurdle | Class 5 | 2m0f53y | going Good | Turf | 9 runners | rating band 0-105 |
 - Seraphic (hrs_34220970) | 6yo G | 165lb | OR 102 | draw 0 | jockey Kielan Woods | trainer David Killahena & Graeme McPherson (14d 4/10) | headgear t | last run 1 days | form 4-3111 | MARKET 49.1% | 09:00 median 1.81 | Matchbook 1.86
     comment: Seraphic arrives on a hat-trick, having won last time out, two starts back and three starts back, and he has run over today's trip and going before.
 - Gaelic Saint (hrs_48644673) | 5yo M | 168lb | OR 105 | draw 0 | jockey Rian Corcoran(5) | trainer Tom Symonds (14d 0/10) | headgear h | last run 22 days | form 2467-4 | MARKET 16.5% | 09:00 median 5.00 | Matchbook 5.90
-    comment: Gaelic Saint is our pick on profile: she has run over today's trip and going, comes here fresh after 22 days, and was fourth last time out, with a second five starts back.
 - Taritino (hrs_29918658) | 6yo G | 163lb | OR 100 | draw 0 | jockey Callum Pritchard | trainer Joe Tickle (14d 0/4) | headgear - | last run 46 days | form 1321-6 | MARKET 8.9% | 09:00 median 9.00 | Matchbook 11.50
     comment: Taritino won two starts back and five starts back, with a second and a third in between, but was only sixth last time out and returns after 46 days.
 - Phoenix Risen (hrs_27414751) | 9yo G | 166lb | OR 103 | draw 0 | jockey Chad Bament(5) | trainer Jeremy Scott (14d 1/6) | headgear b | last run 34 days | form 2155-8 | MARKET 6.1% | 09:00 median 13.00 | Matchbook 17.50
@@ -87,7 +85,7 @@ Hurdle | Class 5 | 2m0f53y | going Good | Turf | 9 runners | rating band 0-105 |
 - Zenato (hrs_37774513) | 5yo G | 167lb | OR 104 | draw 0 | jockey Fern O'Brien(5) | trainer Fergal O'Brien (14d 3/26) | headgear t | last run 27 days | form 9115-P | MARKET 6.0% | 09:00 median 12.00 | Matchbook 18.50
     comment: The risk is that he was pulled up last time out.
 - Maasai Mara (hrs_31189564) | 6yo G | 168lb | OR 105 | draw 0 | jockey Charlie Deutsch | trainer John O'Shea (14d 0/4) | headgear - | last run 98 days | form 55/97- | MARKET 4.8% | 09:00 median 17.00 | Matchbook 22.00
-    comment: Maasai Mara has finished fifth twice in his last four starts, though he was seventh last time out and returns after 98 days off, but he has run over today's trip and going and our ranking has him top of nine. The risk is that recent finishes are unconvincing and he is yet to win in that spell.
+    comment: The risk is that recent finishes are unconvincing and he is yet to win in that spell.
 - Lucky Sevens (hrs_60818471) | 3yo G | 146lb | OR 99 | draw 0 | jockey James Best | trainer Nikki Evans (14d 0/1) | headgear p | last run 26 days | form 2142 | MARKET 3.8% | 09:00 median 19.00 | Matchbook 30.00
     comment: Lucky Sevens has been in the frame in three of his last four, including a second last time out and a win three starts back, and has run over today's trip and going.
 - Happy Chandler (hrs_36137234) | 5yo G | 154lb | OR 91 | draw 0 | jockey Harry Reed | trainer Michael Blake (14d 0/2) | headgear - | last run 45 days | form 543 | MARKET 3.0% | 09:00 median 23.00 | Matchbook 40.00

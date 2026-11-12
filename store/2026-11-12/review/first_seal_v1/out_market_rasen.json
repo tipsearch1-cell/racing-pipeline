@@ -1,0 +1,39 @@
+{"meeting": "market_rasen", "races": [
+  {"race_id": "rac_32304235574", "changes": [
+    {"horse_id": "hrs_63618261", "horse": "Silver Salver", "chance_pct": 3.3, "reason": "Trainer Joel Parkinson & Sue Smith 0/12 in last 14 days."},
+    {"horse_id": "hrs_57758428", "horse": "Icy Glen", "chance_pct": 0.8, "reason": "356 days off with form 60- and trainer 0/12 in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304237511", "changes": [
+    {"horse_id": "hrs_58686831", "horse": "Striking Midnight", "chance_pct": 3.7, "reason": "Trainer 0/12 in 14 days and ninth last time (form 32-9)."},
+    {"horse_id": "hrs_30454494", "horse": "Definite Call", "chance_pct": 2.6, "reason": "328 days off, pulled up last time, trainer with no runners in 14 days (0/0)."}
+  ], "checks": []},
+  {"race_id": "rac_32304239448", "changes": [
+    {"horse_id": "hrs_51831773", "horse": "Firm But Fair", "chance_pct": 16.5, "reason": "Placed in all four recent runs, first-time tongue tie, yard in form (6/21), though 240 days off."},
+    {"horse_id": "hrs_41052396", "horse": "Another High Five", "chance_pct": 12.0, "reason": "Eighth last time and 49-day break flagged as worries in comment."},
+    {"horse_id": "hrs_49757855", "horse": "Catwalk Girl", "chance_pct": 5.5, "reason": "184-day absence and top weight 165lb flagged as big asks."}
+  ], "checks": []},
+  {"race_id": "rac_32304241385", "changes": [
+    {"horse_id": "hrs_30454564", "horse": "Calli Black", "chance_pct": 11.5, "reason": "Winless, nothing better than fifth in last five starts (form 577-85)."},
+    {"horse_id": "hrs_24769822", "horse": "Boys of Wexford", "chance_pct": 5.5, "reason": "Two pulled-up efforts in last five and only fifth last time."}
+  ], "checks": [
+    {"horse_id": "hrs_39315136", "horse": "Noble Recall", "verdict": "SKIP", "reason": "No Matchbook price available, so neither the value nor skip-line test can be met."}
+  ]},
+  {"race_id": "rac_32304243322", "changes": [
+    {"horse_id": "hrs_412693071", "horse": "Teofimo", "chance_pct": 23.5, "reason": "Trainer Adam Nicol 0/14 in last 14 days and top weight 168lb."},
+    {"horse_id": "hrs_41190093", "horse": "Stylia", "chance_pct": 20.0, "reason": "544-day absence, called the big worry in comment."},
+    {"horse_id": "hrs_56559433", "horse": "C'Est Pour Moi", "chance_pct": 7.8, "reason": "Modest recent record (form 96783) noted as the risk."}
+  ], "checks": [
+    {"horse_id": "hrs_412693071", "horse": "Teofimo", "verdict": "SKIP", "reason": "No Matchbook price available, and card chance cut below market on cold trainer."}
+  ]},
+  {"race_id": "rac_32304245259", "changes": [
+    {"horse_id": "hrs_30726213", "horse": "It's Maisy", "chance_pct": 8.8, "reason": "194-day absence, eighth last time, trainer 0/12 in 14 days."},
+    {"horse_id": "hrs_39020926", "horse": "Briery Butterfly", "chance_pct": 13.0, "reason": "186-day absence and 165lb flagged as main risks."}
+  ], "checks": [
+    {"horse_id": "hrs_57439242", "horse": "Burning Embers", "verdict": "SKIP", "reason": "No Matchbook price available, so neither the value nor skip-line test can be met."}
+  ]},
+  {"race_id": "rac_32304247196", "changes": [
+    {"horse_id": "hrs_30124724", "horse": "Pigeon House", "chance_pct": 5.5, "reason": "Three straight fourths, latest 11 days ago; spotlight names him its pick."}
+  ], "checks": [
+    {"horse_id": "hrs_46046000", "horse": "Tilehurst", "verdict": "SKIP", "reason": "No Matchbook price available, so neither the value nor skip-line test can be met."}
+  ]}
+]}

@@ -1,0 +1,30 @@
+{"meeting": "hereford", "races": [
+  {"race_id": "rac_32304223952", "changes": [
+    {"horse_id": "hrs_17395296583", "horse": "Princess of Habo", "chance_pct": 46.0, "reason": "Yard flying with 11/26 winners in last 14 days per card."}
+  ], "checks": []},
+  {"race_id": "rac_32304225889", "changes": [
+    {"horse_id": "hrs_50965586", "horse": "Robin Blue Breast", "chance_pct": 1.6, "reason": "Returns after 547 days off; trainer has had no runners in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304227826", "changes": [
+    {"horse_id": "hrs_51273327", "horse": "Mr Jukebox", "chance_pct": 21.5, "reason": "Comment flags 202-day absence and top weight of 167lb."},
+    {"horse_id": "hrs_37686894", "horse": "Lightning Flash", "chance_pct": 16.0, "reason": "Won last time out 18 days ago, trainer 5/31 in 14 days, card's pick on profile."},
+    {"horse_id": "hrs_48953128", "horse": "Lydeard Girl", "chance_pct": 13.0, "reason": "Winless in last five and off 225 days; trainer 0/5 in 14 days."},
+    {"horse_id": "hrs_39826850", "horse": "City of Diamonds", "chance_pct": 7.0, "reason": "Form 600-70, winless recent spell flagged as main risk."},
+    {"horse_id": "hrs_40095713", "horse": "Person of Interest", "chance_pct": 11.0, "reason": "Trainer 0/14 in last 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_51273327", "horse": "Mr Jukebox", "verdict": "SKIP", "reason": "21.5% x 3.75 = 0.81, well below 1.05; 202-day absence and 167lb count against him."}
+  ]},
+  {"race_id": "rac_32304229763", "changes": [
+    {"horse_id": "hrs_50036350", "horse": "Oneinthewell", "chance_pct": 45.0, "reason": "Consistent form -22143, proven at trip and going, trainer 13/47 in 14 days."},
+    {"horse_id": "hrs_58843974", "horse": "Elated", "chance_pct": 15.0, "reason": "Runner-up last two and placed in five of last six; tempered by 158lb after 47 days."},
+    {"horse_id": "hrs_52709356", "horse": "Wishful Wings", "chance_pct": 4.3, "reason": "Off 204 days and winless in last five; trainer 0/5."}
+  ], "checks": []},
+  {"race_id": "rac_32304231700", "changes": [
+    {"horse_id": "hrs_34220970", "horse": "Seraphic", "chance_pct": 52.0, "reason": "On a hat-trick (form 4-3111), proven at trip and going, trainer 4/10 in 14 days."},
+    {"horse_id": "hrs_37774513", "horse": "Zenato", "chance_pct": 5.0, "reason": "Pulled up last time out."},
+    {"horse_id": "hrs_41596954", "horse": "No Hard Feelings", "chance_pct": 1.5, "reason": "Comment: form heading the wrong way, sixth then unplaced since winning streak."},
+    {"horse_id": "hrs_60818471", "horse": "Lucky Sevens", "chance_pct": 4.5, "reason": "In the frame in three of last four (form 2142), light 146lb, proven at trip and going."},
+    {"horse_id": "hrs_36137234", "horse": "Happy Chandler", "chance_pct": 3.4, "reason": "Improving 5-4-3 sequence, low weight 154lb, proven at trip and going."}
+  ], "checks": []},
+  {"race_id": "rac_32304233637", "changes": [], "checks": []}
+]}

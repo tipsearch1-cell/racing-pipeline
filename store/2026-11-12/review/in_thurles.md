@@ -67,9 +67,7 @@ Chase |  | 2m2f55y | going Good | Turf | 12 runners | rating band - | age 4yo+
 - Mags Nelson (hrs_40920208) | 7yo G | 161lb | OR 105 | draw 0 | jockey Donagh Meyler | trainer Ross O'Sullivan (14d 1/23) | headgear - | last run 29 days | form 183-44 | MARKET 5.4% | 09:00 median 15.00 | Matchbook 18.00
     comment: Mags Nelson has run in the frame twice lately, a fourth last time out and a fourth two starts back, but he hasn't won since five starts back, and carrying 161 lb off 105 with a yard in poor form (1/23) makes him hard to fancy.
 - Beauforts Storm (hrs_35351323) | 7yo M | 163lb | OR 107 | draw 0 | jockey Mr D Doyle(5) | trainer Timothy Doyle (14d 0/2) | headgear b (1st time) | last run 39 days | form U744P9 | MARKET 2.6% | 09:00 median 26.00 | Matchbook 44.00
-    comment: Winless in her last six, Beauforts Storm has still run over today's trip and going, and she's rated 114 by us, third best of twelve, with a fourth three starts back suggesting she can bounce back after 39 days off; carrying 163 lb off 107 is the main risk.
 - Banjaxed (hrs_29104544) | 9yo G | 166lb | OR 110 | draw 0 | jockey John Shinnick | trainer Mrs Lorna Fowler (14d 1/2) | headgear b (1st time) | last run 21 days | form 486-4P | MARKET 2.3% | 09:00 median 34.00 | Matchbook 42.00
-    comment: Fit after 21 days and carrying 166 lb, Banjaxed has run over today's trip and on this going, and he sits top of our ranking on 119 against an official 110, so he looks a leading threat; the risk is a pulled-up effort last time out, with a fourth two starts back his best recent finish.
 - Orkneys Jack (hrs_51373693) | 7yo G | 155lb | OR 99 | draw 0 | jockey Sean O'Keeffe | trainer L Young (14d 0/0) | headgear - | last run 37 days | form 135575 | MARKET 1.7% | 09:00 median 41.00 | Matchbook 70.00
     comment: The risk is a recent slide, with a fifth last time out and a seventh before that, after 37 days off.
 
@@ -141,9 +139,9 @@ Hurdle |  | 2m4f | going Good | Turf | 11 runners | rating band - | age 3yo+
 - Tutu Twist (hrs_52709188) | 5yo M | 154lb | OR 103 | draw 0 | jockey Darragh O'Keeffe | trainer Henry de Bromhead (14d 8/43) | headgear t | last run 35 days | form 233-22 | MARKET 14.7% | 09:00 median 5.50 | Matchbook 6.20
     comment: Tutu Twist has been a model of consistency, finishing second last time out, second two starts back and third three starts back, and she has run over today's trip and going before. Yet winless in her last five and carrying 154 lb after 35 days off, she may again find one too good.
 - Tir Og (hrs_46450215) | 5yo M | 164lb | OR 113 | draw 0 | jockey Conor Clarke(7) | trainer E Seymour (14d 1/1) | headgear p | last run 11 days | form 704041 | MARKET 12.9% | 09:00 median 6.00 | Matchbook 7.40
-    comment: Tir Og arrives fresh from a win last time out just 11 days ago, and she has run over today's trip and going before, so she looks a leading threat under 164 lb. The risk is a patchy record before that, with just a fourth two starts back in the preceding runs.
+    comment: The risk is a patchy record before that, with just a fourth two starts back in the preceding runs.
 - Theflyingbee (hrs_36614354) | 9yo M | 165lb | OR 114 | draw 0 | jockey Mr J R Martin(7) | trainer F G Hand (14d 0/0) | headgear t | last run 22 days | form 3-2256 | MARKET 10.4% | 09:00 median 7.50 | Matchbook 9.00
-    comment: Twice second and once third in her last five, Theflyingbee has run over today's trip and going and returns fresh after 22 days, while our 126 puts her top of the 11. The risk is 165 lb on her back and a sixth last time out.
+    comment: The risk is 165 lb on her back and a sixth last time out.
 - Jennyfromtheblock (hrs_50433285) | 6yo M | 154lb | OR 103 | draw 0 | jockey Mark Walsh | trainer E McNamara (14d 0/6) | headgear - | last run 26 days | form 1/F-51 | MARKET 9.3% | 09:00 median 8.50 | Matchbook 10.00
     comment: Jennyfromtheblock arrives fresh from a win last time out, with a fifth two starts back and a faller three runs ago, and she has run over today's trip and going.
 - Pure Logic (hrs_41813905) | 6yo M | 153lb | OR 102 | draw 0 | jockey Harry Sexton(7) | trainer John Joseph Hanlon (14d 0/11) | headgear tp | last run 42 days | form P31236 | MARKET 5.6% | 09:00 median 12.00 | Matchbook 21.00
@@ -168,7 +166,7 @@ Hurdle |  | 2m16y | going Good | Turf | 17 runners | rating band 0-100 | age 3yo
 - Liceo (hrs_36192702) | 6yo G | 168lb | OR 100 | draw 0 | jockey P J O'Hanlon | trainer Dermot A McLoughlin (14d 0/11) | headgear tp | last run 33 days | form 935352 | MARKET 8.3% | 09:00 median 7.50 | Matchbook 13.50
     comment: Liceo comes here in solid nick, a second last time out and a fifth two starts back, and he has run over today's trip and going before. Yet to win in his last six, he's back after 33 days, and carrying 168 lb is the main risk.
 - Jaadil (hrs_35528612) | 5yo M | 160lb | OR 92 | draw 0 | jockey Patrick M O'Brien(5) | trainer E McNamara (14d 0/6) | headgear - | last run 25 days | form -PF953 | MARKET 7.9% | 09:00 median 9.50 | Matchbook 11.50
-    comment: Jaadil was third last time out, and she's had 25 days to recover, but she's yet to win in her last five starts, with a ninth three starts back and a fall before that. She has run over today's trip and going, yet 160 lb and a ranking of tenth of 17 make this a midfield task.
+    comment: Jaadil was third last time out, and she's had 25 days to recover, but she's yet to win in her last five starts, with a ninth three starts back and a fall before that.
 - Ozark's Walk (hrs_52087252) | 6yo G | 152lb | OR 84 | draw 0 | jockey Philip Byrnes | trainer Riceal Dunne (14d 0/0) | headgear - | last run 129 days | form 2009-0 | MARKET 7.6% | 09:00 median 11.00 | Matchbook 11.50
 - Arctic Piper (hrs_40669041) | 7yo M | 152lb | OR 84 | draw 0 | jockey Michael Kenneally(3) | trainer R Donohoe (14d 0/3) | headgear - | last run 30 days | form -F9093 | MARKET 6.8% | 09:00 median 11.00 | Matchbook 13.50
     comment: Arctic Piper bounced back with a third last time out after a run of ninth, unplaced, ninth and a faller, and she has run over today's trip and going before.
@@ -196,7 +194,7 @@ Hurdle |  | 2m16y | going Good | Turf | 17 runners | rating band 0-100 | age 3yo
 - Sinbad My Dad (hrs_36986173) | 5yo G | 160lb | OR 92 | draw 0 | jockey Ben Kennedy(7) | trainer Seamus Fahey (14d 0/1) | headgear - | last run 5 days | form 66/0-4 | MARKET 16.1% | 09:00 median 4.33 | Matchbook 5.90 | CHECK (skip line 4.11)
     comment: Fourth last time out and back quickly after just five days, Sinbad My Dad has run over today's trip and going, but he's winless in his last four and was sixth on two of those, while 160 lb is a hefty burden off 92.
 - Euro Maker (hrs_51766225) | 5yo G | 165lb | OR 97 | draw 0 | jockey Eoghan Finegan(5) | trainer Adrian Murray (14d 0/3) | headgear - | last run 48 days | form 2-9130 | MARKET 11.9% | 09:00 median 6.50 | Matchbook 7.40
-    comment: Euro Maker looks a strong threat, having won three starts back and finished third two starts back, with experience of today's trip and going, and he's rated 100 by us. The main risk is a layoff of 48 days, plus an unplaced run last time out and a hefty 165 lb.
+    comment: The main risk is a layoff of 48 days, plus an unplaced run last time out and a hefty 165 lb.
 - Topothelane (hrs_28706895) | 9yo G | 156lb | OR 88 | draw 0 | jockey Mike O'Connor | trainer P C O'Connor (14d 0/0) | headgear - | last run 166 days | form /P3-15 | MARKET 11.6% | 09:00 median 7.00 | Matchbook 7.60
     comment: Topothelane won two starts back and was third three starts back, and he has run over today's trip and going before, but a fifth last time out and 166 days off the track temper the case.
 - Bowgate Street (hrs_34153483) | 7yo M | 160lb | OR 92 | draw 0 | jockey Darragh O'Keeffe | trainer M Flannery (14d 0/0) | headgear t | last run 20 days | form 733032 | MARKET 11.6% | 09:00 median 6.50 | Matchbook 7.80

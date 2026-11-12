@@ -28,3 +28,11 @@ Unchanged: value-flag thresholds (1.25x market, >= 3%), CHECK definition (fav, 5
 Build time moves from 09:05 to 08:35 UK so the bot file is ready before the ~09:30 match.
 Dry run on 10 Nov's sealed reviewer output: 18 -> 15 bot bets (Rich Treasure excluded, unraced field; Franciscan Rock and
 Hiddenvalley Lake had no Matchbook price). Point 3 cannot be dry-run (it changes what the reviewer reads).
+
+## Implementation note 12 Nov 2026 08:40 UTC (no rule change)
+The amendment-3 filter (remove the card's own rating/ranking sentences) missed wordings such as "top of our ranking",
+"rated 114 by us, third best of twelve", "leading threat". On 12 Nov the review was sealed twice with leaking packets
+(each produced one longshot value flag citing the leaked rating) BEFORE anything was published; the filter was widened
+to every sentence in the provider's own voice (our/us/we, ranks/ranked/ranking, rated N, Nth/best of N, leading/main
+threat or danger, top-rated, one to beat) and the review re-run once more. Both earlier seals are kept in
+store/2026-11-12/review/first_seal_v1 and second_seal_v2. Only the third seal was published.

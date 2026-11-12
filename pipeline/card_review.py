@@ -18,8 +18,10 @@ TRACKER = p("data", "card_review_tracker.csv")
 COLS = ["day", "race_id", "off", "off_dt", "course", "code", "aw", "hcap", "runners", "horse_id", "horse", "mkt", "rev",
         "median", "best", "mb", "check", "verdict", "bet", "reason", "excluded", "pos", "won", "sp", "bsp"]
 
-OWN_RATING = re.compile(r"(?i)our rating|our top|top-rated|top rated|one to beat|leading danger|main danger|ranks? (him|her|it)|"
-                        r"ranked|tops? (the|our)|by our|on our|our figures|our ratings")
+OWN_RATING = re.compile(r"(?i)\b(?:our|us|we)\b|top-rated|top rated|one to beat|(?:leading|main|chief|obvious) (?:danger|threat|contender)|"
+                        r"\branks?\b|\branked\b|\branking\b|\brated \d|\brating of \d|\b(?:best|top|first|second|third|fourth|fifth) of (?:the )?"
+                        r"(?:two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|\d+|field|runners)\b|"
+                        r"tops? (?:the|our)")
 
 
 def strip_own_ratings(txt):

@@ -1,0 +1,34 @@
+{"meeting": "market_rasen", "races": [
+  {"race_id": "rac_32304235574", "changes": [], "checks": []},
+  {"race_id": "rac_32304237511", "changes": [], "checks": []},
+  {"race_id": "rac_32304239448", "changes": [
+    {"horse_id": "hrs_51831773", "horse": "Firm But Fair", "chance_pct": 16.5, "reason": "Placed in all four recent runs (/2333), first-time tongue tie, yard 6/21 in 14d; 240-day absence limits the uplift."},
+    {"horse_id": "hrs_41052396", "horse": "Another High Five", "chance_pct": 11.5, "reason": "Eighth last time out and a 49-day break flagged as the worry on the card."}
+  ], "checks": []},
+  {"race_id": "rac_32304241385", "changes": [
+    {"horse_id": "hrs_39315136", "horse": "Noble Recall", "chance_pct": 27.0, "reason": "Form P1312 with a win two back and second last time, 18 days since, 5lb claimer and on going experience."},
+    {"horse_id": "hrs_30454564", "horse": "Calli Black", "chance_pct": 11.0, "reason": "Nothing better than fifth in last five starts (577-85)."},
+    {"horse_id": "hrs_40553849", "horse": "Riviera Walk", "chance_pct": 7.0, "reason": "Card's own rating of 107 vs OR 100 makes her top-rated; kept modest given P-U-P last three."}
+  ], "checks": [
+    {"horse_id": "hrs_39315136", "horse": "Noble Recall", "verdict": "SKIP", "reason": "No Matchbook price on the card, so cannot confirm price >= skip line 3.32 or value condition."}
+  ]},
+  {"race_id": "rac_32304243322", "changes": [
+    {"horse_id": "hrs_412693071", "horse": "Teofimo", "chance_pct": 23.5, "reason": "Trainer 0/14 in last 14 days and quick 7-day turnaround under top weight 168lb."},
+    {"horse_id": "hrs_41190093", "horse": "Stylia", "chance_pct": 19.0, "reason": "544-day absence is the big worry per card; first-time cheekpieces and yard 10/41 only partly offset."},
+    {"horse_id": "hrs_56559433", "horse": "C'Est Pour Moi", "chance_pct": 7.5, "reason": "Modest recent record (form 96783)."}
+  ], "checks": [
+    {"horse_id": "hrs_412693071", "horse": "Teofimo", "verdict": "SKIP", "reason": "No Matchbook price on the card, and chance trimmed below market, so no value vs skip line 3.09."}
+  ]},
+  {"race_id": "rac_32304245259", "changes": [
+    {"horse_id": "hrs_30726213", "horse": "It's Maisy", "chance_pct": 8.5, "reason": "194-day absence, eighth last time out and trainer 0/12 in 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_57439242", "horse": "Burning Embers", "verdict": "SKIP", "reason": "No Matchbook price on the card; winless in last five, so no case above market for a bet."}
+  ]},
+  {"race_id": "rac_32304247196", "changes": [
+    {"horse_id": "hrs_36824116", "horse": "Moutarde", "chance_pct": 9.0, "reason": "234-day absence and two pulled-up efforts in last five (P8P52-)."},
+    {"horse_id": "hrs_30124724", "horse": "Pigeon House", "chance_pct": 5.5, "reason": "Three straight fourths, latest 11 days ago, and has run over trip and going."},
+    {"horse_id": "hrs_35054474", "horse": "Trust House", "chance_pct": 5.5, "reason": "Form 511-23 in cracking order with trip/going experience; 153-day absence and 168lb cap the uplift."}
+  ], "checks": [
+    {"horse_id": "hrs_46046000", "horse": "Tilehurst", "verdict": "SKIP", "reason": "No Matchbook price on the card, so cannot confirm price >= skip line 2.85 or value condition."}
+  ]}
+]}

@@ -1,0 +1,32 @@
+{"meeting": "hereford", "races": [
+  {"race_id": "rac_32304223952", "changes": [
+    {"horse_id": "hrs_17395296583", "horse": "Princess of Habo", "chance_pct": 45.0, "reason": "Yard flying with 11 winners from 26 in the last 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304225889", "changes": [
+    {"horse_id": "hrs_50965586", "horse": "Robin Blue Breast", "chance_pct": 1.6, "reason": "Returns from a 547-day absence; trainer has had no runners in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304227826", "changes": [
+    {"horse_id": "hrs_51273327", "horse": "Mr Jukebox", "chance_pct": 22.0, "reason": "Comment flags a 202-day absence and 167lb as the main risk."},
+    {"horse_id": "hrs_37686894", "horse": "Lightning Flash", "chance_pct": 14.5, "reason": "Recent form 341 (won last time) only 18 days ago; yard 5/31 in 14 days; has run on today's going."},
+    {"horse_id": "hrs_48953128", "horse": "Lydeard Girl", "chance_pct": 13.5, "reason": "Winless in last five and returns from 225 days off."},
+    {"horse_id": "hrs_52896921", "horse": "Dublinofficecallin", "chance_pct": 11.0, "reason": "Well beaten last two starts and returns after 149 days off."},
+    {"horse_id": "hrs_39826850", "horse": "City of Diamonds", "chance_pct": 7.5, "reason": "Winless recent spell (form 600-70), nothing better than sixth in last five."}
+  ], "checks": [
+    {"horse_id": "hrs_51273327", "horse": "Mr Jukebox", "verdict": "SKIP", "reason": "22% x 3.75 = 0.83, below 1.05; 202-day absence under 167lb."}
+  ]},
+  {"race_id": "rac_32304229763", "changes": [
+    {"horse_id": "hrs_50036350", "horse": "Oneinthewell", "chance_pct": 45.0, "reason": "Consistent form (2143) over today's trip and going; trainer 13/47 in 14 days."},
+    {"horse_id": "hrs_51800336", "horse": "Lord Cauvelliere", "chance_pct": 11.5, "reason": "Winless in last six with a pulled up three starts back."},
+    {"horse_id": "hrs_52709356", "horse": "Wishful Wings", "chance_pct": 4.5, "reason": "Winless in last five and off for 204 days."},
+    {"horse_id": "hrs_58843974", "horse": "Elated", "chance_pct": 13.0, "reason": "Comment flags 158lb on a 47-day break as a hefty burden despite consistent placings."}
+  ], "checks": []},
+  {"race_id": "rac_32304231700", "changes": [
+    {"horse_id": "hrs_34220970", "horse": "Seraphic", "chance_pct": 52.0, "reason": "On a hat-trick (form 3111) and has run over today's trip and going; yard 4/10 in 14 days."},
+    {"horse_id": "hrs_29918658", "horse": "Taritino", "chance_pct": 8.0, "reason": "Only sixth last time out and returns after 46 days."},
+    {"horse_id": "hrs_37774513", "horse": "Zenato", "chance_pct": 5.0, "reason": "Pulled up last time out."},
+    {"horse_id": "hrs_31189564", "horse": "Maasai Mara", "chance_pct": 4.0, "reason": "Unconvincing recent finishes (55/97) and 98 days off."},
+    {"horse_id": "hrs_60818471", "horse": "Lucky Sevens", "chance_pct": 4.3, "reason": "In the frame in three of last four (2142), second last time, has run over trip and going."},
+    {"horse_id": "hrs_41596954", "horse": "No Hard Feelings", "chance_pct": 1.5, "reason": "Form heading the wrong way: sixth then unplaced last time."}
+  ], "checks": []},
+  {"race_id": "rac_32304233637", "changes": [], "checks": []}
+]}

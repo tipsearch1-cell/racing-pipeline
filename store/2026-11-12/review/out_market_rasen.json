@@ -1,0 +1,39 @@
+{"meeting": "market_rasen", "races": [
+  {"race_id": "rac_32304235574", "changes": [
+    {"horse_id": "hrs_63618261", "horse": "Silver Salver", "chance_pct": 3.3, "reason": "Trainer Joel Parkinson & Sue Smith 0/12 in last 14 days."},
+    {"horse_id": "hrs_57758428", "horse": "Icy Glen", "chance_pct": 0.8, "reason": "356 days off with form 60- and stable 0/12 in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304237511", "changes": [
+    {"horse_id": "hrs_58686831", "horse": "Striking Midnight", "chance_pct": 3.5, "reason": "Ninth last time out and stable 0/12 in 14 days."},
+    {"horse_id": "hrs_30454494", "horse": "Definite Call", "chance_pct": 2.6, "reason": "Pulled up last run, 328 days off, trainer has had no runners in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304239448", "changes": [
+    {"horse_id": "hrs_51831773", "horse": "Firm But Fair", "chance_pct": 13.5, "reason": "Comment flags 240-day absence as main fitness risk; first-time tongue tie unproven."},
+    {"horse_id": "hrs_49757855", "horse": "Catwalk Girl", "chance_pct": 5.4, "reason": "Comment: 184-day absence and 165 lb are big asks."},
+    {"horse_id": "hrs_48853931", "horse": "Western George", "chance_pct": 12.5, "reason": "Solid recent form (2nd, 4th) with proven trip and going, only 32 days off."}
+  ], "checks": []},
+  {"race_id": "rac_32304241385", "changes": [
+    {"horse_id": "hrs_30454564", "horse": "Calli Black", "chance_pct": 10.5, "reason": "Comment: winless, nothing better than fifth in last five starts."},
+    {"horse_id": "hrs_40553849", "horse": "Riviera Walk", "chance_pct": 4.8, "reason": "Last three runs ended P, U, P under top weight 168 lb."}
+  ], "checks": [
+    {"horse_id": "hrs_39315136", "horse": "Noble Recall", "verdict": "SKIP", "reason": "No Matchbook price available, so value and skip-line tests cannot be met."}
+  ]},
+  {"race_id": "rac_32304243322", "changes": [
+    {"horse_id": "hrs_412693071", "horse": "Teofimo", "chance_pct": 23.0, "reason": "Trainer Adam Nicol 0/14 in 14 days and quick 7-day turnaround under 168 lb."},
+    {"horse_id": "hrs_41190093", "horse": "Stylia", "chance_pct": 19.0, "reason": "Comment: 544-day absence is the big worry."},
+    {"horse_id": "hrs_53328443", "horse": "This Sway", "chance_pct": 25.0, "reason": "Two straight seconds and proven over today's trip and going."}
+  ], "checks": [
+    {"horse_id": "hrs_412693071", "horse": "Teofimo", "verdict": "SKIP", "reason": "No Matchbook price available, and chance trimmed below market."}
+  ]},
+  {"race_id": "rac_32304245259", "changes": [
+    {"horse_id": "hrs_30726213", "horse": "It's Maisy", "chance_pct": 8.5, "reason": "194-day absence, eighth last time, stable 0/12 in 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_57439242", "horse": "Burning Embers", "verdict": "SKIP", "reason": "No Matchbook price available, so value and skip-line tests cannot be met."}
+  ]},
+  {"race_id": "rac_32304247196", "changes": [
+    {"horse_id": "hrs_30124724", "horse": "Pigeon House", "chance_pct": 5.5, "reason": "Three straight fourths, latest 11 days ago, proven trip and going."},
+    {"horse_id": "hrs_36824116", "horse": "Moutarde", "chance_pct": 9.0, "reason": "Comment: 234-day absence and two pulled-up efforts in last five."}
+  ], "checks": [
+    {"horse_id": "hrs_46046000", "horse": "Tilehurst", "verdict": "SKIP", "reason": "No Matchbook price available, so value and skip-line tests cannot be met."}
+  ]}
+]}

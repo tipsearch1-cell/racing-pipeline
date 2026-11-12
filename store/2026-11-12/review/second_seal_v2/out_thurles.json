@@ -1,0 +1,68 @@
+{"meeting": "thurles", "races": [
+  {"race_id": "rac_32304173590", "changes": [
+    {"horse_id": "hrs_51341759", "horse": "Whispering Willow", "chance_pct": 15.5, "reason": "Eighth last time out, winless in last six and 38 days off per comment"},
+    {"horse_id": "hrs_49974519", "horse": "The Monkey Pole", "chance_pct": 8.7, "reason": "Form P35545 shows no better than fourth in last four, carrying 166lb"},
+    {"horse_id": "hrs_47129495", "horse": "Itsaworkinmaniam", "chance_pct": 5.5, "reason": "Two eighth-place finishes last two outings and 166lb per comment"},
+    {"horse_id": "hrs_39208127", "horse": "Harry's Dream", "chance_pct": 3.5, "reason": "240 days off with fitness a question, trainer 0/16 in 14 days"},
+    {"horse_id": "hrs_26219452", "horse": "Angelsworknovrtime", "chance_pct": 2.5, "reason": "Winless in last five, fifth last time out, comment says hard to fancy"}
+  ], "checks": [
+    {"horse_id": "hrs_37789969", "horse": "Kimy", "verdict": "SKIP", "reason": "Chance 19.7% x 4.70 = 0.93, below 1.05; card positive but no reason to lift chance to 22.4%+"}
+  ]},
+  {"race_id": "rac_32304175527", "changes": [
+    {"horse_id": "hrs_38649737", "horse": "Stoneyford Lady", "chance_pct": 23.0, "reason": "Second last time out, first four in three of last five, trainer in form 8/43"},
+    {"horse_id": "hrs_38649562", "horse": "Aurea Fortuna", "chance_pct": 10.5, "reason": "Trainer 0/10 in 14 days, winless in last five carrying 160lb"},
+    {"horse_id": "hrs_40920208", "horse": "Mags Nelson", "chance_pct": 4.5, "reason": "161lb off 105 with yard 1/23, comment says hard to fancy"},
+    {"horse_id": "hrs_35351323", "horse": "Beauforts Storm", "chance_pct": 3.3, "reason": "Card rates her 114, third best of twelve, with first-time blinkers"},
+    {"horse_id": "hrs_33774461", "horse": "That's About Right", "chance_pct": 5.0, "reason": "Winless in last six, trainer 0/16, comment says hard to fancy"},
+    {"horse_id": "hrs_39978218", "horse": "Springboard", "chance_pct": 5.0, "reason": "Ninth last time out, ninth-fifth-ninth in recent runs"}
+  ], "checks": [
+    {"horse_id": "hrs_38649737", "horse": "Stoneyford Lady", "verdict": "SKIP", "reason": "Chance 23.0% x 4.30 = 0.99, below 1.05 threshold"}
+  ]},
+  {"race_id": "rac_32304177464", "changes": [
+    {"horse_id": "hrs_37701594", "horse": "Way Down South", "chance_pct": 12.0, "reason": "Won two starts back, proven at trip and going, trainer 1/2 in 14 days"},
+    {"horse_id": "hrs_412673023", "horse": "Gortmore Lady", "chance_pct": 8.5, "reason": "Winless in last six, trainer 0/18 in 14 days"},
+    {"horse_id": "hrs_412672925", "horse": "Orlando Spirit", "chance_pct": 6.0, "reason": "183-day absence and 154lb off 85 temper the case"},
+    {"horse_id": "hrs_16596174", "horse": "Grange Walk", "chance_pct": 5.5, "reason": "164lb off 95 per comment, trainer 0/11 in 14 days"},
+    {"horse_id": "hrs_38532858", "horse": "Vroomvroomboo", "chance_pct": 3.8, "reason": "Winless in last five, eighth-sixth-sixth recent form"},
+    {"horse_id": "hrs_38666495", "horse": "Hickeys Hill", "chance_pct": 2.5, "reason": "Pulled up last time out, tailed off since win, 66 days off"},
+    {"horse_id": "hrs_38002601", "horse": "Barton Sky", "chance_pct": 1.6, "reason": "Winless in last five, 49 days off, trainer 0/11"}
+  ], "checks": [
+    {"horse_id": "hrs_30122974", "horse": "Onefortheditch", "verdict": "SKIP", "reason": "Chance 20.4% x 4.30 = 0.88, below 1.05; unseated last time gives no reason to raise"}
+  ]},
+  {"race_id": "rac_32304179401", "changes": [
+    {"horse_id": "hrs_47655503", "horse": "The Goose's Acre", "chance_pct": 4.8, "reason": "Returns after 206 days off with form 4009P-"},
+    {"horse_id": "hrs_49325864", "horse": "Go Mike Go", "chance_pct": 0.7, "reason": "Form PUU/0P shows no completed placing recently"}
+  ], "checks": []},
+  {"race_id": "rac_32304181338", "changes": [
+    {"horse_id": "hrs_58745701", "horse": "Kiltinan", "chance_pct": 8.0, "reason": "Form 4-P8, pulled up and eighth last two, trainer 0/4"}
+  ], "checks": []},
+  {"race_id": "rac_32304183275", "changes": [
+    {"horse_id": "hrs_36614354", "horse": "Theflyingbee", "chance_pct": 11.2, "reason": "Card rating 126 puts her top of the 11, two seconds in last five"},
+    {"horse_id": "hrs_41813905", "horse": "Pure Logic", "chance_pct": 4.8, "reason": "Sixth last time out, 42 days off, trainer 0/11"},
+    {"horse_id": "hrs_31300192", "horse": "Stepdance", "chance_pct": 2.5, "reason": "Winless in last five, seventh last time and pulled up before"},
+    {"horse_id": "hrs_40260703", "horse": "Preparations", "chance_pct": 1.6, "reason": "Pulled up last time out, trainer 1/22, 161lb"}
+  ], "checks": [
+    {"horse_id": "hrs_40260647", "horse": "Shoda", "verdict": "SKIP", "reason": "Chance 20.3% x 4.40 = 0.89, below 1.05; 162lb burden noted as risk"}
+  ]},
+  {"race_id": "rac_32304553242", "changes": [
+    {"horse_id": "hrs_40260661", "horse": "Max Meridius", "chance_pct": 14.5, "reason": "Fifth in each of last two starts, trainer 0/3 in 14 days"},
+    {"horse_id": "hrs_48853805", "horse": "Daisy Fingall", "chance_pct": 9.0, "reason": "Returns after 208 days off following a seventh last time out"},
+    {"horse_id": "hrs_36192702", "horse": "Liceo", "chance_pct": 7.5, "reason": "168lb main risk, winless in last six, trainer 0/11"},
+    {"horse_id": "hrs_59961482", "horse": "Ddakji", "chance_pct": 4.5, "reason": "Winless in last five, comment hard to fancy off 158lb and OR 90"},
+    {"horse_id": "hrs_37193247", "horse": "Big Dee", "chance_pct": 2.7, "reason": "Poor form with two pulled-ups, trainer 0/15"},
+    {"horse_id": "hrs_28891485", "horse": "Titanium", "chance_pct": 2.4, "reason": "Unplaced three of last four, trainer 0/18"}
+  ], "checks": [
+    {"horse_id": "hrs_40260661", "horse": "Max Meridius", "verdict": "SKIP", "reason": "Chance 14.5% x 5.30 = 0.77, below 1.05"}
+  ]},
+  {"race_id": "rac_32304185212", "changes": [
+    {"horse_id": "hrs_34153483", "horse": "Bowgate Street", "chance_pct": 12.5, "reason": "Cracking nick: second last time out, third in two of three before"},
+    {"horse_id": "hrs_28706895", "horse": "Topothelane", "chance_pct": 10.0, "reason": "166 days off after a fifth last time out"},
+    {"horse_id": "hrs_26460056", "horse": "Thegooseiscooked", "chance_pct": 3.6, "reason": "Fell last time out and unplaced in two runs before"},
+    {"horse_id": "hrs_30567943", "horse": "Getaway Henry", "chance_pct": 3.4, "reason": "113 days off after unplaced and eighth"},
+    {"horse_id": "hrs_16652251", "horse": "Romella", "chance_pct": 2.7, "reason": "Winless in last five, sixth last time, comment hard to fancy"},
+    {"horse_id": "hrs_48259442", "horse": "Walk On Annilog", "chance_pct": 2.5, "reason": "129-day absence after unplaced run, 162lb"},
+    {"horse_id": "hrs_60279975", "horse": "Je Suis Celebre", "chance_pct": 1.5, "reason": "166lb off 98, winless in four, trainer 0/15"}
+  ], "checks": [
+    {"horse_id": "hrs_36986173", "horse": "Sinbad My Dad", "verdict": "SKIP", "reason": "Chance 16.1% x 5.90 = 0.95, below 1.05; card (winless, 160lb off 92) gives no reason to raise"}
+  ]}
+]}
