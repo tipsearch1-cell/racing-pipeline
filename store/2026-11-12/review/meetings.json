@@ -1,0 +1,23 @@
+{
+ "thurles": {
+  "course": "Thurles",
+  "in": "/home/claude/racing-pipeline/store/2026-11-12/review/in_thurles.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-12/review/out_thurles.json",
+  "races": 8,
+  "checks": 6
+ },
+ "market_rasen": {
+  "course": "Market Rasen",
+  "in": "/home/claude/racing-pipeline/store/2026-11-12/review/in_market_rasen.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-12/review/out_market_rasen.json",
+  "races": 7,
+  "checks": 4
+ },
+ "hereford": {
+  "course": "Hereford",
+  "in": "/home/claude/racing-pipeline/store/2026-11-12/review/in_hereford.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-12/review/out_hereford.json",
+  "races": 6,
+  "checks": 1
+ }
+}
