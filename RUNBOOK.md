@@ -59,7 +59,7 @@ drops races off within 5 minutes.
 5. Live checks: send_later 12:00/14:00/16:00/18:00 UTC (skip any after the last race): get_racecards_pro DAY ...;
    `python3 pipeline/live_changes.py DAY <saved file(s)>`; message the user only for lines marked "!" (important, still to run).
    The 12:00 one also re-fetches yesterday's results for BSP, re-saves when complete and re-runs settle.
-6. git add -A; commit; push. Schedule the next day's 08:35 build (same prompt, dates moved on).
+6. git add -A; commit only if something changed (`git diff --cached --quiet || git commit ...`); push. Schedule the next day's 08:35 build (same prompt, dates moved on).
 
 ## Evening settle (when the user asks "result today's card")
 get_results DAY ...; save_res.py; card_review.py settle DAY; multiples.py settle DAY; report bot-file bets at SP, 09:00 best price and BSP
