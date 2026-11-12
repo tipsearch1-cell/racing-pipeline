@@ -1,0 +1,81 @@
+{
+ "events": [
+  {
+   "key": "nr|rac_32304173590|hrs_51650060",
+   "text": "11:43 Thurles: Jonny Carrol now a non-runner. Re-worked market: Might Be The One 24%, Kimy 19%, Whispering Willow 19%, The Monkey Pole 18%",
+   "future": false,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304173590|hrs_39699240",
+   "text": "11:43 Thurles: Tea In The Park now a non-runner. Re-worked market: Might Be The One 24%, Kimy 19%, Whispering Willow 19%, The Monkey Pole 18%",
+   "future": false,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304223952|Good To Firm",
+   "text": "12:30 Hereford: going changed from Good to Good To Firm",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304177464|hrs_412672925",
+   "text": "12:53 Thurles: Orlando Spirit now a non-runner. Re-worked market: Onefortheditch 22%, Vroomvroomboo 10%, Island McCoo 10%, Tantrum Boy 10%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304225889|Good To Firm",
+   "text": "1:05 Hereford: going changed from Good to Good To Firm",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304227826|Good To Firm",
+   "text": "1:40 Hereford: going changed from Good to Good To Firm",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304181338|hrs_17392709943",
+   "text": "2:03 Thurles: Quarry Road now a non-runner. Re-worked market: Gunnery Sergeant 46%, Beeverstown Boy 18%, Flashy Fred 14%, Kiltinan 8%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304229763|Good To Firm",
+   "text": "2:15 Hereford: going changed from Good to Good To Firm",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304231700|Good To Firm",
+   "text": "2:50 Hereford: going changed from Good to Good To Firm",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304553242|hrs_37193247",
+   "text": "3:15 Thurles: Big Dee now a non-runner. Re-worked market: Max Meridius 20%, Daisy Fingall 9%, I Feel Fine 9%, Jaadil 8%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304233637|Good To Firm",
+   "text": "3:25 Hereford: going changed from Good to Good To Firm",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  }
+ ]
+}
