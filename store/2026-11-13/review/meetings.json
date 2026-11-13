@@ -1,0 +1,30 @@
+{
+ "southwell": {
+  "course": "Southwell",
+  "in": "/home/claude/racing-pipeline/store/2026-11-13/review/in_southwell.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-13/review/out_southwell.json",
+  "races": 7,
+  "checks": 2
+ },
+ "sedgefield": {
+  "course": "Sedgefield",
+  "in": "/home/claude/racing-pipeline/store/2026-11-13/review/in_sedgefield.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-13/review/out_sedgefield.json",
+  "races": 6,
+  "checks": 0
+ },
+ "cheltenham": {
+  "course": "Cheltenham",
+  "in": "/home/claude/racing-pipeline/store/2026-11-13/review/in_cheltenham.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-13/review/out_cheltenham.json",
+  "races": 6,
+  "checks": 4
+ },
+ "dundalk_aw": {
+  "course": "Dundalk (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-13/review/in_dundalk_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-13/review/out_dundalk_aw.json",
+  "races": 7,
+  "checks": 4
+ }
+}
