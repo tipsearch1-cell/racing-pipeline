@@ -1,0 +1,5 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian
+Frankie,Thunder Rock,WIN,2026-11-13 14:55:00,BACK,3.32,false,Cheltenham,14:55,Jumps,3.5
+Frankie,Ferocimo,WIN,2026-11-13 15:30:00,BACK,3.56,false,Cheltenham,15:30,Jumps,3.75
+Frankie,Crafty Gael,WIN,2026-11-13 15:50:00,BACK,3.32,false,Southwell,15:50,Jumps,3.5
+Frankie,Deluca Chop,WIN,2026-11-13 19:00:00,BACK,4.75,false,Dundalk (AW),19:00,Flat,5.0

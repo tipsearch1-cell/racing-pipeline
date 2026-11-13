@@ -1,0 +1,50 @@
+{"meeting": "southwell", "races": [
+  {"race_id": "rac_32304314991", "changes": [
+    {"horse_id": "hrs_51988888", "horse": "Golly Gosh", "chance_pct": 41.0, "reason": "Won last time out after two seconds (form -P7221), has run over trip and going."},
+    {"horse_id": "hrs_51341451", "horse": "Walkinthepresent", "chance_pct": 13.0, "reason": "Pulled up last time out."},
+    {"horse_id": "hrs_39109602", "horse": "Unleash The Beast", "chance_pct": 11.5, "reason": "Returns after 265 days; comment flags fitness as the big risk."},
+    {"horse_id": "hrs_37860634", "horse": "Ionity", "chance_pct": 8.5, "reason": "Pulled up last time out and winless in last four."},
+    {"horse_id": "hrs_47129390", "horse": "Largy Panic", "chance_pct": 6.2, "reason": "206 days off, 164lb, trainer 0/5 in 14 days."},
+    {"horse_id": "hrs_32682769", "horse": "Jac Jumper", "chance_pct": 5.0, "reason": "Off 499 days, trainer 0/2 in 14 days."},
+    {"horse_id": "hrs_39568473", "horse": "Scoro", "chance_pct": 2.4, "reason": "Pulled up in last two outings (form 4664PP)."},
+    {"horse_id": "hrs_51800392", "horse": "Woodview Lad", "chance_pct": 1.8, "reason": "Pulled up last time 11 days ago, 165lb off OR 95."}
+  ], "checks": []},
+  {"race_id": "rac_32304316928", "changes": [
+    {"horse_id": "hrs_51618630", "horse": "Out On Her Own", "chance_pct": 27.0, "reason": "Fell last time out and winless in last five."},
+    {"horse_id": "hrs_29621935", "horse": "Gata Ban", "chance_pct": 32.0, "reason": "Solid form (-21143), proven trip/going, trainer 6/27 in 14 days."},
+    {"horse_id": "hrs_40095797", "horse": "Princess Keri", "chance_pct": 18.0, "reason": "Pulled up in last two runs (form U12P-P) and top weight 168lb."},
+    {"horse_id": "hrs_40591943", "horse": "Walkingtheline", "chance_pct": 2.0, "reason": "120-day absence after pulled up and fifth."}
+  ], "checks": []},
+  {"race_id": "rac_32304318865", "changes": [
+    {"horse_id": "hrs_40352396", "horse": "Island Bridge", "chance_pct": 28.5, "reason": "Cheekpieces first time and consistent placed form (2223-4)."},
+    {"horse_id": "hrs_41190128", "horse": "Golan Loop", "chance_pct": 11.0, "reason": "226-day absence with 161lb."},
+    {"horse_id": "hrs_34361446", "horse": "Express Surprise", "chance_pct": 8.5, "reason": "Pulled up last time, 203 days off, trainer 0/6 in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304320802", "changes": [
+    {"horse_id": "hrs_17394110692", "horse": "Helios Forlonge", "chance_pct": 28.5, "reason": "Returns after 258 days off."},
+    {"horse_id": "hrs_17394316163", "horse": "Francisco Alvares", "chance_pct": 23.5, "reason": "Debutant from yard in form, 22/93 in 14 days."},
+    {"horse_id": "hrs_17395342475", "horse": "The Bardman", "chance_pct": 13.0, "reason": "Debutant, trainer 5/14 in 14 days."},
+    {"horse_id": "hrs_17395340389", "horse": "I'll Start Monday", "chance_pct": 10.5, "reason": "Debutant, trainer 0/4 in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304322739", "changes": [
+    {"horse_id": "hrs_50188698", "horse": "Clondaw Park", "chance_pct": 41.0, "reason": "Off 290 days."},
+    {"horse_id": "hrs_60722529", "horse": "Crystalate", "chance_pct": 8.8, "reason": "Two seconds last two runs (4-22), trainer 6/36 in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304324676", "changes": [
+    {"horse_id": "hrs_46109371", "horse": "Northwest Passage", "chance_pct": 22.5, "reason": "Winless last three, trainer 0/7 in 14 days, top weight 168lb."},
+    {"horse_id": "hrs_35336427", "horse": "Character Testing", "chance_pct": 21.0, "reason": "Won last time 10 days ago (form 424421), proven trip/going."},
+    {"horse_id": "hrs_47033119", "horse": "Classical Sting", "chance_pct": 4.6, "reason": "234-day absence and pulled up last time."},
+    {"horse_id": "hrs_25122167", "horse": "Captain Attridge", "chance_pct": 2.0, "reason": "Off 553 days, fell last time."},
+    {"horse_id": "hrs_28891653", "horse": "Razzo Italiano", "chance_pct": 1.7, "reason": "Beaten in four straight, trainer 0/5 in 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_46109371", "horse": "Northwest Passage", "verdict": "SKIP", "reason": "Winless in last three, trainer 0/7 in 14 days and carries top weight."}
+  ]},
+  {"race_id": "rac_32304326613", "changes": [
+    {"horse_id": "hrs_32795385", "horse": "Crafty Gael", "chance_pct": 26.5, "reason": "Strong form -32112, back quickly in 7 days over proven trip/going."},
+    {"horse_id": "hrs_42226289", "horse": "Keep On Cobbling", "chance_pct": 19.5, "reason": "174-day absence and 167lb."},
+    {"horse_id": "hrs_38203088", "horse": "The Clonmel Kid", "chance_pct": 14.5, "reason": "163lb after 48 days off, winless in last six."},
+    {"horse_id": "hrs_32046462", "horse": "Luminaries", "chance_pct": 13.5, "reason": "Form 721122, two recent seconds, run 10 days ago, proven trip/going."}
+  ], "checks": [
+    {"horse_id": "hrs_32795385", "horse": "Crafty Gael", "verdict": "BET", "reason": "In-form (-32112), quick return, proven over trip and going; no card reason to doubt."}
+  ]}
+]}

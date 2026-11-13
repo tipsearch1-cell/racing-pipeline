@@ -1,0 +1,54 @@
+{"meeting": "dundalk_aw", "races": [
+  {"race_id": "rac_32304407967", "changes": [
+    {"horse_id": "hrs_66272213", "horse": "Crayons In The Sky", "chance_pct": 32.0, "reason": "Won last time out 16 days ago (form 24241), proven over trip and going."},
+    {"horse_id": "hrs_17392958177", "horse": "Normanton", "chance_pct": 15.0, "reason": "Consistent (form 42) and trainer in form at 2/5 in 14 days."},
+    {"horse_id": "hrs_64846859", "horse": "I Ready", "chance_pct": 8.5, "reason": "Comment flags 136 lb top weight off OR 84 after 34 days off."},
+    {"horse_id": "hrs_17393664288", "horse": "Scolyer", "chance_pct": 7.0, "reason": "Trainer 0/5 in 14 days and comment calls 131 lb a hefty burden."},
+    {"horse_id": "hrs_63323295", "horse": "Matriarchal", "chance_pct": 2.4, "reason": "Form sliding (7th then unplaced) plus 42 days off."}
+  ], "checks": []},
+  {"race_id": "rac_32304409904", "changes": [
+    {"horse_id": "hrs_57315881", "horse": "Firewalker", "chance_pct": 14.0, "reason": "Comment says hard to fancy at 121 lb off OR 81; trainer 0/3 in 14 days."},
+    {"horse_id": "hrs_41876688", "horse": "Caffu Zafeen", "chance_pct": 15.0, "reason": "Four straight wins (form 051111), fit after 9 days, trainer 1/3."},
+    {"horse_id": "hrs_55061650", "horse": "Chicago Pope", "chance_pct": 11.5, "reason": "Unplaced in last two starts (form -21400)."},
+    {"horse_id": "hrs_32129853", "horse": "Kerdos", "chance_pct": 5.8, "reason": "Ninth last time out, 134 lb, trainer 0/4 in 14 days."},
+    {"horse_id": "hrs_30469817", "horse": "Daamberdiplomat", "chance_pct": 3.0, "reason": "392-day absence, fitness a question."}
+  ], "checks": [
+    {"horse_id": "hrs_57315881", "horse": "Firewalker", "verdict": "SKIP", "reason": "Card comment says hard to fancy off OR 81 and trainer is 0/3 in 14 days."}
+  ]},
+  {"race_id": "rac_32304411841", "changes": [
+    {"horse_id": "hrs_17389036497", "horse": "Green Sparkle", "chance_pct": 6.8, "reason": "Winless in last four (form 9004) and 43 days off."},
+    {"horse_id": "hrs_65225090", "horse": "Scarlet Dream", "chance_pct": 5.8, "reason": "Winless in last six, sixth last time out."},
+    {"horse_id": "hrs_17393029101", "horse": "Angel Invincible", "chance_pct": 3.8, "reason": "Form 090 and top weight 141 lb."}
+  ], "checks": []},
+  {"race_id": "rac_32304413778", "changes": [
+    {"horse_id": "hrs_28532308", "horse": "Deluca Chop", "chance_pct": 15.5, "reason": "Strong recent form 211532, proven over trip and going."},
+    {"horse_id": "hrs_54712329", "horse": "Chant d'Or", "chance_pct": 11.5, "reason": "Winless in last five (form 00-705) and back from 49 days off."},
+    {"horse_id": "hrs_40260626", "horse": "Young Churchill", "chance_pct": 7.0, "reason": "Poor recent book (form 703706) and 48 days off."},
+    {"horse_id": "hrs_43983842", "horse": "Keep It Together", "chance_pct": 1.0, "reason": "Winless in last five and 73 days off."}
+  ], "checks": [
+    {"horse_id": "hrs_28532308", "horse": "Deluca Chop", "verdict": "BET", "reason": "Consistent form (second LTO, third before) and proven over trip and going; no specific negative on card."}
+  ]},
+  {"race_id": "rac_32304415715", "changes": [
+    {"horse_id": "hrs_64846929", "horse": "Kashala", "chance_pct": 18.0, "reason": "Trainer 0/7 in 14 days, form only 45."},
+    {"horse_id": "hrs_58931089", "horse": "Theorist", "chance_pct": 6.0, "reason": "Recent form 53-900 and 53 days off."},
+    {"horse_id": "hrs_54304341", "horse": "Honouramongthieves", "chance_pct": 5.0, "reason": "Form 566769 shows no recent placings."}
+  ], "checks": []},
+  {"race_id": "rac_32304417652", "changes": [
+    {"horse_id": "hrs_46295816", "horse": "Serenity Blue", "chance_pct": 14.5, "reason": "Comment flags hefty 139 lb from widest draw 11."},
+    {"horse_id": "hrs_44907534", "horse": "Sonoran", "chance_pct": 14.0, "reason": "Winner last time out and three starts back (form 995101), proven over trip and going."},
+    {"horse_id": "hrs_23500323", "horse": "Star Harbour", "chance_pct": 10.5, "reason": "Two unplaced runs, 53-day break and 140 lb."},
+    {"horse_id": "hrs_52677527", "horse": "El Galvino", "chance_pct": 6.8, "reason": "129-day absence."},
+    {"horse_id": "hrs_36528016", "horse": "Anvika", "chance_pct": 6.8, "reason": "Unseated last time out; trainer 0/5 in 14 days."},
+    {"horse_id": "hrs_34333677", "horse": "Letiza", "chance_pct": 7.8, "reason": "Only sixth last time out and 33 days off."}
+  ], "checks": [
+    {"horse_id": "hrs_46295816", "horse": "Serenity Blue", "verdict": "SKIP", "reason": "Card flags 139 lb from draw 11, the widest stall."}
+  ]},
+  {"race_id": "rac_32304419589", "changes": [
+    {"horse_id": "hrs_56843626", "horse": "African Affair", "chance_pct": 19.0, "reason": "Only sixth last time out, consistency questioned; trainer 0/5 in 14 days."},
+    {"horse_id": "hrs_52267852", "horse": "Glitter And Glory", "chance_pct": 17.0, "reason": "Third last time out 16 days ago, in decent heart."},
+    {"horse_id": "hrs_53743235", "horse": "Wild Berries", "chance_pct": 8.0, "reason": "49 days off and stable out of form (1/20)."},
+    {"horse_id": "hrs_65745687", "horse": "Phlox", "chance_pct": 7.5, "reason": "90 days since last run, winless in three."}
+  ], "checks": [
+    {"horse_id": "hrs_56843626", "horse": "African Affair", "verdict": "SKIP", "reason": "Card questions consistency after sixth last time out; trainer 0/5 in 14 days."}
+  ]}
+]}

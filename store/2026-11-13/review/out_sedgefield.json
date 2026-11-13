@@ -1,0 +1,35 @@
+{"meeting": "sedgefield", "races": [
+  {"race_id": "rac_32304307243", "changes": [
+    {"horse_id": "hrs_40996865", "horse": "Fairlawn Skipper", "chance_pct": 30.0, "reason": "Comment flags top weight 168lb after a fourth last time out."},
+    {"horse_id": "hrs_21212086", "horse": "Glory And Honour", "chance_pct": 21.0, "reason": "Comment: solid nick, consistent, has run over trip and going; trainer 4/18 in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304309180", "changes": [
+    {"horse_id": "hrs_29227114", "horse": "In The Trenches", "chance_pct": 60.0, "reason": "Form ends 12 and trainer in form at 2/4 in 14 days."},
+    {"horse_id": "hrs_17394126337", "horse": "Farfromaway", "chance_pct": 37.0, "reason": "Trainer 0/15 in 14 days and fifth last time out."}
+  ], "checks": []},
+  {"race_id": "rac_32304303369", "changes": [
+    {"horse_id": "hrs_58469236", "horse": "Frisky Whiskey", "chance_pct": 33.0, "reason": "Comment flags 42-day break and hefty 166lb."},
+    {"horse_id": "hrs_32780258", "horse": "Jeteye", "chance_pct": 29.0, "reason": "Comment: won last time, three wins in last six, back quickly after 10 days; trainer 4/18."},
+    {"horse_id": "hrs_44199218", "horse": "Wee Alki", "chance_pct": 18.0, "reason": "Comment: won last time out and has run over today's trip and going."},
+    {"horse_id": "hrs_52055598", "horse": "Last Man d'Arcy", "chance_pct": 9.0, "reason": "459 days since last run, poor form /P886, and comment flags 162lb off OR 100."},
+    {"horse_id": "hrs_35176043", "horse": "Simiyann", "chance_pct": 6.0, "reason": "Comment: winless in last four and hard to fancy."}
+  ], "checks": []},
+  {"race_id": "rac_32304305306", "changes": [
+    {"horse_id": "hrs_52526187", "horse": "Carthusian", "chance_pct": 26.0, "reason": "First-time hood and trainer in form at 2/4 in 14 days."},
+    {"horse_id": "hrs_62425188", "horse": "Close House", "chance_pct": 21.0, "reason": "Wind surgery noted on the card."}
+  ], "checks": []},
+  {"race_id": "rac_32304311117", "changes": [
+    {"horse_id": "hrs_45855355", "horse": "Soldier In Mayo", "chance_pct": 41.0, "reason": "Comment flags top weight 168lb as the reservation."},
+    {"horse_id": "hrs_52741367", "horse": "Alidam", "chance_pct": 18.0, "reason": "Comment flags 159-day absence plus 165lb."},
+    {"horse_id": "hrs_38131359", "horse": "Brave Move", "chance_pct": 17.0, "reason": "Comment: two pulled-up efforts and winless in last five."},
+    {"horse_id": "hrs_33478809", "horse": "Knacker Trapper", "chance_pct": 7.0, "reason": "Comment flags 154-day absence after a sixth last time out."},
+    {"horse_id": "hrs_26145763", "horse": "Mr Globalist", "chance_pct": 5.0, "reason": "Comment is negative ('that's about it'); form 483656 winless."}
+  ], "checks": []},
+  {"race_id": "rac_32304313054", "changes": [
+    {"horse_id": "hrs_58535281", "horse": "Midnight Bella", "chance_pct": 30.0, "reason": "Comment flags unseat last time, 160lb, no win in five; trainer 0/15 in 14 days."},
+    {"horse_id": "hrs_40942083", "horse": "Stellarmasterpiece", "chance_pct": 19.0, "reason": "Comment: only fourth last time and 163lb off OR 94; trainer 0/13."},
+    {"horse_id": "hrs_30738134", "horse": "Leave Her To Me", "chance_pct": 20.0, "reason": "Trainer in strong form at 5/10 in 14 days."},
+    {"horse_id": "hrs_58535267", "horse": "Khaleesi Queen", "chance_pct": 7.0, "reason": "Comment flags 241-day layoff after winless run; trainer 0/13."},
+    {"horse_id": "hrs_52641449", "horse": "Strathcatcha", "chance_pct": 4.0, "reason": "Comment: winless in five, pulled up twice in last three, 216 days off."}
+  ], "checks": []}
+]}

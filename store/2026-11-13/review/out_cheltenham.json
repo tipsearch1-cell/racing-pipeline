@@ -1,0 +1,47 @@
+{"meeting": "cheltenham", "races": [
+  {"race_id": "rac_32304291747", "changes": [
+    {"horse_id": "hrs_48240094", "horse": "Glancing Jack", "chance_pct": 23.5, "reason": "Off 237 days and carries 165lb off OR 122, which the comment flags as the main risk."},
+    {"horse_id": "hrs_25122223", "horse": "High Fibre", "chance_pct": 16.0, "reason": "Won last time out (form 125-51) for a trainer in form at 12/46 over 14 days."},
+    {"horse_id": "hrs_46913419", "horse": "Keno Black", "chance_pct": 13.0, "reason": "Won last time out, back quickly after 11 days and carries a light 157lb off OR 107."},
+    {"horse_id": "hrs_41229748", "horse": "Step Ahead", "chance_pct": 6.0, "reason": "Only seventh last time out (form 2153-7) and the comment says that leaves questions."},
+    {"horse_id": "hrs_50590127", "horse": "Lovely Gino", "chance_pct": 3.2, "reason": "Off 229 days, and the form reads FFP in his last three runs."},
+    {"horse_id": "hrs_412693008", "horse": "Kalium", "chance_pct": 2.2, "reason": "Off 272 days with top weight of 168lb, and the trainer is 0/6 over 14 days."},
+    {"horse_id": "hrs_52329242", "horse": "Moon Mission", "chance_pct": 0.9, "reason": "The yard is 0/20 over 14 days, and the comment calls his sequence poor (pulled up two starts back)."},
+    {"horse_id": "hrs_39392073", "horse": "Heart Over Head", "chance_pct": 0.4, "reason": "Has tailed off with an eighth and then a seventh in his last two runs (form 1108-7)."}
+  ], "checks": []},
+  {"race_id": "rac_32304293684", "changes": [
+    {"horse_id": "hrs_47620958", "horse": "King's Bucks", "chance_pct": 25.0, "reason": "Winless in his last five (32P2-2) and rated 133, below two rivals at level weights (135, 134)."},
+    {"horse_id": "hrs_46759076", "horse": "Intosomethinggood", "chance_pct": 20.5, "reason": "Highest rated in the field at OR 135 at level weights and fresh after 7 days."},
+    {"horse_id": "hrs_49578046", "horse": "Follow Your Luck", "chance_pct": 11.0, "reason": "Lowest rated in the field at OR 123 at level weights of 158lb."},
+    {"horse_id": "hrs_34361572", "horse": "Bill Joyce", "chance_pct": 9.5, "reason": "Weak form (0/PP-3), with two pulled-up runs in his last four."}
+  ], "checks": [
+    {"horse_id": "hrs_47620958", "horse": "King's Bucks", "verdict": "SKIP", "reason": "No win in his last five (32P2-2), and two rivals are rated higher at level weights."}
+  ]},
+  {"race_id": "rac_32304295621", "changes": [
+    {"horse_id": "hrs_33547731", "horse": "Gidleigh Park", "chance_pct": 24.0, "reason": "Off 217 days with form 2P5, a pulled-up run and a fifth in his last two."}
+  ], "checks": []},
+  {"race_id": "rac_32304297558", "changes": [
+    {"horse_id": "hrs_22738744", "horse": "Glengouly", "chance_pct": 11.5, "reason": "Sixth and seventh in his last two, and the trainer is 0/14 over 14 days."},
+    {"horse_id": "hrs_23624825", "horse": "Outlaw Peter", "chance_pct": 10.0, "reason": "Off 212 days and carries 162lb, both named as risks in the comment."},
+    {"horse_id": "hrs_21526708", "horse": "Mahons Glory", "chance_pct": 8.5, "reason": "Off 118 days and carries 165lb, which the comment names as the risk."}
+  ], "checks": [
+    {"horse_id": "hrs_21453943", "horse": "Thunder Rock", "verdict": "BET", "reason": "Won last time out with three wins in his last five, has run over this trip and going, and is fresh after 29 days."}
+  ]},
+  {"race_id": "rac_32304299495", "changes": [
+    {"horse_id": "hrs_50188663", "horse": "Divine Diva", "chance_pct": 16.0, "reason": "Won last time out for Skelton (22/93 over 14 days) and gets 7lb as a mare (149lb vs 156lb)."},
+    {"horse_id": "hrs_54304432", "horse": "Luck Between Us", "chance_pct": 5.0, "reason": "The trainer is 0/20 over 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_17393779018", "horse": "Ferocimo", "verdict": "BET", "reason": "Unbeaten in two (form 1-1), and the card gives no specific reason to doubt him."}
+  ]},
+  {"race_id": "rac_32304301432", "changes": [
+    {"horse_id": "hrs_37192295", "horse": "Eben Zaabeel", "chance_pct": 18.5, "reason": "The trainer is 0/10 over 14 days, and he carries 163lb off OR 117."},
+    {"horse_id": "hrs_47531575", "horse": "Tuppence", "chance_pct": 12.5, "reason": "Won last time out for a yard in form at 10/46 over 14 days."},
+    {"horse_id": "hrs_44450217", "horse": "Way of Stars", "chance_pct": 11.0, "reason": "The trainer is 0/12 over 14 days."},
+    {"horse_id": "hrs_17391197593", "horse": "Sytadel", "chance_pct": 9.0, "reason": "Placed in all three runs (232) for Skelton, who is 22/93 over 14 days."},
+    {"horse_id": "hrs_36035783", "horse": "Ocean of Dreams", "chance_pct": 3.3, "reason": "Patchy form before his last-time-out win, and the comment calls 152lb off OR 106 a big ask."},
+    {"horse_id": "hrs_58099454", "horse": "Babyken", "chance_pct": 2.6, "reason": "Off 249 days, his placings have got worse each run, and he is winless recently."},
+    {"horse_id": "hrs_51650095", "horse": "Shallow Bowles", "chance_pct": 0.55, "reason": "Off 276 days, winless in her last four, and the trainer is 0/19 over 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_37192295", "horse": "Eben Zaabeel", "verdict": "SKIP", "reason": "The trainer is 0/10 over 14 days, a specific reason to doubt the favourite."}
+  ]}
+]}
