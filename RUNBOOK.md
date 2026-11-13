@@ -36,7 +36,7 @@ drops races off within 5 minutes.
    store/DAY/model.json). Retrain only by a dated prereg amendment (prereg/MODEL_REBUILD_2026-11-10.md).
 2a. Paper angle (after step 2, before the first off): `python3 pipeline/angle_toprated.py pick DAY`; when settling a day also run
    `python3 pipeline/angle_toprated.py settle DAY` and report its line (paper, prereg/ANGLE_CARD_TOPRATED_2026-11-10.md).
-2. Card: get_racecards_pro DAY gb,ire detailed limit 50 (skip 50 if total > 50);
+2. Card: get_racecards_standard day=today region_codes=gb,ire detailed limit 50 (account is on the Standard plan since 13 Nov; get_racecards_pro only if the plan is Pro again - same fields) (skip 50 if total > 50);
    `python3 pipeline/save_card.py DAY <saved file(s)>` (reports NRs removed, abandoned meetings, first off).
    Publish the sealed card for McCoy straight away.
 3. Review: `python3 pipeline/card_review.py prep DAY`; then in ONE message one general-purpose Agent per meeting in
@@ -56,7 +56,7 @@ drops races off within 5 minutes.
 4b. Page: `python3 report/build_old_page.py DAY` (old design + recovered 12 Oct - 9 Nov history in report/history_data.json;
    report/build_page.py is the simple fallback) (re-run after settling and after live checks) and publish report/race-reports.html
    to the artifact (daily/ files and archive/race-reports-to-2026-11-09.html are kept when not passed).
-5. Live checks: send_later 12:00/14:00/16:00/18:00 UTC (skip any after the last race): get_racecards_pro DAY ...;
+5. Live checks: send_later 12:00/14:00/16:00/18:00 UTC (skip any after the last race): get_racecards_standard day=today ...;
    `python3 pipeline/live_changes.py DAY <saved file(s)>`; message the user only for lines marked "!" (important, still to run).
    The 12:00 one also re-fetches yesterday's results for BSP, re-saves when complete and re-runs settle.
 6. git add -A; commit only if something changed (`git diff --cached --quiet || git commit ...`); push. Schedule the next day's 08:35 build (same prompt, dates moved on).

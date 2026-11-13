@@ -1,0 +1,53 @@
+{
+ "events": [
+  {
+   "key": "nr|rac_32304314991|hrs_39109602",
+   "text": "12:20 Southwell: Unleash The Beast now a non-runner. Re-worked market: Golly Gosh 48%, Walkinthepresent 16%, Ionity 10%, Largy Panic 7%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304293684|hrs_47620958",
+   "text": "1:45 Cheltenham: King's Bucks now a non-runner. Re-worked market: Intosomethinggood 26%, Follow Your Luck 23%, Kingston Narcissus 20%, D Art D Art 16%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304301432|hrs_51650095",
+   "text": "4:00 Cheltenham: Shallow Bowles now a non-runner. Re-worked market: Eben Zaabeel 21%, Way of Stars 13%, Sytadel 10%, Tuppence 10%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304411841|hrs_65869573",
+   "text": "6:30 Dundalk (AW): Mutamarid Lsk now a non-runner. Re-worked market: Shenata 41%, Closefield Beau 28%, Rock On Johnny 14%, Green Sparkle 8%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304419589|hrs_56843626",
+   "text": "8:30 Dundalk (AW): African Affair now a non-runner. Re-worked market: Chloe's Boy 25%, Glitter And Glory 21%, Love Orchid 20%, Cherry Hill Girl 12%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304419589|hrs_53743235",
+   "text": "8:30 Dundalk (AW): Wild Berries now a non-runner. Re-worked market: Chloe's Boy 25%, Glitter And Glory 21%, Love Orchid 20%, Cherry Hill Girl 12%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304419589|hrs_64360989",
+   "text": "8:30 Dundalk (AW): My First Rose now a non-runner. Re-worked market: Chloe's Boy 25%, Glitter And Glory 21%, Love Orchid 20%, Cherry Hill Girl 12%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  }
+ ]
+}
