@@ -48,6 +48,55 @@
    "future": true,
    "important": false,
    "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304295621|hrs_33547731",
+   "text": "2:20 Cheltenham: Gidleigh Park now a non-runner. Re-worked market: Jonbon 63%, Mighty Bandit 20%, Saint Segal 17%",
+   "future": false,
+   "important": false,
+   "at": "16:02"
+  },
+  {
+   "key": "nr|rac_32304299495|hrs_49577997",
+   "text": "3:30 Cheltenham: Lion Rose Sivola now a non-runner. Re-worked market: Lock Stock 20%, Ferocimo 20%, Dallas Star 16%, Divine Diva 14%",
+   "future": false,
+   "important": false,
+   "at": "16:02"
+  },
+  {
+   "key": "nr|rac_32304299495|hrs_17393782147",
+   "text": "3:30 Cheltenham: Petersham Place now a non-runner. Re-worked market: Lock Stock 20%, Ferocimo 20%, Dallas Star 16%, Divine Diva 14%",
+   "future": false,
+   "important": false,
+   "at": "16:02"
+  },
+  {
+   "key": "aff|rac_32304299495|hrs_17393779018|2",
+   "text": "3:30 Cheltenham: bet/leg Ferocimo runs on in a race with a new non-runner",
+   "future": false,
+   "important": true,
+   "at": "16:02"
+  },
+  {
+   "key": "nr|rac_32304313054|hrs_58535281",
+   "text": "3:40 Sedgefield: Midnight Bella now a non-runner. Re-worked market: Stellarmasterpiece 42%, Leave Her To Me 38%, Eremenko 14%, Strathcatcha 7%",
+   "future": false,
+   "important": false,
+   "at": "16:02"
+  },
+  {
+   "key": "nr|rac_32304313054|hrs_58535267",
+   "text": "3:40 Sedgefield: Khaleesi Queen now a non-runner. Re-worked market: Stellarmasterpiece 42%, Leave Her To Me 38%, Eremenko 14%, Strathcatcha 7%",
+   "future": false,
+   "important": false,
+   "at": "16:02"
+  },
+  {
+   "key": "nr|rac_32304301432|hrs_17391197593",
+   "text": "4:00 Cheltenham: Sytadel now a non-runner. Re-worked market: Eben Zaabeel 19%, Way of Stars 14%, Lexington Wood 14%, Crooked Path 14%",
+   "future": false,
+   "important": false,
+   "at": "16:02"
   }
  ]
 }
