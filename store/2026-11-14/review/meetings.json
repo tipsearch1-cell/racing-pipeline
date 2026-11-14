@@ -1,0 +1,37 @@
+{
+ "navan": {
+  "course": "Navan",
+  "in": "/home/claude/racing-pipeline/store/2026-11-14/review/in_navan.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-14/review/out_navan.json",
+  "races": 8,
+  "checks": 4
+ },
+ "uttoxeter": {
+  "course": "Uttoxeter",
+  "in": "/home/claude/racing-pipeline/store/2026-11-14/review/in_uttoxeter.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-14/review/out_uttoxeter.json",
+  "races": 7,
+  "checks": 4
+ },
+ "wetherby": {
+  "course": "Wetherby",
+  "in": "/home/claude/racing-pipeline/store/2026-11-14/review/in_wetherby.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-14/review/out_wetherby.json",
+  "races": 7,
+  "checks": 0
+ },
+ "windsor": {
+  "course": "Windsor",
+  "in": "/home/claude/racing-pipeline/store/2026-11-14/review/in_windsor.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-14/review/out_windsor.json",
+  "races": 7,
+  "checks": 4
+ },
+ "cheltenham": {
+  "course": "Cheltenham",
+  "in": "/home/claude/racing-pipeline/store/2026-11-14/review/in_cheltenham.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-14/review/out_cheltenham.json",
+  "races": 7,
+  "checks": 5
+ }
+}
