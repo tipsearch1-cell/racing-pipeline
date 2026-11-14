@@ -1,0 +1,137 @@
+{
+ "events": [
+  {
+   "key": "nr|rac_32304460266|hrs_17394329722",
+   "text": "12:20 Windsor: The Rarest Hour now a non-runner. Re-worked market: Jem's Lilly 47%, Magika Bella 23%, Secret des Lune 5%, Iconic Elsa 5%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304460266|hrs_51897566",
+   "text": "12:20 Windsor: Ti'mamzel now a non-runner. Re-worked market: Jem's Lilly 47%, Magika Bella 23%, Secret des Lune 5%, Iconic Elsa 5%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304421526|hrs_27697243",
+   "text": "12:35 Cheltenham: Transmission now a non-runner. Re-worked market: Little Ledgend 24%, Herakles Westwood 14%, Karnaval Point 14%, Dinoland 12%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "aff|rac_32304421526|hrs_40352564|1",
+   "text": "12:35 Cheltenham: bet/leg Little Ledgend runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304462203|hrs_46450180",
+   "text": "12:55 Windsor: Le Tiep's Sacre now a non-runner. Re-worked market: Scavengers Reign 48%, Piping Rock 19%, Admiral Stewart 14%, King Jon Oliver 11%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "aff|rac_32304462203|hrs_46233614|1",
+   "text": "12:55 Windsor: bet/leg Scavengers Reign runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32303241893|hrs_34990970",
+   "text": "2:20 Cheltenham: July Flower now a non-runner. Re-worked market: Meetmebythesea 25%, Blueking d'Oroux 18%, Quebecois 14%, Zurich 10%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32303241893|hrs_21378623",
+   "text": "2:20 Cheltenham: Guard Your Dreams now a non-runner. Re-worked market: Meetmebythesea 25%, Blueking d'Oroux 18%, Quebecois 14%, Zurich 10%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "aff|rac_32303241893|hrs_35123795|2",
+   "text": "2:20 Cheltenham: bet/leg Torneo runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304468014|hrs_41052277",
+   "text": "2:35 Windsor: Diligent Militia now a non-runner. Re-worked market: King Califet 40%, Loki's Mischief 12%, Doctor Midas 12%, Le Galli Bier 10%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304427337|hrs_32751355",
+   "text": "2:55 Cheltenham: Horaces Pearl now a non-runner. Re-worked market: William Yeats 23%, Aimeric 18%, Ifiwerearichman 17%, Rambo T 17%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304427337|hrs_52329242",
+   "text": "2:55 Cheltenham: Moon Mission now a non-runner. Re-worked market: William Yeats 23%, Aimeric 18%, Ifiwerearichman 17%, Rambo T 17%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "aff|rac_32304427337|hrs_52495289|2",
+   "text": "2:55 Cheltenham: bet/leg William Yeats runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304469951|hrs_34860175",
+   "text": "3:10 Windsor: Into The Park now a non-runner. Re-worked market: Zarakerjack 23%, Secret Squirrel 21%, Watamu 15%, Anniversary 10%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304429274|hrs_54304432",
+   "text": "3:30 Cheltenham: Luck Between Us now a non-runner. Re-worked market: Daylatedollarshort 26%, Sunny South West 20%, Hillberry Hill 18%, Grand Conqueror 15%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304429274|hrs_48112204",
+   "text": "3:30 Cheltenham: Emerald Breeze now a non-runner. Re-worked market: Daylatedollarshort 26%, Sunny South West 20%, Hillberry Hill 18%, Grand Conqueror 15%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "aff|rac_32304429274|hrs_52709111|2",
+   "text": "3:30 Cheltenham: bet/leg Daylatedollarshort runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304431211|hrs_62393905",
+   "text": "4:00 Cheltenham: Island Jetaway now a non-runner. Re-worked market: Elegantemente 30%, Soleretta 18%, Miss Master 10%, Eastern Whisper 10%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304431211|hrs_17394533107",
+   "text": "4:00 Cheltenham: Miss Spec now a non-runner. Re-worked market: Elegantemente 30%, Soleretta 18%, Miss Master 10%, Eastern Whisper 10%",
+   "future": true,
+   "important": false,
+   "at": "12:06"
+  }
+ ]
+}
