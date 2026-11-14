@@ -104,8 +104,10 @@ def settle(day):
         stake = st * len(lines)
         rows.append(dict(day=day, bet_id=bid, bookmaker=g.bookmaker.iloc[0], bet_type=g.bet_type.iloc[0], legs=len(legs),
                          winners=outcome.count("win"), stake=stake, returns=round(ret, 2), pl=round(ret - stake, 2)))
-    t = pd.read_csv(TRACKER) if os.path.exists(TRACKER) else pd.DataFrame()
+    t = pd.read_csv(TRACKER) if os.path.exists(TRACKER) and os.path.getsize(TRACKER) > 1 else pd.DataFrame()
     t = pd.concat([t[t.day != day] if len(t) else t, pd.DataFrame(rows)], ignore_index=True)
+    if not len(t):
+        t = pd.DataFrame(columns=["day", "bet_id", "bookmaker", "bet_type", "legs", "winners", "stake", "returns", "pl"])
     t.to_csv(TRACKER, index=False)
     day_pl = sum(r["pl"] for r in rows)
     print(f"multiples {day}: {len(rows)} bets settled, P/L {day_pl:+.2f}; since rebuild: {len(t)} bets, stake {t.stake.sum() if len(t) else 0:.2f}, "
