@@ -132,6 +132,132 @@
    "future": true,
    "important": false,
    "at": "12:06"
+  },
+  {
+   "key": "nr|rac_32304433148|hrs_17395280938",
+   "text": "12:42 Uttoxeter: Montevallo now a non-runner. Re-worked market: Spanish Darling 79%, Made For Mary 7%, Port Isaac 5%, Carrigane 3%",
+   "future": false,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304588108|hrs_57877918",
+   "text": "1:02 Navan: Hesgonethatway now a non-runner. Re-worked market: Radiator Springs 18%, Rightfolksplease 16%, Simply Natural 13%, Arch Empire 8%",
+   "future": false,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304464140|hrs_39959381",
+   "text": "1:25 Windsor: Libre de Choeur now a non-runner. Re-worked market: Doctor On Call 28%, Kildinan Prince 20%, Thank You Ma'am 9%, Surrey Lord 8%",
+   "future": false,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304464140|hrs_32709600",
+   "text": "1:25 Windsor: Inoui Machin now a non-runner. Re-worked market: Doctor On Call 28%, Kildinan Prince 20%, Thank You Ma'am 9%, Surrey Lord 8%",
+   "future": false,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304466077|hrs_40186384",
+   "text": "2:00 Windsor: Mistress Fox now a non-runner. Re-worked market: Independent Lady 44%, Barafundle Bay 11%, Mavis Pike 10%, Shanagolden Girl 10%",
+   "future": false,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304591982|hrs_33465306",
+   "text": "2:07 Navan: Staffordshire Knot now a non-runner. Re-worked market: The Yellow Clay 29%, I'll Sort That 20%, Slade Steel 19%, Casheldale Lad 12%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304468014|hrs_38002454",
+   "text": "2:35 Windsor: King Califet now a non-runner. Re-worked market: Loki's Mischief 21%, Doctor Midas 18%, Le Galli Bier 18%, Jet Smart 17%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304593919|hrs_34932142",
+   "text": "2:43 Navan: Majborough now a non-runner. Re-worked market: Only By Night 31%, Solness 24%, Found A Fifty 23%, Blood Destiny 15%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304442833|hrs_39040330",
+   "text": "3:00 Uttoxeter: Stone's Throw now a non-runner. Re-worked market: Seven Kites 29%, Orderoftheday 22%, Torrent 20%, Kalhandrion 9%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "aff|rac_32304442833|hrs_62393849|1",
+   "text": "3:00 Uttoxeter: bet/leg Seven Kites runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304595856|hrs_52236639",
+   "text": "3:18 Navan: Largy Star now a non-runner. Re-worked market: Bleu De Vassy 39%, Wingmen 27%, Powerful 12%, Jet To Monte Carlo 9%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304595856|hrs_52055465",
+   "text": "3:18 Navan: Mighty Park now a non-runner. Re-worked market: Bleu De Vassy 39%, Wingmen 27%, Powerful 12%, Jet To Monte Carlo 9%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304595856|hrs_45314584",
+   "text": "3:18 Navan: Saint Baco now a non-runner. Re-worked market: Bleu De Vassy 39%, Wingmen 27%, Powerful 12%, Jet To Monte Carlo 9%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304429274|hrs_52055787",
+   "text": "3:30 Cheltenham: Grand Conqueror now a non-runner. Re-worked market: Daylatedollarshort 32%, Hillberry Hill 21%, Sunny South West 21%, Seamoon Story 12%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "aff|rac_32304429274|hrs_52709111|3",
+   "text": "3:30 Cheltenham: bet/leg Daylatedollarshort runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304458329|hrs_23380147",
+   "text": "3:40 Wetherby: Trac now a non-runner. Re-worked market: Camarrate 37%, Safe Destination 25%, Slaney Opera 23%, Check The Score 14%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304458329|hrs_47064969",
+   "text": "3:40 Wetherby: Peckforton Hills now a non-runner. Re-worked market: Camarrate 37%, Safe Destination 25%, Slaney Opera 23%, Check The Score 14%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304597793|hrs_17394707288",
+   "text": "3:53 Navan: Uncle Pad now a non-runner. Re-worked market: Kanzler 27%, Sir Vinny 21%, Certain Escape 12%, Nine Toes Tim 11%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
   }
  ]
 }
