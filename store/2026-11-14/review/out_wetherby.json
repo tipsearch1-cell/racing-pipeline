@@ -1,0 +1,30 @@
+{"meeting": "wetherby", "races": [
+  {"race_id": "rac_32304446707", "changes": [
+    {"horse_id": "hrs_43228087", "horse": "Combs", "chance_pct": 32.0, "reason": "Tongue tie and blinkers (tb) fitted for the first time"}
+  ], "checks": []},
+  {"race_id": "rac_32304448644", "changes": [
+    {"horse_id": "hrs_32568396", "horse": "The Kalooki Kid", "chance_pct": 27.0, "reason": "Off for 229 days, last form figures /456P are poor, and he is top weight at 168lb"},
+    {"horse_id": "hrs_61684518", "horse": "Who's Going", "chance_pct": 15.0, "reason": "Comment says he is hard to fancy: no win in his last four starts and back after 102 days off"},
+    {"horse_id": "hrs_51831717", "horse": "Fine Thing", "chance_pct": 3.5, "reason": "Comment: has run over today's trip and going, last ran 15 days ago, and the yard is in form (6/20)"}
+  ], "checks": []},
+  {"race_id": "rac_32304450581", "changes": [
+    {"horse_id": "hrs_29622432", "horse": "Florida Dreams", "chance_pct": 32.0, "reason": "Won last time out 15 days ago and has run over today's trip and going"},
+    {"horse_id": "hrs_46602913", "horse": "Smart Decision", "chance_pct": 18.0, "reason": "Off for 224 days after back-to-back fifths (form 24755-)"}
+  ], "checks": []},
+  {"race_id": "rac_32304452518", "changes": [
+    {"horse_id": "hrs_58900352", "horse": "Static Charm", "chance_pct": 17.0, "reason": "Off for 210 days, last run was a 0, and the trainer is 0/14 in the last 14 days"},
+    {"horse_id": "hrs_26408648", "horse": "Yashin", "chance_pct": 11.5, "reason": "No form to go on, off for 110 days, and the trainer is 0/5 in the last 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32304454455", "changes": [
+    {"horse_id": "hrs_37790417", "horse": "The Bluesman", "chance_pct": 29.0, "reason": "Off for 213 days and pulled up last time out"},
+    {"horse_id": "hrs_20049841", "horse": "Geryville", "chance_pct": 7.0, "reason": "Comment: on the slide, 8th last time out; the trainer is 0/14 in the last 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32304456392", "changes": [
+    {"horse_id": "hrs_38017595", "horse": "Filibustering", "chance_pct": 33.0, "reason": "Won three of his last five starts, including last time out 14 days ago"}
+  ], "checks": []},
+  {"race_id": "rac_32304458329", "changes": [
+    {"horse_id": "hrs_47064969", "horse": "Peckforton Hills", "chance_pct": 28.0, "reason": "Comment says he is hard to fancy: off for 210 days, no win in his last five, and the trainer is 0/16 in the last 14 days"},
+    {"horse_id": "hrs_29816514", "horse": "Slaney Opera", "chance_pct": 17.0, "reason": "Comment: in cracking form (2nd last time out, won the start before), ran 14 days ago, and has run over today's trip and going"},
+    {"horse_id": "hrs_23380147", "horse": "Trac", "chance_pct": 2.2, "reason": "Off for 237 days, carries 168lb, and the trainer is 0/14 in the last 14 days"}
+  ], "checks": []}
+]}

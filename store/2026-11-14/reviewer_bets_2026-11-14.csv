@@ -1,0 +1,10 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian
+Frankie,Spartan Times,WIN,2026-11-14 12:07:00,BACK,4.11,false,Uttoxeter,12:07,Jumps,4.33
+Frankie,Little Ledgend,WIN,2026-11-14 12:35:00,BACK,3.32,false,Cheltenham,12:35,Jumps,3.5
+Frankie,Fine Thing,WIN,2026-11-14 12:48:00,BACK,28.57,false,Wetherby,12:48,Jumps,34.0
+Frankie,Scavengers Reign,WIN,2026-11-14 12:55:00,BACK,2.85,false,Windsor,12:55,Jumps,3.0
+Frankie,City Of Cork,WIN,2026-11-14 13:35:00,BACK,3.32,false,Navan,13:35,Jumps,3.5
+Frankie,Torneo,WIN,2026-11-14 14:20:00,BACK,14.71,false,Cheltenham,14:20,Jumps,15.0
+Frankie,William Yeats,WIN,2026-11-14 14:55:00,BACK,4.11,false,Cheltenham,14:55,Jumps,4.33
+Frankie,Seven Kites,WIN,2026-11-14 15:00:00,BACK,3.8,false,Uttoxeter,15:00,Jumps,4.0
+Frankie,Daylatedollarshort,WIN,2026-11-14 15:30:00,BACK,3.32,false,Cheltenham,15:30,Jumps,3.5

@@ -1,0 +1,77 @@
+{"meeting": "cheltenham", "races": [
+  {"race_id": "rac_32304421526", "changes": [
+    {"horse_id": "hrs_40352564", "horse": "Little Ledgend", "chance_pct": 25.0, "reason": "First-time tongue strap, yard 8/41 in 14d, form -22113 with two recent wins"},
+    {"horse_id": "hrs_42847455", "horse": "Karnaval Point", "chance_pct": 12.0, "reason": "Trainer 0/10 in last 14 days"},
+    {"horse_id": "hrs_28720825", "horse": "Herakles Westwood", "chance_pct": 9.0, "reason": "210-day absence after pulling up last time, top weight 168lb"},
+    {"horse_id": "hrs_27697243", "horse": "Transmission", "chance_pct": 8.5, "reason": "Trainer in form at 7/28 in 14 days, ran 14 days ago"},
+    {"horse_id": "hrs_27697264", "horse": "Brucejack", "chance_pct": 4.0, "reason": "Trainer 0/8 in 14d and inconsistent form 517-83"},
+    {"horse_id": "hrs_29621921", "horse": "Sound And Fury", "chance_pct": 2.6, "reason": "252-day absence"},
+    {"horse_id": "hrs_27279091", "horse": "Awaythelad", "chance_pct": 2.3, "reason": "Winless in last four with two pulled-up efforts (form /P7P-5)"}
+  ], "checks": [
+    {"horse_id": "hrs_40352564", "horse": "Little Ledgend", "verdict": "BET", "reason": "No negatives on card: good form, in-form yard, first-time tongue strap, proven at trip/going"}
+  ]},
+  {"race_id": "rac_32304423463", "changes": [
+    {"horse_id": "hrs_60752720", "horse": "Charles Darnay", "chance_pct": 34.0, "reason": "Won last time 15 days ago, trainer hot at 10/42 in 14 days"},
+    {"horse_id": "hrs_63971166", "horse": "Don Dandy", "chance_pct": 6.2, "reason": "First-time cheekpieces, consistent form 421-2, yard 8/41"},
+    {"horse_id": "hrs_64036868", "horse": "Confused", "chance_pct": 1.3, "reason": "Trainer 0/14 in 14 days and form 64 without a win"}
+  ], "checks": []},
+  {"race_id": "rac_32304425400", "changes": [
+    {"horse_id": "hrs_33859721", "horse": "Workahead", "chance_pct": 40.0, "reason": "159 days since last run"},
+    {"horse_id": "hrs_40225297", "horse": "Putapoundinthejar", "chance_pct": 16.5, "reason": "Trainer 0/11 in last 14 days"},
+    {"horse_id": "hrs_51491909", "horse": "Folie Golith", "chance_pct": 16.5, "reason": "Trainer 0/14 in last 14 days"},
+    {"horse_id": "hrs_41190051", "horse": "Passing Diamond", "chance_pct": 11.0, "reason": "Lowest rated at OR 128 vs 137-148 rivals at level weights"}
+  ], "checks": []},
+  {"race_id": "rac_32303241893", "changes": [
+    {"horse_id": "hrs_40494041", "horse": "Meetmebythesea", "chance_pct": 19.0, "reason": "247-day absence and 164lb flagged by the card as hurdles"},
+    {"horse_id": "hrs_29785756", "horse": "Blueking d'Oroux", "chance_pct": 13.5, "reason": "219-day absence, partly offset by yard 19/92"},
+    {"horse_id": "hrs_34990970", "horse": "July Flower", "chance_pct": 11.5, "reason": "200 days off and only fifth and fourth since her wins"},
+    {"horse_id": "hrs_47655517", "horse": "Zurich", "chance_pct": 10.0, "reason": "First-time tongue strap"},
+    {"horse_id": "hrs_37687412", "horse": "Release The Beast", "chance_pct": 7.0, "reason": "Unseated last time and 198 days off"},
+    {"horse_id": "hrs_27153350", "horse": "O'Moore Park", "chance_pct": 6.0, "reason": "Won last time out, 21 days ago, proven at trip/going"},
+    {"horse_id": "hrs_35123795", "horse": "Torneo", "chance_pct": 6.8, "reason": "Back-to-back wins and yard hot at 11/26 in 14 days"},
+    {"horse_id": "hrs_28824495", "horse": "Matata", "chance_pct": 3.8, "reason": "Fell last time, pulled up before, 210 days off, top weight"},
+    {"horse_id": "hrs_49359051", "horse": "Dunkerque", "chance_pct": 1.8, "reason": "Three wins in last six, consistent form 112123"},
+    {"horse_id": "hrs_21378623", "horse": "Guard Your Dreams", "chance_pct": 0.8, "reason": "Pulled up last time out"}
+  ], "checks": [
+    {"horse_id": "hrs_40494041", "horse": "Meetmebythesea", "verdict": "SKIP", "reason": "Card flags 247-day absence and 164lb as hurdles to overcome"}
+  ]},
+  {"race_id": "rac_32304427337", "changes": [
+    {"horse_id": "hrs_52495289", "horse": "William Yeats", "chance_pct": 21.5, "reason": "Form 3-1221, ran 9 days ago, yard hot at 6/20"},
+    {"horse_id": "hrs_32751355", "horse": "Horaces Pearl", "chance_pct": 14.5, "reason": "357-day absence under 163lb"},
+    {"horse_id": "hrs_28824432", "horse": "Ifiwerearichman", "chance_pct": 12.5, "reason": "Winless in last five, sixth last time"},
+    {"horse_id": "hrs_29801800", "horse": "Aimeric", "chance_pct": 12.5, "reason": "Won last two starts (form -44211)"},
+    {"horse_id": "hrs_24769563", "horse": "Rambo T", "chance_pct": 9.0, "reason": "Poor form 000-65"},
+    {"horse_id": "hrs_52329242", "horse": "Moon Mission", "chance_pct": 5.0, "reason": "Out again after one day, yard 0/23 in 14 days"},
+    {"horse_id": "hrs_37207975", "horse": "Sir Galahad", "chance_pct": 5.5, "reason": "Unplaced last time and 105 days off"},
+    {"horse_id": "hrs_24687572", "horse": "Black Bamboo", "chance_pct": 5.2, "reason": "Second last time out, clear step up, fresh after 13 days"},
+    {"horse_id": "hrs_23715685", "horse": "Margaret's Legacy", "chance_pct": 2.3, "reason": "Two unplaced runs and 198 days off"},
+    {"horse_id": "hrs_27237539", "horse": "Hartur d'Arc", "chance_pct": 1.1, "reason": "Pulled up in three of last five, 222 days off"},
+    {"horse_id": "hrs_29509879", "horse": "Blizzard of Oz", "chance_pct": 1.1, "reason": "Unplaced last two and trainer 0/14 in 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_52495289", "horse": "William Yeats", "verdict": "BET", "reason": "Strong recent form, quick return, hot yard; no negatives on card"}
+  ]},
+  {"race_id": "rac_32304429274", "changes": [
+    {"horse_id": "hrs_52709111", "horse": "Daylatedollarshort", "chance_pct": 26.5, "reason": "Three wins in last five incl. last time out, yard 8/41"},
+    {"horse_id": "hrs_57654632", "horse": "Hillberry Hill", "chance_pct": 15.0, "reason": "235 days since last run"},
+    {"horse_id": "hrs_52055787", "horse": "Grand Conqueror", "chance_pct": 12.5, "reason": "Won last time, trainer 7/28 in 14 days"},
+    {"horse_id": "hrs_48112204", "horse": "Emerald Breeze", "chance_pct": 6.5, "reason": "223-day absence"},
+    {"horse_id": "hrs_51831878", "horse": "Seamoon Story", "chance_pct": 8.5, "reason": "Won last two starts, trainer 5/16 in 14 days"},
+    {"horse_id": "hrs_39959535", "horse": "Give Him A Chance", "chance_pct": 4.8, "reason": "Yard 0/23 in 14 days, no win since five starts back"},
+    {"horse_id": "hrs_54304432", "horse": "Luck Between Us", "chance_pct": 3.3, "reason": "Seventh one day ago, yard 0/23 in 14 days"},
+    {"horse_id": "hrs_38532256", "horse": "Open Secret", "chance_pct": 2.9, "reason": "Two unplaced runs last time (form 14200-)"}
+  ], "checks": [
+    {"horse_id": "hrs_52709111", "horse": "Daylatedollarshort", "verdict": "BET", "reason": "Won last time, consistent form, proven at trip/going, in-form yard"}
+  ]},
+  {"race_id": "rac_32304431211", "changes": [
+    {"horse_id": "hrs_17394328679", "horse": "Soleretta", "chance_pct": 16.5, "reason": "Fell on only recent start and 251 days off"},
+    {"horse_id": "hrs_17393747728", "horse": "Eastern Whisper", "chance_pct": 11.5, "reason": "Trainer 0/5 in last 14 days"},
+    {"horse_id": "hrs_17395395668", "horse": "Miss Master", "chance_pct": 9.5, "reason": "230-day absence"},
+    {"horse_id": "hrs_17393247088", "horse": "Gypsy Sky", "chance_pct": 9.0, "reason": "Won only start, trainers hot at 6/11 in 14 days"},
+    {"horse_id": "hrs_17395397754", "horse": "Sarah's Sister", "chance_pct": 4.3, "reason": "Trainer 0/12 in last 14 days"},
+    {"horse_id": "hrs_57439354", "horse": "Clovelly Charm", "chance_pct": 2.1, "reason": "Trainer 0/8 in last 14 days"},
+    {"horse_id": "hrs_62393905", "horse": "Island Jetaway", "chance_pct": 1.6, "reason": "183-day layoff, trainer 0/7"},
+    {"horse_id": "hrs_17395396711", "horse": "Orderandout", "chance_pct": 1.6, "reason": "251 days off, trainer 0/8"}
+  ], "checks": [
+    {"horse_id": "hrs_17390238033", "horse": "Elegantemente", "verdict": "BET", "reason": "Won only start, yard 6/37; 82 days off is modest and shorter than most rivals' breaks"}
+  ]}
+]}

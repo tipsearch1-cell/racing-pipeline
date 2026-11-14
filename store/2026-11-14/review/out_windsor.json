@@ -1,0 +1,43 @@
+{"meeting": "windsor", "races": [
+  {"race_id": "rac_32304460266", "changes": [
+    {"horse_id": "hrs_64590498", "horse": "Unflappable", "chance_pct": 4.0, "reason": "Form 332: placed in all three starts, underrated by market."}
+  ], "checks": []},
+  {"race_id": "rac_32304462203", "changes": [
+    {"horse_id": "hrs_38305218", "horse": "Admiral Stewart", "chance_pct": 19.5, "reason": "Yard flying at 11/26 in 14 days and second last time out."},
+    {"horse_id": "hrs_46450180", "horse": "Le Tiep's Sacre", "chance_pct": 19.0, "reason": "245-day absence, fifth last time and top weight 164lb."},
+    {"horse_id": "hrs_51091054", "horse": "King Jon Oliver", "chance_pct": 6.0, "reason": "Pulled up in two of last three and 205 days off."}
+  ], "checks": [
+    {"horse_id": "hrs_46233614", "horse": "Scavengers Reign", "verdict": "BET", "reason": "Second 17 days ago, trainer 10/42 in 14 days; no specific reason to doubt."}
+  ]},
+  {"race_id": "rac_32304464140", "changes": [
+    {"horse_id": "hrs_47869024", "horse": "Doctor On Call", "chance_pct": 14.0, "reason": "Returns from 269 days off under 163lb, trainer 0/4; comment says hard to fancy."},
+    {"horse_id": "hrs_52495625", "horse": "Kildinan Prince", "chance_pct": 15.0, "reason": "237-day absence and 164lb could blunt him."},
+    {"horse_id": "hrs_55177724", "horse": "Crack Ops", "chance_pct": 7.5, "reason": "Never worse than third in last five and lightly weighted at 150lb off 108."},
+    {"horse_id": "hrs_32709600", "horse": "Inoui Machin", "chance_pct": 2.3, "reason": "730-day absence."},
+    {"horse_id": "hrs_35137067", "horse": "Reallyntruthfully", "chance_pct": 7.0, "reason": "Patchy record: disqualified last time, pulled up three back, 164lb."}
+  ], "checks": [
+    {"horse_id": "hrs_47869024", "horse": "Doctor On Call", "verdict": "SKIP", "reason": "269 days off and 163lb; comment calls him hard to fancy."}
+  ]},
+  {"race_id": "rac_32304466077", "changes": [
+    {"horse_id": "hrs_37275357", "horse": "Barafundle Bay", "chance_pct": 10.5, "reason": "Win last time followed run of unplaced efforts; comment says hard to fancy."},
+    {"horse_id": "hrs_33302654", "horse": "Mavis Pike", "chance_pct": 9.0, "reason": "Second and third last two, 19 days since run, trainer 6/36."},
+    {"horse_id": "hrs_46265548", "horse": "Sophie Power", "chance_pct": 4.5, "reason": "217-day absence after pulled up and sixth."},
+    {"horse_id": "hrs_40186384", "horse": "Mistress Fox", "chance_pct": 5.3, "reason": "Seventh last time and returns from 157-day break."},
+    {"horse_id": "hrs_45445372", "horse": "Morissette", "chance_pct": 5.0, "reason": "Sixth in last two outings, trainer 0/1."}
+  ], "checks": []},
+  {"race_id": "rac_32304468014", "changes": [
+    {"horse_id": "hrs_38002454", "horse": "King Califet", "chance_pct": 35.0, "reason": "239-day absence leaves fitness open under top weight 168lb."},
+    {"horse_id": "hrs_37933672", "horse": "Loki's Mischief", "chance_pct": 10.5, "reason": "Two wins in last five and race-fit after 16 days."},
+    {"horse_id": "hrs_32568613", "horse": "Joe Cotton", "chance_pct": 6.5, "reason": "Pulled up last time and returns after 273 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304469951", "changes": [
+    {"horse_id": "hrs_49821576", "horse": "Zarakerjack", "chance_pct": 20.0, "reason": "Pulled up two starts back and quick 9-day turnaround raise questions."},
+    {"horse_id": "hrs_46547179", "horse": "Watamu", "chance_pct": 14.5, "reason": "Won last two starts, three wins in last five, form at trip and going."},
+    {"horse_id": "hrs_34860175", "horse": "Into The Park", "chance_pct": 1.3, "reason": "Pulled up last time out."}
+  ], "checks": [
+    {"horse_id": "hrs_49821576", "horse": "Zarakerjack", "verdict": "SKIP", "reason": "Pulled up two back and 9-day turnaround raise doubts per comment."}
+  ]},
+  {"race_id": "rac_32304471888", "changes": [], "checks": [
+    {"horse_id": "hrs_17395410270", "horse": "Waverley", "verdict": "BET", "reason": "Debutant in a field of mostly unraced runners; no specific card reason to doubt."}
+  ]}
+]}

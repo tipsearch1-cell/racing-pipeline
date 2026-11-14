@@ -566,176 +566,176 @@ day,race_id,off,off_dt,course,code,aw,hcap,runners,horse_id,horse,mkt,rev,median
 2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_51766316,Middlethird Marvel,0.64,0.73,101.0,240.0,False,,False,,False,15,0.0,126.0,338.98,240.0
 2026-11-12,rac_32304185212,3:48,2026-11-12T15:48:00+00:00,Thurles,Jumps,False,True,17,hrs_51557604,Slea Head,0.72,0.5,81.0,240.0,False,,False,Pulled up last time out and 345 days off.,False,PU,0.0,101.0,290.0,240.0
 2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_39109602,Unleash The Beast,14.5,11.5,5.75,6.6,False,,False,Returns after 265 days; comment flags fitness as the big risk.,False,,,,,6.4
-2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_51800392,Woodview Lad,2.16,1.8,34.0,55.0,False,,False,"Pulled up last time 11 days ago, 165lb off OR 95.",False,2,0,34.0,,55.0
-2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_47129390,Largy Panic,7.42,6.2,11.0,13.0,False,,False,"206 days off, 164lb, trainer 0/5 in 14 days.",False,4,0,10.0,,13.0
-2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_51831794,Get In Order,2.94,6.94,29.0,36.0,False,,False,,False,3,0,10.0,,36.0
-2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_32682769,Jac Jumper,6.4,5.0,12.0,16.5,False,,False,"Off 499 days, trainer 0/2 in 14 days.",False,PU,0,12.0,,16.5
-2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_51341451,Walkinthepresent,14.78,13.0,5.5,6.6,False,,False,Pulled up last time out.,False,6,0,5.0,,6.6
-2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_37860634,Ionity,10.03,8.5,8.5,9.4,False,,False,Pulled up last time out and winless in last four.,False,8,0,7.5,,9.4
-2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_51988888,Golly Gosh,37.14,41.0,2.25,2.52,False,,False,"Won last time out after two seconds (form -P7221), has run over trip and going.",False,1,1,2.1,,2.52
-2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_39568473,Scoro,3.08,2.4,26.0,34.0,False,,False,Pulled up in last two outings (form 4664PP).,False,7,0,29.0,,34.0
-2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_21395052,Caballo Diablo,1.55,3.66,51.0,75.0,False,,False,,False,5,0,29.0,,75.0
-2026-11-13,rac_32304307243,12:45,2026-11-13T12:45:00+00:00,Sedgefield,Jumps,False,True,3,hrs_40996865,Fairlawn Skipper,33.67,30.0,2.75,2.88,False,,False,Comment flags top weight 168lb after a fourth last time out.,False,1,1,2.62,,2.88
-2026-11-13,rac_32304307243,12:45,2026-11-13T12:45:00+00:00,Sedgefield,Jumps,False,True,3,hrs_21212086,Glory And Honour,19.46,21.0,4.5,5.2,False,,False,"Comment: solid nick, consistent, has run over trip and going; trainer 4/18 in 14 days.",False,2,0,3.75,,5.2
-2026-11-13,rac_32304307243,12:45,2026-11-13T12:45:00+00:00,Sedgefield,Jumps,False,True,3,hrs_34746264,Walk In The Valley,46.88,49.0,1.955,2.08,False,,False,,False,3,0,2.5,,2.08
-2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_40095797,Princess Keri,21.04,18.0,4.33,4.6,False,,False,Pulled up in last two runs (form U12P-P) and top weight 168lb.,False,3,0,3.5,,4.6
-2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_29621935,Gata Ban,29.5,32.0,2.94,3.35,False,,False,"Solid form (-21143), proven trip/going, trainer 6/27 in 14 days.",False,1,1,2.75,,3.3
-2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_29906856,Kit's Coty,14.98,21.0,6.0,6.4,False,,False,,False,4,0,5.5,,6.4
-2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_40591943,Walkingtheline,2.46,2.0,38.5,44.0,False,,False,120-day absence after pulled up and fifth.,False,5,0,51.0,,44.0
-2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_51618630,Out On Her Own,32.03,27.0,2.75,3.05,False,,False,Fell last time out and winless in last five.,False,2,0,4.0,,3.05
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_412693008,Kalium,2.64,2.2,26.0,38.0,False,,False,"Off 272 days with top weight of 168lb, and the trainer is 0/6 over 14 days.",False,7,0,19.0,,38.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_46697161,Khafre,2.45,2.79,26.0,44.0,False,,False,,False,11,0,29.0,,44.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_48240094,Glancing Jack,27.81,23.5,2.75,3.25,False,,False,"Off 237 days and carries 165lb off OR 122, which the comment flags as the main risk.",False,3,0,3.75,,3.2
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_21229215,No Ordinary Joe,1.9,2.16,35.0,55.0,False,,False,,False,14,0,34.0,,55.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_41229748,Step Ahead,7.17,6.0,10.0,13.5,False,,False,Only seventh last time out (form 2153-7) and the comment says that leaves questions.,False,6,0,10.0,,13.5
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_25122223,High Fibre,14.81,16.0,5.0,6.2,False,,False,Won last time out (form 125-51) for a trainer in form at 12/46 over 14 days.,False,4,0,5.0,,6.2
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_34542627,Double Oban,2.32,2.64,29.0,46.0,False,,False,,False,8,0,29.0,,46.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_52055997,Outmaster,7.86,8.94,9.0,12.5,False,,False,,False,18,0,6.0,,12.5
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_43637097,Boston Rajj,1.26,1.43,46.0,100.0,False,,False,,False,13,0,67.0,,100.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_26328757,Chutzpal,3.03,3.45,23.0,34.0,False,,False,,False,15,0,23.0,,34.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_50590127,Lovely Gino,4.01,3.2,15.0,29.0,False,,False,"Off 229 days, and the form reads FFP in his last three runs.",False,9,0,26.0,,29.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_39392073,Heart Over Head,0.48,0.4,101.0,390.0,False,,False,Has tailed off with an eighth and then a seventh in his last two runs (form 1108-7).,False,17,0,126.0,,390.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_52329242,Moon Mission,1.18,0.9,51.0,110.0,False,,False,"The yard is 0/20 over 14 days, and the comment calls his sequence poor (pulled up two starts back).",False,5,0,29.0,,90.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_41662327,Razzle Dazzle Boy,1.23,1.4,34.0,230.0,False,,False,,False,12,0,67.0,,230.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_46913419,Keno Black,11.34,13.0,6.0,8.8,False,,False,"Won last time out, back quickly after 11 days and carries a light 157lb off OR 107.",False,2,0,6.0,,8.8
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_51124871,Snatch A Glance,1.22,1.39,51.0,95.0,False,,False,,False,10,0,34.0,,95.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_33051522,Norman Fletcher,6.92,7.87,9.5,15.0,False,,False,,False,1,1,13.0,,15.0
-2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_40394375,Eton Mes,2.39,2.72,29.0,42.0,False,,False,,False,16,0,23.0,,42.0
-2026-11-13,rac_32304309180,1:20,2026-11-13T13:20:00+00:00,Sedgefield,Jumps,False,False,3,hrs_29227114,In The Trenches,57.22,60.0,1.57,1.75,False,,False,Form ends 12 and trainer in form at 2/4 in 14 days.,False,2,0,2.75,,1.75
-2026-11-13,rac_32304309180,1:20,2026-11-13T13:20:00+00:00,Sedgefield,Jumps,False,False,3,hrs_17394126337,Farfromaway,41.18,37.0,2.25,2.38,False,,False,Trainer 0/15 in 14 days and fifth last time out.,False,1,1,1.4,,2.34
-2026-11-13,rac_32304309180,1:20,2026-11-13T13:20:00+00:00,Sedgefield,Jumps,False,False,3,hrs_52236345,Arcimboldo,1.61,3.0,51.0,70.0,False,,False,,False,3,0,51.0,,70.0
-2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_37890566,Ballykinlar,13.88,14.27,6.5,7.0,False,,False,,False,F,0,5.5,,7.0
-2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_41190128,Golan Loop,12.92,11.0,6.5,8.2,False,,False,226-day absence with 161lb.,False,1,1,5.0,,8.2
-2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_34874490,May Call You Back,36.69,37.73,2.5,2.62,False,,False,,False,F,0,4.0,,2.62
-2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_40352396,Island Bridge,26.28,28.5,3.25,3.85,False,,False,Cheekpieces first time and consistent placed form (2223-4).,False,2,0,2.62,,3.85
-2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_34361446,Express Surprise,10.24,8.5,9.0,9.8,False,,False,"Pulled up last time, 203 days off, trainer 0/6 in 14 days.",False,PU,0,8.0,,9.8
-2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_34361572,Bill Joyce,11.28,9.5,8.0,8.8,False,,False,"Weak form (0/PP-3), with two pulled-up runs in his last four.",False,3,0,6.5,,8.2
-2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_33660270,D Art D Art,11.44,13.48,7.5,8.8,False,,False,,False,1,1,4.5,,8.8
-2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_49578046,Follow Your Luck,12.82,11.0,7.0,7.6,False,,False,Lowest rated in the field at OR 123 at level weights of 158lb.,False,4,0,4.0,,7.6
-2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_46759076,Intosomethinggood,18.88,20.5,4.5,5.4,False,,False,Highest rated in the field at OR 135 at level weights and fresh after 7 days.,False,2,0,4.33,,5.4
+2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_51800392,Woodview Lad,2.16,1.8,34.0,55.0,False,,False,"Pulled up last time 11 days ago, 165lb off OR 95.",False,2,0.0,34.0,,55.0
+2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_47129390,Largy Panic,7.42,6.2,11.0,13.0,False,,False,"206 days off, 164lb, trainer 0/5 in 14 days.",False,4,0.0,10.0,,13.0
+2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_51831794,Get In Order,2.94,6.94,29.0,36.0,False,,False,,False,3,0.0,10.0,,36.0
+2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_32682769,Jac Jumper,6.4,5.0,12.0,16.5,False,,False,"Off 499 days, trainer 0/2 in 14 days.",False,PU,0.0,12.0,,16.5
+2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_51341451,Walkinthepresent,14.78,13.0,5.5,6.6,False,,False,Pulled up last time out.,False,6,0.0,5.0,,6.6
+2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_37860634,Ionity,10.03,8.5,8.5,9.4,False,,False,Pulled up last time out and winless in last four.,False,8,0.0,7.5,,9.4
+2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_51988888,Golly Gosh,37.14,41.0,2.25,2.52,False,,False,"Won last time out after two seconds (form -P7221), has run over trip and going.",False,1,1.0,2.1,,2.52
+2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_39568473,Scoro,3.08,2.4,26.0,34.0,False,,False,Pulled up in last two outings (form 4664PP).,False,7,0.0,29.0,,34.0
+2026-11-13,rac_32304314991,12:20,2026-11-13T12:20:00+00:00,Southwell,Jumps,False,True,10,hrs_21395052,Caballo Diablo,1.55,3.66,51.0,75.0,False,,False,,False,5,0.0,29.0,,75.0
+2026-11-13,rac_32304307243,12:45,2026-11-13T12:45:00+00:00,Sedgefield,Jumps,False,True,3,hrs_40996865,Fairlawn Skipper,33.67,30.0,2.75,2.88,False,,False,Comment flags top weight 168lb after a fourth last time out.,False,1,1.0,2.62,,2.88
+2026-11-13,rac_32304307243,12:45,2026-11-13T12:45:00+00:00,Sedgefield,Jumps,False,True,3,hrs_21212086,Glory And Honour,19.46,21.0,4.5,5.2,False,,False,"Comment: solid nick, consistent, has run over trip and going; trainer 4/18 in 14 days.",False,2,0.0,3.75,,5.2
+2026-11-13,rac_32304307243,12:45,2026-11-13T12:45:00+00:00,Sedgefield,Jumps,False,True,3,hrs_34746264,Walk In The Valley,46.88,49.0,1.955,2.08,False,,False,,False,3,0.0,2.5,,2.08
+2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_40095797,Princess Keri,21.04,18.0,4.33,4.6,False,,False,Pulled up in last two runs (form U12P-P) and top weight 168lb.,False,3,0.0,3.5,,4.6
+2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_29621935,Gata Ban,29.5,32.0,2.94,3.35,False,,False,"Solid form (-21143), proven trip/going, trainer 6/27 in 14 days.",False,1,1.0,2.75,,3.3
+2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_29906856,Kit's Coty,14.98,21.0,6.0,6.4,False,,False,,False,4,0.0,5.5,,6.4
+2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_40591943,Walkingtheline,2.46,2.0,38.5,44.0,False,,False,120-day absence after pulled up and fifth.,False,5,0.0,51.0,,44.0
+2026-11-13,rac_32304316928,12:55,2026-11-13T12:55:00+00:00,Southwell,Jumps,False,True,5,hrs_51618630,Out On Her Own,32.03,27.0,2.75,3.05,False,,False,Fell last time out and winless in last five.,False,2,0.0,4.0,,3.05
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_412693008,Kalium,2.64,2.2,26.0,38.0,False,,False,"Off 272 days with top weight of 168lb, and the trainer is 0/6 over 14 days.",False,7,0.0,19.0,,38.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_46697161,Khafre,2.45,2.79,26.0,44.0,False,,False,,False,11,0.0,29.0,,44.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_48240094,Glancing Jack,27.81,23.5,2.75,3.25,False,,False,"Off 237 days and carries 165lb off OR 122, which the comment flags as the main risk.",False,3,0.0,3.75,,3.2
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_21229215,No Ordinary Joe,1.9,2.16,35.0,55.0,False,,False,,False,14,0.0,34.0,,55.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_41229748,Step Ahead,7.17,6.0,10.0,13.5,False,,False,Only seventh last time out (form 2153-7) and the comment says that leaves questions.,False,6,0.0,10.0,,13.5
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_25122223,High Fibre,14.81,16.0,5.0,6.2,False,,False,Won last time out (form 125-51) for a trainer in form at 12/46 over 14 days.,False,4,0.0,5.0,,6.2
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_34542627,Double Oban,2.32,2.64,29.0,46.0,False,,False,,False,8,0.0,29.0,,46.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_52055997,Outmaster,7.86,8.94,9.0,12.5,False,,False,,False,18,0.0,6.0,,12.5
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_43637097,Boston Rajj,1.26,1.43,46.0,100.0,False,,False,,False,13,0.0,67.0,,100.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_26328757,Chutzpal,3.03,3.45,23.0,34.0,False,,False,,False,15,0.0,23.0,,34.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_50590127,Lovely Gino,4.01,3.2,15.0,29.0,False,,False,"Off 229 days, and the form reads FFP in his last three runs.",False,9,0.0,26.0,,29.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_39392073,Heart Over Head,0.48,0.4,101.0,390.0,False,,False,Has tailed off with an eighth and then a seventh in his last two runs (form 1108-7).,False,17,0.0,126.0,,390.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_52329242,Moon Mission,1.18,0.9,51.0,110.0,False,,False,"The yard is 0/20 over 14 days, and the comment calls his sequence poor (pulled up two starts back).",False,5,0.0,29.0,,90.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_41662327,Razzle Dazzle Boy,1.23,1.4,34.0,230.0,False,,False,,False,12,0.0,67.0,,230.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_46913419,Keno Black,11.34,13.0,6.0,8.8,False,,False,"Won last time out, back quickly after 11 days and carries a light 157lb off OR 107.",False,2,0.0,6.0,,8.8
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_51124871,Snatch A Glance,1.22,1.39,51.0,95.0,False,,False,,False,10,0.0,34.0,,95.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_33051522,Norman Fletcher,6.92,7.87,9.5,15.0,False,,False,,False,1,1.0,13.0,,15.0
+2026-11-13,rac_32304291747,1:10,2026-11-13T13:10:00+00:00,Cheltenham,Jumps,False,True,18,hrs_40394375,Eton Mes,2.39,2.72,29.0,42.0,False,,False,,False,16,0.0,23.0,,42.0
+2026-11-13,rac_32304309180,1:20,2026-11-13T13:20:00+00:00,Sedgefield,Jumps,False,False,3,hrs_29227114,In The Trenches,57.22,60.0,1.57,1.75,False,,False,Form ends 12 and trainer in form at 2/4 in 14 days.,False,2,0.0,2.75,,1.75
+2026-11-13,rac_32304309180,1:20,2026-11-13T13:20:00+00:00,Sedgefield,Jumps,False,False,3,hrs_17394126337,Farfromaway,41.18,37.0,2.25,2.38,False,,False,Trainer 0/15 in 14 days and fifth last time out.,False,1,1.0,1.4,,2.34
+2026-11-13,rac_32304309180,1:20,2026-11-13T13:20:00+00:00,Sedgefield,Jumps,False,False,3,hrs_52236345,Arcimboldo,1.61,3.0,51.0,70.0,False,,False,,False,3,0.0,51.0,,70.0
+2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_37890566,Ballykinlar,13.88,14.27,6.5,7.0,False,,False,,False,F,0.0,5.5,,7.0
+2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_41190128,Golan Loop,12.92,11.0,6.5,8.2,False,,False,226-day absence with 161lb.,False,1,1.0,5.0,,8.2
+2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_34874490,May Call You Back,36.69,37.73,2.5,2.62,False,,False,,False,F,0.0,4.0,,2.62
+2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_40352396,Island Bridge,26.28,28.5,3.25,3.85,False,,False,Cheekpieces first time and consistent placed form (2223-4).,False,2,0.0,2.62,,3.85
+2026-11-13,rac_32304318865,1:30,2026-11-13T13:30:00+00:00,Southwell,Jumps,False,True,5,hrs_34361446,Express Surprise,10.24,8.5,9.0,9.8,False,,False,"Pulled up last time, 203 days off, trainer 0/6 in 14 days.",False,PU,0.0,8.0,,9.8
+2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_34361572,Bill Joyce,11.28,9.5,8.0,8.8,False,,False,"Weak form (0/PP-3), with two pulled-up runs in his last four.",False,3,0.0,6.5,,8.2
+2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_33660270,D Art D Art,11.44,13.48,7.5,8.8,False,,False,,False,1,1.0,4.5,,8.8
+2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_49578046,Follow Your Luck,12.82,11.0,7.0,7.6,False,,False,Lowest rated in the field at OR 123 at level weights of 158lb.,False,4,0.0,4.0,,7.6
+2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_46759076,Intosomethinggood,18.88,20.5,4.5,5.4,False,,False,Highest rated in the field at OR 135 at level weights and fresh after 7 days.,False,2,0.0,4.33,,5.4
 2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_47620958,King's Bucks,28.16,25.0,3.25,3.4,True,SKIP,False,"No win in his last five (32P2-2), and two rivals are rated higher at level weights.",False,,,,,3.4
-2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_32196367,Kingston Narcissus,17.42,20.52,5.0,5.7,False,,False,,False,5,0,4.33,,5.7
-2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_44199218,Wee Alki,16.83,18.0,5.25,5.9,False,,False,Comment: won last time out and has run over today's trip and going.,False,5,0,4.0,,5.9
-2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_58469236,Frisky Whiskey,38.79,33.0,2.25,2.56,False,,False,Comment flags 42-day break and hefty 166lb.,False,2,0,2.62,,2.56
-2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_52055598,Last Man d'Arcy,12.27,9.0,7.5,8.0,False,,False,"459 days since last run, poor form /P886, and comment flags 162lb off OR 100.",False,4,0,13.0,,8.0
-2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_32780258,Jeteye,25.06,29.0,3.5,3.95,False,,False,"Comment: won last time, three wins in last six, back quickly after 10 days; trainer 4/18.",False,1,1,2.88,,3.9
-2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_35176043,Simiyann,7.05,6.0,13.0,14.0,False,,False,Comment: winless in last four and hard to fancy.,False,3,0,17.0,,14.0
-2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17394316163,Francisco Alvares,21.42,23.5,4.0,4.6,False,,False,"Debutant from yard in form, 22/93 in 14 days.",True,4,0,11.0,,4.6
-2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17394110692,Helios Forlonge,31.58,28.5,2.815,3.0,False,,False,Returns after 258 days off.,True,1,1,1.62,,3.0
-2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17395340389,I'll Start Monday,11.72,10.5,7.5,8.4,False,,False,"Debutant, trainer 0/4 in 14 days.",True,2,0,6.0,,8.4
-2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17395341432,Mirage d'Alene,19.41,20.32,4.5,5.0,False,,False,,True,3,0,5.0,,5.0
-2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17395342475,The Bardman,11.89,13.0,7.5,8.2,False,,False,"Debutant, trainer 5/14 in 14 days.",True,6,0,17.0,,8.0
-2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17393403538,Liblex Dream,2.33,2.44,41.0,46.0,False,,False,,True,7,0,67.0,,46.0
-2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17393572504,Madethempay,1.66,1.74,51.0,70.0,False,,False,,True,5,0,151.0,,70.0
-2026-11-13,rac_32304295621,2:20,2026-11-13T14:20:00+00:00,Cheltenham,Jumps,False,False,4,hrs_22856064,Jonbon,48.77,50.49,1.91,2.06,False,,False,,False,1,1,1.5,,2.02
+2026-11-13,rac_32304293684,1:45,2026-11-13T13:45:00+00:00,Cheltenham,Jumps,False,False,6,hrs_32196367,Kingston Narcissus,17.42,20.52,5.0,5.7,False,,False,,False,5,0.0,4.33,,5.7
+2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_44199218,Wee Alki,16.83,18.0,5.25,5.9,False,,False,Comment: won last time out and has run over today's trip and going.,False,5,0.0,4.0,,5.9
+2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_58469236,Frisky Whiskey,38.79,33.0,2.25,2.56,False,,False,Comment flags 42-day break and hefty 166lb.,False,2,0.0,2.62,,2.56
+2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_52055598,Last Man d'Arcy,12.27,9.0,7.5,8.0,False,,False,"459 days since last run, poor form /P886, and comment flags 162lb off OR 100.",False,4,0.0,13.0,,8.0
+2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_32780258,Jeteye,25.06,29.0,3.5,3.95,False,,False,"Comment: won last time, three wins in last six, back quickly after 10 days; trainer 4/18.",False,1,1.0,2.88,,3.9
+2026-11-13,rac_32304303369,1:55,2026-11-13T13:55:00+00:00,Sedgefield,Jumps,False,True,5,hrs_35176043,Simiyann,7.05,6.0,13.0,14.0,False,,False,Comment: winless in last four and hard to fancy.,False,3,0.0,17.0,,14.0
+2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17394316163,Francisco Alvares,21.42,23.5,4.0,4.6,False,,False,"Debutant from yard in form, 22/93 in 14 days.",True,4,0.0,11.0,,4.6
+2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17394110692,Helios Forlonge,31.58,28.5,2.815,3.0,False,,False,Returns after 258 days off.,True,1,1.0,1.62,,3.0
+2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17395340389,I'll Start Monday,11.72,10.5,7.5,8.4,False,,False,"Debutant, trainer 0/4 in 14 days.",True,2,0.0,6.0,,8.4
+2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17395341432,Mirage d'Alene,19.41,20.32,4.5,5.0,False,,False,,True,3,0.0,5.0,,5.0
+2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17395342475,The Bardman,11.89,13.0,7.5,8.2,False,,False,"Debutant, trainer 5/14 in 14 days.",True,6,0.0,17.0,,8.0
+2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17393403538,Liblex Dream,2.33,2.44,41.0,46.0,False,,False,,True,7,0.0,67.0,,46.0
+2026-11-13,rac_32304320802,2:05,2026-11-13T14:05:00+00:00,Southwell,Jumps,False,False,7,hrs_17393572504,Madethempay,1.66,1.74,51.0,70.0,False,,False,,True,5,0.0,151.0,,70.0
+2026-11-13,rac_32304295621,2:20,2026-11-13T14:20:00+00:00,Cheltenham,Jumps,False,False,4,hrs_22856064,Jonbon,48.77,50.49,1.91,2.06,False,,False,,False,1,1.0,1.5,,2.02
 2026-11-13,rac_32304295621,2:20,2026-11-13T14:20:00+00:00,Cheltenham,Jumps,False,False,4,hrs_33547731,Gidleigh Park,26.59,24.0,3.5,3.75,False,,False,"Off 217 days with form 2P5, a pulled-up run and a fifth in his last two.",False,,,,,3.75
-2026-11-13,rac_32304295621,2:20,2026-11-13T14:20:00+00:00,Cheltenham,Jumps,False,False,4,hrs_38202976,Mighty Bandit,11.19,11.58,8.5,8.8,False,,False,,False,2,0,4.5,,8.8
-2026-11-13,rac_32304295621,2:20,2026-11-13T14:20:00+00:00,Cheltenham,Jumps,False,False,4,hrs_27464647,Saint Segal,13.45,13.92,6.5,7.8,False,,False,,False,3,0,5.5,,7.8
-2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_52526187,Carthusian,24.08,26.0,3.5,3.95,False,,False,First-time hood and trainer in form at 2/4 in 14 days.,True,2,0,2.38,,3.95
-2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_44232454,Champagne Powder,4.78,4.53,19.0,20.0,False,,False,,True,5,0,21.0,,20.0
-2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_62425188,Close House,19.98,21.0,4.0,5.0,False,,False,Wind surgery noted on the card.,True,3,0,9.0,,5.0
-2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_60090191,Get On Son,1.16,1.1,67.0,110.0,False,,False,,True,PU,0,126.0,,110.0
-2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_58686824,Mac's Max,4.09,3.88,21.0,25.0,False,,False,,True,4,0,29.0,,25.0
-2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_56278222,Military Cross,44.46,42.12,2.0,2.04,False,,False,,True,1,1,2.0,,2.04
-2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_65642563,Who's The Goat,1.45,1.37,51.0,130.0,False,,False,,True,UR,0,34.0,,130.0
-2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_17394675998,Another Vega,0.79,0.83,81.0,210.0,False,,False,,True,5,0,151.0,,210.0
-2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_17395343518,Celestial Flow,2.89,3.04,29.0,42.0,False,,False,,True,PU,0,34.0,,42.0
-2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_50188698,Clondaw Park,44.22,41.0,2.0,2.18,False,,False,Off 290 days.,True,2,0,1.8,,2.18
-2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_60722529,Crystalate,7.99,8.8,11.0,12.5,False,,False,"Two seconds last two runs (4-22), trainer 6/36 in 14 days.",True,3,0,15.0,,12.5
-2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_62645534,It Takes Two,10.14,10.66,8.5,9.8,False,,False,,True,4,0,11.0,,9.8
-2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_59710882,Madam Speaker,33.18,34.87,2.63,2.92,False,,False,,True,1,1,2.62,,2.9
-2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_17394076273,Shadow Love,0.77,0.81,101.0,270.0,False,,False,,True,6,0,151.0,,270.0
-2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_20995254,Ga Law,10.88,11.72,8.0,9.0,False,,False,,False,6,0,6.5,,9.0
-2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_21526708,Mahons Glory,9.73,8.5,9.0,10.0,False,,False,"Off 118 days and carries 165lb, which the comment names as the risk.",False,2,0,8.0,,10.0
-2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_23624825,Outlaw Peter,11.3,10.0,6.5,10.5,False,,False,"Off 212 days and carries 162lb, both named as risks in the comment.",False,PU,0,11.0,,10.5
-2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_21453943,Thunder Rock,25.53,27.5,3.5,3.75,True,BET,False,"Won last time out with three wins in his last five, has run over this trip and going, and is fresh after 29 days.",False,1,1,3.75,,3.75
-2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_12127458,Copperhead,2.92,3.15,29.0,36.0,False,,False,,False,4,0,34.0,,36.0
-2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_22738744,Glengouly,13.99,11.5,6.5,6.8,False,,False,"Sixth and seventh in his last two, and the trainer is 0/14 over 14 days.",False,F,0,6.0,,6.8
-2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_23979872,Triple Trade,22.34,24.07,4.0,4.3,False,,False,,False,3,0,4.0,,4.2
-2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_18572358,Time To Bite,3.31,3.57,26.0,30.0,False,,False,,False,5,0,19.0,,30.0
-2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_45855355,Soldier In Mayo,43.92,41.0,2.1,2.12,False,,False,Comment flags top weight 168lb as the reservation.,False,F,0,2.62,,2.12
-2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_52741367,Alidam,22.14,18.0,4.0,4.5,False,,False,Comment flags 159-day absence plus 165lb.,False,2,0,3.25,,4.5
-2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_33478809,Knacker Trapper,8.59,7.0,10.0,12.0,False,,False,Comment flags 154-day absence after a sixth last time out.,False,1,1,5.5,,12.0
-2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_38131359,Brave Move,19.78,17.0,4.33,5.1,False,,False,Comment: two pulled-up efforts and winless in last five.,False,3,0,5.5,,5.1
-2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_26145763,Mr Globalist,5.57,5.0,15.0,18.5,False,,False,Comment is negative ('that's about it'); form 483656 winless.,False,4,0,17.0,,18.5
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_35336427,Character Testing,18.39,21.0,4.33,5.4,False,,False,"Won last time 10 days ago (form 424421), proven trip/going.",False,6,0,4.5,,5.4
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_46109371,Northwest Passage,26.08,22.5,3.25,3.55,True,SKIP,False,"Winless in last three, trainer 0/7 in 14 days and carries top weight.",False,1,1,4.33,,3.55
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_25122167,Captain Attridge,2.89,2.0,29.0,36.0,False,,False,"Off 553 days, fell last time.",False,5,0,19.0,,36.0
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_47033119,Classical Sting,5.81,4.6,13.0,18.0,False,,False,234-day absence and pulled up last time.,False,7,0,11.0,,18.0
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_37407832,Promethean,19.23,20.73,4.33,4.9,False,,False,,False,2,0,4.0,,4.9
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_30245705,Iolaos du Mou,2.64,2.85,33.0,38.0,False,,False,,False,3,0,34.0,,38.0
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_32264694,Cawthorne Banker,5.78,6.23,13.0,18.5,False,,False,,False,PU,0,21.0,,18.5
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_28891653,Razzo Italiano,2.13,1.7,41.0,55.0,False,,False,"Beaten in four straight, trainer 0/5 in 14 days.",False,PU,0,34.0,,55.0
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_21082873,Billy Bathgate,5.44,5.86,15.0,18.0,False,,False,,False,F,0,19.0,,18.0
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_41052172,Klapton Boy,4.85,5.23,17.0,21.0,False,,False,,False,PU,0,12.0,,21.0
-2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_49907025,Papa Oscar,6.77,7.3,12.0,14.5,False,,False,,False,4,0,7.5,,14.5
-2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_35767613,Dallas Star,10.45,10.43,8.5,9.2,False,,False,,False,4,0,5.5,,9.2
-2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_49577976,Hitintheheadlines,7.73,7.71,11.0,13.0,False,,False,,False,2,0,10.0,,12.5
+2026-11-13,rac_32304295621,2:20,2026-11-13T14:20:00+00:00,Cheltenham,Jumps,False,False,4,hrs_38202976,Mighty Bandit,11.19,11.58,8.5,8.8,False,,False,,False,2,0.0,4.5,,8.8
+2026-11-13,rac_32304295621,2:20,2026-11-13T14:20:00+00:00,Cheltenham,Jumps,False,False,4,hrs_27464647,Saint Segal,13.45,13.92,6.5,7.8,False,,False,,False,3,0.0,5.5,,7.8
+2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_52526187,Carthusian,24.08,26.0,3.5,3.95,False,,False,First-time hood and trainer in form at 2/4 in 14 days.,True,2,0.0,2.38,,3.95
+2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_44232454,Champagne Powder,4.78,4.53,19.0,20.0,False,,False,,True,5,0.0,21.0,,20.0
+2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_62425188,Close House,19.98,21.0,4.0,5.0,False,,False,Wind surgery noted on the card.,True,3,0.0,9.0,,5.0
+2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_60090191,Get On Son,1.16,1.1,67.0,110.0,False,,False,,True,PU,0.0,126.0,,110.0
+2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_58686824,Mac's Max,4.09,3.88,21.0,25.0,False,,False,,True,4,0.0,29.0,,25.0
+2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_56278222,Military Cross,44.46,42.12,2.0,2.04,False,,False,,True,1,1.0,2.0,,2.04
+2026-11-13,rac_32304305306,2:30,2026-11-13T14:30:00+00:00,Sedgefield,Jumps,False,False,7,hrs_65642563,Who's The Goat,1.45,1.37,51.0,130.0,False,,False,,True,UR,0.0,34.0,,130.0
+2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_17394675998,Another Vega,0.79,0.83,81.0,210.0,False,,False,,True,5,0.0,151.0,,210.0
+2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_17395343518,Celestial Flow,2.89,3.04,29.0,42.0,False,,False,,True,PU,0.0,34.0,,42.0
+2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_50188698,Clondaw Park,44.22,41.0,2.0,2.18,False,,False,Off 290 days.,True,2,0.0,1.8,,2.18
+2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_60722529,Crystalate,7.99,8.8,11.0,12.5,False,,False,"Two seconds last two runs (4-22), trainer 6/36 in 14 days.",True,3,0.0,15.0,,12.5
+2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_62645534,It Takes Two,10.14,10.66,8.5,9.8,False,,False,,True,4,0.0,11.0,,9.8
+2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_59710882,Madam Speaker,33.18,34.87,2.63,2.92,False,,False,,True,1,1.0,2.62,,2.9
+2026-11-13,rac_32304322739,2:40,2026-11-13T14:40:00+00:00,Southwell,Jumps,False,False,7,hrs_17394076273,Shadow Love,0.77,0.81,101.0,270.0,False,,False,,True,6,0.0,151.0,,270.0
+2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_20995254,Ga Law,10.88,11.72,8.0,9.0,False,,False,,False,6,0.0,6.5,,9.0
+2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_21526708,Mahons Glory,9.73,8.5,9.0,10.0,False,,False,"Off 118 days and carries 165lb, which the comment names as the risk.",False,2,0.0,8.0,,10.0
+2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_23624825,Outlaw Peter,11.3,10.0,6.5,10.5,False,,False,"Off 212 days and carries 162lb, both named as risks in the comment.",False,PU,0.0,11.0,,10.5
+2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_21453943,Thunder Rock,25.53,27.5,3.5,3.75,True,BET,False,"Won last time out with three wins in his last five, has run over this trip and going, and is fresh after 29 days.",False,1,1.0,3.75,,3.75
+2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_12127458,Copperhead,2.92,3.15,29.0,36.0,False,,False,,False,4,0.0,34.0,,36.0
+2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_22738744,Glengouly,13.99,11.5,6.5,6.8,False,,False,"Sixth and seventh in his last two, and the trainer is 0/14 over 14 days.",False,F,0.0,6.0,,6.8
+2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_23979872,Triple Trade,22.34,24.07,4.0,4.3,False,,False,,False,3,0.0,4.0,,4.2
+2026-11-13,rac_32304297558,2:55,2026-11-13T14:55:00+00:00,Cheltenham,Jumps,False,True,8,hrs_18572358,Time To Bite,3.31,3.57,26.0,30.0,False,,False,,False,5,0.0,19.0,,30.0
+2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_45855355,Soldier In Mayo,43.92,41.0,2.1,2.12,False,,False,Comment flags top weight 168lb as the reservation.,False,F,0.0,2.62,,2.12
+2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_52741367,Alidam,22.14,18.0,4.0,4.5,False,,False,Comment flags 159-day absence plus 165lb.,False,2,0.0,3.25,,4.5
+2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_33478809,Knacker Trapper,8.59,7.0,10.0,12.0,False,,False,Comment flags 154-day absence after a sixth last time out.,False,1,1.0,5.5,,12.0
+2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_38131359,Brave Move,19.78,17.0,4.33,5.1,False,,False,Comment: two pulled-up efforts and winless in last five.,False,3,0.0,5.5,,5.1
+2026-11-13,rac_32304311117,3:05,2026-11-13T15:05:00+00:00,Sedgefield,Jumps,False,True,5,hrs_26145763,Mr Globalist,5.57,5.0,15.0,18.5,False,,False,Comment is negative ('that's about it'); form 483656 winless.,False,4,0.0,17.0,,18.5
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_35336427,Character Testing,18.39,21.0,4.33,5.4,False,,False,"Won last time 10 days ago (form 424421), proven trip/going.",False,6,0.0,4.5,,5.4
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_46109371,Northwest Passage,26.08,22.5,3.25,3.55,True,SKIP,False,"Winless in last three, trainer 0/7 in 14 days and carries top weight.",False,1,1.0,4.33,,3.55
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_25122167,Captain Attridge,2.89,2.0,29.0,36.0,False,,False,"Off 553 days, fell last time.",False,5,0.0,19.0,,36.0
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_47033119,Classical Sting,5.81,4.6,13.0,18.0,False,,False,234-day absence and pulled up last time.,False,7,0.0,11.0,,18.0
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_37407832,Promethean,19.23,20.73,4.33,4.9,False,,False,,False,2,0.0,4.0,,4.9
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_30245705,Iolaos du Mou,2.64,2.85,33.0,38.0,False,,False,,False,3,0.0,34.0,,38.0
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_32264694,Cawthorne Banker,5.78,6.23,13.0,18.5,False,,False,,False,PU,0.0,21.0,,18.5
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_28891653,Razzo Italiano,2.13,1.7,41.0,55.0,False,,False,"Beaten in four straight, trainer 0/5 in 14 days.",False,PU,0.0,34.0,,55.0
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_21082873,Billy Bathgate,5.44,5.86,15.0,18.0,False,,False,,False,F,0.0,19.0,,18.0
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_41052172,Klapton Boy,4.85,5.23,17.0,21.0,False,,False,,False,PU,0.0,12.0,,21.0
+2026-11-13,rac_32304324676,3:15,2026-11-13T15:15:00+00:00,Southwell,Jumps,False,True,11,hrs_49907025,Papa Oscar,6.77,7.3,12.0,14.5,False,,False,,False,4,0.0,7.5,,14.5
+2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_35767613,Dallas Star,10.45,10.43,8.5,9.2,False,,False,,False,4,0.0,5.5,,9.2
+2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_49577976,Hitintheheadlines,7.73,7.71,11.0,13.0,False,,False,,False,2,0.0,10.0,,12.5
 2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_49577997,Lion Rose Sivola,1.71,1.71,41.0,75.0,False,,False,,False,,,,,75.0
-2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_41072703,Lock Stock,13.3,13.27,6.5,7.4,False,,False,,False,1,1,5.0,,7.2
-2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_54304432,Luck Between Us,5.89,5.0,15.0,16.5,False,,False,The trainer is 0/20 over 14 days.,False,7,0,23.0,,16.5
+2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_41072703,Lock Stock,13.3,13.27,6.5,7.4,False,,False,,False,1,1.0,5.0,,7.2
+2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_54304432,Luck Between Us,5.89,5.0,15.0,16.5,False,,False,The trainer is 0/20 over 14 days.,False,7,0.0,23.0,,16.5
 2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_17393782147,Petersham Place,4.42,4.41,17.0,25.0,False,,False,,False,,,,,25.0
-2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_17394065843,Woodstock Octo,13.67,13.64,6.5,7.0,False,,False,,False,5,0,7.0,,7.0
-2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_17393779018,Ferocimo,23.03,22.98,3.75,4.2,True,BET,False,"Unbeaten in two (form 1-1), and the card gives no specific reason to doubt him.",False,3,0,4.33,,4.2
-2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_50188663,Divine Diva,14.94,16.0,5.5,6.8,False,,False,Won last time out for Skelton (22/93 over 14 days) and gets 7lb as a mare (149lb vs 156lb).,False,PU,0,6.0,,6.8
-2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_41190079,Red Acres Georgie,4.85,4.84,17.0,21.0,False,,False,,False,6,0,17.0,,21.0
-2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_50936039,Eremenko,10.9,20.0,8.25,8.8,False,,False,,False,3,0,6.5,,8.8
-2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_30738134,Leave Her To Me,17.18,20.0,5.0,5.8,False,,False,Trainer in strong form at 5/10 in 14 days.,False,1,1,2.2,,5.8
-2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_40942083,Stellarmasterpiece,21.18,19.0,4.33,4.5,False,,False,Comment: only fourth last time and 163lb off OR 94; trainer 0/13.,False,2,0,2.38,,4.5
+2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_17394065843,Woodstock Octo,13.67,13.64,6.5,7.0,False,,False,,False,5,0.0,7.0,,7.0
+2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_17393779018,Ferocimo,23.03,22.98,3.75,4.2,True,BET,False,"Unbeaten in two (form 1-1), and the card gives no specific reason to doubt him.",False,3,0.0,4.33,,4.2
+2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_50188663,Divine Diva,14.94,16.0,5.5,6.8,False,,False,Won last time out for Skelton (22/93 over 14 days) and gets 7lb as a mare (149lb vs 156lb).,False,PU,0.0,6.0,,6.8
+2026-11-13,rac_32304299495,3:30,2026-11-13T15:30:00+00:00,Cheltenham,Jumps,False,False,10,hrs_41190079,Red Acres Georgie,4.85,4.84,17.0,21.0,False,,False,,False,6,0.0,17.0,,21.0
+2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_50936039,Eremenko,10.9,20.0,8.25,8.8,False,,False,,False,3,0.0,6.5,,8.8
+2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_30738134,Leave Her To Me,17.18,20.0,5.0,5.8,False,,False,Trainer in strong form at 5/10 in 14 days.,False,1,1.0,2.2,,5.8
+2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_40942083,Stellarmasterpiece,21.18,19.0,4.33,4.5,False,,False,Comment: only fourth last time and 163lb off OR 94; trainer 0/13.,False,2,0.0,2.38,,4.5
 2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_58535281,Midnight Bella,36.99,30.0,2.38,2.62,False,,False,"Comment flags unseat last time, 160lb, no win in five; trainer 0/15 in 14 days.",False,,,,,2.62
 2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_58535267,Khaleesi Queen,8.77,7.0,9.5,12.0,False,,False,Comment flags 241-day layoff after winless run; trainer 0/13.,False,,,,,12.0
-2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_52641449,Strathcatcha,4.98,4.0,16.0,22.0,False,,False,"Comment: winless in five, pulled up twice in last three, 216 days off.",False,4,0,17.0,,22.0
-2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_34253800,Muskerry Rock,9.58,9.68,9.0,10.5,False,,False,,False,3,0,7.5,,10.5
-2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_42226289,Keep On Cobbling,22.19,19.5,3.875,4.4,False,,False,174-day absence and 167lb.,False,2,0,3.5,,4.4
-2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_32795385,Crafty Gael,24.55,26.5,3.5,4.0,True,BET,False,"In-form (-32112), quick return, proven over trip and going; no card reason to doubt.",False,1,1,5.5,,4.0
-2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_38203088,The Clonmel Kid,15.93,14.5,5.5,6.2,False,,False,"163lb after 48 days off, winless in last six.",False,4,0,4.5,,6.2
-2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_32046462,Luminaries,11.61,13.5,7.5,8.4,False,,False,"Form 721122, two recent seconds, run 10 days ago, proven trip/going.",False,6,0,10.0,,8.4
-2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_51523927,Iamcelestialgift,16.14,16.32,5.5,6.0,False,,False,,False,5,0,4.5,,6.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_40819548,King's Scholar,2.29,2.57,29.0,46.0,False,,False,,False,6,0,26.0,,46.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_52021263,First Ascent,1.01,1.13,67.0,110.0,False,,False,,False,14,0,67.0,,110.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_50875335,Crooked Path,10.89,12.21,7.0,8.4,False,,False,,False,4,0,6.0,,8.4
+2026-11-13,rac_32304313054,3:40,2026-11-13T15:40:00+00:00,Sedgefield,Jumps,False,True,6,hrs_52641449,Strathcatcha,4.98,4.0,16.0,22.0,False,,False,"Comment: winless in five, pulled up twice in last three, 216 days off.",False,4,0.0,17.0,,22.0
+2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_34253800,Muskerry Rock,9.58,9.68,9.0,10.5,False,,False,,False,3,0.0,7.5,,10.5
+2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_42226289,Keep On Cobbling,22.19,19.5,3.875,4.4,False,,False,174-day absence and 167lb.,False,2,0.0,3.5,,4.4
+2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_32795385,Crafty Gael,24.55,26.5,3.5,4.0,True,BET,False,"In-form (-32112), quick return, proven over trip and going; no card reason to doubt.",False,1,1.0,5.5,,4.0
+2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_38203088,The Clonmel Kid,15.93,14.5,5.5,6.2,False,,False,"163lb after 48 days off, winless in last six.",False,4,0.0,4.5,,6.2
+2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_32046462,Luminaries,11.61,13.5,7.5,8.4,False,,False,"Form 721122, two recent seconds, run 10 days ago, proven trip/going.",False,6,0.0,10.0,,8.4
+2026-11-13,rac_32304326613,3:50,2026-11-13T15:50:00+00:00,Southwell,Jumps,False,True,6,hrs_51523927,Iamcelestialgift,16.14,16.32,5.5,6.0,False,,False,,False,5,0.0,4.5,,6.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_40819548,King's Scholar,2.29,2.57,29.0,46.0,False,,False,,False,6,0.0,26.0,,46.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_52021263,First Ascent,1.01,1.13,67.0,110.0,False,,False,,False,14,0.0,67.0,,110.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_50875335,Crooked Path,10.89,12.21,7.0,8.4,False,,False,,False,4,0.0,6.0,,8.4
 2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_17391197593,Sytadel,8.24,9.0,9.0,11.5,False,,False,"Placed in all three runs (232) for Skelton, who is 22/93 over 14 days.",False,,,,,11.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_37192295,Eben Zaabeel,21.59,18.5,3.5,4.3,True,SKIP,False,"The trainer is 0/10 over 14 days, a specific reason to doubt the favourite.",False,13,0,4.33,,4.3
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_44450217,Way of Stars,12.92,11.0,5.5,7.4,False,,False,The trainer is 0/12 over 14 days.,False,3,0,5.5,,7.4
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_51766309,Lexington Wood,7.79,8.73,9.5,12.0,False,,False,,False,1,1,4.5,,12.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_41053768,Mystic Rose,1.71,1.92,41.0,60.0,False,,False,,False,11,0,41.0,,60.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_58099454,Babyken,3.09,2.6,23.0,34.0,False,,False,"Off 249 days, his placings have got worse each run, and he is winless recently.",False,16,0,34.0,,34.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_47531575,Tuppence,11.6,12.5,6.0,8.6,False,,False,Won last time out for a yard in form at 10/46 over 14 days.,False,10,0,7.5,,8.6
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_37192295,Eben Zaabeel,21.59,18.5,3.5,4.3,True,SKIP,False,"The trainer is 0/10 over 14 days, a specific reason to doubt the favourite.",False,13,0.0,4.33,,4.3
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_44450217,Way of Stars,12.92,11.0,5.5,7.4,False,,False,The trainer is 0/12 over 14 days.,False,3,0.0,5.5,,7.4
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_51766309,Lexington Wood,7.79,8.73,9.5,12.0,False,,False,,False,1,1.0,4.5,,12.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_41053768,Mystic Rose,1.71,1.92,41.0,60.0,False,,False,,False,11,0.0,41.0,,60.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_58099454,Babyken,3.09,2.6,23.0,34.0,False,,False,"Off 249 days, his placings have got worse each run, and he is winless recently.",False,16,0.0,34.0,,34.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_47531575,Tuppence,11.6,12.5,6.0,8.6,False,,False,Won last time out for a yard in form at 10/46 over 14 days.,False,10,0.0,7.5,,8.6
 2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_51650095,Shallow Bowles,0.72,0.55,101.0,150.0,False,,False,"Off 276 days, winless in her last four, and the trainer is 0/19 over 14 days.",False,,,,,150.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_59928099,Baymount,1.83,2.05,34.0,65.0,False,,False,,False,9,0,34.0,,65.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_51557975,Final Surprise,2.32,2.6,29.0,46.0,False,,False,,False,7,0,29.0,,46.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_54178467,Likewhatyousee,1.4,1.57,51.0,75.0,False,,False,,False,15,0,29.0,,75.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_17389398418,Whermyrosemarygoes,2.34,2.62,29.0,46.0,False,,False,,False,2,0,21.0,,46.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_36035783,Ocean of Dreams,3.9,3.3,19.0,24.0,False,,False,"Patchy form before his last-time-out win, and the comment calls 152lb off OR 106 a big ask.",False,5,0,17.0,,24.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_37860599,Kilt,1.29,1.45,51.0,90.0,False,,False,,False,8,0,51.0,,90.0
-2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_52677093,Ade Boy,5.08,5.7,13.0,21.0,False,,False,,False,12,0,15.0,,21.0
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_64846859,I Ready,10.01,8.5,8.0,9.2,False,,False,Comment flags 136 lb top weight off OR 84 after 34 days off.,True,3,0,3.75,,9.2
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_62168253,Supreme Lord,19.29,19.1,4.0,4.9,False,,False,,True,4,0,5.0,,4.9
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_66272213,Crayons In The Sky,29.74,32.0,2.75,3.0,False,,False,"Won last time out 16 days ago (form 24241), proven over trip and going.",True,7,0,2.75,,3.0
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_63323295,Matriarchal,3.01,2.4,21.0,42.0,False,,False,Form sliding (7th then unplaced) plus 42 days off.,True,6,0,34.0,,42.0
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17392958177,Normanton,13.7,15.0,6.0,6.6,False,,False,Consistent (form 42) and trainer in form at 2/5 in 14 days.,True,5,0,8.0,,6.6
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17389168958,Palo,1.49,1.48,67.0,65.0,False,,False,,True,11,0,51.0,,65.0
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17393664288,Scolyer,8.09,7.0,10.0,12.5,False,,False,Trainer 0/5 in 14 days and comment calls 131 lb a hefty burden.,True,1,1,10.0,,12.5
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17395391496,Sharpe Ratio,6.89,6.82,12.0,13.5,False,,False,,True,2,0,19.0,,13.5
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17392272926,Sonny Hayes,4.81,4.76,17.0,19.0,False,,False,,True,10,0,19.0,,19.0
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17393665331,Waysong,1.56,1.54,67.0,60.0,False,,False,,True,8,0,101.0,,60.0
-2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17393025972,Cafe Oh Lait,1.41,1.4,51.0,100.0,False,,False,,True,9,0,201.0,,100.0
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_38018421,Sir Les Patterson,14.96,15.95,5.0,6.8,False,,False,,False,4,0,3.75,,6.8
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_32129853,Kerdos,6.97,5.8,11.0,14.5,False,,False,"Ninth last time out, 134 lb, trainer 0/4 in 14 days.",False,10,0,15.0,,14.5
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_30469817,Daamberdiplomat,3.72,3.0,19.0,29.0,False,,False,"392-day absence, fitness a question.",False,8,0,26.0,,29.0
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_55061650,Chicago Pope,12.96,11.5,6.5,7.2,False,,False,Unplaced in last two starts (form -21400).,False,6,0,9.0,,7.2
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_35895608,City House,11.77,12.55,7.5,7.8,False,,False,,False,2,0,8.0,,7.8
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_41876688,Caffu Zafeen,12.69,15.0,6.5,7.4,False,,False,"Four straight wins (form 051111), fit after 9 days, trainer 1/3.",False,3,0,7.5,,7.4
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_57315881,Firewalker,16.1,14.0,5.0,6.0,True,SKIP,False,Card comment says hard to fancy off OR 81 and trainer is 0/3 in 14 days.,False,1,1,4.33,,6.0
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_56843829,All The Girls,9.41,10.03,9.0,9.8,False,,False,,False,5,0,12.0,,9.8
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_37576595,Eddie G,8.32,8.87,10.0,12.0,False,,False,,False,7,0,9.0,,12.0
-2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_51766603,Frescobaldi,3.1,3.3,26.0,32.0,False,,False,,False,9,0,29.0,,32.0
-2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_17393029101,Angel Invincible,4.56,3.8,19.0,19.5,False,,False,Form 090 and top weight 141 lb.,False,4,0,19.0,,19.5
-2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_66494022,Shenata,29.94,30.9,2.88,2.96,False,,False,,False,2,0,1.91,,2.96
-2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_65869559,Closefield Beau,23.11,23.85,3.5,4.0,False,,False,,False,3,0,3.25,,4.0
-2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_17389036497,Green Sparkle,7.79,6.8,11.0,12.5,False,,False,Winless in last four (form 9004) and 43 days off.,False,5,0,13.0,,12.5
-2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_66272227,Rock On Johnny,11.7,12.07,7.5,7.4,False,,False,,False,1,1,8.0,,7.4
-2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_65225090,Scarlet Dream,6.64,5.8,15.0,14.5,False,,False,"Winless in last six, sixth last time out.",False,6,0,17.0,,14.5
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_59928099,Baymount,1.83,2.05,34.0,65.0,False,,False,,False,9,0.0,34.0,,65.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_51557975,Final Surprise,2.32,2.6,29.0,46.0,False,,False,,False,7,0.0,29.0,,46.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_54178467,Likewhatyousee,1.4,1.57,51.0,75.0,False,,False,,False,15,0.0,29.0,,75.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_17389398418,Whermyrosemarygoes,2.34,2.62,29.0,46.0,False,,False,,False,2,0.0,21.0,,46.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_36035783,Ocean of Dreams,3.9,3.3,19.0,24.0,False,,False,"Patchy form before his last-time-out win, and the comment calls 152lb off OR 106 a big ask.",False,5,0.0,17.0,,24.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_37860599,Kilt,1.29,1.45,51.0,90.0,False,,False,,False,8,0.0,51.0,,90.0
+2026-11-13,rac_32304301432,4:00,2026-11-13T16:00:00+00:00,Cheltenham,Jumps,False,True,18,hrs_52677093,Ade Boy,5.08,5.7,13.0,21.0,False,,False,,False,12,0.0,15.0,,21.0
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_64846859,I Ready,10.01,8.5,8.0,9.2,False,,False,Comment flags 136 lb top weight off OR 84 after 34 days off.,True,3,0.0,3.75,,9.2
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_62168253,Supreme Lord,19.29,19.1,4.0,4.9,False,,False,,True,4,0.0,5.0,,4.9
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_66272213,Crayons In The Sky,29.74,32.0,2.75,3.0,False,,False,"Won last time out 16 days ago (form 24241), proven over trip and going.",True,7,0.0,2.75,,3.0
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_63323295,Matriarchal,3.01,2.4,21.0,42.0,False,,False,Form sliding (7th then unplaced) plus 42 days off.,True,6,0.0,34.0,,42.0
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17392958177,Normanton,13.7,15.0,6.0,6.6,False,,False,Consistent (form 42) and trainer in form at 2/5 in 14 days.,True,5,0.0,8.0,,6.6
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17389168958,Palo,1.49,1.48,67.0,65.0,False,,False,,True,11,0.0,51.0,,65.0
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17393664288,Scolyer,8.09,7.0,10.0,12.5,False,,False,Trainer 0/5 in 14 days and comment calls 131 lb a hefty burden.,True,1,1.0,10.0,,12.5
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17395391496,Sharpe Ratio,6.89,6.82,12.0,13.5,False,,False,,True,2,0.0,19.0,,13.5
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17392272926,Sonny Hayes,4.81,4.76,17.0,19.0,False,,False,,True,10,0.0,19.0,,19.0
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17393665331,Waysong,1.56,1.54,67.0,60.0,False,,False,,True,8,0.0,101.0,,60.0
+2026-11-13,rac_32304407967,5:30,2026-11-13T17:30:00+00:00,Dundalk (AW),Flat,True,False,11,hrs_17393025972,Cafe Oh Lait,1.41,1.4,51.0,100.0,False,,False,,True,9,0.0,201.0,,100.0
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_38018421,Sir Les Patterson,14.96,15.95,5.0,6.8,False,,False,,False,4,0.0,3.75,,6.8
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_32129853,Kerdos,6.97,5.8,11.0,14.5,False,,False,"Ninth last time out, 134 lb, trainer 0/4 in 14 days.",False,10,0.0,15.0,,14.5
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_30469817,Daamberdiplomat,3.72,3.0,19.0,29.0,False,,False,"392-day absence, fitness a question.",False,8,0.0,26.0,,29.0
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_55061650,Chicago Pope,12.96,11.5,6.5,7.2,False,,False,Unplaced in last two starts (form -21400).,False,6,0.0,9.0,,7.2
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_35895608,City House,11.77,12.55,7.5,7.8,False,,False,,False,2,0.0,8.0,,7.8
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_41876688,Caffu Zafeen,12.69,15.0,6.5,7.4,False,,False,"Four straight wins (form 051111), fit after 9 days, trainer 1/3.",False,3,0.0,7.5,,7.4
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_57315881,Firewalker,16.1,14.0,5.0,6.0,True,SKIP,False,Card comment says hard to fancy off OR 81 and trainer is 0/3 in 14 days.,False,1,1.0,4.33,,6.0
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_56843829,All The Girls,9.41,10.03,9.0,9.8,False,,False,,False,5,0.0,12.0,,9.8
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_37576595,Eddie G,8.32,8.87,10.0,12.0,False,,False,,False,7,0.0,9.0,,12.0
+2026-11-13,rac_32304409904,6:00,2026-11-13T18:00:00+00:00,Dundalk (AW),Flat,True,True,10,hrs_51766603,Frescobaldi,3.1,3.3,26.0,32.0,False,,False,,False,9,0.0,29.0,,32.0
+2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_17393029101,Angel Invincible,4.56,3.8,19.0,19.5,False,,False,Form 090 and top weight 141 lb.,False,4,0.0,19.0,,19.5
+2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_66494022,Shenata,29.94,30.9,2.88,2.96,False,,False,,False,2,0.0,1.91,,2.96
+2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_65869559,Closefield Beau,23.11,23.85,3.5,4.0,False,,False,,False,3,0.0,3.25,,4.0
+2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_17389036497,Green Sparkle,7.79,6.8,11.0,12.5,False,,False,Winless in last four (form 9004) and 43 days off.,False,5,0.0,13.0,,12.5
+2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_66272227,Rock On Johnny,11.7,12.07,7.5,7.4,False,,False,,False,1,1.0,8.0,,7.4
+2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_65225090,Scarlet Dream,6.64,5.8,15.0,14.5,False,,False,"Winless in last six, sixth last time out.",False,6,0.0,17.0,,14.5
 2026-11-13,rac_32304411841,6:30,2026-11-13T18:30:00+00:00,Dundalk (AW),Flat,True,True,7,hrs_65869573,Mutamarid Lsk,16.26,16.78,5.0,5.7,False,,False,,False,,,,,5.7
 2026-11-13,rac_32304413778,7:00,2026-11-13T19:00:00+00:00,Dundalk (AW),Flat,True,True,15,hrs_27329827,Storm Eric,11.75,12.31,5.5,7.4,False,,False,,False,,,,,7.4
 2026-11-13,rac_32304413778,7:00,2026-11-13T19:00:00+00:00,Dundalk (AW),Flat,True,True,15,hrs_32277210,Expound,5.97,6.26,13.0,13.5,False,,False,,False,,,,,13.5
@@ -785,3 +785,332 @@ day,race_id,off,off_dt,course,code,aw,hcap,runners,horse_id,horse,mkt,rev,median
 2026-11-13,rac_32304419589,8:30,2026-11-13T20:30:00+00:00,Dundalk (AW),Flat,True,True,13,hrs_65974419,Chloe's Boy,11.62,12.86,7.0,7.2,False,,False,,False,,,,,7.2
 2026-11-13,rac_32304419589,8:30,2026-11-13T20:30:00+00:00,Dundalk (AW),Flat,True,True,13,hrs_64847440,Quinchy Lady,0.84,0.93,67.0,150.0,False,,False,,False,,,,,150.0
 2026-11-13,rac_32304419589,8:30,2026-11-13T20:30:00+00:00,Dundalk (AW),Flat,True,True,13,hrs_59461052,Sarfarcat,0.57,0.63,101.0,300.0,False,,False,,False,,,,,300.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17395462420,Attack Or Defend,0.28,0.28,151.0,1000.0,False,,False,,True,,,,,1000.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17394893985,Awayoutback,0.23,0.23,201.0,1000.0,False,,False,,True,,,,,1000.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_52055325,Bonnie Gold,2.32,2.33,26.0,50.0,False,,False,,True,,,,,50.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_59399718,Charismatic Kid,50.57,50.78,1.53,1.68,False,,False,,True,,,,,1.68
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17393181379,Churchroad Harry,0.8,0.8,81.0,160.0,False,,False,,True,,,,,160.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17389779113,Confidence Within,2.12,1.7,29.0,60.0,False,,False,Trainer P. J. Rothwell 0/23 in last 14 days.,True,,,,,60.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_51831395,Crystal Yeats,0.35,0.35,138.5,530.0,False,,False,,True,,,,,530.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_58132620,Jetaway Mountain,0.23,0.23,201.0,1000.0,False,,False,,True,,,,,1000.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17394958651,Luxor Love,4.2,4.22,13.0,32.0,False,,False,,True,,,,,32.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17395459291,Modern Day Hero,0.43,0.43,126.0,300.0,False,,False,,True,,,,,300.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_50874943,Outofafrika,10.13,10.17,6.5,10.0,False,,False,,True,,,,,10.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_34774978,Rough And Tough,0.23,0.23,201.0,1000.0,False,,False,,True,,,,,1000.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_51558178,The Irish Avatar,20.26,20.34,3.25,4.9,False,,False,,True,,,,,4.9
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17394710417,The Stags,0.56,0.56,126.0,180.0,False,,False,,True,,,,,180.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_36428133,War Rooms,0.54,0.54,101.0,250.0,False,,False,,True,,,,,250.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17395461377,Apples Delight,2.53,2.54,26.0,46.0,False,,False,,True,,,,,46.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_57654471,Eamon's Dream,0.36,0.36,201.0,290.0,False,,False,,True,,,,,290.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17392933145,Parisian Dream,0.28,0.28,151.0,1000.0,False,,False,,True,,,,,1000.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_64555029,Spanish Agent,1.06,1.06,51.0,180.0,False,,False,,True,,,,,180.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17395466592,Tidy Town,1.64,1.65,34.0,95.0,False,,False,,True,,,,,95.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_17391685717,Walkwithmyfriend,0.51,0.51,126.0,220.0,False,,False,,True,,,,,220.0
+2026-11-14,rac_32304584234,11:52,2026-11-14T11:52:00+00:00,Navan,Jumps,False,False,22,hrs_51341787,Lady Cosmo,0.38,0.38,201.0,250.0,False,,False,,True,,,,,250.0
+2026-11-14,rac_32304440896,12:07,2026-11-14T12:07:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_40591908,Spartan Times,20.34,21.62,4.33,4.6,True,BET,False,"Twice a winner in last five, placed recently, proven on going; 46-day break only a mild concern.",False,,,,,4.6
+2026-11-14,rac_32304440896,12:07,2026-11-14T12:07:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_49578137,Rumi Rock,4.19,3.6,22.0,24.0,False,,False,"Winless in last five, 96 days off, trainer 0/6.",False,,,,,24.0
+2026-11-14,rac_32304440896,12:07,2026-11-14T12:07:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_44975553,Lunar Orbit,12.43,14.5,7.0,7.8,False,,False,"Second 19 days ago, proven on trip and going, Skelton yard 19/92 in 14 days.",False,,,,,7.8
+2026-11-14,rac_32304440896,12:07,2026-11-14T12:07:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_40959842,Tao Enki,16.42,15.0,5.5,5.7,False,,False,"Winless in last five, 166lb the main risk, trainer 0/4 in 14 days.",False,,,,,5.7
+2026-11-14,rac_32304440896,12:07,2026-11-14T12:07:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_65161621,Zeus Forlonge,12.87,13.68,5.5,9.0,False,,False,,False,,,,,9.0
+2026-11-14,rac_32304440896,12:07,2026-11-14T12:07:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_35336049,Back In The Bay,3.81,4.6,23.0,27.0,False,,False,"Consecutive fourths, 17 days since last run, wind surgery, trainer 10/42.",False,,,,,27.0
+2026-11-14,rac_32304440896,12:07,2026-11-14T12:07:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_29552600,Getaway With You,9.69,10.5,9.0,10.0,False,,False,Second last time out 24 days ago and yard in form at 6/11.,False,,,,,10.0
+2026-11-14,rac_32304440896,12:07,2026-11-14T12:07:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_49973938,Mooserwirt,20.26,16.5,4.33,4.7,False,,False,Returns after 238 days off and trainer 0/16 in last 14 days.,False,,,,,4.7
+2026-11-14,rac_32304446707,12:13,2026-11-14T12:13:00+00:00,Wetherby,Jumps,False,False,3,hrs_50809780,Loriko,67.01,64.64,1.435,1.45,False,,False,,False,,,,,1.45
+2026-11-14,rac_32304446707,12:13,2026-11-14T12:13:00+00:00,Wetherby,Jumps,False,False,3,hrs_43228087,Combs,29.51,32.0,3.225,3.35,False,,False,Tongue tie and blinkers (tb) fitted for the first time,False,,,,,3.35
+2026-11-14,rac_32304446707,12:13,2026-11-14T12:13:00+00:00,Wetherby,Jumps,False,False,3,hrs_47773915,Some Good Men Gone,3.48,3.36,17.0,50.0,False,,False,,False,,,,,50.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_57909649,Detroit Bay,0.59,0.59,101.0,200.0,False,,False,,True,,,,,200.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_17393554773,Iconic Elsa,2.43,2.41,26.0,48.0,False,,False,,True,,,,,48.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_48886278,Jem's Lilly,23.34,23.15,3.25,3.95,False,,False,,True,,,,,3.95
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_58005640,Kurios Lady,0.71,0.7,101.0,160.0,False,,False,,True,,,,,160.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_17394678084,Magika Bella,10.28,10.2,7.0,9.4,False,,False,,True,,,,,9.4
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_17395298669,Maxi Mirage,1.81,1.8,29.0,85.0,False,,False,,True,,,,,85.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_63323533,On The Cobbles,1.28,1.27,51.0,160.0,False,,False,,True,,,,,160.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_59246957,Secret des Lune,2.99,2.97,26.0,38.0,False,,False,,True,,,,,38.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_62326383,She's A Driver,1.11,1.1,67.0,140.0,False,,False,,True,,,,,140.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_50422862,Sorgean,3.05,3.03,26.0,36.0,False,,False,,True,,,,,36.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_17394329722,The Rarest Hour,0.6,0.6,101.0,270.0,False,,False,,True,,,,,270.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_17389381730,The Tenpercentclub,0.78,0.77,67.0,200.0,False,,False,,True,,,,,200.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_51897566,Ti'mamzel,46.68,46.3,1.73,1.85,False,,False,,True,,,,,1.85
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_64590498,Unflappable,3.24,4.0,17.0,46.0,False,,False,"Form 332: placed in all three starts, underrated by market.",True,,,,,46.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_61110924,West Hill Rosie,0.54,0.54,101.0,390.0,False,,False,,True,,,,,390.0
+2026-11-14,rac_32304460266,12:20,2026-11-14T12:20:00+00:00,Windsor,Jumps,False,False,16,hrs_53294493,Private Project,0.59,0.59,101.0,200.0,False,,False,,True,,,,,200.0
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_46416377,Beckistine,14.06,14.93,5.5,6.8,False,,False,,False,,,,,6.8
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_40786732,Magic Day,5.58,5.92,12.0,20.0,False,,False,,False,,,,,20.0
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_28220507,Miners Bridge,17.91,20.5,4.5,5.3,False,,False,"Comment: cracking form, three wins in last three (form 2-4111), proven at trip and going.",False,,,,,4.9
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_38288453,Dairy Force,4.17,3.7,19.0,24.0,False,,False,"Comment: seventh last time out, 163 lb and a 35-day break.",False,,,,,24.0
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_58132907,Macshadow Des Crai,18.78,15.0,5.0,4.5,True,SKIP,False,Card flags no win in last five and a 108-day absence.,False,,,,,4.5
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_50402387,Jacko Star,8.22,8.73,9.0,12.5,False,,False,,False,,,,,12.5
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_51124185,Grandy Lane,4.77,4.0,15.0,23.0,False,,False,"Comment: rough spell, form 86F-P0 (unplaced, pulled up, fell).",False,,,,,23.0
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_29522689,Private Policy,4.67,4.96,17.0,21.0,False,,False,,False,,,,,21.0
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_49974428,Just For One,4.07,3.4,19.0,25.0,False,,False,Comment: seventh and two pulled-up efforts in last five make him hard to fancy.,False,,,,,25.0
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_52054058,Bossy Bird,5.65,6.0,15.0,16.0,False,,False,,False,,,,,16.0
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_40260584,Mother Ship,5.09,5.4,16.0,19.5,False,,False,,False,,,,,19.5
+2026-11-14,rac_32304586171,12:27,2026-11-14T12:27:00+00:00,Navan,Jumps,False,True,12,hrs_33274843,Mount Shenshan,7.03,7.46,11.0,14.0,False,,False,,False,,,,,14.0
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_28720825,Herakles Westwood,11.56,9.0,7.0,8.6,False,,False,"210-day absence after pulling up last time, top weight 168lb",False,,,,,8.6
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_27697243,Transmission,7.74,8.5,10.0,13.5,False,,False,"Trainer in form at 7/28 in 14 days, ran 14 days ago",False,,,,,13.5
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_29621921,Sound And Fury,3.26,2.6,26.0,30.0,False,,False,252-day absence,False,,,,,30.0
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_40352564,Little Ledgend,23.53,25.0,3.5,4.2,True,BET,False,"No negatives on card: good form, in-form yard, first-time tongue strap, proven at trip/going",False,,,,,4.2
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_42847455,Karnaval Point,13.57,12.0,6.5,7.0,False,,False,Trainer 0/10 in last 14 days,False,,,,,6.8
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_34598242,Our Soldier,11.75,13.04,7.5,8.0,False,,False,,False,,,,,8.0
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_29691186,Dinoland,10.02,11.12,8.5,9.6,False,,False,,False,,,,,9.6
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_27697264,Brucejack,4.52,4.0,17.0,24.0,False,,False,Trainer 0/8 in 14d and inconsistent form 517-83,False,,,,,24.0
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_27279091,Awaythelad,2.83,2.3,29.0,38.0,False,,False,Winless in last four with two pulled-up efforts (form /P7P-5),False,,,,,34.0
+2026-11-14,rac_32304421526,12:35,2026-11-14T12:35:00+00:00,Cheltenham,Jumps,False,True,10,hrs_45445246,Ladies Well,11.21,12.44,7.5,8.8,False,,False,,False,,,,,8.8
+2026-11-14,rac_32304433148,12:42,2026-11-14T12:42:00+00:00,Uttoxeter,Jumps,False,False,8,hrs_17390767877,Spanish Darling,73.6,74.23,1.14,1.2,False,,False,,True,,,,,1.2
+2026-11-14,rac_32304433148,12:42,2026-11-14T12:42:00+00:00,Uttoxeter,Jumps,False,False,8,hrs_36387323,Avatar Jet,0.81,0.82,101.0,220.0,False,,False,,True,,,,,220.0
+2026-11-14,rac_32304433148,12:42,2026-11-14T12:42:00+00:00,Uttoxeter,Jumps,False,False,8,hrs_61276621,Carrigane,3.84,3.87,17.0,34.0,False,,False,,True,,,,,34.0
+2026-11-14,rac_32304433148,12:42,2026-11-14T12:42:00+00:00,Uttoxeter,Jumps,False,False,8,hrs_17395280938,Montevallo,5.3,4.5,11.0,27.0,False,,False,Off 266 days and trainer 0/16 in last 14 days.,True,,,,,27.0
+2026-11-14,rac_32304433148,12:42,2026-11-14T12:42:00+00:00,Uttoxeter,Jumps,False,False,8,hrs_17394794900,Ocean View,1.27,1.28,51.0,160.0,False,,False,,True,,,,,160.0
+2026-11-14,rac_32304433148,12:42,2026-11-14T12:42:00+00:00,Uttoxeter,Jumps,False,False,8,hrs_61718272,Port Isaac,5.55,5.6,10.0,26.0,False,,False,,True,,,,,26.0
+2026-11-14,rac_32304433148,12:42,2026-11-14T12:42:00+00:00,Uttoxeter,Jumps,False,False,8,hrs_51491454,Rose Warrior,3.72,3.75,17.0,36.0,False,,False,,True,,,,,36.0
+2026-11-14,rac_32304433148,12:42,2026-11-14T12:42:00+00:00,Uttoxeter,Jumps,False,False,8,hrs_17395300755,Made For Mary,5.9,5.95,10.5,21.0,False,,False,,True,,,,,21.0
+2026-11-14,rac_32304448644,12:48,2026-11-14T12:48:00+00:00,Wetherby,Jumps,False,True,6,hrs_32568396,The Kalooki Kid,33.33,27.0,2.63,2.96,False,,False,"Off for 229 days, last form figures /456P are poor, and he is top weight at 168lb",False,,,,,2.96
+2026-11-14,rac_32304448644,12:48,2026-11-14T12:48:00+00:00,Wetherby,Jumps,False,True,6,hrs_37701496,Shantwopointfive,14.42,16.77,6.5,6.4,False,,False,,False,,,,,6.4
+2026-11-14,rac_32304448644,12:48,2026-11-14T12:48:00+00:00,Wetherby,Jumps,False,True,6,hrs_34623190,Jericoacoara,24.83,28.88,3.5,3.95,False,,False,,False,,,,,3.9
+2026-11-14,rac_32304448644,12:48,2026-11-14T12:48:00+00:00,Wetherby,Jumps,False,True,6,hrs_40553681,Nopresentliketime,7.61,8.85,12.0,13.0,False,,False,,False,,,,,13.0
+2026-11-14,rac_32304448644,12:48,2026-11-14T12:48:00+00:00,Wetherby,Jumps,False,True,6,hrs_51831717,Fine Thing,2.61,3.5,34.0,42.0,False,,True,"Comment: has run over today's trip and going, last ran 15 days ago, and the yard is in form (6/20)",False,,,,,42.0
+2026-11-14,rac_32304448644,12:48,2026-11-14T12:48:00+00:00,Wetherby,Jumps,False,True,6,hrs_61684518,Who's Going,17.2,15.0,5.0,5.9,False,,False,Comment says he is hard to fancy: no win in his last four starts and back after 102 days off,False,,,,,5.9
+2026-11-14,rac_32304462203,12:55,2026-11-14T12:55:00+00:00,Windsor,Jumps,False,True,6,hrs_46450180,Le Tiep's Sacre,22.78,19.0,4.0,4.2,False,,False,"245-day absence, fifth last time and top weight 164lb.",False,,,,,4.2
+2026-11-14,rac_32304462203,12:55,2026-11-14T12:55:00+00:00,Windsor,Jumps,False,True,6,hrs_52055759,Piping Rock,11.7,12.3,7.5,8.4,False,,False,,False,,,,,8.4
+2026-11-14,rac_32304462203,12:55,2026-11-14T12:55:00+00:00,Windsor,Jumps,False,True,6,hrs_38305218,Admiral Stewart,17.02,19.5,5.0,5.9,False,,False,Yard flying at 11/26 in 14 days and second last time out.,False,,,,,5.9
+2026-11-14,rac_32304462203,12:55,2026-11-14T12:55:00+00:00,Windsor,Jumps,False,True,6,hrs_51091054,King Jon Oliver,7.4,6.0,12.0,13.5,False,,False,Pulled up in two of last three and 205 days off.,False,,,,,13.5
+2026-11-14,rac_32304462203,12:55,2026-11-14T12:55:00+00:00,Windsor,Jumps,False,True,6,hrs_46233614,Scavengers Reign,30.03,31.57,3.0,3.15,True,BET,False,"Second 17 days ago, trainer 10/42 in 14 days; no specific reason to doubt.",False,,,,,3.1
+2026-11-14,rac_32304462203,12:55,2026-11-14T12:55:00+00:00,Windsor,Jumps,False,True,6,hrs_47098821,Legal Weapon,11.07,11.64,8.0,9.0,False,,False,,False,,,,,9.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_30672138,Fiveonefive,3.94,3.3,19.0,23.0,False,,False,Comment: two ninth places in last two outings under 166 lb.,False,,,,,23.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_27794046,Path d'Oroux,5.04,5.71,13.0,19.0,False,,False,,False,,,,,19.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_39978281,Sommesky,6.98,5.5,11.0,12.5,False,,False,Comment: fell last time and returns from 318 days off under 162 lb.,False,,,,,12.5
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_52709412,Radiator Springs,17.1,15.0,4.33,5.0,True,SKIP,False,Card names a 55-day absence under 157 lb as the main risk.,False,,,,,5.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_39431672,Arch Empire,6.91,6.0,10.0,14.0,False,,False,Comment: winless run of five (form 7-6899) and 155 lb.,False,,,,,14.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_30096689,Malbay Madness,3.59,4.06,19.0,26.0,False,,False,,False,,,,,26.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_44264507,Blue Train,8.67,9.81,8.0,11.0,False,,False,,False,,,,,11.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_30208157,Duke Of Leggagh,1.61,1.3,51.0,55.0,False,,False,"Comment: run poorly since wins, ninth last time after pulling up.",False,,,,,55.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_17841691,Dont Go Yet,2.63,2.98,29.0,38.0,False,,False,,False,,,,,38.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_49974365,Simply Natural,12.91,14.61,5.5,7.2,False,,False,,False,,,,,7.2
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_29889909,St Denis's Well,5.64,6.38,11.0,18.0,False,,False,,False,,,,,18.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_31274250,This Songisforyou,5.23,5.92,12.0,20.0,False,,False,,False,,,,,20.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_41090987,Solsbury Hill,2.84,2.4,26.0,32.0,False,,False,Comment: winless in five and returns after 98 days off.,False,,,,,32.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_31672949,Catchabird,3.98,3.3,19.0,23.0,False,,False,Comment: fifth last time and returns after a 198-day break.,False,,,,,23.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_57877918,Hesgonethatway,2.85,2.3,23.0,38.0,False,,False,Comment: form going wrong way and yard 0/23 in last 14 days.,False,,,,,38.0
+2026-11-14,rac_32304588108,1:02,2026-11-14T13:02:00+00:00,Navan,Jumps,False,True,16,hrs_34153595,Rightfolksplease,10.09,11.42,7.0,9.0,False,,False,,False,,,,,9.0
+2026-11-14,rac_32304423463,1:10,2026-11-14T13:10:00+00:00,Cheltenham,Jumps,False,False,8,hrs_56338513,Admiral Will Brown,14.57,14.06,6.0,7.0,False,,False,,True,,,,,6.6
+2026-11-14,rac_32304423463,1:10,2026-11-14T13:10:00+00:00,Cheltenham,Jumps,False,False,8,hrs_58347576,Atomic City,36.02,34.75,2.5,2.68,False,,False,,True,,,,,2.68
+2026-11-14,rac_32304423463,1:10,2026-11-14T13:10:00+00:00,Cheltenham,Jumps,False,False,8,hrs_60752720,Charles Darnay,32.11,34.0,2.75,3.1,False,,False,"Won last time 15 days ago, trainer hot at 10/42 in 14 days",True,,,,,3.1
+2026-11-14,rac_32304423463,1:10,2026-11-14T13:10:00+00:00,Cheltenham,Jumps,False,False,8,hrs_64036868,Confused,1.66,1.3,51.0,75.0,False,,False,Trainer 0/14 in 14 days and form 64 without a win,True,,,,,75.0
+2026-11-14,rac_32304423463,1:10,2026-11-14T13:10:00+00:00,Cheltenham,Jumps,False,False,8,hrs_63971166,Don Dandy,5.58,6.2,15.0,18.5,False,,False,"First-time cheekpieces, consistent form 421-2, yard 8/41",True,,,,,18.5
+2026-11-14,rac_32304423463,1:10,2026-11-14T13:10:00+00:00,Cheltenham,Jumps,False,False,8,hrs_54337423,Electrical,1.63,1.57,81.0,50.0,False,,False,,True,,,,,50.0
+2026-11-14,rac_32304423463,1:10,2026-11-14T13:10:00+00:00,Cheltenham,Jumps,False,False,8,hrs_57103410,Magnetude,7.67,7.4,11.0,13.5,False,,False,,True,,,,,13.5
+2026-11-14,rac_32304423463,1:10,2026-11-14T13:10:00+00:00,Cheltenham,Jumps,False,False,8,hrs_57103466,Tiny Riot,0.75,0.72,126.0,160.0,False,,False,,True,,,,,140.0
+2026-11-14,rac_32304435085,1:15,2026-11-14T13:15:00+00:00,Uttoxeter,Jumps,False,False,7,hrs_50433243,Boombox,40.13,40.13,2.2,2.3,False,,False,,False,,,,,2.3
+2026-11-14,rac_32304435085,1:15,2026-11-14T13:15:00+00:00,Uttoxeter,Jumps,False,False,7,hrs_51341570,Britway Belle,1.82,1.82,51.0,65.0,False,,False,,False,,,,,65.0
+2026-11-14,rac_32304435085,1:15,2026-11-14T13:15:00+00:00,Uttoxeter,Jumps,False,False,7,hrs_64968057,Kentford Legacy,5.71,5.71,13.0,19.5,False,,False,,False,,,,,19.5
+2026-11-14,rac_32304435085,1:15,2026-11-14T13:15:00+00:00,Uttoxeter,Jumps,False,False,7,hrs_49577815,Malina Road,29.67,29.67,2.88,3.3,False,,False,,False,,,,,3.3
+2026-11-14,rac_32304435085,1:15,2026-11-14T13:15:00+00:00,Uttoxeter,Jumps,False,False,7,hrs_49974358,Port And Brandy,17.18,17.18,5.0,5.5,False,,False,,False,,,,,5.5
+2026-11-14,rac_32304435085,1:15,2026-11-14T13:15:00+00:00,Uttoxeter,Jumps,False,False,7,hrs_59710819,Crystal Connemara,2.61,2.61,29.0,46.0,False,,False,,False,,,,,46.0
+2026-11-14,rac_32304435085,1:15,2026-11-14T13:15:00+00:00,Uttoxeter,Jumps,False,False,7,hrs_59862516,Millady,2.88,2.88,30.5,36.0,False,,False,,False,,,,,36.0
+2026-11-14,rac_32304450581,1:20,2026-11-14T13:20:00+00:00,Wetherby,Jumps,False,True,4,hrs_52021438,Le Beau Madrik,19.46,19.08,4.5,5.2,False,,False,,False,,,,,5.2
+2026-11-14,rac_32304450581,1:20,2026-11-14T13:20:00+00:00,Wetherby,Jumps,False,True,4,hrs_29622432,Florida Dreams,28.29,32.0,3.25,3.5,False,,False,Won last time out 15 days ago and has run over today's trip and going,False,,,,,3.5
+2026-11-14,rac_32304450581,1:20,2026-11-14T13:20:00+00:00,Wetherby,Jumps,False,True,4,hrs_46602913,Smart Decision,20.71,18.0,4.5,4.7,False,,False,Off for 224 days after back-to-back fifths (form 24755-),False,,,,,4.7
+2026-11-14,rac_32304450581,1:20,2026-11-14T13:20:00+00:00,Wetherby,Jumps,False,True,4,hrs_40647082,Spadestep,31.54,30.92,3.0,3.05,False,,False,,False,,,,,3.05
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_34652590,Thank You Ma'am,6.65,7.95,10.0,16.5,False,,False,,False,,,,,16.5
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_52495625,Kildinan Prince,18.0,15.0,4.33,5.2,False,,False,237-day absence and 164lb could blunt him.,False,,,,,5.2
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_35137067,Reallyntruthfully,8.19,7.0,10.0,11.0,False,,False,"Patchy record: disqualified last time, pulled up three back, 164lb.",False,,,,,11.0
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_34598200,Mount Anglesby,7.0,8.37,11.0,14.5,False,,False,,False,,,,,14.5
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_47869024,Doctor On Call,18.92,14.0,4.5,4.7,True,SKIP,False,269 days off and 163lb; comment calls him hard to fancy.,False,,,,,4.6
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_32668503,Tzarmix,6.43,7.69,12.0,15.0,False,,False,,False,,,,,15.0
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_38231361,Lucky Bere,5.1,6.1,15.0,19.0,False,,False,,False,,,,,19.0
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_39959381,Libre de Choeur,5.7,6.81,15.0,16.0,False,,False,,False,,,,,16.0
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_22625414,Bold Endeavour,1.83,2.19,36.0,70.0,False,,False,,False,,,,,70.0
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_31965437,Surrey Lord,8.65,10.34,9.0,11.0,False,,False,,False,,,,,11.0
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_32709600,Inoui Machin,3.07,2.3,23.0,38.0,False,,False,730-day absence.,False,,,,,38.0
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_24555482,Our Dylan,1.78,2.13,34.0,90.0,False,,False,,False,,,,,90.0
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_55177724,Crack Ops,6.47,7.5,12.0,15.0,False,,False,Never worse than third in last five and lightly weighted at 150lb off 108.,False,,,,,15.0
+2026-11-14,rac_32304464140,1:25,2026-11-14T13:25:00+00:00,Windsor,Jumps,False,True,14,hrs_31698016,Corsican Caper,2.2,2.63,29.0,65.0,False,,False,,False,,,,,65.0
+2026-11-14,rac_32304590045,1:35,2026-11-14T13:35:00+00:00,Navan,Jumps,False,False,8,hrs_58962911,City Of Cork,25.19,24.79,3.5,3.8,True,BET,False,"Won last time out (form 734-1), 23 days since run; no specific negative on card.",False,,,,,3.8
+2026-11-14,rac_32304590045,1:35,2026-11-14T13:35:00+00:00,Navan,Jumps,False,False,8,hrs_63171353,Fiveandahalf,10.07,11.5,8.0,10.5,False,,False,"Form 4-11, won last two; trainer 6/38 in 14 days.",False,,,,,10.5
+2026-11-14,rac_32304590045,1:35,2026-11-14T13:35:00+00:00,Navan,Jumps,False,False,8,hrs_46233719,Game Point,6.39,6.29,13.0,16.5,False,,False,,False,,,,,16.5
+2026-11-14,rac_32304590045,1:35,2026-11-14T13:35:00+00:00,Navan,Jumps,False,False,8,hrs_52297896,It's Only A Game,11.42,11.24,8.0,8.6,False,,False,,False,,,,,7.8
+2026-11-14,rac_32304590045,1:35,2026-11-14T13:35:00+00:00,Navan,Jumps,False,False,8,hrs_51373623,Joe Cool,3.67,3.61,23.0,29.0,False,,False,,False,,,,,29.0
+2026-11-14,rac_32304590045,1:35,2026-11-14T13:35:00+00:00,Navan,Jumps,False,False,8,hrs_39996621,State Pension,11.67,11.48,7.5,8.2,False,,False,,False,,,,,8.2
+2026-11-14,rac_32304590045,1:35,2026-11-14T13:35:00+00:00,Navan,Jumps,False,False,8,hrs_57878170,The Captain's Word,6.74,6.63,12.0,15.5,False,,False,,False,,,,,15.5
+2026-11-14,rac_32304590045,1:35,2026-11-14T13:35:00+00:00,Navan,Jumps,False,False,8,hrs_58963009,Thinkitdontjinxit,24.86,24.46,3.5,3.9,False,,False,,False,,,,,3.9
+2026-11-14,rac_32304425400,1:45,2026-11-14T13:45:00+00:00,Cheltenham,Jumps,False,False,5,hrs_41052543,Newtown Rambler,6.99,16.0,13.0,14.5,False,,False,,False,,,,,14.5
+2026-11-14,rac_32304425400,1:45,2026-11-14T13:45:00+00:00,Cheltenham,Jumps,False,False,5,hrs_41190051,Passing Diamond,12.88,11.0,7.0,7.8,False,,False,Lowest rated at OR 128 vs 137-148 rivals at level weights,False,,,,,7.8
+2026-11-14,rac_32304425400,1:45,2026-11-14T13:45:00+00:00,Cheltenham,Jumps,False,False,5,hrs_40225297,Putapoundinthejar,18.33,16.5,5.0,5.4,False,,False,Trainer 0/11 in last 14 days,False,,,,,5.4
+2026-11-14,rac_32304425400,1:45,2026-11-14T13:45:00+00:00,Cheltenham,Jumps,False,False,5,hrs_33859721,Workahead,43.73,40.0,2.1,2.26,False,,False,159 days since last run,False,,,,,2.26
+2026-11-14,rac_32304425400,1:45,2026-11-14T13:45:00+00:00,Cheltenham,Jumps,False,False,5,hrs_51491909,Folie Golith,18.07,16.5,5.0,5.6,False,,False,Trainer 0/14 in last 14 days,False,,,,,5.6
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_51831899,Stone Cold,6.68,5.5,12.0,14.5,False,,False,251-day absence and eighth last time out.,False,,,,,14.5
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_58534791,Pink 'n Purple,5.58,6.5,13.0,19.0,False,,False,"Consistent placings, 27 days since last run, proven trip and going, trainer 3/11.",False,,,,,19.0
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_53181632,Both of Us,4.87,7.03,15.0,22.0,False,,False,,False,,,,,22.0
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_64360870,Savanna Storm,12.96,18.71,6.5,7.0,False,,False,,False,,,,,7.0
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_36837360,Arcon,23.71,18.0,3.25,4.1,True,SKIP,False,"Card calls him hard to fancy: winless in five with only one podium, sixth last time out.",False,,,,,4.1
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_51124885,Josh Central,12.03,9.5,7.0,7.6,False,,False,"Poor recent form (6th, 7th, 7th) and 229 days off raises fitness doubts.",False,,,,,7.6
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_59491796,Prince Phil,3.74,5.4,19.0,29.0,False,,False,,False,,,,,29.0
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_44786000,Famous Shoes,3.05,2.5,23.0,36.0,False,,False,"Pulled up last time, fall and unseat in recent form; 152lb a big ask.",False,,,,,36.0
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_45661714,Chambers,17.42,14.5,4.33,5.6,False,,False,"Winless in last three (7th last time), trainer 0/14, 152lb off 80 a stiff ask.",False,,,,,5.6
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_64621466,Moi Mon Vieux,4.33,6.25,15.0,27.0,False,,False,,False,,,,,27.0
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_57470021,Lady Blackmore,3.36,2.8,23.0,30.0,False,,False,Pulled up last time out and winless in last five; trainer 0/4.,False,,,,,30.0
+2026-11-14,rac_32304437022,1:50,2026-11-14T13:50:00+00:00,Uttoxeter,Jumps,False,True,12,hrs_49974505,Bargain Hunter,2.29,3.31,34.0,46.0,False,,False,,False,,,,,46.0
+2026-11-14,rac_32304452518,1:55,2026-11-14T13:55:00+00:00,Wetherby,Jumps,False,False,4,hrs_58900352,Static Charm,19.56,17.0,4.5,5.2,False,,False,"Off for 210 days, last run was a 0, and the trainer is 0/14 in the last 14 days",True,,,,,5.2
+2026-11-14,rac_32304452518,1:55,2026-11-14T13:55:00+00:00,Wetherby,Jumps,False,False,4,hrs_17393787362,Velvet Outlaw,60.25,63.75,1.5550000000000002,1.56,False,,False,,True,,,,,1.55
+2026-11-14,rac_32304452518,1:55,2026-11-14T13:55:00+00:00,Wetherby,Jumps,False,False,4,hrs_26408648,Yashin,12.88,11.5,6.0,8.8,False,,False,"No form to go on, off for 110 days, and the trainer is 0/5 in the last 14 days",True,,,,,8.8
+2026-11-14,rac_32304452518,1:55,2026-11-14T13:55:00+00:00,Wetherby,Jumps,False,False,4,hrs_47191424,Recobella,7.32,7.75,13.0,13.0,False,,False,,True,,,,,13.0
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_33302654,Mavis Pike,7.91,9.0,10.0,12.5,False,,False,"Second and third last two, 19 days since run, trainer 6/36.",False,,,,,12.5
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_50936032,Independent Lady,30.81,32.55,2.63,2.96,False,,False,,False,,,,,2.96
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_40786403,Shanagolden Girl,9.67,10.22,8.5,9.4,False,,False,,False,,,,,9.4
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_45445372,Morissette,5.95,5.0,11.0,20.0,False,,False,"Sixth in last two outings, trainer 0/1.",False,,,,,20.0
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_46265548,Sophie Power,5.58,4.5,15.0,17.0,False,,False,217-day absence after pulled up and sixth.,False,,,,,17.0
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_47475190,Border Gem,6.78,7.16,12.0,14.0,False,,False,,False,,,,,14.0
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_63357364,Georgie's Lady,1.21,1.28,41.0,170.0,False,,False,,False,,,,,170.0
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_34665659,Mrs Biddle,3.67,3.88,23.0,27.0,False,,False,,False,,,,,27.0
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_40186384,Mistress Fox,6.01,5.3,13.0,17.0,False,,False,Seventh last time and returns from 157-day break.,False,,,,,17.0
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_30865751,Eliza Dolittle,7.53,7.96,9.5,14.0,False,,False,,False,,,,,14.0
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_37275357,Barafundle Bay,12.36,10.5,6.0,8.0,False,,False,Win last time followed run of unplaced efforts; comment says hard to fancy.,False,,,,,8.0
+2026-11-14,rac_32304466077,2:00,2026-11-14T14:00:00+00:00,Windsor,Jumps,False,True,12,hrs_49578200,Dalcassian Girl,2.51,2.65,27.5,55.0,False,,False,,False,,,,,55.0
+2026-11-14,rac_32304591982,2:07,2026-11-14T14:07:00+00:00,Navan,Jumps,False,False,8,hrs_18645662,Home By The Lee,7.53,8.04,11.0,14.0,False,,False,,False,,,,,14.0
+2026-11-14,rac_32304591982,2:07,2026-11-14T14:07:00+00:00,Navan,Jumps,False,False,8,hrs_45792089,I'll Sort That,19.28,20.5,4.5,5.0,False,,False,"Comment: won four of last five, proven at trip and going.",False,,,,,5.0
+2026-11-14,rac_32304591982,2:07,2026-11-14T14:07:00+00:00,Navan,Jumps,False,False,8,hrs_30016385,Slade Steel,19.28,20.57,4.5,5.0,False,,False,,False,,,,,5.0
+2026-11-14,rac_32304591982,2:07,2026-11-14T14:07:00+00:00,Navan,Jumps,False,False,8,hrs_33465306,Staffordshire Knot,2.38,2.0,34.0,55.0,False,,False,"Comment: sixth last time, pulled up before, back after 194 days.",False,,,,,55.0
+2026-11-14,rac_32304591982,2:07,2026-11-14T14:07:00+00:00,Navan,Jumps,False,False,8,hrs_37110731,Casheldale Lad,15.03,16.04,6.0,6.4,False,,False,,False,,,,,6.4
+2026-11-14,rac_32304591982,2:07,2026-11-14T14:07:00+00:00,Navan,Jumps,False,False,8,hrs_16762270,Dawn Rising,3.64,3.0,23.0,29.0,False,,False,"Comment: tailed off, sixth last time and pulled up before.",False,,,,,29.0
+2026-11-14,rac_32304591982,2:07,2026-11-14T14:07:00+00:00,Navan,Jumps,False,False,8,hrs_34153560,The Yellow Clay,23.15,19.5,3.75,4.2,True,SKIP,False,Card flags 222-day layoff plus a fifth and a fall in last two runs.,False,,,,,4.2
+2026-11-14,rac_32304591982,2:07,2026-11-14T14:07:00+00:00,Navan,Jumps,False,False,8,hrs_33975284,Feet Of A Dancer,9.7,10.35,9.0,10.5,False,,False,,False,,,,,10.5
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_28824495,Matata,4.79,3.8,17.0,20.0,False,,False,"Fell last time, pulled up before, 210 days off, top weight",False,,,,,20.0
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_40494041,Meetmebythesea,22.92,19.0,3.5,4.3,True,SKIP,False,Card flags 247-day absence and 164lb as hurdles to overcome,False,,,,,4.3
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_29785756,Blueking d'Oroux,14.43,13.5,5.5,6.8,False,,False,"219-day absence, partly offset by yard 19/92",False,,,,,6.8
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_27358730,Riskintheground,3.16,4.39,21.0,38.0,False,,False,,False,,,,,34.0
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_34990970,July Flower,13.2,11.5,6.5,7.0,False,,False,200 days off and only fifth and fourth since her wins,False,,,,,7.0
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_34457262,Quebecois,11.08,15.41,7.0,9.0,False,,False,,False,,,,,9.0
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_27153350,O'Moore Park,5.51,6.0,13.0,19.5,False,,False,"Won last time out, 21 days ago, proven at trip/going",False,,,,,19.5
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_21378623,Guard Your Dreams,0.86,0.8,81.0,140.0,False,,False,Pulled up last time out,False,,,,,110.0
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_47655517,Zurich,9.06,10.0,9.0,11.0,False,,False,First-time tongue strap,False,,,,,11.0
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_37687412,Release The Beast,8.22,7.0,10.0,11.5,False,,False,Unseated last time and 198 days off,False,,,,,11.5
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_35123795,Torneo,5.24,6.8,15.0,19.0,False,,True,Back-to-back wins and yard hot at 11/26 in 14 days,False,,,,,19.0
+2026-11-14,rac_32303241893,2:20,2026-11-14T14:20:00+00:00,Cheltenham,Jumps,False,True,12,hrs_49359051,Dunkerque,1.52,1.8,41.0,85.0,False,,False,"Three wins in last six, consistent form 112123",False,,,,,85.0
+2026-11-14,rac_32304438959,2:25,2026-11-14T14:25:00+00:00,Uttoxeter,Jumps,False,True,4,hrs_40553835,Lau And Shaz,22.1,19.5,3.75,4.8,False,,False,219-day absence with top weight 161lb.,False,,,,,4.8
+2026-11-14,rac_32304438959,2:25,2026-11-14T14:25:00+00:00,Uttoxeter,Jumps,False,True,4,hrs_46914119,Lady Tadita,21.56,25.0,4.0,4.7,False,,False,"Trainer in cracking form at 11/26 in 14 days, ran 29 days ago.",False,,,,,4.7
+2026-11-14,rac_32304438959,2:25,2026-11-14T14:25:00+00:00,Uttoxeter,Jumps,False,True,4,hrs_34456513,Irish Chorus,26.51,30.0,3.5,3.6,False,,False,,False,,,,,3.6
+2026-11-14,rac_32304438959,2:25,2026-11-14T14:25:00+00:00,Uttoxeter,Jumps,False,True,4,hrs_39959591,Pismo Beach,29.84,25.5,3.0,3.25,False,,False,238-day absence and pulled up two starts back.,False,,,,,3.25
+2026-11-14,rac_32304454455,2:30,2026-11-14T14:30:00+00:00,Wetherby,Jumps,False,True,5,hrs_17756781,Tommy's Oscar,24.86,27.23,3.25,4.3,False,,False,,False,,,,,4.3
+2026-11-14,rac_32304454455,2:30,2026-11-14T14:30:00+00:00,Wetherby,Jumps,False,True,5,hrs_37790417,The Bluesman,33.17,29.0,2.75,2.9,False,,False,Off for 213 days and pulled up last time out,False,,,,,2.9
+2026-11-14,rac_32304454455,2:30,2026-11-14T14:30:00+00:00,Wetherby,Jumps,False,True,5,hrs_18715319,Gunsight Ridge,2.45,2.68,41.0,42.0,False,,False,,False,,,,,42.0
+2026-11-14,rac_32304454455,2:30,2026-11-14T14:30:00+00:00,Wetherby,Jumps,False,True,5,hrs_31479336,Palamon,31.13,34.09,3.0,3.1,False,,False,,False,,,,,3.1
+2026-11-14,rac_32304454455,2:30,2026-11-14T14:30:00+00:00,Wetherby,Jumps,False,True,5,hrs_20049841,Geryville,8.38,7.0,11.0,12.0,False,,False,"Comment: on the slide, 8th last time out; the trainer is 0/14 in the last 14 days",False,,,,,12.0
+2026-11-14,rac_32304468014,2:35,2026-11-14T14:35:00+00:00,Windsor,Jumps,False,True,8,hrs_38002454,King Califet,39.71,35.0,2.2,2.34,False,,False,239-day absence leaves fitness open under top weight 168lb.,False,,,,,2.34
+2026-11-14,rac_32304468014,2:35,2026-11-14T14:35:00+00:00,Windsor,Jumps,False,True,8,hrs_35430682,Dangerous Touch,9.27,10.37,8.5,11.5,False,,False,,False,,,,,11.5
+2026-11-14,rac_32304468014,2:35,2026-11-14T14:35:00+00:00,Windsor,Jumps,False,True,8,hrs_32568613,Joe Cotton,8.04,6.5,9.5,13.5,False,,False,Pulled up last time and returns after 273 days.,False,,,,,13.5
+2026-11-14,rac_32304468014,2:35,2026-11-14T14:35:00+00:00,Windsor,Jumps,False,True,8,hrs_29522682,Jet Smart,10.14,11.35,8.0,10.0,False,,False,,False,,,,,10.0
+2026-11-14,rac_32304468014,2:35,2026-11-14T14:35:00+00:00,Windsor,Jumps,False,True,8,hrs_37933672,Loki's Mischief,9.36,10.5,9.0,10.5,False,,False,Two wins in last five and race-fit after 16 days.,False,,,,,10.5
+2026-11-14,rac_32304468014,2:35,2026-11-14T14:35:00+00:00,Windsor,Jumps,False,True,8,hrs_41052277,Diligent Militia,2.48,2.78,29.0,48.0,False,,False,,False,,,,,48.0
+2026-11-14,rac_32304468014,2:35,2026-11-14T14:35:00+00:00,Windsor,Jumps,False,True,8,hrs_40805576,Doctor Midas,10.93,12.23,8.0,8.6,False,,False,,False,,,,,8.6
+2026-11-14,rac_32304468014,2:35,2026-11-14T14:35:00+00:00,Windsor,Jumps,False,True,8,hrs_50187809,Le Galli Bier,10.07,11.27,8.5,9.8,False,,False,,False,,,,,9.8
+2026-11-14,rac_32304593919,2:43,2026-11-14T14:43:00+00:00,Navan,Jumps,False,False,7,hrs_34932142,Majborough,36.58,37.3,2.5,2.62,False,,False,,False,,,,,2.62
+2026-11-14,rac_32304593919,2:43,2026-11-14T14:43:00+00:00,Navan,Jumps,False,False,7,hrs_29747795,Solness,15.7,14.5,5.5,6.4,False,,False,Comment: unplaced last time and 45 days off.,False,,,,,6.4
+2026-11-14,rac_32304593919,2:43,2026-11-14T14:43:00+00:00,Navan,Jumps,False,False,7,hrs_27794151,Found A Fifty,15.6,15.91,5.5,6.4,False,,False,,False,,,,,6.4
+2026-11-14,rac_32304593919,2:43,2026-11-14T14:43:00+00:00,Navan,Jumps,False,False,7,hrs_29690759,Blood Destiny,10.6,10.81,8.5,9.2,False,,False,,False,,,,,9.2
+2026-11-14,rac_32304593919,2:43,2026-11-14T14:43:00+00:00,Navan,Jumps,False,False,7,hrs_34557796,Touch Me Not,3.0,2.6,29.0,38.0,False,,False,"Comment: unplaced last two, 200 days off, 158 lb.",False,,,,,38.0
+2026-11-14,rac_32304593919,2:43,2026-11-14T14:43:00+00:00,Navan,Jumps,False,False,7,hrs_29906884,Only By Night,17.74,18.09,5.0,5.5,False,,False,,False,,,,,5.5
+2026-11-14,rac_32304593919,2:43,2026-11-14T14:43:00+00:00,Navan,Jumps,False,False,7,hrs_49110390,Lady Doyanne,0.78,0.8,101.0,200.0,False,,False,,False,,,,,200.0
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_37207975,Sir Galahad,6.31,5.5,12.0,16.5,False,,False,Unplaced last time and 105 days off,False,,,,,16.5
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_24769563,Rambo T,10.67,9.0,8.2,8.6,False,,False,Poor form 000-65,False,,,,,8.6
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_32751355,Horaces Pearl,17.71,14.5,4.33,5.7,False,,False,357-day absence under 163lb,False,,,,,5.7
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_29523193,Lucky Lyreen,2.44,9.8,34.0,46.0,False,,False,,False,,,,,46.0
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_29509879,Blizzard of Oz,1.42,1.1,51.0,80.0,False,,False,Unplaced last two and trainer 0/14 in 14 days,False,,,,,80.0
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_28824432,Ifiwerearichman,13.88,12.5,6.0,6.8,False,,False,"Winless in last five, sixth last time",False,,,,,6.8
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_23715685,Margaret's Legacy,2.93,2.3,29.0,34.0,False,,False,Two unplaced runs and 198 days off,False,,,,,34.0
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_27237539,Hartur d'Arc,1.52,1.1,41.0,85.0,False,,False,"Pulled up in three of last five, 222 days off",False,,,,,85.0
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_24687572,Black Bamboo,4.71,5.2,17.0,21.0,False,,False,"Second last time out, clear step up, fresh after 13 days",False,,,,,21.0
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_29801800,Aimeric,11.73,12.5,7.0,8.2,False,,False,Won last two starts (form -44211),False,,,,,8.2
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_52329242,Moon Mission,6.87,5.0,12.0,14.0,False,,False,"Out again after one day, yard 0/23 in 14 days",False,,,,,14.0
+2026-11-14,rac_32304427337,2:55,2026-11-14T14:55:00+00:00,Cheltenham,Jumps,False,True,12,hrs_52495289,William Yeats,19.8,21.5,4.33,4.7,True,BET,False,"Strong recent form, quick return, hot yard; no negatives on card",False,,,,,4.6
+2026-11-14,rac_32304442833,3:00,2026-11-14T15:00:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_40095902,Warriors Destiny,8.01,7.0,11.0,12.0,False,,False,"Unplaced last time out and 245 days off, fitness a question.",False,,,,,12.0
+2026-11-14,rac_32304442833,3:00,2026-11-14T15:00:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_40352578,Orderoftheday,18.68,20.5,4.5,5.2,False,,False,"Win two starts back, proven trip and going, trainer 8/41 in 14 days.",False,,,,,5.2
+2026-11-14,rac_32304442833,3:00,2026-11-14T15:00:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_39040330,Stone's Throw,9.79,8.5,9.0,9.6,False,,False,"246-day absence, fourth last time out, trainer 0/7.",False,,,,,9.4
+2026-11-14,rac_32304442833,3:00,2026-11-14T15:00:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_45630025,Kahavari,8.3,7.5,9.0,13.5,False,,False,"Sixth last time out, 165lb stiff, trainer 0/16.",False,,,,,13.5
+2026-11-14,rac_32304442833,3:00,2026-11-14T15:00:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_34361467,Shy Love,3.8,2.8,23.0,27.0,False,,False,702-day absence and 160lb a big ask.,False,,,,,27.0
+2026-11-14,rac_32304442833,3:00,2026-11-14T15:00:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_40766698,Kalhandrion,10.68,11.16,7.5,9.6,False,,False,,False,,,,,9.6
+2026-11-14,rac_32304442833,3:00,2026-11-14T15:00:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_36970423,Torrent,19.26,20.12,4.34,5.0,False,,False,,False,,,,,5.0
+2026-11-14,rac_32304442833,3:00,2026-11-14T15:00:00+00:00,Uttoxeter,Jumps,False,True,8,hrs_62393849,Seven Kites,21.47,22.43,4.0,4.4,True,BET,False,"Running well (second last time, winner four back), 15 days since last run, proven trip and going, trainer 4/12.",False,,,,,4.4
+2026-11-14,rac_32304456392,3:05,2026-11-14T15:05:00+00:00,Wetherby,Jumps,False,True,4,hrs_38017595,Filibustering,29.72,33.0,3.0,3.3,False,,False,"Won three of his last five starts, including last time out 14 days ago",False,,,,,3.3
+2026-11-14,rac_32304456392,3:05,2026-11-14T15:05:00+00:00,Wetherby,Jumps,False,True,4,hrs_46892244,Centurion's Sister,44.37,42.3,2.1,2.14,False,,False,,False,,,,,2.14
+2026-11-14,rac_32304456392,3:05,2026-11-14T15:05:00+00:00,Wetherby,Jumps,False,True,4,hrs_52526194,Down To Business,9.87,9.41,9.0,10.5,False,,False,,False,,,,,10.5
+2026-11-14,rac_32304456392,3:05,2026-11-14T15:05:00+00:00,Wetherby,Jumps,False,True,4,hrs_32197235,Roarin' Success,16.04,15.29,5.5,6.2,False,,False,,False,,,,,6.2
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_46547179,Watamu,12.68,14.5,7.0,7.6,False,,False,"Won last two starts, three wins in last five, form at trip and going.",False,,,,,7.6
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_34401871,Secret Squirrel,21.66,22.78,4.0,4.4,False,,False,,False,,,,,4.4
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_58033402,Misterdoc,8.74,9.19,9.5,11.5,False,,False,,False,,,,,11.5
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_29785504,Fasol,6.5,6.84,12.0,16.0,False,,False,,False,,,,,16.0
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_47685022,Kapitein Kool,8.27,8.7,10.0,12.0,False,,False,,False,,,,,12.0
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_43892450,Anniversary,7.37,7.75,11.0,14.0,False,,False,,False,,,,,14.0
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_34860175,Into The Park,1.58,1.3,66.0,65.0,False,,False,Pulled up last time out.,False,,,,,55.0
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_60089806,Tunisya,1.07,1.13,51.0,200.0,False,,False,,False,,,,,200.0
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_49821576,Zarakerjack,24.7,20.0,3.5,3.85,True,SKIP,False,Pulled up two back and 9-day turnaround raise doubts per comment.,False,,,,,3.85
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_46913545,Moves Like Mason,6.3,6.63,13.0,16.0,False,,False,,False,,,,,16.0
+2026-11-14,rac_32304469951,3:10,2026-11-14T15:10:00+00:00,Windsor,Jumps,False,True,11,hrs_29855175,Demoiselle Kap,1.13,1.19,81.0,100.0,False,,False,,False,,,,,100.0
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_35054712,Bleu De Vassy,11.35,9.5,7.0,8.8,False,,False,Comment: 650-day absence with a sixth last time out.,False,,,,,8.8
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_40096035,Champagne Jury,1.3,1.6,41.0,150.0,False,,False,,False,,,,,150.0
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_51124325,Jet To Monte Carlo,1.82,2.24,34.0,70.0,False,,False,,False,,,,,70.0
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_52236639,Largy Star,5.81,7.14,13.0,17.5,False,,False,,False,,,,,17.5
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_52055465,Mighty Park,41.64,37.0,2.0,2.22,False,,False,"Comment: ninth last time and returns after 249 days, fitness doubts.",False,,,,,2.22
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_48886271,Powerful,3.66,4.5,21.0,28.0,False,,False,,False,,,,,28.0
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_41052872,Royal Soldier,0.44,0.54,151.0,260.0,False,,False,,False,,,,,260.0
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_45314584,Saint Baco,24.24,25.5,3.5,3.7,False,,False,"Comment: proven at trip and going, yard 8/28 in last 14 days.",False,,,,,3.7
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_39826892,Time Is A Thief,1.37,1.7,41.0,110.0,False,,False,"Comment: solid recent form (F1-23), 41 days since run, proven at trip.",False,,,,,110.0
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_29523263,Wingmen,8.03,9.86,9.0,13.0,False,,False,,False,,,,,13.0
+2026-11-14,rac_32304595856,3:18,2026-11-14T15:18:00+00:00,Navan,Jumps,False,False,11,hrs_37068143,Workinonadream,0.35,0.43,151.0,520.0,False,,False,,False,,,,,520.0
+2026-11-14,rac_32304429274,3:30,2026-11-14T15:30:00+00:00,Cheltenham,Jumps,False,True,9,hrs_52709111,Daylatedollarshort,25.09,26.5,3.5,3.85,True,BET,False,"Won last time, consistent form, proven at trip/going, in-form yard",False,,,,,3.85
+2026-11-14,rac_32304429274,3:30,2026-11-14T15:30:00+00:00,Cheltenham,Jumps,False,True,9,hrs_38532256,Open Secret,3.4,2.9,26.0,30.0,False,,False,Two unplaced runs last time (form 14200-),False,,,,,30.0
+2026-11-14,rac_32304429274,3:30,2026-11-14T15:30:00+00:00,Cheltenham,Jumps,False,True,9,hrs_51831878,Seamoon Story,7.46,8.5,12.0,13.0,False,,False,"Won last two starts, trainer 5/16 in 14 days",False,,,,,13.0
+2026-11-14,rac_32304429274,3:30,2026-11-14T15:30:00+00:00,Cheltenham,Jumps,False,True,9,hrs_52055787,Grand Conqueror,11.69,12.5,7.5,8.4,False,,False,"Won last time, trainer 7/28 in 14 days",False,,,,,8.4
+2026-11-14,rac_32304429274,3:30,2026-11-14T15:30:00+00:00,Cheltenham,Jumps,False,True,9,hrs_54304432,Luck Between Us,4.21,3.3,21.0,24.0,False,,False,"Seventh one day ago, yard 0/23 in 14 days",False,,,,,24.0
+2026-11-14,rac_32304429274,3:30,2026-11-14T15:30:00+00:00,Cheltenham,Jumps,False,True,9,hrs_57654632,Hillberry Hill,17.01,15.0,5.0,5.8,False,,False,235 days since last run,False,,,,,5.8
+2026-11-14,rac_32304429274,3:30,2026-11-14T15:30:00+00:00,Cheltenham,Jumps,False,True,9,hrs_46697217,Sunny South West,17.66,20.0,5.0,5.5,False,,False,,False,,,,,5.5
+2026-11-14,rac_32304429274,3:30,2026-11-14T15:30:00+00:00,Cheltenham,Jumps,False,True,9,hrs_48112204,Emerald Breeze,7.68,6.5,11.0,13.0,False,,False,223-day absence,False,,,,,13.0
+2026-11-14,rac_32304429274,3:30,2026-11-14T15:30:00+00:00,Cheltenham,Jumps,False,True,9,hrs_39959535,Give Him A Chance,5.81,4.8,13.0,19.0,False,,False,"Yard 0/23 in 14 days, no win since five starts back",False,,,,,18.5
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_17395412356,Bands of Courage,0.69,0.68,126.0,260.0,False,,False,,True,,,,,260.0
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_17393905221,Bateleur,11.3,11.12,7.0,8.6,False,,False,,True,,,,,8.6
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_63202727,Brave Bard,5.12,5.04,17.0,17.5,False,,False,,True,,,,,17.5
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_17394103391,Chasing Honors,2.96,2.91,26.0,38.0,False,,False,,True,,,,,38.0
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_17395339346,Hannah's Kitchen,14.65,16.0,5.0,7.4,False,,False,Debutant from yard in form at 8/41 in 14 days.,True,,,,,7.4
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_61277216,Jimmy Gatz,8.23,8.1,10.0,11.5,False,,False,,True,,,,,11.5
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_64967896,Lady Coco,13.12,12.91,6.5,7.0,False,,False,,True,,,,,7.0
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_58565521,Ma Wang des Bois,27.21,26.78,3.0,3.45,True,BET,False,"Placed in both runs (2nd, 5th); no card comment raising a specific doubt beyond the 266-day break.",True,,,,,3.45
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_17395109886,Menasha,6.92,6.81,12.0,13.5,False,,False,,True,,,,,13.5
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_17395413399,Miretix du Moulin,6.02,5.92,13.5,16.0,False,,False,,True,,,,,16.0
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_17395414442,Pdq Workspace,0.62,0.61,101.0,260.0,False,,False,,True,,,,,260.0
+2026-11-14,rac_32304444770,3:35,2026-11-14T15:35:00+00:00,Uttoxeter,Jumps,False,False,12,hrs_17395416528,Weafers Cross,3.16,3.11,26.0,32.0,False,,False,,True,,,,,32.0
+2026-11-14,rac_32304458329,3:40,2026-11-14T15:40:00+00:00,Wetherby,Jumps,False,True,6,hrs_23380147,Trac,2.71,2.2,34.0,38.0,False,,False,"Off for 237 days, carries 168lb, and the trainer is 0/14 in the last 14 days",False,,,,,38.0
+2026-11-14,rac_32304458329,3:40,2026-11-14T15:40:00+00:00,Wetherby,Jumps,False,True,6,hrs_28824544,Safe Destination,16.87,18.95,5.5,5.7,False,,False,,False,,,,,5.7
+2026-11-14,rac_32304458329,3:40,2026-11-14T15:40:00+00:00,Wetherby,Jumps,False,True,6,hrs_34845440,Camarrate,19.92,22.38,4.5,4.9,False,,False,,False,,,,,4.9
+2026-11-14,rac_32304458329,3:40,2026-11-14T15:40:00+00:00,Wetherby,Jumps,False,True,6,hrs_29816514,Slaney Opera,14.99,17.0,5.5,7.0,False,,False,"Comment: in cracking form (2nd last time out, won the start before), ran 14 days ago, and has run over today's trip and going",False,,,,,7.0
+2026-11-14,rac_32304458329,3:40,2026-11-14T15:40:00+00:00,Wetherby,Jumps,False,True,6,hrs_32682671,Check The Score,10.21,11.47,9.0,9.6,False,,False,,False,,,,,9.6
+2026-11-14,rac_32304458329,3:40,2026-11-14T15:40:00+00:00,Wetherby,Jumps,False,True,6,hrs_47064969,Peckforton Hills,35.3,28.0,2.5,2.76,False,,False,"Comment says he is hard to fancy: off for 210 days, no win in his last five, and the trainer is 0/16 in the last 14 days",False,,,,,2.76
+2026-11-14,rac_32304471888,3:45,2026-11-14T15:45:00+00:00,Windsor,Jumps,False,False,9,hrs_17391714921,Arco Sancho,4.64,4.64,19.0,21.0,False,,False,,True,,,,,21.0
+2026-11-14,rac_32304471888,3:45,2026-11-14T15:45:00+00:00,Windsor,Jumps,False,False,9,hrs_17395402969,By Your Leave,7.94,7.94,11.0,11.5,False,,False,,True,,,,,11.5
+2026-11-14,rac_32304471888,3:45,2026-11-14T15:45:00+00:00,Windsor,Jumps,False,False,9,hrs_17395404012,Folkham,10.8,10.8,7.5,9.0,False,,False,,True,,,,,9.0
+2026-11-14,rac_32304471888,3:45,2026-11-14T15:45:00+00:00,Windsor,Jumps,False,False,9,hrs_17395405055,Hosiery,10.25,10.25,8.5,9.0,False,,False,,True,,,,,9.0
+2026-11-14,rac_32304471888,3:45,2026-11-14T15:45:00+00:00,Windsor,Jumps,False,False,9,hrs_17393318012,James Dean,5.15,5.15,17.0,18.0,False,,False,,True,,,,,18.0
+2026-11-14,rac_32304471888,3:45,2026-11-14T15:45:00+00:00,Windsor,Jumps,False,False,9,hrs_17395406098,New Addington Boy,19.01,19.01,4.5,4.8,False,,False,,True,,,,,4.8
+2026-11-14,rac_32304471888,3:45,2026-11-14T15:45:00+00:00,Windsor,Jumps,False,False,9,hrs_17395407141,Noe Le Dun,15.97,15.97,5.0,6.0,False,,False,,True,,,,,6.0
+2026-11-14,rac_32304471888,3:45,2026-11-14T15:45:00+00:00,Windsor,Jumps,False,False,9,hrs_17395409227,Victory V,5.4,5.4,15.0,18.5,False,,False,,True,,,,,18.5
+2026-11-14,rac_32304471888,3:45,2026-11-14T15:45:00+00:00,Windsor,Jumps,False,False,9,hrs_17395410270,Waverley,20.83,20.83,4.0,4.5,True,BET,False,Debutant in a field of mostly unraced runners; no specific card reason to doubt.,True,,,,,4.5
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_17393783190,Airforce Marshal,6.5,6.67,13.0,14.5,False,,False,,True,,,,,14.5
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_17394713546,Certain Escape,7.7,7.9,9.0,15.0,False,,False,,True,,,,,15.0
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_17395469721,Elusive Legend,8.6,8.82,10.0,11.5,False,,False,,True,,,,,11.5
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_17395471807,Giomibe,1.11,1.14,67.0,100.0,False,,False,,True,,,,,100.0
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_49757624,Kanzler,17.11,15.0,5.0,5.4,False,,False,Comment: returns after a 644-day absence.,True,,,,,5.4
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_59186505,Line Speed,0.97,0.99,67.0,140.0,False,,False,,True,,,,,140.0
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_59429482,Nine Toes Tim,6.68,6.85,13.0,14.0,False,,False,,True,,,,,14.0
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_63202804,Noble Indulgence,2.46,2.52,34.0,48.0,False,,False,,True,,,,,48.0
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_54304565,Sir Vinny,13.52,13.87,6.0,7.2,False,,False,,True,,,,,7.2
+2026-11-14,rac_32304597793,3:53,2026-11-14T15:53:00+00:00,Navan,Jumps,False,False,10,hrs_17394707288,Uncle Pad,35.34,36.24,2.25,2.74,False,,False,,True,,,,,2.74
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_57439354,Clovelly Charm,2.41,2.1,29.0,48.0,False,,False,Trainer 0/8 in last 14 days,True,,,,,48.0
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17393747728,Eastern Whisper,12.83,11.5,6.0,7.8,False,,False,Trainer 0/5 in last 14 days,True,,,,,7.8
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17390238033,Elegantemente,27.83,31.54,3.0,3.35,True,BET,False,"Won only start, yard 6/37; 82 days off is modest and shorter than most rivals' breaks",True,,,,,3.35
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17393247088,Gypsy Sky,7.68,9.0,10.0,13.5,False,,False,"Won only start, trainers hot at 6/11 in 14 days",True,,,,,13.5
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_62393905,Island Jetaway,2.04,1.6,34.0,60.0,False,,False,"183-day layoff, trainer 0/7",True,,,,,60.0
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17395394625,Kshira Sagara,2.57,2.91,26.0,48.0,False,,False,,True,,,,,48.0
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17395395668,Miss Master,10.42,9.5,8.0,9.2,False,,False,230-day absence,True,,,,,9.2
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17394533107,Miss Spec,0.74,0.84,81.0,220.0,False,,False,,True,,,,,220.0
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17395396711,Orderandout,2.04,1.6,34.0,60.0,False,,False,"251 days off, trainer 0/8",True,,,,,60.0
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17395397754,Sarah's Sister,4.98,4.3,17.0,20.0,False,,False,Trainer 0/12 in last 14 days,True,,,,,20.0
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17390038820,She Was The One,7.59,8.6,11.0,12.5,False,,False,,True,,,,,12.5
+2026-11-14,rac_32304431211,4:00,2026-11-14T16:00:00+00:00,Cheltenham,Jumps,False,False,12,hrs_17394328679,Soleretta,18.86,16.5,4.5,4.9,False,,False,Fell on only recent start and 251 days off,True,,,,,4.8

@@ -1,0 +1,46 @@
+{"meeting": "uttoxeter", "races": [
+  {"race_id": "rac_32304440896", "changes": [
+    {"horse_id": "hrs_49973938", "horse": "Mooserwirt", "chance_pct": 16.5, "reason": "Returns after 238 days off and trainer 0/16 in last 14 days."},
+    {"horse_id": "hrs_40959842", "horse": "Tao Enki", "chance_pct": 15.0, "reason": "Winless in last five, 166lb the main risk, trainer 0/4 in 14 days."},
+    {"horse_id": "hrs_44975553", "horse": "Lunar Orbit", "chance_pct": 14.5, "reason": "Second 19 days ago, proven on trip and going, Skelton yard 19/92 in 14 days."},
+    {"horse_id": "hrs_29552600", "horse": "Getaway With You", "chance_pct": 10.5, "reason": "Second last time out 24 days ago and yard in form at 6/11."},
+    {"horse_id": "hrs_49578137", "horse": "Rumi Rock", "chance_pct": 3.6, "reason": "Winless in last five, 96 days off, trainer 0/6."},
+    {"horse_id": "hrs_35336049", "horse": "Back In The Bay", "chance_pct": 4.6, "reason": "Consecutive fourths, 17 days since last run, wind surgery, trainer 10/42."}
+  ], "checks": [
+    {"horse_id": "hrs_40591908", "horse": "Spartan Times", "verdict": "BET", "reason": "Twice a winner in last five, placed recently, proven on going; 46-day break only a mild concern."}
+  ]},
+  {"race_id": "rac_32304433148", "changes": [
+    {"horse_id": "hrs_17395280938", "horse": "Montevallo", "chance_pct": 4.5, "reason": "Off 266 days and trainer 0/16 in last 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304435085", "changes": [], "checks": []},
+  {"race_id": "rac_32304437022", "changes": [
+    {"horse_id": "hrs_36837360", "horse": "Arcon", "chance_pct": 18.0, "reason": "Card says hard to fancy: winless in last five, sixth last time out; first-time visor unproven."},
+    {"horse_id": "hrs_45661714", "horse": "Chambers", "chance_pct": 14.5, "reason": "Winless in last three (7th last time), trainer 0/14, 152lb off 80 a stiff ask."},
+    {"horse_id": "hrs_51124885", "horse": "Josh Central", "chance_pct": 9.5, "reason": "Poor recent form (6th, 7th, 7th) and 229 days off raises fitness doubts."},
+    {"horse_id": "hrs_51831899", "horse": "Stone Cold", "chance_pct": 5.5, "reason": "251-day absence and eighth last time out."},
+    {"horse_id": "hrs_58534791", "horse": "Pink 'n Purple", "chance_pct": 6.5, "reason": "Consistent placings, 27 days since last run, proven trip and going, trainer 3/11."},
+    {"horse_id": "hrs_57470021", "horse": "Lady Blackmore", "chance_pct": 2.8, "reason": "Pulled up last time out and winless in last five; trainer 0/4."},
+    {"horse_id": "hrs_44786000", "horse": "Famous Shoes", "chance_pct": 2.5, "reason": "Pulled up last time, fall and unseat in recent form; 152lb a big ask."}
+  ], "checks": [
+    {"horse_id": "hrs_36837360", "horse": "Arcon", "verdict": "SKIP", "reason": "Card calls him hard to fancy: winless in five with only one podium, sixth last time out."}
+  ]},
+  {"race_id": "rac_32304438959", "changes": [
+    {"horse_id": "hrs_39959591", "horse": "Pismo Beach", "chance_pct": 25.5, "reason": "238-day absence and pulled up two starts back."},
+    {"horse_id": "hrs_40553835", "horse": "Lau And Shaz", "chance_pct": 19.5, "reason": "219-day absence with top weight 161lb."},
+    {"horse_id": "hrs_46914119", "horse": "Lady Tadita", "chance_pct": 25.0, "reason": "Trainer in cracking form at 11/26 in 14 days, ran 29 days ago."}
+  ], "checks": []},
+  {"race_id": "rac_32304442833", "changes": [
+    {"horse_id": "hrs_40352578", "horse": "Orderoftheday", "chance_pct": 20.5, "reason": "Win two starts back, proven trip and going, trainer 8/41 in 14 days."},
+    {"horse_id": "hrs_39040330", "horse": "Stone's Throw", "chance_pct": 8.5, "reason": "246-day absence, fourth last time out, trainer 0/7."},
+    {"horse_id": "hrs_45630025", "horse": "Kahavari", "chance_pct": 7.5, "reason": "Sixth last time out, 165lb stiff, trainer 0/16."},
+    {"horse_id": "hrs_40095902", "horse": "Warriors Destiny", "chance_pct": 7.0, "reason": "Unplaced last time out and 245 days off, fitness a question."},
+    {"horse_id": "hrs_34361467", "horse": "Shy Love", "chance_pct": 2.8, "reason": "702-day absence and 160lb a big ask."}
+  ], "checks": [
+    {"horse_id": "hrs_62393849", "horse": "Seven Kites", "verdict": "BET", "reason": "Running well (second last time, winner four back), 15 days since last run, proven trip and going, trainer 4/12."}
+  ]},
+  {"race_id": "rac_32304444770", "changes": [
+    {"horse_id": "hrs_17395339346", "horse": "Hannah's Kitchen", "chance_pct": 16.0, "reason": "Debutant from yard in form at 8/41 in 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_58565521", "horse": "Ma Wang des Bois", "verdict": "BET", "reason": "Placed in both runs (2nd, 5th); no card comment raising a specific doubt beyond the 266-day break."}
+  ]}
+]}

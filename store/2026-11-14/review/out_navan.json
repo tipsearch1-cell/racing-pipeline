@@ -1,0 +1,52 @@
+{"meeting": "navan", "races": [
+  {"race_id": "rac_32304584234", "changes": [
+    {"horse_id": "hrs_17389779113", "horse": "Confidence Within", "chance_pct": 1.7, "reason": "Trainer P. J. Rothwell 0/23 in last 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304586171", "changes": [
+    {"horse_id": "hrs_58132907", "horse": "Macshadow Des Crai", "chance_pct": 15.0, "reason": "Comment: winless in last five and returns after 108 days off; trainer 0/4 in 14 days."},
+    {"horse_id": "hrs_28220507", "horse": "Miners Bridge", "chance_pct": 20.5, "reason": "Comment: cracking form, three wins in last three (form 2-4111), proven at trip and going."},
+    {"horse_id": "hrs_51124185", "horse": "Grandy Lane", "chance_pct": 4.0, "reason": "Comment: rough spell, form 86F-P0 (unplaced, pulled up, fell)."},
+    {"horse_id": "hrs_49974428", "horse": "Just For One", "chance_pct": 3.4, "reason": "Comment: seventh and two pulled-up efforts in last five make him hard to fancy."},
+    {"horse_id": "hrs_38288453", "horse": "Dairy Force", "chance_pct": 3.7, "reason": "Comment: seventh last time out, 163 lb and a 35-day break."}
+  ], "checks": [
+    {"horse_id": "hrs_58132907", "horse": "Macshadow Des Crai", "verdict": "SKIP", "reason": "Card flags no win in last five and a 108-day absence."}
+  ]},
+  {"race_id": "rac_32304588108", "changes": [
+    {"horse_id": "hrs_52709412", "horse": "Radiator Springs", "chance_pct": 15.0, "reason": "Comment: main risk is a 55-day absence under top-weight-ish 157 lb."},
+    {"horse_id": "hrs_39978281", "horse": "Sommesky", "chance_pct": 5.5, "reason": "Comment: fell last time and returns from 318 days off under 162 lb."},
+    {"horse_id": "hrs_39431672", "horse": "Arch Empire", "chance_pct": 6.0, "reason": "Comment: winless run of five (form 7-6899) and 155 lb."},
+    {"horse_id": "hrs_57877918", "horse": "Hesgonethatway", "chance_pct": 2.3, "reason": "Comment: form going wrong way and yard 0/23 in last 14 days."},
+    {"horse_id": "hrs_31672949", "horse": "Catchabird", "chance_pct": 3.3, "reason": "Comment: fifth last time and returns after a 198-day break."},
+    {"horse_id": "hrs_30672138", "horse": "Fiveonefive", "chance_pct": 3.3, "reason": "Comment: two ninth places in last two outings under 166 lb."},
+    {"horse_id": "hrs_41090987", "horse": "Solsbury Hill", "chance_pct": 2.4, "reason": "Comment: winless in five and returns after 98 days off."},
+    {"horse_id": "hrs_30208157", "horse": "Duke Of Leggagh", "chance_pct": 1.3, "reason": "Comment: run poorly since wins, ninth last time after pulling up."}
+  ], "checks": [
+    {"horse_id": "hrs_52709412", "horse": "Radiator Springs", "verdict": "SKIP", "reason": "Card names a 55-day absence under 157 lb as the main risk."}
+  ]},
+  {"race_id": "rac_32304590045", "changes": [
+    {"horse_id": "hrs_63171353", "horse": "Fiveandahalf", "chance_pct": 11.5, "reason": "Form 4-11, won last two; trainer 6/38 in 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_58962911", "horse": "City Of Cork", "verdict": "BET", "reason": "Won last time out (form 734-1), 23 days since run; no specific negative on card."}
+  ]},
+  {"race_id": "rac_32304591982", "changes": [
+    {"horse_id": "hrs_34153560", "horse": "The Yellow Clay", "chance_pct": 19.5, "reason": "Comment: 222-day layoff, fifth last time and a fall before that."},
+    {"horse_id": "hrs_45792089", "horse": "I'll Sort That", "chance_pct": 20.5, "reason": "Comment: won four of last five, proven at trip and going."},
+    {"horse_id": "hrs_16762270", "horse": "Dawn Rising", "chance_pct": 3.0, "reason": "Comment: tailed off, sixth last time and pulled up before."},
+    {"horse_id": "hrs_33465306", "horse": "Staffordshire Knot", "chance_pct": 2.0, "reason": "Comment: sixth last time, pulled up before, back after 194 days."}
+  ], "checks": [
+    {"horse_id": "hrs_34153560", "horse": "The Yellow Clay", "verdict": "SKIP", "reason": "Card flags 222-day layoff plus a fifth and a fall in last two runs."}
+  ]},
+  {"race_id": "rac_32304593919", "changes": [
+    {"horse_id": "hrs_29747795", "horse": "Solness", "chance_pct": 14.5, "reason": "Comment: unplaced last time and 45 days off."},
+    {"horse_id": "hrs_34557796", "horse": "Touch Me Not", "chance_pct": 2.6, "reason": "Comment: unplaced last two, 200 days off, 158 lb."}
+  ], "checks": []},
+  {"race_id": "rac_32304595856", "changes": [
+    {"horse_id": "hrs_52055465", "horse": "Mighty Park", "chance_pct": 37.0, "reason": "Comment: ninth last time and returns after 249 days, fitness doubts."},
+    {"horse_id": "hrs_45314584", "horse": "Saint Baco", "chance_pct": 25.5, "reason": "Comment: proven at trip and going, yard 8/28 in last 14 days."},
+    {"horse_id": "hrs_35054712", "horse": "Bleu De Vassy", "chance_pct": 9.5, "reason": "Comment: 650-day absence with a sixth last time out."},
+    {"horse_id": "hrs_39826892", "horse": "Time Is A Thief", "chance_pct": 1.7, "reason": "Comment: solid recent form (F1-23), 41 days since run, proven at trip."}
+  ], "checks": []},
+  {"race_id": "rac_32304597793", "changes": [
+    {"horse_id": "hrs_49757624", "horse": "Kanzler", "chance_pct": 15.0, "reason": "Comment: returns after a 644-day absence."}
+  ], "checks": []}
+]}

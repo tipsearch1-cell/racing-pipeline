@@ -1,0 +1,13 @@
+OffUK,StartTimeUTC,Course,SelectionName,Code,Source,MorningMedian,MinPrice,BestPrice9am,Matchbook9am,ReviewerChancePct,MarketChancePct,Reason,Status
+12:07,2026-11-14T12:07:00+00:00,Uttoxeter,Spartan Times,Jumps,CHECK verdict BET,4.33,4.11,4.6,4.6,21.62,20.34,"Twice a winner in last five, placed recently, proven on going; 46-day break only a mild concern.",BOT FILE
+12:35,2026-11-14T12:35:00+00:00,Cheltenham,Little Ledgend,Jumps,CHECK verdict BET,3.5,3.32,4.2,4.2,25.0,23.53,"No negatives on card: good form, in-form yard, first-time tongue strap, proven at trip/going",BOT FILE
+12:48,2026-11-14T12:48:00+00:00,Wetherby,Fine Thing,Jumps,reviewer BET flag,34.0,28.57,42.0,42.0,3.5,2.61,"Comment: has run over today's trip and going, last ran 15 days ago, and the yard is in form (6/20)",BOT FILE
+12:55,2026-11-14T12:55:00+00:00,Windsor,Scavengers Reign,Jumps,CHECK verdict BET,3.0,2.85,3.15,3.1,31.57,30.03,"Second 17 days ago, trainer 10/42 in 14 days; no specific reason to doubt.",BOT FILE
+13:35,2026-11-14T13:35:00+00:00,Navan,City Of Cork,Jumps,CHECK verdict BET,3.5,3.32,3.8,3.8,24.79,25.19,"Won last time out (form 734-1), 23 days since run; no specific negative on card.",BOT FILE
+14:20,2026-11-14T14:20:00+00:00,Cheltenham,Torneo,Jumps,reviewer BET flag,15.0,14.71,19.0,19.0,6.8,5.24,Back-to-back wins and yard hot at 11/26 in 14 days,BOT FILE
+14:55,2026-11-14T14:55:00+00:00,Cheltenham,William Yeats,Jumps,CHECK verdict BET,4.33,4.11,4.7,4.6,21.5,19.8,"Strong recent form, quick return, hot yard; no negatives on card",BOT FILE
+15:00,2026-11-14T15:00:00+00:00,Uttoxeter,Seven Kites,Jumps,CHECK verdict BET,4.0,3.8,4.4,4.4,22.43,21.47,"Running well (second last time, winner four back), 15 days since last run, proven trip and going, trainer 4/12.",BOT FILE
+15:30,2026-11-14T15:30:00+00:00,Cheltenham,Daylatedollarshort,Jumps,CHECK verdict BET,3.5,3.32,3.85,3.85,26.5,25.09,"Won last time, consistent form, proven at trip/going, in-form yard",BOT FILE
+15:35,2026-11-14T15:35:00+00:00,Uttoxeter,Ma Wang des Bois,Jumps,CHECK verdict BET,3.0,2.85,3.45,3.45,26.78,27.21,"Placed in both runs (2nd, 5th); no card comment raising a specific doubt beyond the 266-day break.",EXCLUDED - unknown runner(s) or off before seal
+15:45,2026-11-14T15:45:00+00:00,Windsor,Waverley,Jumps,CHECK verdict BET,4.0,3.8,4.5,4.5,20.83,20.83,Debutant in a field of mostly unraced runners; no specific card reason to doubt.,EXCLUDED - unknown runner(s) or off before seal
+16:00,2026-11-14T16:00:00+00:00,Cheltenham,Elegantemente,Jumps,CHECK verdict BET,3.0,2.85,3.35,3.35,31.54,27.83,"Won only start, yard 6/37; 82 days off is modest and shorter than most rivals' breaks",EXCLUDED - unknown runner(s) or off before seal
