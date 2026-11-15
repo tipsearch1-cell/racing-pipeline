@@ -1,0 +1,137 @@
+{
+ "events": [
+  {
+   "key": "nr|rac_32304601667|hrs_63776202",
+   "text": "12:10 Navan: Holly's Thunder now a non-runner. Re-worked market: La Valserine 48%, Tintara 15%, Royale Walk 10%, Theemeraldempress 9%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304601667|hrs_59186120",
+   "text": "12:10 Navan: Moonverrin now a non-runner. Re-worked market: La Valserine 48%, Tintara 15%, Royale Walk 10%, Theemeraldempress 9%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304481573|Good",
+   "text": "12:30 Fontwell: going changed from Good To Soft to Good",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304603604|hrs_57102794",
+   "text": "12:40 Navan: Magnificent Era now a non-runner. Re-worked market: Mr Caulfield 8%, Sheer Raz 8%, Leo Messy 8%, Invincible Oscar 7%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304473825|hrs_52236506",
+   "text": "12:50 Cheltenham: Old Habits now a non-runner. Re-worked market: Wolf Rayet 26%, Mourne Crystal 22%, Lastbutnotleased 20%, Get Out of My Way 13%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "aff|rac_32304473825|hrs_17394106520|1",
+   "text": "12:50 Cheltenham: bet/leg Mourne Crystal runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304605541|hrs_58963009",
+   "text": "1:15 Navan: Thinkitdontjinxit now a non-runner. Re-worked market: With Nolimit 54%, Reaching High 25%, Gillane 7%, Pat O's Rock 6%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304475762|hrs_51558073",
+   "text": "1:25 Cheltenham: Crystal Island now a non-runner. Re-worked market: Pourquoi Pas Papa 22%, Spectacularsunrise 21%, Turndlightsdownlow 17%, Four Springs 10%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304475762|hrs_34361572",
+   "text": "1:25 Cheltenham: Bill Joyce now a non-runner. Re-worked market: Pourquoi Pas Papa 22%, Spectacularsunrise 21%, Turndlightsdownlow 17%, Four Springs 10%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304485447|Good",
+   "text": "1:43 Fontwell: going changed from Good To Soft to Good",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304477699|hrs_40225297",
+   "text": "2:00 Cheltenham: Putapoundinthejar now a non-runner. Re-worked market: Highlands Legacy 21%, Shakeyatailfeather 17%, Authoceltic 14%, Larzac 13%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "aff|rac_32304477699|hrs_37407895|1",
+   "text": "2:00 Cheltenham: bet/leg Highlands Legacy runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304487384|Good",
+   "text": "2:20 Fontwell: going changed from Good To Soft to Good",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304609415|hrs_47684980",
+   "text": "2:25 Navan: Espresso Milan now a non-runner. Re-worked market: Fruit De Mer 36%, Classical Creek 26%, Kopeck De Mee 20%, Forty Coats 8%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32303243830|hrs_29987923",
+   "text": "2:35 Cheltenham: Havaila now a non-runner. Re-worked market: Double Powerful 25%, King of Answers 15%, Ask Brewster 13%, Resplendent Grey 11%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "aff|rac_32303243830|hrs_34361404|1",
+   "text": "2:35 Cheltenham: bet/leg Double Powerful runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304491258|Good",
+   "text": "3:25 Fontwell: going changed from Good To Soft to Good",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304611352|hrs_65225405",
+   "text": "3:35 Navan: Bluebell Breeze now a non-runner. Re-worked market: Sarahs Lawn 45%, All Noise 22%, Brosna Shine 22%, Shuil Solas 5%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304611352|hrs_59429475",
+   "text": "3:35 Navan: Born Believing now a non-runner. Re-worked market: Sarahs Lawn 45%, All Noise 22%, Brosna Shine 22%, Shuil Solas 5%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  }
+ ]
+}
