@@ -1,0 +1,23 @@
+{
+ "navan": {
+  "course": "Navan",
+  "in": "/home/claude/racing-pipeline/store/2026-11-15/review/in_navan.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-15/review/out_navan.json",
+  "races": 8,
+  "checks": 3
+ },
+ "fontwell": {
+  "course": "Fontwell",
+  "in": "/home/claude/racing-pipeline/store/2026-11-15/review/in_fontwell.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-15/review/out_fontwell.json",
+  "races": 6,
+  "checks": 5
+ },
+ "cheltenham": {
+  "course": "Cheltenham",
+  "in": "/home/claude/racing-pipeline/store/2026-11-15/review/in_cheltenham.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-15/review/out_cheltenham.json",
+  "races": 6,
+  "checks": 5
+ }
+}
