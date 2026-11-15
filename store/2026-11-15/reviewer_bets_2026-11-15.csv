@@ -1,0 +1,8 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian
+Frankie,Western Cross,WIN,2026-11-15 12:30:00,BACK,3.32,false,Fontwell,12:30,Jumps,3.5
+Frankie,Mourne Crystal,WIN,2026-11-15 12:50:00,BACK,3.32,false,Cheltenham,12:50,Jumps,3.5
+Frankie,Mask of Zorro,WIN,2026-11-15 13:05:00,BACK,4.27,false,Fontwell,13:05,Jumps,4.5
+Frankie,Mart Lane,WIN,2026-11-15 13:50:00,BACK,3.56,false,Navan,13:50,Jumps,3.75
+Frankie,Highlands Legacy,WIN,2026-11-15 14:00:00,BACK,3.8,false,Cheltenham,14:00,Jumps,4.0
+Frankie,Double Powerful,WIN,2026-11-15 14:35:00,BACK,5.22,false,Cheltenham,14:35,Jumps,5.5
+Frankie,County Champs,WIN,2026-11-15 15:25:00,BACK,3.32,false,Fontwell,15:25,Jumps,3.5

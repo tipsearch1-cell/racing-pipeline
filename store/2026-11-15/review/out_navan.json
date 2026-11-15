@@ -1,0 +1,43 @@
+{"meeting": "navan", "races": [
+  {"race_id": "rac_32304599730", "changes": [], "checks": []},
+  {"race_id": "rac_32304601667", "changes": [
+    {"horse_id": "hrs_60852379", "horse": "La Valserine", "chance_pct": 31.0, "reason": "Last run 634 days ago, long absence raises fitness doubt."},
+    {"horse_id": "hrs_17394780298", "horse": "Adamas", "chance_pct": 4.4, "reason": "Last run 743 days ago, very long absence."}
+  ], "checks": []},
+  {"race_id": "rac_32304603604", "changes": [
+    {"horse_id": "hrs_17389174173", "horse": "Mr Caulfield", "chance_pct": 7.5, "reason": "Comment: fell last time six days ago, winless in last six, 173 lb off OR 105 a hefty burden."},
+    {"horse_id": "hrs_41813891", "horse": "La Rocca Lass", "chance_pct": 4.6, "reason": "Comment: fifth last time and quick 12-day turnaround hint at sharpening; tp first time."},
+    {"horse_id": "hrs_30441138", "horse": "Hob's Angel", "chance_pct": 2.4, "reason": "Comment: winless in last six, hard to fancy."},
+    {"horse_id": "hrs_53359691", "horse": "Orinoco Walk", "chance_pct": 2.1, "reason": "Comment: pulled up last time and 172-day absence raises fitness questions."},
+    {"horse_id": "hrs_52862474", "horse": "Tommy Go Maith", "chance_pct": 1.7, "reason": "Comment: hard to fancy, winless in last six with PPU in form."},
+    {"horse_id": "hrs_52677590", "horse": "Zaryagle", "chance_pct": 1.3, "reason": "Comment: cold yard, trainer 0/25 in last 14 days."},
+    {"horse_id": "hrs_49389228", "horse": "Gatehouse Boy", "chance_pct": 1.1, "reason": "Comment: stable 0/25 in last 14 days and unplaced last time."}
+  ], "checks": [
+    {"horse_id": "hrs_17389174173", "horse": "Mr Caulfield", "verdict": "SKIP", "reason": "Fell last time, winless in six and carrying 173 lb off 105."}
+  ]},
+  {"race_id": "rac_32304605541", "changes": [], "checks": []},
+  {"race_id": "rac_32304607478", "changes": [
+    {"horse_id": "hrs_52056011", "horse": "Royal Gladiator", "chance_pct": 9.0, "reason": "Comment: unplaced last time and back from 224 days off, fitness questions."},
+    {"horse_id": "hrs_35243726", "horse": "Paddy's Milestone", "chance_pct": 6.5, "reason": "Comment: returns after 344 days off."},
+    {"horse_id": "hrs_30540769", "horse": "I Love My Baie", "chance_pct": 3.0, "reason": "Comment: big fitness risk after 344 days off following a seventh."}
+  ], "checks": [
+    {"horse_id": "hrs_58565430", "horse": "Mart Lane", "verdict": "BET", "reason": "Won last time and second before; 52-day break and 152 lb are only mild concerns."}
+  ]},
+  {"race_id": "rac_32304609415", "changes": [
+    {"horse_id": "hrs_41053054", "horse": "Classical Creek", "chance_pct": 17.5, "reason": "Comment: only seventh last time and returns after 310 days off."},
+    {"horse_id": "hrs_34166720", "horse": "Hens Tooth", "chance_pct": 1.8, "reason": "Comment: pulled up last time and back from 225-day absence, hard to fancy."}
+  ], "checks": []},
+  {"race_id": "rac_32303981827", "changes": [
+    {"horse_id": "hrs_34961591", "horse": "The Enabler", "chance_pct": 11.0, "reason": "Comment: 223-day absence and 146 lb leave question marks."},
+    {"horse_id": "hrs_29622166", "horse": "Will Do", "chance_pct": 3.6, "reason": "Comment: arrives in better heart, second last time and third before, 21 days since run."},
+    {"horse_id": "hrs_40899509", "horse": "Uhavemeinstitches", "chance_pct": 4.0, "reason": "Comment: pulled up last time and 197 days off, hard to fancy."},
+    {"horse_id": "hrs_38089359", "horse": "Kish Bank", "chance_pct": 3.9, "reason": "Comment: hard to fancy after 198 days off and unplaced last time."}
+  ], "checks": [
+    {"horse_id": "hrs_34961591", "horse": "The Enabler", "verdict": "SKIP", "reason": "Card flags 223-day absence and 146 lb as question marks."}
+  ]},
+  {"race_id": "rac_32304611352", "changes": [
+    {"horse_id": "hrs_66463446", "horse": "Shuil Solas", "chance_pct": 5.2, "reason": "Comment: arrives in good heart after two seconds, has run over trip and going."},
+    {"horse_id": "hrs_65225405", "horse": "Bluebell Breeze", "chance_pct": 2.9, "reason": "Comment: consistency a worry after 9-7-7 before last-time win."},
+    {"horse_id": "hrs_64325723", "horse": "Eillis", "chance_pct": 1.2, "reason": "Comment: off 195 days, hard to fancy."}
+  ], "checks": []}
+]}

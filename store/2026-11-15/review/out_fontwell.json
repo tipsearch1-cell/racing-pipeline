@@ -1,0 +1,53 @@
+{"meeting": "fontwell", "races": [
+  {"race_id": "rac_32304481573", "changes": [
+    {"horse_id": "hrs_30614066", "horse": "Bridge", "chance_pct": 11.0, "reason": "Form 74P1-V with pulled up, seventh and void; comment says hard to fancy under 155 lb."},
+    {"horse_id": "hrs_41814017", "horse": "Maccarellu", "chance_pct": 10.0, "reason": "Returns from 225 days off after two sixths; trainer 14d 0/0."},
+    {"horse_id": "hrs_21666855", "horse": "Kamaxos", "chance_pct": 9.5, "reason": "Comment flags 274-day absence with 164 lb."},
+    {"horse_id": "hrs_47685015", "horse": "Marhaba Prince", "chance_pct": 12.5, "reason": "First-time tongue tie, won three back, has run over trip and going, trainer 4/27."},
+    {"horse_id": "hrs_38173926", "horse": "The Sainted Canary", "chance_pct": 7.5, "reason": "Comment flags big risk of 570-day absence plus 161 lb."},
+    {"horse_id": "hrs_44541742", "horse": "Only One Blue", "chance_pct": 8.0, "reason": "Winless in last five, seventh last time out; comment says held back."},
+    {"horse_id": "hrs_37821539", "horse": "Belfrina", "chance_pct": 9.0, "reason": "Wind surgery, second last time and winner two back, only 17 days off."}
+  ], "checks": [
+    {"horse_id": "hrs_57718724", "horse": "Western Cross", "verdict": "BET", "reason": "Consistent form 3441-4 with a recent win, proven at trip and going, 18 days off; no specific negative beyond cold yard."}
+  ]},
+  {"race_id": "rac_32304483510", "changes": [
+    {"horse_id": "hrs_40473125", "horse": "Mask of Zorro", "chance_pct": 20.0, "reason": "Four wins in last five including last time out, trainer 5/23."},
+    {"horse_id": "hrs_40646984", "horse": "Call Me Legend", "chance_pct": 15.0, "reason": "Trainer 14d 0/18 and one win in last five under 164 lb."},
+    {"horse_id": "hrs_28622993", "horse": "Paper Mill", "chance_pct": 17.0, "reason": "Form P-2411, won last two starts, 21 days off."},
+    {"horse_id": "hrs_49578704", "horse": "Jeu d'Opale", "chance_pct": 10.0, "reason": "274-day absence and fell two starts back."},
+    {"horse_id": "hrs_32568704", "horse": "Livin On Luco", "chance_pct": 9.5, "reason": "Top weight 170 lb, winless in last five, trainer 14d 0/18."},
+    {"horse_id": "hrs_39959241", "horse": "Jack's Jury", "chance_pct": 6.0, "reason": "OR 93 carrying 142 lb, about 6 lb out of the handicap versus the weight scale."}
+  ], "checks": [
+    {"horse_id": "hrs_40473125", "horse": "Mask of Zorro", "verdict": "BET", "reason": "Four wins in last five and on going he has run on; weight is just his handicap mark."}
+  ]},
+  {"race_id": "rac_32304485447", "changes": [
+    {"horse_id": "hrs_61456367", "horse": "Catchem Black", "chance_pct": 9.5, "reason": "Single run and returns after 280 days off."}
+  ], "checks": []},
+  {"race_id": "rac_32304487384", "changes": [
+    {"horse_id": "hrs_17395390453", "horse": "Lion In Zion", "chance_pct": 16.0, "reason": "Returns from 231 days off, trainer 14d 0/10."},
+    {"horse_id": "hrs_57223054", "horse": "Houndswood Willow", "chance_pct": 8.5, "reason": "Won last time out and placed in three of last four, has run over the trip."}
+  ], "checks": [
+    {"horse_id": "hrs_58065532", "horse": "Pass The Buck", "verdict": "BET", "reason": "Highest rated (OR 115), placed twice in three starts, fit after 16 days, trainer 4/17."}
+  ]},
+  {"race_id": "rac_32304489321", "changes": [
+    {"horse_id": "hrs_37701405", "horse": "Majestic Moment", "chance_pct": 18.0, "reason": "Winless in last six with pulled up and unseated flagging unreliability, hefty 159 lb."},
+    {"horse_id": "hrs_59678815", "horse": "What A Dragon", "chance_pct": 15.0, "reason": "237 days off and winless in last four; trainer 14d 0/2."},
+    {"horse_id": "hrs_23643305", "horse": "Valirann Gold", "chance_pct": 10.0, "reason": "Back-to-back fifths, form tailing off."},
+    {"horse_id": "hrs_27451879", "horse": "Bertie Wooster", "chance_pct": 8.5, "reason": "Pulled up last time out (form 2244-P)."},
+    {"horse_id": "hrs_59895675", "horse": "Just Call Me Buzz", "chance_pct": 7.5, "reason": "157-day layoff, top weight 168 lb, trainer 14d 0/6."},
+    {"horse_id": "hrs_29761452", "horse": "Wellwillya", "chance_pct": 6.0, "reason": "Pulled up last time and off 158 days."},
+    {"horse_id": "hrs_33790855", "horse": "Elpologreg", "chance_pct": 6.0, "reason": "Pulled up last time out, winless in last four."}
+  ], "checks": [
+    {"horse_id": "hrs_37701405", "horse": "Majestic Moment", "verdict": "SKIP", "reason": "Comment flags winless in six, pulled up and unseated unreliability and hefty 159 lb."}
+  ]},
+  {"race_id": "rac_32304491258", "changes": [
+    {"horse_id": "hrs_56338317", "horse": "Asta La Vista", "chance_pct": 18.5, "reason": "Off 183 days and winless in last five."},
+    {"horse_id": "hrs_37673370", "horse": "Charles Morin", "chance_pct": 14.5, "reason": "Second last time out just 12 days ago, has run on today's going, low weight 148 lb."},
+    {"horse_id": "hrs_34637813", "horse": "Ami Bondhu", "chance_pct": 8.5, "reason": "Comment flags 265-day absence with 160 lb."},
+    {"horse_id": "hrs_29816059", "horse": "Vendant", "chance_pct": 5.0, "reason": "221 days off and fell last time (form 4P/2F-)."},
+    {"horse_id": "hrs_33743962", "horse": "Lily Grace", "chance_pct": 2.0, "reason": "Winless in last four and returns after 217 days off."},
+    {"horse_id": "hrs_33975270", "horse": "Always Force It", "chance_pct": 1.2, "reason": "700-day absence makes fitness a real question."}
+  ], "checks": [
+    {"horse_id": "hrs_39978197", "horse": "County Champs", "verdict": "BET", "reason": "Runner-up last time and two back, proven at the trip, 25 days off."}
+  ]}
+]}

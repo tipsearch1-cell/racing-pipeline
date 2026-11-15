@@ -1,0 +1,49 @@
+{"meeting": "cheltenham", "races": [
+  {"race_id": "rac_32304473825", "changes": [
+    {"horse_id": "hrs_43164576", "horse": "Wolf Rayet", "chance_pct": 16.5, "reason": "Returns after 220 days off with no win in form 24384-."}
+  ], "checks": [
+    {"horse_id": "hrs_17394106520", "horse": "Mourne Crystal", "verdict": "BET", "reason": "Form 1-3, ran 24 days ago, yard 4/23 in 14d; no card reason to doubt."}
+  ]},
+  {"race_id": "rac_32304475762", "changes": [
+    {"horse_id": "hrs_51558073", "horse": "Crystal Island", "chance_pct": 25.0, "reason": "Comment: back after 208 days off carrying 162 lb off 133, a lot to ask first time back."},
+    {"horse_id": "hrs_58535015", "horse": "Pourquoi Pas Papa", "chance_pct": 13.0, "reason": "Comment flags 151 lb off 131 as a stiff ask."},
+    {"horse_id": "hrs_50906142", "horse": "Dig Deep", "chance_pct": 6.0, "reason": "Comment: 246 days off is a big concern."},
+    {"horse_id": "hrs_47807144", "horse": "Sinchi Roca", "chance_pct": 1.3, "reason": "Comment: 217 days off with 145 lb, a tall order after layoff."},
+    {"horse_id": "hrs_40225059", "horse": "Captain Cool", "chance_pct": 2.2, "reason": "Comment: placed in all of last six (213113) and has run over trip and going."}
+  ], "checks": []},
+  {"race_id": "rac_32304477699", "changes": [
+    {"horse_id": "hrs_40225297", "horse": "Putapoundinthejar", "chance_pct": 9.0, "reason": "Comment: quick turnaround, back out one day after a fourth, under 168 lb."},
+    {"horse_id": "hrs_45855740", "horse": "Larzac", "chance_pct": 9.3, "reason": "Comment: 42 days off and 153 lb off 124 give him plenty to do."},
+    {"horse_id": "hrs_40899544", "horse": "Jony R", "chance_pct": 5.0, "reason": "Comment: pulled up last time and returns after 212 days with 159 lb."},
+    {"horse_id": "hrs_29523081", "horse": "Classic Maestro", "chance_pct": 2.4, "reason": "Comment: 206-day absence plus 160 lb."},
+    {"horse_id": "hrs_29621753", "horse": "Femme Magnifique", "chance_pct": 7.0, "reason": "Comment: form hard to fault, three wins in last five, has run over trip and going."}
+  ], "checks": [
+    {"horse_id": "hrs_37407895", "horse": "Highlands Legacy", "verdict": "BET", "reason": "Comment: cracking form (12212-), has run over trip and going; no specific doubt raised."}
+  ]},
+  {"race_id": "rac_32303243830", "changes": [
+    {"horse_id": "hrs_34845853", "horse": "Ask Brewster", "chance_pct": 11.5, "reason": "Comment: back after 204 days off, ninth last time out, hard to fancy."},
+    {"horse_id": "hrs_35243376", "horse": "King of Answers", "chance_pct": 11.5, "reason": "Comment: sixth last time out and 53-day absence under 161 lb."},
+    {"horse_id": "hrs_34789755", "horse": "U Cant Be Serious", "chance_pct": 6.5, "reason": "Comment: 251 days off is a big question and form inconsistent."},
+    {"horse_id": "hrs_37932314", "horse": "Guard The Moon", "chance_pct": 8.5, "reason": "Comment: two pulled-up efforts make him hard to trust."}
+  ], "checks": [
+    {"horse_id": "hrs_34361404", "verdict": "BET", "horse": "Double Powerful", "reason": "Comment: fresh from a last-time-out win (582-31); weight noted but no strong reason to oppose."}
+  ]},
+  {"race_id": "rac_32303245767", "changes": [
+    {"horse_id": "hrs_49974281", "horse": "Harry Lowes", "chance_pct": 15.5, "reason": "Comment: returns after 219 days off carrying 152 lb, hard to fancy."},
+    {"horse_id": "hrs_51186828", "horse": "Pioneer Pete", "chance_pct": 14.5, "reason": "Comment: won four of last five including last time, has run over trip and going."},
+    {"horse_id": "hrs_37932405", "horse": "Let It Rain", "chance_pct": 11.0, "reason": "Comment: pulled up two starts back and returns after 251 days off."},
+    {"horse_id": "hrs_46667628", "horse": "Mister Ursus", "chance_pct": 6.3, "reason": "Comment: 152 lb off 128, looks short of a fancy."},
+    {"horse_id": "hrs_29012753", "horse": "Helnwein", "chance_pct": 6.3, "reason": "Comment: winless in last five, back after 190 days, 154 lb off 130 a stiff ask."},
+    {"horse_id": "hrs_52741941", "horse": "Morning Mayhem", "chance_pct": 2.1, "reason": "Comment: slipped to sixth then seventh in last two, hard to fancy."},
+    {"horse_id": "hrs_32653544", "horse": "Iberico Lord", "chance_pct": 1.8, "reason": "Comment: 197-day absence after unplaced and eighth."},
+    {"horse_id": "hrs_37589237", "horse": "Day Trader", "chance_pct": 1.7, "reason": "Comment: unplaced last three and 55 days off add to doubts."}
+  ], "checks": [
+    {"horse_id": "hrs_49974281", "horse": "Harry Lowes", "verdict": "SKIP", "reason": "Comment: 219 days off and 152 lb make him hard to fancy."}
+  ]},
+  {"race_id": "rac_32304479636", "changes": [
+    {"horse_id": "hrs_61077863", "horse": "Lord Churchill", "chance_pct": 7.5, "reason": "Comment: cracking nick (1-2), 15 days since last run, has run over trip and going."},
+    {"horse_id": "hrs_17394735449", "horse": "Hoo's The Jet", "chance_pct": 0.6, "reason": "Comment: finishing further back with each run (23-4)."}
+  ], "checks": [
+    {"horse_id": "hrs_17392543063", "horse": "New Grange", "verdict": "BET", "reason": "Comment: unbeaten in last two (1-1) and has run on today's going; no doubt raised."}
+  ]}
+]}
