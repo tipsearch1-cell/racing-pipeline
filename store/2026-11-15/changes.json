@@ -132,6 +132,76 @@
    "future": true,
    "important": false,
    "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304473825|hrs_17395087983",
+   "text": "12:50 Cheltenham: Lastbutnotleased now a non-runner. Re-worked market: Wolf Rayet 30%, Get Out of My Way 20%, Mourne Crystal 19%, Lion Rose Sivola 11%",
+   "future": false,
+   "important": false,
+   "at": "14:00"
+  },
+  {
+   "key": "aff|rac_32304473825|hrs_17394106520|2",
+   "text": "12:50 Cheltenham: bet/leg Mourne Crystal runs on in a race with a new non-runner",
+   "future": false,
+   "important": true,
+   "at": "14:00"
+  },
+  {
+   "key": "go|rac_32304483510|Soft",
+   "text": "1:05 Fontwell: going changed from Good To Soft to Soft",
+   "future": false,
+   "important": true,
+   "at": "14:00"
+  },
+  {
+   "key": "nr|rac_32304475762|hrs_50906142",
+   "text": "1:25 Cheltenham: Dig Deep now a non-runner. Re-worked market: Pourquoi Pas Papa 23%, Turndlightsdownlow 22%, Spectacularsunrise 21%, The Gray Ghost 14%",
+   "future": false,
+   "important": false,
+   "at": "14:00"
+  },
+  {
+   "key": "go|rac_32304485447|Soft",
+   "text": "1:43 Fontwell: going changed from Good To Soft to Soft",
+   "future": false,
+   "important": true,
+   "at": "14:00"
+  },
+  {
+   "key": "go|rac_32304487384|Soft",
+   "text": "2:20 Fontwell: going changed from Good To Soft to Soft",
+   "future": true,
+   "important": true,
+   "at": "14:00"
+  },
+  {
+   "key": "nr|rac_32304487384|hrs_55948228",
+   "text": "2:20 Fontwell: James Choice now a non-runner. Re-worked market: Pass The Buck 34%, Silver State 26%, Lion In Zion 20%, Cape View 7%",
+   "future": true,
+   "important": false,
+   "at": "14:00"
+  },
+  {
+   "key": "go|rac_32304489321|Soft",
+   "text": "2:50 Fontwell: going changed from Good To Soft to Soft",
+   "future": true,
+   "important": true,
+   "at": "14:00"
+  },
+  {
+   "key": "nr|rac_32304489321|hrs_27451879",
+   "text": "2:50 Fontwell: Bertie Wooster now a non-runner. Re-worked market: What A Dragon 24%, Majestic Moment 23%, Valirann Gold 13%, Lord Maher 9%",
+   "future": true,
+   "important": false,
+   "at": "14:00"
+  },
+  {
+   "key": "go|rac_32304491258|Soft",
+   "text": "3:25 Fontwell: going changed from Good To Soft to Soft",
+   "future": true,
+   "important": true,
+   "at": "14:00"
   }
  ]
 }
