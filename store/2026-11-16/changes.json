@@ -1,0 +1,88 @@
+{
+ "events": [
+  {
+   "key": "go|rac_32304555179|Good To Soft",
+   "text": "12:45 Plumpton: going changed from Good to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304557116|Good To Soft",
+   "text": "1:15 Plumpton: going changed from Good to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304559053|Good",
+   "text": "1:45 Plumpton: going changed from Good To Soft to Good",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304560990|Good To Soft",
+   "text": "2:15 Plumpton: going changed from Good to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304562927|Good To Soft",
+   "text": "2:45 Plumpton: going changed from Good to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304564864|Good",
+   "text": "3:15 Plumpton: going changed from Good To Soft to Good",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "go|rac_32304566801|Good To Soft",
+   "text": "3:45 Plumpton: going changed from Good to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304568738|hrs_65938957",
+   "text": "4:30 Wolverhampton (AW): Roosike now a non-runner. Re-worked market: Lord Ragnar 21%, Go Go Girl 20%, Harry's Pop 16%, Time Teller 14%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304568738|hrs_64460193",
+   "text": "4:30 Wolverhampton (AW): Big Hitter now a non-runner. Re-worked market: Lord Ragnar 21%, Go Go Girl 20%, Harry's Pop 16%, Time Teller 14%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "aff|rac_32304568738|hrs_64168013|2",
+   "text": "4:30 Wolverhampton (AW): bet/leg Lord Ragnar runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  },
+  {
+   "key": "nr|rac_32304580360|hrs_30980838",
+   "text": "8:00 Wolverhampton (AW): Cancan In The Rain now a non-runner. Re-worked market: Ted Le Saux 28%, Sea The Light 13%, Felix Gem 11%, Paladin 8%",
+   "future": true,
+   "important": false,
+   "at": "12:00"
+  },
+  {
+   "key": "aff|rac_32304580360|hrs_59216227|1",
+   "text": "8:00 Wolverhampton (AW): bet/leg Ted Le Saux runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:00"
+  }
+ ]
+}
