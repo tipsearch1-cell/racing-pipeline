@@ -1,0 +1,16 @@
+{
+ "plumpton": {
+  "course": "Plumpton",
+  "in": "/home/claude/racing-pipeline/store/2026-11-16/review/in_plumpton.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-16/review/out_plumpton.json",
+  "races": 7,
+  "checks": 4
+ },
+ "wolverhampton_aw": {
+  "course": "Wolverhampton (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-16/review/in_wolverhampton_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-16/review/out_wolverhampton_aw.json",
+  "races": 9,
+  "checks": 5
+ }
+}
