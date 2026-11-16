@@ -1,0 +1,51 @@
+{"meeting": "plumpton", "races": [
+  {"race_id": "rac_32304555179", "changes": [
+    {"horse_id": "hrs_17395105714", "horse": "Mickey Viking", "chance_pct": 5.0, "reason": "Fell last time (form 6F), 176 days off, trainer 0/8 in 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32304557116", "changes": [
+    {"horse_id": "hrs_17391048444", "horse": "Cadillac Ranch", "chance_pct": 10.5, "reason": "Comment: 163 lb off 99 a stiff ask, no win in five; trainer 0/5."},
+    {"horse_id": "hrs_34253275", "horse": "Kandor", "chance_pct": 6.5, "reason": "Comment flags slide to 5th and 4th plus 168 lb; trainer 0/13."},
+    {"horse_id": "hrs_35580734", "horse": "Jefe Triunfo", "chance_pct": 5.8, "reason": "Comment: hard to fancy under 159 lb after 44 days off."},
+    {"horse_id": "hrs_50433019", "horse": "Glitz And Glamour", "chance_pct": 3.8, "reason": "Comment: modest form, 167 lb and 49-day absence temper enthusiasm."},
+    {"horse_id": "hrs_46547228", "horse": "Girl of Gold", "chance_pct": 2.4, "reason": "303 days off and 168 lb top weight per comment."},
+    {"horse_id": "hrs_34542557", "horse": "No No Fizz", "chance_pct": 1.5, "reason": "Pulled up in two of last three, including last time, with 166 lb."}
+  ], "checks": [
+    {"horse_id": "hrs_33096490", "horse": "Market House", "verdict": "BET", "reason": "Comment positive: fit after 13 days, placed last time, proven at trip; trainer 7/34."}
+  ]},
+  {"race_id": "rac_32304559053", "changes": [
+    {"horse_id": "hrs_51558199", "horse": "Ionian", "chance_pct": 21.0, "reason": "Comment: 200-day absence and seventh last time out hardly screams sharpness."},
+    {"horse_id": "hrs_47685050", "horse": "Crest of Stars", "chance_pct": 19.5, "reason": "Comment: cracking form (2nd, 3rd, won) and fit after 11 days."},
+    {"horse_id": "hrs_26988360", "horse": "Icare Grandchamp", "chance_pct": 14.5, "reason": "Comment concern: 226-day absence with 164 lb."},
+    {"horse_id": "hrs_34073221", "horse": "Siam Park", "chance_pct": 7.2, "reason": "Winless in last five, fifth last time out."}
+  ], "checks": [
+    {"horse_id": "hrs_51558199", "horse": "Ionian", "verdict": "SKIP", "reason": "Card doubts: 200 days off and seventh last time out."}
+  ]},
+  {"race_id": "rac_32304560990", "changes": [
+    {"horse_id": "hrs_33051522", "horse": "Norman Fletcher", "chance_pct": 23.0, "reason": "Comment flags quick return after just three days."},
+    {"horse_id": "hrs_58715293", "horse": "Dragons And Demons", "chance_pct": 4.5, "reason": "247 days off, beaten in three runs before last win."},
+    {"horse_id": "hrs_29636516", "horse": "Percy Shelley", "chance_pct": 4.2, "reason": "Comment: slipped to sixth, 162 lb after 37 days a lot to ask."},
+    {"horse_id": "hrs_22871975", "horse": "Jaramillo", "chance_pct": 2.8, "reason": "Comment: won last time, third before, in good heart and proven at trip."},
+    {"horse_id": "hrs_41191346", "horse": "Tonaghneave Well", "chance_pct": 0.5, "reason": "Winless in last six, unplaced last time."}
+  ], "checks": [
+    {"horse_id": "hrs_52495359", "horse": "Kamille Au Kanada", "verdict": "BET", "reason": "Four wins in last five, proven at trip; trainer 4/25; no card doubt."}
+  ]},
+  {"race_id": "rac_32304562927", "changes": [
+    {"horse_id": "hrs_51988888", "horse": "Golly Gosh", "chance_pct": 32.0, "reason": "Comment notes quick return just three days after last run."},
+    {"horse_id": "hrs_52772209", "horse": "Anothermanicmonday", "chance_pct": 19.0, "reason": "Comment: patchy form, hard to fancy carrying 146 lb off 74."},
+    {"horse_id": "hrs_41597129", "horse": "Jurassic Pet", "chance_pct": 9.0, "reason": "Comment: 46-day absence, 166 lb, winless in last four."},
+    {"horse_id": "hrs_36386938", "horse": "Ephyra", "chance_pct": 5.8, "reason": "Reliability risk: pulled up two and three starts back."}
+  ], "checks": []},
+  {"race_id": "rac_32304564864", "changes": [
+    {"horse_id": "hrs_29621977", "horse": "Daring Plan", "chance_pct": 25.5, "reason": "Comment: cracking form (2nd, won, won) and proven at trip."},
+    {"horse_id": "hrs_29327151", "horse": "Back It Up", "chance_pct": 22.5, "reason": "Visor first time; trainer 7/34 in 14 days."},
+    {"horse_id": "hrs_24819662", "horse": "Walkinthewoods", "chance_pct": 14.5, "reason": "Reliability risk: refusal, fall and unseat in last five."}
+  ], "checks": []},
+  {"race_id": "rac_32304566801", "changes": [
+    {"horse_id": "hrs_32682566", "horse": "Bobbi's Beauty", "chance_pct": 16.5, "reason": "Comment: cracking form, won last time, fresh after seven days."},
+    {"horse_id": "hrs_46449809", "horse": "Graeme The Grey", "chance_pct": 10.5, "reason": "Comment: going the wrong way (7th, 6th), hard to fancy under 156 lb."},
+    {"horse_id": "hrs_37489753", "horse": "Giddyupadingdong", "chance_pct": 11.0, "reason": "Returns from 124 days off, winless in last five."},
+    {"horse_id": "hrs_40899593", "horse": "Sense of Reason", "chance_pct": 9.0, "reason": "Pulled up last time, winless in five, 168 lb; trainer 0/7."}
+  ], "checks": [
+    {"horse_id": "hrs_30175705", "horse": "Kotari", "verdict": "BET", "reason": "Comment positive: consistent, fresh after 21 days, proven at trip; trainer 4/31."}
+  ]}
+]}

@@ -1,0 +1,63 @@
+{"meeting": "wolverhampton_aw", "races": [
+  {"race_id": "rac_32304568738", "changes": [
+    {"horse_id": "hrs_17392057025", "horse": "Time Teller", "chance_pct": 12.0, "reason": "Comment: in cracking nick with two seconds in last two, only 13 days since last run, has run over trip and going."},
+    {"horse_id": "hrs_64324610", "horse": "Harry's Pop", "chance_pct": 8.5, "reason": "Comment: 38 days off and 135 lb from draw 8 temper the case."},
+    {"horse_id": "hrs_64555652", "horse": "Pon Pon Dalia", "chance_pct": 9.5, "reason": "Comment: eighth last time out and returns after 44 days off."},
+    {"horse_id": "hrs_64621620", "horse": "Sue's Last Chance", "chance_pct": 4.8, "reason": "Comment: winless in last six, only one top-three finish, hard to fancy."},
+    {"horse_id": "hrs_63742049", "horse": "Romeo Guest", "chance_pct": 4.5, "reason": "Comment: winless in last three and 47-day break adds to the doubt."},
+    {"horse_id": "hrs_65710848", "horse": "Angel Ang", "chance_pct": 1.4, "reason": "Comment: hard to fancy after sliding to eighth last time out."}
+  ], "checks": [
+    {"horse_id": "hrs_64168013", "horse": "Lord Ragnar", "verdict": "BET", "reason": "Comment is positive: consistent, third last time, placed in four of last six, fresh after 19 days with trip and going experience; no specific doubt."}
+  ]},
+  {"race_id": "rac_32304570675", "changes": [], "checks": []},
+  {"race_id": "rac_32304896091", "changes": [], "checks": []},
+  {"race_id": "rac_32304572612", "changes": [], "checks": []},
+  {"race_id": "rac_32304574549", "changes": [
+    {"horse_id": "hrs_29918651", "horse": "Rhythm N Hooves", "chance_pct": 13.5, "reason": "Comment: in cracking nick, won last time out and second two starts back, proven at trip and going."},
+    {"horse_id": "hrs_39192048", "horse": "Rosenpur", "chance_pct": 6.0, "reason": "Comment: sixth last time and ninth three back, consistency a worry."},
+    {"horse_id": "hrs_38089191", "horse": "El Bufalo", "chance_pct": 4.5, "reason": "Comment: winless in last six and returns after 140 days off, hard to fancy."},
+    {"horse_id": "hrs_35040019", "horse": "Betsen", "chance_pct": 3.8, "reason": "Comment: recent slide, eighth last time and ninth before that."}
+  ], "checks": [
+    {"horse_id": "hrs_35459018", "horse": "Tan Rapido", "verdict": "BET", "reason": "Comment is positive: second last time, winner two back, 13 days since run, proven at trip and going; no specific doubt."}
+  ]},
+  {"race_id": "rac_32304576486", "changes": [
+    {"horse_id": "hrs_37276246", "horse": "Giorgio M", "chance_pct": 3.0, "reason": "Comment: 137-day absence after a ninth last time out, winless in last six."},
+    {"horse_id": "hrs_36062047", "horse": "Lessay", "chance_pct": 2.4, "reason": "Comment: hard to fancy after eighth last time out and a 52-day break."},
+    {"horse_id": "hrs_31069367", "horse": "Royal Jet", "chance_pct": 1.0, "reason": "Comment: well beaten in last two, ninth then unplaced."},
+    {"horse_id": "hrs_27372471", "horse": "Assessment", "chance_pct": 0.8, "reason": "Comment: 753-day absence and a ninth last time out."}
+  ], "checks": [
+    {"horse_id": "hrs_20260646", "horse": "Intervention", "verdict": "BET", "reason": "Comment calls patchy earlier form his only blemish; form 703012 with a second last time, no specific reason to doubt."}
+  ]},
+  {"race_id": "rac_32304578423", "changes": [
+    {"horse_id": "hrs_52329578", "horse": "R P McMurphy", "chance_pct": 15.0, "reason": "Comment: hard to fancy at 137 lb off a mark of 70."},
+    {"horse_id": "hrs_41662271", "horse": "Yehudi", "chance_pct": 9.5, "reason": "Comment: in fine heart, won last time out and three starts back, proven at trip and going."},
+    {"horse_id": "hrs_36454103", "horse": "Danehill Star", "chance_pct": 7.5, "reason": "Comment: cracking form, second last time, third two back, winner three and four back, proven at trip and going."},
+    {"horse_id": "hrs_63809431", "horse": "West Byfleet", "chance_pct": 6.5, "reason": "Comment: fading, unplaced last time after a sixth, winless in last six."},
+    {"horse_id": "hrs_46233817", "horse": "Criminal Shore", "chance_pct": 8.0, "reason": "Comment: winless in last six and looks a mid-pack type at 134 lb."},
+    {"horse_id": "hrs_55454084", "horse": "Lahan Kingman", "chance_pct": 5.0, "reason": "Comment: winless in last six, seventh last time out and 132 lb from stall 7 temper the case."},
+    {"horse_id": "hrs_35137410", "horse": "Rating", "chance_pct": 2.2, "reason": "Comment: beaten seventh last time, hard to fancy with one win in last six."}
+  ], "checks": [
+    {"horse_id": "hrs_52329578", "horse": "R P McMurphy", "verdict": "SKIP", "reason": "Comment gives a specific doubt: hard to fancy carrying 137 lb off a mark of 70."}
+  ]},
+  {"race_id": "rac_32304580360", "changes": [
+    {"horse_id": "hrs_50755425", "horse": "Camino Del Ray", "chance_pct": 6.0, "reason": "Comment: won last time out, two wins in last six, fresh 17-day gap, proven at trip and going."},
+    {"horse_id": "hrs_23962127", "horse": "Cosmos Raj", "chance_pct": 5.8, "reason": "Comment: sound form, runner-up in last two, proven at trip and going."},
+    {"horse_id": "hrs_49142723", "horse": "Felix Gem", "chance_pct": 9.5, "reason": "Comment: unplaced last time out and returns after 46 days off."},
+    {"horse_id": "hrs_41325396", "horse": "Mr Nugget", "chance_pct": 5.8, "reason": "Comment: winless in last six, fifth/ninth/sixth recently, hard to fancy off 130 lb."},
+    {"horse_id": "hrs_35651518", "horse": "Paladin", "chance_pct": 4.8, "reason": "Comment: nothing better than ninth since a second five starts back."},
+    {"horse_id": "hrs_57718710", "horse": "Romance Spirit", "chance_pct": 2.8, "reason": "Comment: yet to win and returns after 195 days off."},
+    {"horse_id": "hrs_21857024", "horse": "Farasi Lane", "chance_pct": 2.8, "reason": "Comment: 68-day layoff after a sixth and an eighth."},
+    {"horse_id": "hrs_65224803", "horse": "Livemore", "chance_pct": 2.0, "reason": "Comment: unplaced last time, sixth before, returns after 52 days off."}
+  ], "checks": [
+    {"horse_id": "hrs_59216227", "horse": "Ted Le Saux", "verdict": "BET", "reason": "Comment notes only a general consistency risk; third last time out with no specific reason to doubt."}
+  ]},
+  {"race_id": "rac_32304582297", "changes": [
+    {"horse_id": "hrs_51491552", "horse": "Havachoc", "chance_pct": 11.0, "reason": "Comment: winless in last six, only a third last time to show, hard to fancy."},
+    {"horse_id": "hrs_23264549", "horse": "It's A Love Thing", "chance_pct": 11.5, "reason": "Comment: solid form (4th, 2nd, 3rd in last three), proven at trip; trainer 5/24 in 14 days."},
+    {"horse_id": "hrs_44721754", "horse": "Kathleen Mary", "chance_pct": 5.6, "reason": "Comment: second last time out, a clear step up, has run over trip and going."},
+    {"horse_id": "hrs_21938392", "horse": "The Bay Warrior", "chance_pct": 4.8, "reason": "Comment: winless in last six, unplaced last time out 54 days ago."},
+    {"horse_id": "hrs_23055956", "horse": "Tiger Beetle", "chance_pct": 4.3, "reason": "Comment: only seventh last time out, hard to fancy on this evidence."},
+    {"horse_id": "hrs_56278243", "horse": "Hellion", "chance_pct": 1.2, "reason": "Comment: disappointing latest run, carrying 138 lb after 39 days off."},
+    {"horse_id": "hrs_35039361", "horse": "Rogue Sea", "chance_pct": 1.0, "reason": "Comment: form line of fading finishes."}
+  ], "checks": []}
+]}
