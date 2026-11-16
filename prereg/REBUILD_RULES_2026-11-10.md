@@ -50,3 +50,18 @@ New CHECK rule:
 Value flags unchanged (still need a Matchbook price). Estimate on sealed data: 11 Nov 9 of 13 checks would pass the
 price/not-marked-down part (3 won, +1.0 pt), 12 Nov 7 of 11 - verdicts were given under the old instruction, so not exact.
 Review: after 150 settled CHECK BETs, or earlier at the user's request.
+
+## Amendment 16 Nov 2026 23:30 Budapest (user-approved, before any 17 Nov data) - applies from 17 Nov
+Reason: live 13-16 Nov the rebuilt reviewer's CHECK BETs went 3/25 (market expected 5.6, A/E 0.53) vs the old
+pipeline's 8/26 (A/E 1.41, 5-9 Nov); the old reviewer's packets carried model/pace/figure data, the rebuilt ones only
+card comments. Change (packet content only; no threshold, price or selection rule changes):
+- Each race gets a "DATA pace" line (rebuilt early-position model's shape label and note).
+- Each runner gets "DATA" lines from store/DAY/model.json: rebuilt form-model win chance (no market input), run style
+  and lead share, runs in our data, last three runs (date, course, trip, going, pos/n, performance figure), and the
+  model's derived for/against facts (figures vs field/mark, trainer 14d, trip wins, pace fit, jumping errors,
+  RaceIQ last-run finishing speed, breaks, lightly raced).
+- Header tells the reviewer what the DATA lines are and that the model is one opinion, not the answer.
+- Order: history update + `models.py run DAY` must run BEFORE `card_review.py prep DAY` (prep refuses otherwise).
+Known limitation: RaceData history rows have no horse id, so a same-name horse's runs can occasionally be mixed in.
+Unchanged: value-flag and CHECK rules, Matchbook price, exclusions, rating-sentence filter, MinPrices.
+Review with the CHECK BET review (50 settled CHECK BETs, then 150).

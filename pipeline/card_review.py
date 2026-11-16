@@ -37,12 +37,16 @@ You are a racing form reviewer. Use ONLY this packet. For every race:
 1. Start from each runner's MARKET chance (the sharp-weighted 09:00 price, in %).
 2. Change a runner's chance ONLY where the card below gives a specific reason: recent form figures, a comment
    or spotlight line, official rating (OR) vs today's weight, days since last run, trainer's 14-day record,
-   headgear or wind surgery first time, draw, trip/going/course clues in the comment. Give a one-line reason
+   headgear or wind surgery first time, draw, trip/going/course clues in the comment, and the DATA lines
+   (rebuilt form model, last three runs with figures, run style and race pace, finishing speed). Give a one-line reason
    that names the card fact. No reason on the card = no change. Do not use outside knowledge of the horses.
 3. Keep changes moderate: normally within 0.67x to 1.5x of the market chance; never beyond 0.33x to 3x.
    Totals do not need to add to 100; they are rescaled afterwards.
+   DATA lines come from our own models, not the card: "model" is a form-only win chance (it ignores the market, so
+   treat it as one opinion, not the answer); "fig" is a performance figure (higher = better) for that past run;
+   "for"/"against" are derived facts (figures vs field, vs mark, pace fit, jumping errors, finishing speed).
 4. Runners marked CHECK are the market favourite. Give a verdict, BET or SKIP, with a one-line reason:
-   BET unless the card gives a specific reason to doubt the favourite (then lower its chance and SKIP).
+   BET unless the card or the DATA lines give a specific reason to doubt the favourite (then lower its chance and SKIP).
    You do not need to do any price arithmetic; the price check (skip line shown) is applied afterwards.
 
 Write valid JSON to the out path you were given, exactly this shape (use the exact race_id and horse_id values):
@@ -58,9 +62,13 @@ def fmt(x, nd=2):
     return "-" if x is None else f"{x:.{nd}f}"
 
 
-def prep(day):
+def prep(day, allow_no_model=False):
     card = load_card(day)
     outdir = p("store", day, "review")
+    mf = p("store", day, "model.json")
+    if not os.path.exists(mf) and not allow_no_model:
+        sys.exit(f"no {mf}: run `python3 pipeline/models.py run {day}` first (amended rule 16 Nov: packets carry model/pace/figure data)")
+    model = json.load(open(mf))["races"] if os.path.exists(mf) else {}
     os.makedirs(outdir, exist_ok=True)
     meetings = {}
     by_course = {}
@@ -76,6 +84,9 @@ def prep(day):
             lines.append(f"\n## {r['off_time']} {course} | race_id {r['race_id']} | {r['race_name']}")
             lines.append(f"{r.get('type')} | {r.get('race_class')} | {r.get('distance')} | going {r.get('going')} | "
                          f"{r.get('surface')} | {len(r['runners'])} runners | rating band {r.get('rating_band') or '-'} | age {r.get('age_band')}")
+            mr = model.get(r["race_id"], {})
+            if mr.get("shape"):
+                lines.append(f"DATA pace: {mr['shape']['label']} - {mr['shape']['note']}")
             for h in sorted(r["runners"], key=lambda h: -(mk[h["horse_id"]]["mkt"] or 0)):
                 m = mk[h["horse_id"]]
                 is_chk = (fav is h and len(r["runners"]) >= 5 and m["median"] and 3.0 <= m["median"] <= 7.0)
@@ -91,6 +102,17 @@ def prep(day):
                 txt = strip_own_ratings(h.get("spotlight") or h.get("comment") or "")
                 if txt:
                     lines.append(f"    comment: {txt}")
+                md = (mr.get("runners") or {}).get(h["horse_id"])
+                if md:
+                    runs = "; ".join(f"{x['date']} {x['course']} {x['dist']} {x['going']} {x['pos']}/{x['n']}"
+                                     + (f" fig {x['fig']}" if x.get("fig") is not None else "") for x in md.get("hist", [])) or "none in our data"
+                    lines.append(f"    DATA: model {100 * md['p']:.1f}% | style {md['style']}"
+                                 + (f" (led {100 * md['lead']:.0f}% of runs)" if md.get("lead") is not None else "")
+                                 + f" | runs in data {md.get('runs')} | last 3: {runs}")
+                    if md.get("pros"):
+                        lines.append("    DATA for: " + "; ".join(md["pros"]))
+                    if md.get("cons"):
+                        lines.append("    DATA against: " + "; ".join(md["cons"]))
         inp, out = os.path.join(outdir, f"in_{key}.md"), os.path.join(outdir, f"out_{key}.json")
         with open(inp, "w") as f:
             f.write("\n".join(lines) + "\n")

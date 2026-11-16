@@ -24,6 +24,10 @@ files in data/history/ (only changed months are rewritten). Never commit files >
 - Big MCP results are saved to the tool-results folder; pass that saved file path to the scripts.
 
 ## Daily build (08:35 UK; = UTC in winter, 07:35 UTC in summer)
+ORDER FROM 17 NOV (packets carry model data): 0 restore -> 1 settle yesterday (get_results; save_res; settle; multiples
+settle; angle settle) -> 1b history build + raceiq.py -> 2 card (save_card) -> models.py run DAY -> 3 prep/review/seal
+-> bot file -> multiples build -> publish -> angle pick -> page. If yesterday's results are slow, history can be built
+from what is there; never skip models.py run (prep refuses without store/DAY/model.json).
 Order: 0, 1, 1b, 2, 3, 4, 4b, 5, 6. Seal now validates the reviewer output (non-CHECK verdicts ignored, BET re-tested, races
 off before the seal excluded; WARNING lines must be read and reported). The bot file refuses to build without SEAL.txt and
 drops races off within 5 minutes.
