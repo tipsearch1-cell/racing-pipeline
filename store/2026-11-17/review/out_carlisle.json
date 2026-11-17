@@ -1,0 +1,62 @@
+{"meeting": "carlisle", "races": [
+  {"race_id": "rac_32304640407", "changes": [
+    {"horse_id": "hrs_47985665", "horse": "They're Chancers", "chance_pct": 19.5, "reason": "Returns from a 323-day break, longest of the main contenders, with no runs in data (model 5.1%)."},
+    {"horse_id": "hrs_51831409", "horse": "Coconut Man", "chance_pct": 16.0, "reason": "Faded last run (-2.6% finishing speed, 8/9), 213-day break and first run over hurdles."},
+    {"horse_id": "hrs_58963058", "horse": "Ar Ais Aris", "chance_pct": 15.5, "reason": "Race-fit (33 days), 2nd last time with fig 101, trainer 9/37 in 14 days."},
+    {"horse_id": "hrs_60787685", "horse": "Galatrona", "chance_pct": 14.0, "reason": "Won last run and finished strongly (+7.2% finishing speed); 7lb mares' allowance."}
+  ], "checks": [
+    {"horse_id": "hrs_47985665", "horse": "They're Chancers", "verdict": "SKIP", "reason": "323-day absence and no form in data gives a specific doubt at the head of the market."}
+  ]},
+  {"race_id": "rac_32304642344", "changes": [
+    {"horse_id": "hrs_44975007", "horse": "Bossman Jack", "chance_pct": 50.0, "reason": "Jumping mistakes in 4 of last 4, first run over fences, likely taken on for the lead in a strong pace, 220-day break."},
+    {"horse_id": "hrs_46108132", "horse": "A Pai de Nom", "chance_pct": 11.0, "reason": "Finished strongly (+5.6%), has won at trip, midfield style suits contested lead (model 26.6%)."},
+    {"horse_id": "hrs_39568298", "horse": "Swindon Village", "chance_pct": 4.5, "reason": "Faded last run (18/22), jumping mistakes in 2 of 4, likely taken on for the lead."}
+  ], "checks": []},
+  {"race_id": "rac_32304987130", "changes": [
+    {"horse_id": "hrs_412693631", "horse": "Throatlash", "chance_pct": 21.0, "reason": "Lone habitual front-runner likely to get an uncontested lead; has won at this trip or further."}
+  ], "checks": []},
+  {"race_id": "rac_32304644281", "changes": [
+    {"horse_id": "hrs_17394719804", "horse": "St Michael's Well", "chance_pct": 14.5, "reason": "Best recent figure 102, 12 lb above field average, and race-fit (17 days); prominent in a slow pace."},
+    {"horse_id": "hrs_44975168", "horse": "Royal March", "chance_pct": 4.5, "reason": "Fig 98, 8 lb above field average, run 24 days ago; prominent style suits steady pace."},
+    {"horse_id": "hrs_58347534", "horse": "Pedro The Poet", "chance_pct": 3.8, "reason": "Best figure 70 is 20 lb below field average; held-up horse in a steady pace, first hurdles run."},
+    {"horse_id": "hrs_45856041", "horse": "Bohemond Antioch", "chance_pct": 10.0, "reason": "Faded last run (-6.4%, 7/8) and returns from a 214-day break."}
+  ], "checks": []},
+  {"race_id": "rac_32304646218", "changes": [
+    {"horse_id": "hrs_16762907", "horse": "Coventry", "chance_pct": 16.5, "reason": "Won last time out 17 days ago over 24.5f (fig 83), has won at this trip."},
+    {"horse_id": "hrs_34457038", "horse": "Junior des Mottes", "chance_pct": 13.0, "reason": "Lone front-runner may get an uncontested lead; has won at this trip, consistent placings."},
+    {"horse_id": "hrs_56338324", "horse": "Hopeless Dancer", "chance_pct": 4.8, "reason": "Recent figures 14 lb below his mark and faded last run (8/9)."},
+    {"horse_id": "hrs_23274181", "horse": "Shoeshine Boy", "chance_pct": 5.0, "reason": "Comment notes he has tailed off: pulled up then 12/13 last time."},
+    {"horse_id": "hrs_23500365", "horse": "Shighness", "chance_pct": 2.8, "reason": "Fell and unseated in last two, 182-day absence, trainer 0/15 in 14 days."},
+    {"horse_id": "hrs_29295336", "horse": "Prince des Fichaux", "chance_pct": 1.5, "reason": "571 days off after being pulled up; trainer 0/15 in 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_44295426", "horse": "King Berry", "verdict": "BET", "reason": "First-time tongue tie and cheekpieces, finished strongly last run, trainer 2/8 and 6 lb below average weight; no specific doubt."}
+  ]},
+  {"race_id": "rac_32304648155", "changes": [
+    {"horse_id": "hrs_24277197", "horse": "Doyen du Bar", "chance_pct": 24.0, "reason": "Top weight 170lb after a 262-day break, aged 10, likely taken on for the lead in a strong pace."},
+    {"horse_id": "hrs_49544306", "horse": "Razors Edge", "chance_pct": 15.5, "reason": "Comment calls the 323-day absence a big question mark; no data runs (model 4.6%)."},
+    {"horse_id": "hrs_32682636", "horse": "Double Digits", "chance_pct": 11.0, "reason": "Best recent figure 111, 13 lb above field average, consistent and race-fit (30 days)."},
+    {"horse_id": "hrs_22488018", "horse": "Rewired", "chance_pct": 3.2, "reason": "Recent figs 102/104 and a contested lead should suit his hold-up style."},
+    {"horse_id": "hrs_26782931", "horse": "Two Auld Pals", "chance_pct": 3.0, "reason": "Figures 11 lb below mark, faded last run, likely taken on for the lead."},
+    {"horse_id": "hrs_40806241", "horse": "Dee's Getaway", "chance_pct": 1.8, "reason": "Recent figures 19 lb below her mark, 9/9 last time."},
+    {"horse_id": "hrs_37613569", "horse": "How About No", "chance_pct": 1.2, "reason": "Pulled up in last two jumps runs and returns from a 208-day break."}
+  ], "checks": []},
+  {"race_id": "rac_32304650092", "changes": [
+    {"horse_id": "hrs_59491838", "horse": "Holeheartedly", "chance_pct": 15.5, "reason": "Recent figures 18 lb below his mark, best fig 71 (14 lb below field), faded last run, poor recent positions."},
+    {"horse_id": "hrs_44015860", "horse": "Bruce Banner", "chance_pct": 16.0, "reason": "2nd over C&D 8 days ago with fig 103, 18 lb above field average; prominent in a slow pace."},
+    {"horse_id": "hrs_57718731", "horse": "Le Fabuleux Buck's", "chance_pct": 7.5, "reason": "Faded badly last run (-8.5%), top weight and a 236-day break."},
+    {"horse_id": "hrs_23596636", "horse": "Les's Legacy", "chance_pct": 4.6, "reason": "Fig 92 (7 lb above field average) when 3rd 10 days ago."},
+    {"horse_id": "hrs_38417155", "horse": "Breadalbane Lass", "chance_pct": 4.5, "reason": "Prominent style favoured by slow pace, won 3 starts back, 7 lb below average weight."},
+    {"horse_id": "hrs_27237546", "horse": "Raffles Wonder", "chance_pct": 4.6, "reason": "Held up in a likely steady pace, faded last run, 182-day break, aged 9."},
+    {"horse_id": "hrs_20663776", "horse": "Justus", "chance_pct": 2.3, "reason": "Figures 11 lb below his mark; trainer 0/15 in 14 days."},
+    {"horse_id": "hrs_50188523", "horse": "Bollin Skittle", "chance_pct": 2.2, "reason": "241-day break and hold-up style in a steady pace."}
+  ], "checks": [
+    {"horse_id": "hrs_59491838", "horse": "Holeheartedly", "verdict": "SKIP", "reason": "Recent figures 18 lb below his mark and a string of unplaced runs; model only 3.9%."}
+  ]},
+  {"race_id": "rac_32304652029", "changes": [
+    {"horse_id": "hrs_30941071", "horse": "Mr Lincoln", "chance_pct": 25.0, "reason": "Trainer 0 from 9 in 14 days; comment flags mixed form and 164lb off 101."},
+    {"horse_id": "hrs_24263708", "horse": "Cuzco du Mathan", "chance_pct": 11.5, "reason": "Hold-up style in a steady pace; recent runs 7/7, 8/8 before a 3rd."},
+    {"horse_id": "hrs_40473216", "horse": "Galidam", "chance_pct": 10.0, "reason": "269-day absence and trainer 0/15 in 14 days."},
+    {"horse_id": "hrs_34253688", "horse": "Tommys Law", "chance_pct": 10.0, "reason": "Unseated last time out, winless in last five."},
+    {"horse_id": "hrs_23796381", "horse": "Divas Doyen", "chance_pct": 6.0, "reason": "Finished strongly last run (+2.2%) and carries 15 lb less than average."}
+  ], "checks": []}
+]}

@@ -1,0 +1,72 @@
+{"meeting": "limerick", "races": [
+  {"race_id": "rac_32304686895", "changes": [
+    {"horse_id": "hrs_17391069304", "horse": "Con Did It", "chance_pct": 12.5, "reason": "Trainer 0 wins from 9 runs in last 14 days; model 8.9% well below market"},
+    {"horse_id": "hrs_52496241", "horse": "Western Note", "chance_pct": 8.5, "reason": "Returns from a 534-day break, form 6P-"},
+    {"horse_id": "hrs_39699051", "horse": "Attaho", "chance_pct": 4.5, "reason": "Returns from a 386-day break, last run pulled up"},
+    {"horse_id": "hrs_17393382678", "horse": "Storm Bresie", "chance_pct": 4.5, "reason": "Trainer 0 wins from 24 runs in last 14 days"},
+    {"horse_id": "hrs_57878149", "horse": "Aint Over Yet", "chance_pct": 4.5, "reason": "Best recent figure 88, 6 lb above field average, and gets 7 lb mares' allowance"},
+    {"horse_id": "hrs_63650139", "horse": "Eagle Doll", "chance_pct": 1.4, "reason": "Best figure 72, 10 lb below field; PU and UR in last 3; trainer 0/9"}
+  ], "checks": []},
+  {"race_id": "rac_32304688832", "changes": [
+    {"horse_id": "hrs_47620930", "horse": "Detroit Maverick", "chance_pct": 34.0, "reason": "First-time tongue tie, fig 99 last time and finished strongly"},
+    {"horse_id": "hrs_39996516", "horse": "Keep Kool Coko", "chance_pct": 8.5, "reason": "Returns from a 520-day break; trainer 0 wins from 13 in last 14 days"},
+    {"horse_id": "hrs_52417876", "horse": "Abando", "chance_pct": 9.5, "reason": "Consistent 3-4-2 recent form, model 19.6% well above market"},
+    {"horse_id": "hrs_49757778", "horse": "Le Vent d'Ex", "chance_pct": 9.0, "reason": "Best recent figure 103, 6 lb above field average, when second last time"},
+    {"horse_id": "hrs_52451686", "horse": "Ludus Magnus", "chance_pct": 6.0, "reason": "Best figure 90, 7 lb below field average; unseated in last 3"},
+    {"horse_id": "hrs_51185855", "horse": "Colossal Impact", "chance_pct": 3.0, "reason": "Trainer 0 wins from 24 runs in last 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32304690769", "changes": [
+    {"horse_id": "hrs_40786669", "horse": "Cathryns Ruby", "chance_pct": 21.0, "reason": "Won last time with fig 106, 19 lb above field average; trainer 1/5"},
+    {"horse_id": "hrs_412712069", "horse": "Galileo Springs", "chance_pct": 11.0, "reason": "Fell last time; best recent figure 65, 37 lb below her mark"},
+    {"horse_id": "hrs_49609049", "horse": "Mercurial Sea", "chance_pct": 11.5, "reason": "Winless in last five and absent 60 days per comment"},
+    {"horse_id": "hrs_39469129", "horse": "Kate Knows Best", "chance_pct": 8.0, "reason": "Trainer 0 wins from 12 in last 14 days; two falls in last five"},
+    {"horse_id": "hrs_37790102", "horse": "Shesakindofmagic", "chance_pct": 6.0, "reason": "Returns from a 171-day break, pulled up last time"}
+  ], "checks": [
+    {"horse_id": "hrs_40786669", "horse": "Cathryns Ruby", "verdict": "BET", "reason": "Last-time winner with best figure in field by 19 lb and proven at trip; no specific negative beyond weight"}
+  ]},
+  {"race_id": "rac_32304692706", "changes": [
+    {"horse_id": "hrs_49974519", "horse": "The Monkey Pole", "chance_pct": 31.0, "reason": "Figures of 100 in last two, 12 lb above field; prominent racer suits slow pace"},
+    {"horse_id": "hrs_35446369", "horse": "Theanniversary Man", "chance_pct": 14.0, "reason": "Hold-up horse in slow-pace race; best figure 80, 8 lb below field; winless in five"},
+    {"horse_id": "hrs_64555071", "horse": "Dunmore", "chance_pct": 6.5, "reason": "Finished 7-6-7 in last three; model 2.8%"},
+    {"horse_id": "hrs_42073787", "horse": "Makaiah", "chance_pct": 7.0, "reason": "82-day absence, ninth last time, first run over hurdles in data"},
+    {"horse_id": "hrs_47620902", "horse": "Nothing Da Now", "chance_pct": 5.5, "reason": "Pulled up in last two, including two days ago; hold-up style in slow pace"},
+    {"horse_id": "hrs_40918668", "horse": "Devine Genius", "chance_pct": 2.6, "reason": "Jumping mistakes in 2 of last 4; hold-up style in slow pace"}
+  ], "checks": []},
+  {"race_id": "rac_32304985193", "changes": [
+    {"horse_id": "hrs_55061601", "horse": "Talas Kera", "chance_pct": 12.5, "reason": "Won last time with fig 87, best recent figure among the principals"},
+    {"horse_id": "hrs_34166587", "horse": "Agent Tequila", "chance_pct": 6.8, "reason": "Recent figures 6 lb below mark; hold-up style in slow pace"},
+    {"horse_id": "hrs_58565444", "horse": "Solar Generation", "chance_pct": 4.8, "reason": "Recent figures 11 lb below mark; hold-up in slow pace"},
+    {"horse_id": "hrs_34253730", "horse": "Zolpharine", "chance_pct": 5.3, "reason": "Trainer 0 wins from 12 in last 14 days"},
+    {"horse_id": "hrs_36970332", "horse": "Johnny Cakes", "chance_pct": 5.0, "reason": "Trainer 0 wins from 24 in last 14 days; hold-up in slow pace"},
+    {"horse_id": "hrs_36095465", "horse": "Calzaghi", "chance_pct": 4.0, "reason": "Recent figures 9 lb below mark, string of ninths"},
+    {"horse_id": "hrs_34652751", "horse": "Jacenry", "chance_pct": 2.2, "reason": "Returns from a 751-day break after F and PU"}
+  ], "checks": [
+    {"horse_id": "hrs_52897285", "horse": "The Cobblers Wife", "verdict": "BET", "reason": "Second last time, finished strongly (+6.1%), has won at this trip; no specific reason to doubt"}
+  ]},
+  {"race_id": "rac_32304694643", "changes": [
+    {"horse_id": "hrs_40553555", "horse": "Jonzac", "chance_pct": 10.5, "reason": "Returns from 257-day break, pulled up in 2 of last 4, poor finishing positions, model 1.1%"},
+    {"horse_id": "hrs_50667400", "horse": "Kayla's Friend", "chance_pct": 11.0, "reason": "Second last time with fig 96 and finished strongly"},
+    {"horse_id": "hrs_18645599", "horse": "Cahirdown Boy", "chance_pct": 9.5, "reason": "Fig 96 last time, consistent recent placings, quick return"},
+    {"horse_id": "hrs_38433507", "horse": "Depalma", "chance_pct": 5.4, "reason": "First three in each of last six, fig 96, has won at the trip; model 10.1%"},
+    {"horse_id": "hrs_56590926", "horse": "Bridge View Star", "chance_pct": 5.5, "reason": "Recent figures 11 lb below mark; unseated two runs back"},
+    {"horse_id": "hrs_41033804", "horse": "Portetta", "chance_pct": 4.0, "reason": "Trainer 0 wins from 11 in last 14 days; unseated last time"}
+  ], "checks": [
+    {"horse_id": "hrs_40553555", "horse": "Jonzac", "verdict": "SKIP", "reason": "257-day break, pulled up in 2 of last 4 runs and model only 1.1%"}
+  ]},
+  {"race_id": "rac_32304696580", "changes": [
+    {"horse_id": "hrs_36878835", "horse": "Cock And Bull", "chance_pct": 15.5, "reason": "Winless in four, faded last time (-3.1%), carries 13 lb more than average"},
+    {"horse_id": "hrs_52742032", "horse": "Political Stance", "chance_pct": 10.5, "reason": "Won last time with fig 93, 10 lb above field average"},
+    {"horse_id": "hrs_39959332", "horse": "Chanceitlucky", "chance_pct": 8.8, "reason": "Won last time over 3m, finished strongly; trainer 1/1 last 14 days"},
+    {"horse_id": "hrs_30567950", "horse": "Shotgun Jack", "chance_pct": 8.0, "reason": "Fig 96 when second last time, 13 lb above field average"},
+    {"horse_id": "hrs_50036315", "horse": "Creadan Grace", "chance_pct": 4.8, "reason": "Returns from a 138-day break"},
+    {"horse_id": "hrs_34457150", "horse": "Vision De Maine", "chance_pct": 3.5, "reason": "Pulled up in each of last three jumps runs"},
+    {"horse_id": "hrs_34859867", "horse": "Hakensack", "chance_pct": 2.2, "reason": "157-day break, PU and UR last two, trainer 0/24"}
+  ], "checks": []},
+  {"race_id": "rac_32304698517", "changes": [
+    {"horse_id": "hrs_63776335", "horse": "Marble Hill", "chance_pct": 29.0, "reason": "Best recent figure 103, 15 lb above field average; prominent racer suits slow pace"},
+    {"horse_id": "hrs_61456143", "horse": "Todo Bien", "chance_pct": 15.0, "reason": "Returns from a 197-day break after sixth last time"},
+    {"horse_id": "hrs_40880077", "horse": "Native Deal", "chance_pct": 9.0, "reason": "304-day absence; hold-up style in slow pace"},
+    {"horse_id": "hrs_17395470764", "horse": "Fred Mooser", "chance_pct": 9.5, "reason": "Unraced; trainer 0 wins from 8 in last 14 days"},
+    {"horse_id": "hrs_59928687", "horse": "Hoof And Hustle", "chance_pct": 2.8, "reason": "Best figure 76, 12 lb below field; hold-up in slow pace"}
+  ], "checks": []}
+]}
