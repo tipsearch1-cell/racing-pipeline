@@ -286,6 +286,139 @@
    "future": true,
    "important": false,
    "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304688832|hrs_52417876",
+   "text": "12:40 Limerick: Abando now a non-runner. Re-worked market: Detroit Maverick 39%, Ludus Magnus 16%, Burning Like Fire 12%, Keep Kool Coko 8%",
+   "future": false,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "go|rac_32304987130|Soft",
+   "text": "12:50 Carlisle: going changed from  to Soft",
+   "future": false,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304690769|hrs_37790102",
+   "text": "1:10 Limerick: Shesakindofmagic now a non-runner. Re-worked market: Jumbos Jet 20%, Galileo Springs 20%, Cathryns Ruby 19%, Kate Knows Best 12%",
+   "future": false,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "aff|rac_32304690769|hrs_40786669|1",
+   "text": "1:10 Limerick: bet/leg Cathryns Ruby runs on in a race with a new non-runner",
+   "future": false,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "go|rac_32304644281|Soft",
+   "text": "1:25 Carlisle: going changed from  to Soft",
+   "future": false,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304692706|hrs_64555071",
+   "text": "1:40 Limerick: Dunmore now a non-runner. Re-worked market: The Monkey Pole 37%, Theanniversary Man 20%, Frontier Rose 17%, Makaiah 8%",
+   "future": false,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "go|rac_32304646218|Soft",
+   "text": "1:55 Carlisle: going changed from  to Soft",
+   "future": false,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304646218|hrs_23433627",
+   "text": "1:55 Carlisle: Half Track now a non-runner. Re-worked market: King Berry 21%, Coventry 15%, Junior des Mottes 12%, Ebselysees 11%",
+   "future": false,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "aff|rac_32304646218|hrs_44295426|1",
+   "text": "1:55 Carlisle: bet/leg King Berry runs on in a race with a new non-runner",
+   "future": false,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "go|rac_32304648155|Soft",
+   "text": "2:25 Carlisle: going changed from  to Soft",
+   "future": true,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304648155|hrs_37613569",
+   "text": "2:25 Carlisle: How About No now a non-runner. Re-worked market: Doyen du Bar 26%, Razors Edge 21%, Double Digits 10%, Dark Tide Rising 9%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "go|rac_32304650092|Soft",
+   "text": "3:00 Carlisle: going changed from  to Soft",
+   "future": true,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304650092|hrs_44015860",
+   "text": "3:00 Carlisle: Bruce Banner now a non-runner. Re-worked market: Holeheartedly 34%, Knockeranna Rose 18%, Le Fabuleux Buck's 16%, Les's Legacy 7%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304650092|hrs_45982223",
+   "text": "3:00 Carlisle: Walk On Son now a non-runner. Re-worked market: Holeheartedly 34%, Knockeranna Rose 18%, Le Fabuleux Buck's 16%, Les's Legacy 7%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304650092|hrs_37289532",
+   "text": "3:00 Carlisle: Ribble River now a non-runner. Re-worked market: Holeheartedly 34%, Knockeranna Rose 18%, Le Fabuleux Buck's 16%, Les's Legacy 7%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304696580|hrs_52708992",
+   "text": "3:15 Limerick: Prophetess Miriam now a non-runner. Re-worked market: Cock And Bull 18%, Political Stance 15%, Shotgun Jack 15%, Jolly Potter 14%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "go|rac_32304652029|Good To Soft",
+   "text": "3:30 Carlisle: going changed from  to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "14:01"
+  },
+  {
+   "key": "nr|rac_32304657840|hrs_34775195",
+   "text": "5:30 Southwell (AW): Charlie's Choice now a non-runner. Re-worked market: Almekarem 24%, Fahidi 21%, Without Compromise 14%, Redbud Sixteen 11%",
+   "future": true,
+   "important": false,
+   "at": "14:01"
+  },
+  {
+   "key": "aff|rac_32304657840|hrs_53359579|2",
+   "text": "5:30 Southwell (AW): bet/leg Almekarem runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "14:01"
   }
  ]
 }
