@@ -1,0 +1,291 @@
+{
+ "events": [
+  {
+   "key": "go|rac_32304640407|Good To Soft",
+   "text": "11:50 Carlisle: going changed from  to Good To Soft",
+   "future": false,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304686895|Heavy",
+   "text": "12:10 Limerick: going changed from Yielding to Heavy",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304642344|Good",
+   "text": "12:20 Carlisle: going changed from  to Good",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304688832|Heavy",
+   "text": "12:40 Limerick: going changed from Yielding to Heavy",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304688832|hrs_64780996",
+   "text": "12:40 Limerick: Saoirses Choice now a non-runner. Re-worked market: Detroit Maverick 40%, Burning Like Fire 12%, Keep Kool Coko 11%, Ludus Magnus 10%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304987130|Good To Soft",
+   "text": "12:50 Carlisle: going changed from  to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304690769|Heavy",
+   "text": "1:10 Limerick: going changed from Yielding to Heavy",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304644281|Good To Soft",
+   "text": "1:25 Carlisle: going changed from  to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304692706|Heavy",
+   "text": "1:40 Limerick: going changed from Yielding to Heavy",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304646218|Good To Soft",
+   "text": "1:55 Carlisle: going changed from  to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304985193|Heavy",
+   "text": "2:10 Limerick: going changed from Yielding to Heavy",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304985193|hrs_55061601",
+   "text": "2:10 Limerick: Talas Kera now a non-runner. Re-worked market: The Cobblers Wife 26%, Ardera Gun 18%, Mellem 9%, Johnny Cakes 8%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304985193|hrs_58565444",
+   "text": "2:10 Limerick: Solar Generation now a non-runner. Re-worked market: The Cobblers Wife 26%, Ardera Gun 18%, Mellem 9%, Johnny Cakes 8%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304985193|hrs_34166587",
+   "text": "2:10 Limerick: Agent Tequila now a non-runner. Re-worked market: The Cobblers Wife 26%, Ardera Gun 18%, Mellem 9%, Johnny Cakes 8%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304985193|hrs_25810771",
+   "text": "2:10 Limerick: Good Bye Milan now a non-runner. Re-worked market: The Cobblers Wife 26%, Ardera Gun 18%, Mellem 9%, Johnny Cakes 8%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "aff|rac_32304985193|hrs_52897285|4",
+   "text": "2:10 Limerick: bet/leg The Cobblers Wife runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304648155|Good To Soft",
+   "text": "2:25 Carlisle: going changed from  to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304694643|Heavy",
+   "text": "2:40 Limerick: going changed from Yielding to Heavy",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304694643|hrs_30541336",
+   "text": "2:40 Limerick: Kalsman now a non-runner. Re-worked market: Jonzac 17%, Kayla's Friend 9%, Portetta 8%, Lord De Choisel 8%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304694643|hrs_34002983",
+   "text": "2:40 Limerick: No Big Deal now a non-runner. Re-worked market: Jonzac 17%, Kayla's Friend 9%, Portetta 8%, Lord De Choisel 8%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304650092|Good To Soft",
+   "text": "3:00 Carlisle: going changed from  to Good To Soft",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304650092|hrs_29509676",
+   "text": "3:00 Carlisle: National Question now a non-runner. Re-worked market: Holeheartedly 18%, Bruce Banner 13%, Knockeranna Rose 12%, Le Fabuleux Buck's 10%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304650092|hrs_412652912",
+   "text": "3:00 Carlisle: Snapaudaciaheros now a non-runner. Re-worked market: Holeheartedly 18%, Bruce Banner 13%, Knockeranna Rose 12%, Le Fabuleux Buck's 10%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304696580|Heavy",
+   "text": "3:15 Limerick: going changed from Yielding to Heavy",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304696580|hrs_39959332",
+   "text": "3:15 Limerick: Chanceitlucky now a non-runner. Re-worked market: Jolly Potter 13%, Cock And Bull 12%, Shotgun Jack 12%, Political Stance 11%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304696580|hrs_59928666",
+   "text": "3:15 Limerick: Scathach now a non-runner. Re-worked market: Jolly Potter 13%, Cock And Bull 12%, Shotgun Jack 12%, Political Stance 11%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304696580|hrs_45855348",
+   "text": "3:15 Limerick: Chasing Crowns now a non-runner. Re-worked market: Jolly Potter 13%, Cock And Bull 12%, Shotgun Jack 12%, Political Stance 11%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304696580|hrs_54432483",
+   "text": "3:15 Limerick: Fervida now a non-runner. Re-worked market: Jolly Potter 13%, Cock And Bull 12%, Shotgun Jack 12%, Political Stance 11%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304652029|Good",
+   "text": "3:30 Carlisle: going changed from  to Good",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "go|rac_32304698517|Heavy",
+   "text": "3:50 Limerick: going changed from Yielding to Heavy",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304698517|hrs_59928687",
+   "text": "3:50 Limerick: Hoof And Hustle now a non-runner. Re-worked market: Marble Hill 34%, Todo Bien 23%, Fred Mooser 16%, Native Deal 12%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304698517|hrs_39996607",
+   "text": "3:50 Limerick: Some See Stars now a non-runner. Re-worked market: Marble Hill 34%, Todo Bien 23%, Fred Mooser 16%, Native Deal 12%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304698517|hrs_17394810545",
+   "text": "3:50 Limerick: Cant Stopthe Clock now a non-runner. Re-worked market: Marble Hill 34%, Todo Bien 23%, Fred Mooser 16%, Native Deal 12%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304698517|hrs_17390837758",
+   "text": "3:50 Limerick: Moot Hall now a non-runner. Re-worked market: Marble Hill 34%, Todo Bien 23%, Fred Mooser 16%, Native Deal 12%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304657840|hrs_45475682",
+   "text": "5:30 Southwell (AW): Ashnak now a non-runner. Re-worked market: Almekarem 26%, Fahidi 19%, Without Compromise 11%, Redbud Sixteen 9%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "aff|rac_32304657840|hrs_53359579|1",
+   "text": "5:30 Southwell (AW): bet/leg Almekarem runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304659777|hrs_63742119",
+   "text": "6:00 Southwell (AW): Bintnaseefa now a non-runner. Re-worked market: Danseuse 28%, Don't Hurry Love 27%, Allaire 14%, Seacole 10%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304663651|hrs_39961068",
+   "text": "7:30 Southwell (AW): Cairdeas now a non-runner. Re-worked market: Edmond Halley 23%, It'sneverjustone 20%, Strong Voice 17%, Oh So Perfect 13%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "aff|rac_32304663651|hrs_41189694|1",
+   "text": "7:30 Southwell (AW): bet/leg Edmond Halley runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304665588|hrs_17393973016",
+   "text": "8:00 Southwell (AW): Hal'way The Lads now a non-runner. Re-worked market: Hayate 64%, Miss Deeds 17%, Lehbab Prince 8%, Blue Cascade 4%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  },
+  {
+   "key": "nr|rac_32304667525|hrs_41782741",
+   "text": "8:30 Southwell (AW): Veydari now a non-runner. Re-worked market: Methgal 19%, Courageous Sioux 12%, Goldwork 12%, Amazonian Dream 11%",
+   "future": true,
+   "important": false,
+   "at": "12:01"
+  }
+ ]
+}
