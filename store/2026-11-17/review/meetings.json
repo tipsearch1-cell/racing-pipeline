@@ -1,0 +1,23 @@
+{
+ "carlisle": {
+  "course": "Carlisle",
+  "in": "/home/claude/racing-pipeline/store/2026-11-17/review/in_carlisle.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-17/review/out_carlisle.json",
+  "races": 8,
+  "checks": 3
+ },
+ "limerick": {
+  "course": "Limerick",
+  "in": "/home/claude/racing-pipeline/store/2026-11-17/review/in_limerick.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-17/review/out_limerick.json",
+  "races": 8,
+  "checks": 3
+ },
+ "southwell_aw": {
+  "course": "Southwell (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-17/review/in_southwell_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-17/review/out_southwell_aw.json",
+  "races": 9,
+  "checks": 7
+ }
+}
