@@ -41,6 +41,27 @@
    "future": true,
    "important": true,
    "at": "12:02"
+  },
+  {
+   "key": "nr|rac_32304733383|hrs_17395447818",
+   "text": "2:48 Ffos Las: Doagh now a non-runner. Re-worked market: Merry Away 70%, Valiant Soldier 14%, Funny Hunny 7%, Karamel Biscuits 3%",
+   "future": true,
+   "important": false,
+   "at": "14:00"
+  },
+  {
+   "key": "nr|rac_32304723698|hrs_22111432",
+   "text": "8:00 Kempton (AW): Mister Bluebird now a non-runner. Re-worked market: Enacting 19%, Pinatubo's Legacy 16%, Caragio 16%, I'm Workin On It 14%",
+   "future": true,
+   "important": false,
+   "at": "14:00"
+  },
+  {
+   "key": "aff|rac_32304723698|hrs_52615122|1",
+   "text": "8:00 Kempton (AW): bet/leg Society Kiss runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "14:00"
   }
  ]
 }
