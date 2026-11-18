@@ -1,0 +1,46 @@
+{
+ "events": [
+  {
+   "key": "nr|rac_32304741131|hrs_18504633",
+   "text": "3:00 Dundalk (AW): Free Solo now a non-runner. Re-worked market: Jazzit 19%, Imperial Dream 12%, Four Blondes 11%, Blue Anthem 10%",
+   "future": true,
+   "important": false,
+   "at": "12:02"
+  },
+  {
+   "key": "aff|rac_32304741131|hrs_47868625|1",
+   "text": "3:00 Dundalk (AW): bet/leg Jazzit runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:02"
+  },
+  {
+   "key": "nr|rac_32304737257|hrs_31835195",
+   "text": "3:48 Ffos Las: Bahtiyar now a non-runner. Re-worked market: Unleash The Beast 20%, Devilsrollthedice 14%, Seasett 12%, Pooroldmackley 10%",
+   "future": true,
+   "important": false,
+   "at": "12:02"
+  },
+  {
+   "key": "nr|rac_32304750816|hrs_41596842",
+   "text": "5:40 Dundalk (AW): Local Lad now a non-runner. Re-worked market: Prada's World 21%, One Cool County 14%, Robot Rock 12%, Medieval Night 10%",
+   "future": true,
+   "important": false,
+   "at": "12:02"
+  },
+  {
+   "key": "aff|rac_32304750816|hrs_43418130|1",
+   "text": "5:40 Dundalk (AW): bet/leg Medieval Night runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:02"
+  },
+  {
+   "key": "aff|rac_32304750816|hrs_45007403|1",
+   "text": "5:40 Dundalk (AW): bet/leg Prada's World runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "12:02"
+  }
+ ]
+}
