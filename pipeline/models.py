@@ -224,14 +224,17 @@ def run_day(day, card=None, oos=False):
                 style = "Leader" if sc >= 3.2 else "Prominent" if sc >= 2.4 else "Midfield" if sc >= 1.6 else "Held up"  # tuned to old labels 26 Oct-9 Nov
                 lead = round((sum(c == "Leader" for c in cls) + 0.15) / (len(cls) + 1), 3)
             last3 = past.tail(3)
-            hist = [{"date": fmt_date(x.date), "course": x.course, "dist": f"{x.dist_f:g}f" if pd.notna(x.dist_f) else "",
+            hist = [{"date": fmt_date(x.date), "course": x.course, "type": x.type if isinstance(x.type, str) else "", "dist": f"{x.dist_f:g}f" if pd.notna(x.dist_f) else "",
                      "going": x.going if isinstance(x.going, str) else "", "pos": str(x.pos), "n": int(x.n) if pd.notna(x.n) else None,
                      "tfig": None, "spd": None if (pd.isna(x.spd) or x.src != "api") else int(x.spd), "fig": None if pd.isna(x.fig) else int(x.fig)}
                     for x in last3.itertuples()]
             rr[h["horse_id"]] = {"p": float(xr.p.get(h["horse_id"], 0)), "style": style, "lead": lead, "sc": None if sc is None else round(float(sc), 3), "nled": sum(c == "Leader" for c in cls), "ncls": len(cls), "runs": int(len(past)),
                                  "hist": hist, "_past": past}
         # race-level figure context
-        figs = {k: v["_past"].tail(3).fig.max() for k, v in rr.items()}
+        jfam = ("Hurdle", "Chase", "NH Flat")
+        same_code = (lambda d: d[d.type.isin(jfam)]) if jumps else (lambda d: d[~d.type.isin(jfam)])
+        # figures only from runs in the same code (jumps vs Flat): the two scales are not comparable (fix 18 Nov)
+        figs = {k: same_code(v["_past"]).tail(3).fig.max() for k, v in rr.items()}
         figs = {k: v for k, v in figs.items() if pd.notna(v)}
         favg = np.mean(list(figs.values())) if len(figs) >= 3 else None
         ors = [pd.to_numeric(h.get("ofr"), errors="coerce") for h in r["runners"]]

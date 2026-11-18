@@ -1,0 +1,49 @@
+{"meeting": "hexham", "races": [
+  {"race_id": "rac_32304700454", "changes": [
+    {"horse_id": "hrs_51831766", "horse": "Eagle Warrior", "chance_pct": 25.0, "reason": "Best recent figure 116 (14 lb above field) when 2nd at Carlisle; trainer 3/10 last 14 days"},
+    {"horse_id": "hrs_64968085", "horse": "Koa Beau", "chance_pct": 0.9, "reason": "Best figure 91, 11 lb below field; trainer 0/14; faded last run; hurdles debut"}
+  ], "checks": []},
+  {"race_id": "rac_32304702391", "changes": [
+    {"horse_id": "hrs_38433563", "horse": "Derryhassen Paddy", "chance_pct": 44.0, "reason": "Held-up type in a race expected to be steadily run, hard to close from off the pace"},
+    {"horse_id": "hrs_34525736", "horse": "Julius des Pictons", "chance_pct": 26.0, "reason": "Returns from a 593-day break, fitness a question"},
+    {"horse_id": "hrs_29522815", "horse": "Pinot Rouge", "chance_pct": 1.5, "reason": "OR 112, 18 lb below field average; pulled up last time after 108-day absence"}
+  ], "checks": []},
+  {"race_id": "rac_32305037492", "changes": [
+    {"horse_id": "hrs_53147948", "horse": "De Deli Counter", "chance_pct": 21.0, "reason": "Habitual leader likely taken on in a contested strong pace, carrying 168 lb (13 lb above average)"},
+    {"horse_id": "hrs_26473223", "horse": "Wind Your Neck In", "chance_pct": 11.0, "reason": "Beaten in last two (5th, 6th), 163 lb, and likely taken on for the lead"},
+    {"horse_id": "hrs_23558521", "horse": "Lewa House", "chance_pct": 4.5, "reason": "OR 69, 17 lb below field; 8th last time, PU two back, poor recent positions"},
+    {"horse_id": "hrs_50339793", "horse": "Jedhi Knight", "chance_pct": 2.0, "reason": "Recent figures 9 lb below his mark; jumping mistakes in 2 of last 3"},
+    {"horse_id": "hrs_23119810", "horse": "Solway Primrose", "chance_pct": 0.7, "reason": "Pulled up in last three starts, returns from 343 days, aged 12"}
+  ], "checks": [
+    {"horse_id": "hrs_53147948", "horse": "De Deli Counter", "verdict": "SKIP", "reason": "Strong contested pace with 3 front-runners works against a leader carrying 168 lb"}
+  ]},
+  {"race_id": "rac_32304704328", "changes": [
+    {"horse_id": "hrs_50433208", "horse": "Je Mr Dawson", "chance_pct": 15.0, "reason": "Returns from 228 days, winless in last four, model only 5.6%"},
+    {"horse_id": "hrs_34860210", "horse": "Shadow Chaser", "chance_pct": 9.5, "reason": "288-day break and faded last run (-6.5% finishing speed)"},
+    {"horse_id": "hrs_29523151", "horse": "Jeepydoff Meel", "chance_pct": 8.0, "reason": "Best figure 68, 10 lb below field; OR 15 lb below average; refused two starts back"},
+    {"horse_id": "hrs_38579338", "horse": "Pepite de Saphir", "chance_pct": 8.5, "reason": "First-time hood and tongue-tie; best recent figure 85, 7 lb above field"},
+    {"horse_id": "hrs_30123065", "horse": "Wise Move", "chance_pct": 4.5, "reason": "Pulled up in each of last three starts; trainer 0/8"}
+  ], "checks": [
+    {"horse_id": "hrs_50402429", "horse": "Ratemenow", "verdict": "BET", "reason": "Two recent seconds, OR 10 lb above field, finished strongly last time; model 23.3% supports market"}
+  ]},
+  {"race_id": "rac_32304706265", "changes": [
+    {"horse_id": "hrs_34253198", "horse": "Wal Buck's", "chance_pct": 25.0, "reason": "Lone habitual leader likely to get an easy uncontested lead; trainer 9/42 last 14 days"},
+    {"horse_id": "hrs_32415614", "horse": "Torosay", "chance_pct": 8.0, "reason": "Recent figures 8 lb below her mark; comment flags 142 lb off 93 as a big ask"}
+  ], "checks": [
+    {"horse_id": "hrs_34253198", "horse": "Wal Buck's", "verdict": "BET", "reason": "Only front-runner in the race with OR 10 lb above field and in-form stable"}
+  ]},
+  {"race_id": "rac_32304708202", "changes": [
+    {"horse_id": "hrs_34373773", "horse": "Kinbara Firstdraft", "chance_pct": 14.5, "reason": "Held-up type in a race expected to be steadily run; winless in six, best figure came over hurdles"},
+    {"horse_id": "hrs_50188397", "horse": "Drop Kick", "chance_pct": 11.0, "reason": "First run over fences; recent figures 6 lb below his mark"},
+    {"horse_id": "hrs_38433437", "horse": "King of Cong", "chance_pct": 8.0, "reason": "Pulled up in last three, returns from 186 days, trainer 0/8"},
+    {"horse_id": "hrs_59367266", "horse": "Colonel Jack", "chance_pct": 3.5, "reason": "Pulled up in 2 of last 3 jumps runs; first run over fences"},
+    {"horse_id": "hrs_50667316", "horse": "Order Another One", "chance_pct": 3.0, "reason": "Held up in a steadily run race; first run over fences; slipped to 6th last time"}
+  ], "checks": [
+    {"horse_id": "hrs_34373773", "horse": "Kinbara Firstdraft", "verdict": "SKIP", "reason": "Held-up style against a steady tactical pace, winless in six, chase figure only 82"}
+  ]},
+  {"race_id": "rac_32304710139", "changes": [
+    {"horse_id": "hrs_17395538559", "horse": "Max Potential", "chance_pct": 36.0, "reason": "Fell on only start, 255-day absence, trainer 0/11 last 14 days"},
+    {"horse_id": "hrs_17395537516", "horse": "Browney Bank", "chance_pct": 17.5, "reason": "Trainer 2/5 (40%) last 14 days"},
+    {"horse_id": "hrs_64360905", "horse": "Mortgage Man", "chance_pct": 5.0, "reason": "Finished strongly on debut (+5.5% finishing speed); model 20.6%"}
+  ], "checks": []}
+]}

@@ -1,0 +1,30 @@
+{
+ "hexham": {
+  "course": "Hexham",
+  "in": "/home/claude/racing-pipeline/store/2026-11-18/review/in_hexham.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-18/review/out_hexham.json",
+  "races": 7,
+  "checks": 4
+ },
+ "ffos_las": {
+  "course": "Ffos Las",
+  "in": "/home/claude/racing-pipeline/store/2026-11-18/review/in_ffos_las.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-18/review/out_ffos_las.json",
+  "races": 7,
+  "checks": 2
+ },
+ "dundalk_aw": {
+  "course": "Dundalk (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-18/review/in_dundalk_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-18/review/out_dundalk_aw.json",
+  "races": 8,
+  "checks": 5
+ },
+ "kempton_aw": {
+  "course": "Kempton (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-18/review/in_kempton_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-18/review/out_kempton_aw.json",
+  "races": 9,
+  "checks": 3
+ }
+}

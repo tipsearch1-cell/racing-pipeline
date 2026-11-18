@@ -43,7 +43,8 @@ You are a racing form reviewer. Use ONLY this packet. For every race:
 3. Keep changes moderate: normally within 0.67x to 1.5x of the market chance; never beyond 0.33x to 3x.
    Totals do not need to add to 100; they are rescaled afterwards.
    DATA lines come from our own models, not the card: "model" is a form-only win chance (it ignores the market, so
-   treat it as one opinion, not the answer); "fig" is a performance figure (higher = better) for that past run;
+   treat it as one opinion, not the answer); "fig" is a performance figure (higher = better) for that past run - Flat and jumps (Hurdle/Chase/NH Flat)
+   figures are on different scales, so only compare figures from the same code as today's race;
    "for"/"against" are derived facts (figures vs field, vs mark, pace fit, jumping errors, finishing speed).
 4. Runners marked CHECK are the market favourite. Give a verdict, BET or SKIP, with a one-line reason:
    BET unless the card or the DATA lines give a specific reason to doubt the favourite (then lower its chance and SKIP).
@@ -104,7 +105,7 @@ def prep(day, allow_no_model=False):
                     lines.append(f"    comment: {txt}")
                 md = (mr.get("runners") or {}).get(h["horse_id"])
                 if md:
-                    runs = "; ".join(f"{x['date']} {x['course']} {x['dist']} {x['going']} {x['pos']}/{x['n']}"
+                    runs = "; ".join(f"{x['date']} {x['course']} {x.get('type', '')} {x['dist']} {x['going']} {x['pos']}/{x['n']}"
                                      + (f" fig {x['fig']}" if x.get("fig") is not None else "") for x in md.get("hist", [])) or "none in our data"
                     lines.append(f"    DATA: model {100 * md['p']:.1f}% | style {md['style']}"
                                  + (f" (led {100 * md['lead']:.0f}% of runs)" if md.get("lead") is not None else "")

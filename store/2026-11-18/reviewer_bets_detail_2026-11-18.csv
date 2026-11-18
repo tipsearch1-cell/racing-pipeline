@@ -1,0 +1,14 @@
+OffUK,StartTimeUTC,Course,SelectionName,Code,Source,MorningMedian,MinPrice,BestPrice9am,Matchbook9am,ReviewerChancePct,MarketChancePct,Reason,Status
+14:00,2026-11-18T14:00:00+00:00,Dundalk (AW),Coloursofthewind,Flat,CHECK verdict BET,3.75,3.56,5.0,5.0,17.68,17.33,Debut figure 65 is 15 lb above field average and finished strongly over C&D; wide draw 17 is the only niggle,EXCLUDED - unknown runner(s) or off before seal
+14:08,2026-11-18T14:08:00+00:00,Hexham,Ratemenow,Jumps,CHECK verdict BET,3.5,3.32,4.7,4.7,25.79,21.61,"Two recent seconds, OR 10 lb above field, finished strongly last time; model 23.3% supports market",BOT FILE
+14:30,2026-11-18T14:30:00+00:00,Dundalk (AW),Pocket Jacks,Flat,CHECK verdict BET,3.5,3.32,3.65,3.65,23.0,21.24,Last-time C&D winner with the joint-best figure and a run style that fits the expected pace,BOT FILE
+14:38,2026-11-18T14:38:00+00:00,Hexham,Wal Buck's,Jumps,CHECK verdict BET,3.75,3.56,4.4,4.4,25.0,22.75,Only front-runner in the race with OR 10 lb above field and in-form stable,BOT FILE
+15:00,2026-11-18T15:00:00+00:00,Dundalk (AW),Jazzit,Flat,CHECK verdict BET,4.0,3.8,4.1,4.1,18.0,16.26,"Top figure in field, consistent C&D form and finished strongly last time",BOT FILE
+16:00,2026-11-18T16:00:00+00:00,Dundalk (AW),Subtle Shade,Flat,reviewer BET flag,15.0,22.22,48.0,48.0,4.5,3.38,"Improved to fig 55 over C&D 7 days ago, finished strongly +3.9%; model 9%",EXCLUDED - unknown runner(s) or off before seal
+16:30,2026-11-18T16:30:00+00:00,Dundalk (AW),Real Force,Flat,reviewer BET flag,21.0,22.22,24.0,24.0,4.5,3.36,"Recent figures 76/72, 6 lb above current mark",BOT FILE
+17:07,2026-11-18T17:07:00+00:00,Dundalk (AW),Kimy,Flat,reviewer BET flag,11.0,11.11,18.0,18.0,9.0,6.43,"Flat figure 66, 22 lb above field average; model 25.9%",BOT FILE
+17:30,2026-11-18T17:30:00+00:00,Kempton (AW),Divine Whisper,Flat,CHECK verdict BET,3.0,2.85,3.35,3.35,33.3,28.78,"Top-rated (OR 86, 7 lb above field), regular frame-finisher, trainer 1/5, model 34.5% above market",BOT FILE
+17:40,2026-11-18T17:40:00+00:00,Dundalk (AW),Medieval Night,Flat,reviewer BET flag,7.0,8.33,8.4,8.4,12.0,9.47,"Best figure 65, 21 lb above average and 11 lb above mark; prominent racer",BOT FILE
+17:40,2026-11-18T17:40:00+00:00,Dundalk (AW),Prada's World,Flat,CHECK verdict BET,4.0,3.8,4.6,4.6,18.48,17.1,"Fig 55, 11 lb above field average and 4 lb above mark, trainer 2/8 last 14 days",BOT FILE
+19:00,2026-11-18T19:00:00+00:00,Kempton (AW),Ebt's Guard,Flat,reviewer BET flag,10.0,10.53,13.0,13.0,9.5,7.45,"Best figure 107 (14 lb above field), finished strongly, placed last three; model 16.8%",BOT FILE
+20:00,2026-11-18T20:00:00+00:00,Kempton (AW),Society Kiss,Flat,reviewer BET flag,17.0,18.18,27.0,27.0,5.5,4.14,"Won last time, figure 86 (8 lb above field), finished strongly",BOT FILE

@@ -1,0 +1,66 @@
+{"meeting": "dundalk_aw", "races": [
+  {"race_id": "rac_32304739194", "changes": [
+    {"horse_id": "hrs_17394337023", "horse": "Celtic Comet", "chance_pct": 19.5, "reason": "Best figure in field (71, 21 lb above field average) on only run"},
+    {"horse_id": "hrs_66272178", "horse": "Jezzie Bea", "chance_pct": 9.5, "reason": "Consistent 443 form, first-time cheekpieces, model 12.8%"},
+    {"horse_id": "hrs_17391063046", "horse": "Miss Cashman Hooke", "chance_pct": 13.5, "reason": "Last of 10 last time, 67 days off, model only 7.5%"}
+  ], "checks": [
+    {"horse_id": "hrs_17392883081", "horse": "Coloursofthewind", "verdict": "BET", "reason": "Fig 65 (15 lb above field) and finished strongly on debut; no specific negative beyond inexperience"}
+  ]},
+  {"race_id": "rac_32305039429", "changes": [
+    {"horse_id": "hrs_35040054", "horse": "The Bear Trap", "chance_pct": 18.0, "reason": "Won last time (fig 59), prominent in slow-pace race, trainer 4/17 in 14 days"},
+    {"horse_id": "hrs_65869475", "horse": "Strikepoint", "chance_pct": 8.5, "reason": "Best recent fig only 47, winless in six, model 6.2%"},
+    {"horse_id": "hrs_24819501", "horse": "Pinar Del Rio", "chance_pct": 5.5, "reason": "Poor recent finishes and hold-up style in slow-pace race"},
+    {"horse_id": "hrs_59246964", "horse": "Sayonara", "chance_pct": 1.4, "reason": "Figures 15 lb below mark, trainer 0/14 in 14 days, faded last time"},
+    {"horse_id": "hrs_18518927", "horse": "Notforalongtime", "chance_pct": 2.4, "reason": "Faded last time, 70 days off, held up in slow-pace race"},
+    {"horse_id": "hrs_44450672", "horse": "Profit Surge", "chance_pct": 1.1, "reason": "Trainer 0/11 in 14 days, poor recent finishes"}
+  ], "checks": [
+    {"horse_id": "hrs_59025295", "horse": "Pocket Jacks", "verdict": "BET", "reason": "Won last time with fig 59 (12 lb above field), finished strongly, prominent style suits slow pace"}
+  ]},
+  {"race_id": "rac_32304741131", "changes": [
+    {"horse_id": "hrs_43951131", "horse": "Blue Anthem", "chance_pct": 11.0, "reason": "Fig 57 last time, trainer 4/17 in 14 days, model 15%"},
+    {"horse_id": "hrs_44232720", "horse": "Akashaa", "chance_pct": 5.0, "reason": "Best fig 34 (13 lb below field), figures below mark, model 2.8%"},
+    {"horse_id": "hrs_18504633", "horse": "Free Solo", "chance_pct": 6.5, "reason": "Fig 67 two runs back, 12 lb well handicapped"},
+    {"horse_id": "hrs_57816185", "horse": "She's On The Ball", "chance_pct": 9.0, "reason": "Unplaced last time, recent figures 6 lb below mark"},
+    {"horse_id": "hrs_47744214", "horse": "Volendam", "chance_pct": 1.8, "reason": "Last of 13 with fig 14 last time, 39 lb below mark"}
+  ], "checks": [
+    {"horse_id": "hrs_47868625", "horse": "Jazzit", "verdict": "BET", "reason": "Figs 56/60 with 1-2 at course and trip, finished strongly last time, model agrees"}
+  ]},
+  {"race_id": "rac_32304743068", "changes": [
+    {"horse_id": "hrs_66272227", "horse": "Rock On Johnny", "chance_pct": 29.0, "reason": "Top weight 12 lb above average after win, fig 30 two runs back; model only 16.4%"},
+    {"horse_id": "hrs_65869573", "horse": "Mutamarid Lsk", "chance_pct": 18.0, "reason": "Second last time with fig 55, model 22.8%"},
+    {"horse_id": "hrs_7000000518", "horse": "Dear Theodosia", "chance_pct": 12.5, "reason": "Recent figures 6 lb above mark, improving, model 15%"},
+    {"horse_id": "hrs_17391303979", "horse": "Zelente", "chance_pct": 7.5, "reason": "Hold-up style in slow-pace race"},
+    {"horse_id": "hrs_17392264582", "horse": "Maxims Of Equity", "chance_pct": 3.3, "reason": "Figures 11 lb below mark, held up in slow-pace race"}
+  ], "checks": []},
+  {"race_id": "rac_32304745005", "changes": [
+    {"horse_id": "hrs_17389044841", "horse": "Stooked", "chance_pct": 19.0, "reason": "Returns from 92-day break and faded last time"},
+    {"horse_id": "hrs_17391028627", "horse": "Brise Fraiche", "chance_pct": 9.5, "reason": "Only one run (6th), 92 days off, model 5.6%"},
+    {"horse_id": "hrs_17394487215", "horse": "Subtle Shade", "chance_pct": 5.0, "reason": "Improved to fig 55 and finished strongly 7 days ago, model 9%"},
+    {"horse_id": "hrs_53959997", "horse": "Silver Flash", "chance_pct": 2.8, "reason": "Returns from 516-day break"}
+  ], "checks": []},
+  {"race_id": "rac_32304746942", "changes": [
+    {"horse_id": "hrs_50282106", "horse": "Go Out", "chance_pct": 18.5, "reason": "Held up in a race expected to be slow-run, hard to close; best fig 69 below Golddream's 79"},
+    {"horse_id": "hrs_62779164", "horse": "Golddream", "chance_pct": 22.0, "reason": "Best fig 79 (15 lb above field), well handicapped, trainer 2/5 in 14 days"},
+    {"horse_id": "hrs_36207325", "horse": "Altimara", "chance_pct": 4.0, "reason": "Best fig 45, 17 lb below mark"},
+    {"horse_id": "hrs_40805534", "horse": "Usuario Amigo", "chance_pct": 4.3, "reason": "Figures 7 lb below mark, held up in slow-pace race"},
+    {"horse_id": "hrs_18323571", "horse": "Real Force", "chance_pct": 4.5, "reason": "Fig 76 recently, 6 lb well handicapped"},
+    {"horse_id": "hrs_50755446", "horse": "Karakula", "chance_pct": 2.0, "reason": "Best fig 48, 12 lb below mark"},
+    {"horse_id": "hrs_41189764", "horse": "Shamacid", "chance_pct": 4.3, "reason": "84 days off, trainer 0/10 in 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_50282106", "horse": "Go Out", "verdict": "SKIP", "reason": "Held-up runner in a slow/tactical pace setup and outscored on figures by Golddream"}
+  ]},
+  {"race_id": "rac_32304748879", "changes": [
+    {"horse_id": "hrs_58627324", "horse": "Rhapsodic", "chance_pct": 40.0, "reason": "Only one run (6th of 15, fig 56) at 9f, model 13.7%"},
+    {"horse_id": "hrs_37789969", "horse": "Kimy", "chance_pct": 9.5, "reason": "Fig 93 when third last time, good recent finishes, model 25.9%"},
+    {"horse_id": "hrs_66494008", "horse": "Blue Nasturtium", "chance_pct": 15.0, "reason": "Lone habitual leader, may get uncontested lead; OR 70"},
+    {"horse_id": "hrs_17391396806", "horse": "Kigalienne", "chance_pct": 5.0, "reason": "Last of 17 on only run, model 2.5%"}
+  ], "checks": []},
+  {"race_id": "rac_32304750816", "changes": [
+    {"horse_id": "hrs_53269181", "horse": "Robot Rock", "chance_pct": 9.5, "reason": "Trainer 0/10 in 14 days, held up in slow-pace race"},
+    {"horse_id": "hrs_43418130", "horse": "Medieval Night", "chance_pct": 11.5, "reason": "Fig 65 (21 lb above field), 11 lb well handicapped, prominent style suits pace"},
+    {"horse_id": "hrs_61078780", "horse": "Tempted Angel", "chance_pct": 4.8, "reason": "Trainer 0/8 in 14 days, model 2.9%"},
+    {"horse_id": "hrs_44450707", "horse": "Syosset", "chance_pct": 5.0, "reason": "61 days off, unplaced last time, trainer 0/10 in 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_45007403", "horse": "Prada's World", "verdict": "BET", "reason": "Second last time with fig 55, 4 lb well handicapped, trainer 2/8 in 14 days"}
+  ]}
+]}

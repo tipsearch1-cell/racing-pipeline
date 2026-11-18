@@ -65,3 +65,10 @@ card comments. Change (packet content only; no threshold, price or selection rul
 Known limitation: RaceData history rows have no horse id, so a same-name horse's runs can occasionally be mixed in.
 Unchanged: value-flag and CHECK rules, Matchbook price, exclusions, rating-sentence filter, MinPrices.
 Review with the CHECK BET review (50 settled CHECK BETs, then 150).
+
+## Implementation note 18 Nov 2026 08:40 UTC (no rule change)
+Bug in the 16 Nov DATA lines: "best recent form figure ... vs field" mixed jumps and Flat performance figures (different
+scales); e.g. Kimy (Dundalk Flat) showed a hurdle-race figure 93 as "45 lb above field". Fixed before publishing: figure
+comparisons use only runs of the same code as today's race, and each past run in the DATA line is labelled with its race
+type. The review was re-run (only Dundalk after fix 1, all meetings after fix 2); both earlier seals are kept in
+store/2026-11-18/review/first_seal_v1 and second_seal_v2. Only the third seal was published.

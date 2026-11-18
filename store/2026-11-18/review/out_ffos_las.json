@@ -1,0 +1,49 @@
+{"meeting": "ffos_las", "races": [
+  {"race_id": "rac_32305041366", "changes": [
+    {"horse_id": "hrs_50188922", "horse": "No Walkover", "chance_pct": 48.0, "reason": "Trainer 0/11 last 14 days, 284-day break and faded last run (-13.4% finishing speed)"},
+    {"horse_id": "hrs_51124878", "horse": "Bob Bishop", "chance_pct": 13.5, "reason": "Returns from a 574-day break"},
+    {"horse_id": "hrs_55091939", "horse": "Blinded By Grace", "chance_pct": 16.0, "reason": "Trainer 5/18 (28%) last 14 days, has won at the trip, model 20%"},
+    {"horse_id": "hrs_17394594644", "horse": "Jevon", "chance_pct": 5.5, "reason": "Trainer 19/80 (24%) last 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32304727572", "changes": [
+    {"horse_id": "hrs_49578214", "horse": "Quickkick", "chance_pct": 20.5, "reason": "Held-up runner in a race expected to be slow/tactical; trainer 1/20 last 14 days"},
+    {"horse_id": "hrs_17394104434", "horse": "Poets Express", "chance_pct": 11.0, "reason": "Prominent racer suits slow pace forecast; finished strongly (+2.8%) when second last time"}
+  ], "checks": []},
+  {"race_id": "rac_32304729509", "changes": [
+    {"horse_id": "hrs_412693498", "horse": "Sober Glory", "chance_pct": 35.5, "reason": "Comment flags 222-day break and stable out of form at 1/20"},
+    {"horse_id": "hrs_34961878", "horse": "Bobby's Nelson", "chance_pct": 2.2, "reason": "Wind surgery, trainer 19/80 in form, won two starts back; model 25%"}
+  ], "checks": []},
+  {"race_id": "rac_32304731446", "changes": [
+    {"horse_id": "hrs_38667223", "horse": "Wannabe", "chance_pct": 20.0, "reason": "Unseated last time and winless in last five per comment; model only 8.9%"},
+    {"horse_id": "hrs_47621091", "horse": "Walk Tall", "chance_pct": 12.5, "reason": "Comment: 168 lb off 100 is a stiff ask; unseated last time"},
+    {"horse_id": "hrs_50187858", "horse": "Cote d'Ange", "chance_pct": 10.0, "reason": "Comment: hard to fancy after 220 days off; first run over fences"},
+    {"horse_id": "hrs_57718745", "horse": "Glenmuick", "chance_pct": 4.0, "reason": "Recent figures 11 lb below mark, best figure 14 lb below field, faded last run"},
+    {"horse_id": "hrs_34238225", "horse": "Emailandy", "chance_pct": 6.5, "reason": "Best recent figure 100, 15 lb above field; third 14 days ago; trainer 3/11 in form"},
+    {"horse_id": "hrs_46013758", "horse": "Call Your Bluff", "chance_pct": 6.0, "reason": "Lone habitual front-runner may get uncontested lead; 11 lb less than average; trainer 3/13"},
+    {"horse_id": "hrs_35388990", "horse": "Gustoso", "chance_pct": 3.2, "reason": "Trainer 0/12 last 14 days, faded last run, 167 lb to carry"},
+    {"horse_id": "hrs_40942111", "horse": "Welcheston Warrier", "chance_pct": 3.5, "reason": "Placed in each of last three (2-2-3), rarely far away per comment; model 9.4%"}
+  ], "checks": [
+    {"horse_id": "hrs_38667223", "horse": "Wannabe", "verdict": "SKIP", "reason": "Unseated last time out and winless in five; jumping risk outweighs trainer form and first-time visor"}
+  ]},
+  {"race_id": "rac_32304733383", "changes": [
+    {"horse_id": "hrs_60250120", "horse": "Valiant Soldier", "chance_pct": 15.0, "reason": "Best recent figure 111, 14 lb above field average, already run over hurdles"},
+    {"horse_id": "hrs_17394111735", "horse": "Ignite The Spark", "chance_pct": 0.6, "reason": "Pulled up in both jumps runs, ran only 3 days ago"}
+  ], "checks": []},
+  {"race_id": "rac_32304735320", "changes": [
+    {"horse_id": "hrs_49974274", "horse": "For Old Times Sake", "chance_pct": 22.0, "reason": "Comment: well beaten lately; recent figures 10 lb below mark, best figure 14 lb below field"},
+    {"horse_id": "hrs_57909670", "horse": "No Boundaries", "chance_pct": 20.0, "reason": "Lone front-runner may get easy lead; best figure 12 lb above field; finished strongly"},
+    {"horse_id": "hrs_17392410602", "horse": "Lara K", "chance_pct": 3.0, "reason": "Figure 95 last time, 10 lb above field and 6 lb above mark (well handicapped)"},
+    {"horse_id": "hrs_61910625", "horse": "Teletime", "chance_pct": 3.8, "reason": "OR 19 lb below field average, poor recent finishing positions, faded"},
+    {"horse_id": "hrs_59460926", "horse": "Blazing Saint", "chance_pct": 5.0, "reason": "Ninth last time, faded -12.4%, 140-day absence"}
+  ], "checks": []},
+  {"race_id": "rac_32304737257", "changes": [
+    {"horse_id": "hrs_39109602", "horse": "Unleash The Beast", "chance_pct": 13.5, "reason": "Well held last three, 270-day break, top weight 168 lb, held-up style in slow-pace race"},
+    {"horse_id": "hrs_21995512", "horse": "Seasett", "chance_pct": 12.5, "reason": "Comment: main risk is 448-day absence"},
+    {"horse_id": "hrs_46697154", "horse": "Devilsrollthedice", "chance_pct": 10.0, "reason": "Comment: hard to fancy, pulled up twice recently, 220 days off, OR 8 lb below field"},
+    {"horse_id": "hrs_39414711", "horse": "Pooroldmackley", "chance_pct": 9.0, "reason": "Pulled up last time; held-up style with steady gallop expected"},
+    {"horse_id": "hrs_34948494", "horse": "Just Aidan", "chance_pct": 8.0, "reason": "Recent figures 8 lb below current mark"},
+    {"horse_id": "hrs_35150528", "horse": "Everyonesacritic", "chance_pct": 10.0, "reason": "Prominent racer suits slow pace, has won at trip or further, good recent placings"}
+  ], "checks": [
+    {"horse_id": "hrs_39109602", "horse": "Unleash The Beast", "verdict": "SKIP", "reason": "Well held last three, 270 days off, 13 lb more than average, held-up in a steady-pace race"}
+  ]}
+]}
