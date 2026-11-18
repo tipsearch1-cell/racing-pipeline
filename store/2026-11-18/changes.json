@@ -62,6 +62,62 @@
    "future": true,
    "important": true,
    "at": "14:00"
+  },
+  {
+   "key": "nr|rac_32304704328|hrs_34860210",
+   "text": "2:08 Hexham: Shadow Chaser now a non-runner. Re-worked market: Je Mr Dawson 24%, Ratemenow 23%, Dante's Inferno 14%, Jeepydoff Meel 10%",
+   "future": false,
+   "important": false,
+   "at": "16:00"
+  },
+  {
+   "key": "aff|rac_32304704328|hrs_50402429|1",
+   "text": "2:08 Hexham: bet/leg Ratemenow runs on in a race with a new non-runner",
+   "future": false,
+   "important": true,
+   "at": "16:00"
+  },
+  {
+   "key": "nr|rac_32304745005|hrs_17395283024",
+   "text": "4:00 Dundalk (AW): Pianello now a non-runner. Re-worked market: Stooked 31%, Otsana 28%, Transatlantico 13%, Brise Fraiche 10%",
+   "future": false,
+   "important": false,
+   "at": "16:00"
+  },
+  {
+   "key": "nr|rac_32304746942|hrs_53602269",
+   "text": "4:30 Dundalk (AW): Zheleznaya Dama now a non-runner. Re-worked market: Go Out 25%, Golddream 25%, Phoenix Pairc 9%, Moyassr 8%",
+   "future": true,
+   "important": false,
+   "at": "16:00"
+  },
+  {
+   "key": "aff|rac_32304746942|hrs_18323571|1",
+   "text": "4:30 Dundalk (AW): bet/leg Real Force runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "16:00"
+  },
+  {
+   "key": "nr|rac_32304750816|hrs_65254700",
+   "text": "5:40 Dundalk (AW): Sweetie Too now a non-runner. Re-worked market: Prada's World 24%, One Cool County 14%, Robot Rock 13%, Medieval Night 10%",
+   "future": true,
+   "important": false,
+   "at": "16:00"
+  },
+  {
+   "key": "aff|rac_32304750816|hrs_43418130|2",
+   "text": "5:40 Dundalk (AW): bet/leg Medieval Night runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "16:00"
+  },
+  {
+   "key": "aff|rac_32304750816|hrs_45007403|2",
+   "text": "5:40 Dundalk (AW): bet/leg Prada's World runs on in a race with a new non-runner",
+   "future": true,
+   "important": true,
+   "at": "16:00"
   }
  ]
 }
