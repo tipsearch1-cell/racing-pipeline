@@ -1,0 +1,15 @@
+{
+ "enabled": false,
+ "_comment": "Phase 5 VPS market collector (research only). Copy to config_vps.local.json on the VPS and set enabled=true there. Credentials ONLY from the environment (RACING_API_USERNAME / RACING_API_PASSWORD); never written or logged.",
+ "base_url": "https://api.theracingapi.com/v1",
+ "racecards_endpoint": "/racecards/standard",
+ "region_codes": "gb,ire",
+ "page_limit": 50,
+ "max_requests_per_second": 2,
+ "morning_checkpoint_uk": "09:00",
+ "evening_checkpoint_uk": "21:00",
+ "pre_off_minutes": [60, 30, 15, 10, 5, 1],
+ "tolerance_minutes": 2,
+ "out_dir": "../../phase3/archive/archive_data_vps",
+ "timezone": "Europe/London"
+}

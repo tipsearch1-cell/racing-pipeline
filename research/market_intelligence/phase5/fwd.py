@@ -308,6 +308,55 @@ def x1(day, out_dir=None):
     return rec
 
 
+# ------------------------------------------------------------------ exploratory CLV / execution (spec section 9)
+def clv(out_dir=None, comm=0.02, ev_min=0.04):
+    """Selections: E at 09:00 with EV >= 4% at the 09:00 Betfair Exchange back quote (2% commission). Closing = BSP, plus the
+    last pre-off sweep quote when one exists. Conditional fill scenarios only; no depth data. Writes out/clv_forward.csv."""
+    import pandas as pd
+    c = cfg(out_dir); rows = []
+    for day in sorted(d for d in os.listdir(c["out_dir"]) if d[:2] == "20" and d >= "2026-11-20"):
+        dd = os.path.join(c["out_dir"], day)
+        pp, rp = os.path.join(dd, "phase5", "pred_0900.json.gz"), os.path.join(dd, "results.json.gz")
+        if not (os.path.exists(pp) and os.path.exists(rp)):
+            continue
+        pred = read_gz(pp)
+        if pred.get("status") != "OK":
+            continue
+        snap = read_gz(os.path.join(dd, pred["snapshot_file"]))
+        bf = {(r["race_id"], h["horse_id"]): q["decimal"] for r in snap["races"] for h in r["runners"] for q in h["quotes"] if q["bookmaker"] == "Betfair Exchange"}
+        sweeps = snapshots(day, "SWEEP", out_dir)
+        res = {(r["race_id"], h["horse_id"]): h for r in read_gz(rp)["results"] for h in r["runners"]}
+        offs = {r["race_id"]: x["off_dt"] for x in [read_gz(os.path.join(dd, "phase5", "components.json.gz"))] for r in [dict(race_id=k, **v) for k, v in x["races"].items()]}
+        for x in pred["rows"]:
+            k = (x["race_id"], x["horse_id"]); q = bf.get(k); h = res.get(k)
+            if not q or not h or str(h.get("position", "")).upper() in ("NR", ""):
+                continue
+            last = None
+            for _, s in sweeps:
+                if s["collected_utc"] < offs.get(x["race_id"], ""):
+                    for r in s["races"]:
+                        if r["race_id"] == x["race_id"]:
+                            for hh in r["runners"]:
+                                if hh["horse_id"] == x["horse_id"]:
+                                    last = next((qq["decimal"] for qq in hh["quotes"] if qq["bookmaker"] == "Betfair Exchange"), last)
+            bsp = float(h["bsp"]) if str(h.get("bsp") or "").replace(".", "", 1).isdigit() else None
+            rows.append(dict(day=day, race_id=x["race_id"], horse_id=x["horse_id"], p_E=x["p_E"], m_0900=x["m_0900"], quote_0900=q,
+                             price_type="exchange_back (provider, no depth)", last_sweep_quote=last, bsp=bsp, won=int(str(h.get("position")) == "1"),
+                             ev=x["p_E"] * (1 + (q - 1) * (1 - comm)) - 1))
+    D = pd.DataFrame(rows)
+    if not len(D):
+        print("no settled forward days with 09:00 predictions yet"); return D
+    S = D[D.ev >= ev_min].copy()
+    S["clv_abs"] = np.log(S.quote_0900 / S.bsp); S["beat_bsp"] = S.clv_abs > 0
+    S["ret_quote"] = np.where(S.won == 1, (S.quote_0900 - 1) * (1 - comm), -1.0)
+    S["ret_bsp"] = np.where(S.won == 1, (S.bsp - 1) * (1 - comm), -1.0)
+    S["adverse_fill"] = S.bsp >= S.quote_0900
+    os.makedirs(os.path.join(HERE, "out"), exist_ok=True)
+    S.to_csv(os.path.join(HERE, "out", "clv_forward.csv"), index=False)
+    print(S[["clv_abs", "beat_bsp", "ret_quote", "ret_bsp", "adverse_fill"]].mean().round(4).to_dict(), len(S), "selections (EXPLORATORY, conditional)")
+    return S
+
+
 # ------------------------------------------------------------------ provenance
 def gh_pushes(pages=3):
     out = []
@@ -432,7 +481,7 @@ def verify(days=None, out_dir=None):
                  reasons={}, )
         for x in led:
             for r in x["reasons"]:
-                k = r.split(":")[0]; d["reasons"][k] = d["reasons"].get(k, 0) + 1
+                k = r.split(": ")[0]; d["reasons"][k] = d["reasons"].get(k, 0) + 1
         rep["days"][day] = d
         tot["races"] += d["races"]; tot["eligible_0900"] += d["eligible_0900"]; tot["confirmatory_settled"] += d["confirmatory_settled"]
         tot["timestamp_violations"] += tv; tot["mapping_errors"] += mapping; tot["model_hash_discrepancies"] += hashbad
@@ -558,12 +607,14 @@ def secondary(D):
 
 def main(argv=None):
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["components", "x1", "ingest", "predict0900", "stamp", "settle", "verify", "status", "analyze"])
+    ap.add_argument("cmd", choices=["components", "x1", "clv", "ingest", "predict0900", "stamp", "settle", "verify", "status", "analyze"])
     ap.add_argument("args", nargs="*")
     ap.add_argument("--day"); ap.add_argument("--look", type=int)
     a = ap.parse_args(argv)
     if a.cmd == "components":
         components(a.args[0])
+    elif a.cmd == "clv":
+        clv()
     elif a.cmd == "x1":
         x1(a.args[0])
     elif a.cmd == "ingest":

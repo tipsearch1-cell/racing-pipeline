@@ -1,0 +1,116 @@
+{
+ "checkpoint": "SWEEP",
+ "collected_utc": "2026-11-19T13:17:56+00:00",
+ "collection_time_source": "saved-response file time",
+ "day": "2026-11-19",
+ "kind": "market_snapshot",
+ "price_types": {
+  "bookmaker": "bookmaker fixed odds",
+  "exchange_back": "best back price shown by the provider for Betfair Exchange / Matchbook / Smarkets (no lay, no depth)"
+ },
+ "source": "The Racing API /racecards/standard via the Racing API connector (no market id, no lay side, no depth, no volume)",
+ "source_files_sha256": [
+  "fe9abb62b00728e3b27585d80c2bad260e5f0ef07a9b6edf632be16752d70ce4"
+ ],
+ "races": [
+  {
+   "course": "Lingfield (AW)",
+   "is_abandoned": false,
+   "market_id": null,
+   "off_dt": "2026-11-19T13:28:00+00:00",
+   "race_id": "rac_32304826359",
+   "race_status": "declared",
+   "runners": [
+    {
+     "horse": "Zooella",
+     "horse_id": "hrs_53294479",
+     "non_runner": false,
+     "number": "1",
+     "quotes": [
+      {
+       "bookmaker": "10 Bet",
+       "decimal": 1.4,
+       "ew_denom": "4",
+       "ew_places": "2",
+       "fractional": "2/5",
+       "price_type": "bookmaker",
+       "provider_updated": "2026-11-19 13:17:06"
+      },
+      {
+       "bookmaker": "7Bet",
+       "decimal": 1.44,
+       "ew_denom": "4",
+       "ew_places": "2",
+       "fractional": "4/9",
+       "price_type": "bookmaker",
+       "provider_updated": "2026-11-19 13:17:06"
+      },
+      {
+       "bookmaker": "Bet Victor",
+       "decimal": 1.4,
+       "ew_denom": "4",
+       "ew_places": "2",
+       "fractional": "2/5",
+       "price_type": "bookmaker",
+       "provider_updated": "2026-11-19 13:17:06"
+      },
+      {
+       "bookmaker": "Bet365",
+       "decimal": 1.44,
+       "ew_denom": "4",
+       "ew_places": "2",
+       "fractional": "4/9",
+       "price_type": "bookmaker",
+       "provider_updated": "2026-11-19 13:17:06"
+      }
+     ]
+    },
+    {
+     "horse": "Startling",
+     "horse_id": "hrs_41014057",
+     "non_runner": false,
+     "number": "2",
+     "quotes": [
+      {
+       "bookmaker": "10 Bet",
+       "decimal": 9.0,
+       "ew_denom": "4",
+       "ew_places": "2",
+       "fractional": "8/1",
+       "price_type": "bookmaker",
+       "provider_updated": "2026-11-19 13:17:06"
+      },
+      {
+       "bookmaker": "7Bet",
+       "decimal": 9.0,
+       "ew_denom": "4",
+       "ew_places": "2",
+       "fractional": "8/1",
+       "price_type": "bookmaker",
+       "provider_updated": "2026-11-19 13:17:06"
+      },
+      {
+       "bookmaker": "Bet Victor",
+       "decimal": 8.0,
+       "ew_denom": "4",
+       "ew_places": "2",
+       "fractional": "7/1",
+       "price_type": "bookmaker",
+       "provider_updated": "2026-11-19 13:17:06"
+      },
+      {
+       "bookmaker": "Bet365",
+       "decimal": 9.0,
+       "ew_denom": "4",
+       "ew_places": "2",
+       "fractional": "8/1",
+       "price_type": "bookmaker",
+       "provider_updated": "2026-11-19 13:17:06"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "_sample_note": "one race, two runners, four quotes each, from the 19 Nov 13:17 UTC capture"
+}

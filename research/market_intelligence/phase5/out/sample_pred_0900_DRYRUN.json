@@ -1,0 +1,101 @@
+{
+ "components_sha256": "4555474c6ffe0b8bed00e53dd089d33a6fd206673917dd35b6ea145e28db4986",
+ "created_utc": "2026-11-19T13:17:48+00:00",
+ "day": "2026-11-18",
+ "frozen_model_sha256": "56179d9cf676d7d02a2ceb4e0cb484896057a4e0a9fbf8fcb5333bcc87178b52",
+ "kind": "pred_0900",
+ "snapshot_collected_utc": "2026-11-18T09:05:00+00:00",
+ "snapshot_file": "2026-11-18/phase5/snapshots/M/20261118T090500Z.json.gz",
+ "snapshot_sha256": "a70087c69e78e3ebf0a2813b97586ec99fd305e50165c0d7c4fd822f5d1b1afc",
+ "spec": "prereg/FORWARD_TEST_PHASE5_SPEC_2026-11-19.md",
+ "status": "OK",
+ "races": [
+  {
+   "eligible": true,
+   "flags": [],
+   "race_id": "rac_32304700454",
+   "reason": null
+  },
+  {
+   "eligible": true,
+   "flags": [],
+   "race_id": "rac_32304702391",
+   "reason": null
+  }
+ ],
+ "rows": [
+  {
+   "horse_id": "hrs_17394125294",
+   "m_0900": 0.0085,
+   "p_D2": 0.00666046,
+   "p_E": 0.00500098,
+   "p_existing": 0.02575921,
+   "race_id": "rac_32304700454"
+  },
+  {
+   "horse_id": "hrs_17394666611",
+   "m_0900": 0.0113,
+   "p_D2": 0.00977894,
+   "p_E": 0.0077485,
+   "p_existing": 0.10472199,
+   "race_id": "rac_32304700454"
+  },
+  {
+   "horse_id": "hrs_17394718761",
+   "m_0900": 0.0711,
+   "p_D2": 0.06762655,
+   "p_E": 0.05874579,
+   "p_existing": 0.09675451,
+   "race_id": "rac_32304700454"
+  },
+  {
+   "horse_id": "hrs_51831766",
+   "m_0900": 0.2217,
+   "p_D2": 0.21569073,
+   "p_E": 0.20499279,
+   "p_existing": 0.12869775,
+   "race_id": "rac_32304700454"
+  },
+  {
+   "horse_id": "hrs_52056543",
+   "m_0900": 0.0154,
+   "p_D2": 0.01453637,
+   "p_E": 0.01085897,
+   "p_existing": 0.11804387,
+   "race_id": "rac_32304700454"
+  },
+  {
+   "horse_id": "hrs_58963065",
+   "m_0900": 0.5912,
+   "p_D2": 0.61145374,
+   "p_E": 0.65132568,
+   "p_existing": 0.26810607,
+   "race_id": "rac_32304700454"
+  },
+  {
+   "horse_id": "hrs_62235768",
+   "m_0900": 0.0545,
+   "p_D2": 0.05124183,
+   "p_E": 0.04340814,
+   "p_existing": 0.08730369,
+   "race_id": "rac_32304700454"
+  },
+  {
+   "horse_id": "hrs_64968071",
+   "m_0900": 0.0146,
+   "p_D2": 0.01237183,
+   "p_E": 0.01005338,
+   "p_existing": 0.08879877,
+   "race_id": "rac_32304700454"
+  },
+  {
+   "horse_id": "hrs_64968085",
+   "m_0900": 0.0117,
+   "p_D2": 0.01063956,
+   "p_E": 0.00786578,
+   "p_existing": 0.08181413,
+   "race_id": "rac_32304700454"
+  }
+ ],
+ "_sample_note": "DRY RUN on 18 Nov (re-used day) with the sealed card standing in for a 09:00 snapshot at 09:05; not forward evidence"
+}

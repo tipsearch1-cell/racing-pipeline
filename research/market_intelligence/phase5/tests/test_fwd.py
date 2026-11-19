@@ -144,3 +144,9 @@ def test_paired_stats_null_and_shift():
     D = pd.DataFrame(rows)
     s = fwd.paired_stats(D, "p_E", draws=200)
     assert abs(s["mean_gain"]) < 1e-12 and s["races"] == 1800
+
+
+def test_vps_collector_selftest():
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "vps"))
+    import vps_collect
+    vps_collect.selftest()
