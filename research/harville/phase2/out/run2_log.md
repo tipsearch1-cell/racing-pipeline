@@ -1,0 +1,13 @@
+# Phase 2 run log
+
+S eligible races after result checks: 8,132; by month {"2026-03": 734, "2026-04": 1050, "2026-05": 1321, "2026-06": 1156, "2026-07": 1191, "2026-08": 1064, "2026-09": 1110, "2026-10": 506}
+- test 2026-05: train 1,784 races, test 1,321; blend w(market, model) = [1.094, 0.108] (se [0.044, 0.055], z model = 2.0); linear lambda(model) = 0.00; B5 A [0.909, 0.099]/[0.752, 0.143] B [0.802, 0.048]/[0.672, 0.228] (3s)
+- test 2026-06: train 3,105 races, test 1,156; blend w(market, model) = [1.104, 0.051] (se [0.033, 0.042], z model = 1.2); linear lambda(model) = 0.00; B5 A [0.931, 0.146]/[0.765, 0.246] B [0.788, 0.081]/[0.686, 0.247] (3s)
+- test 2026-07: train 4,261 races, test 1,191; blend w(market, model) = [1.085, 0.098] (se [0.029, 0.036], z model = 2.7); linear lambda(model) = 0.00; B5 A [0.908, 0.149]/[0.748, 0.212] B [0.791, 0.056]/[0.671, 0.239] (4s)
+- test 2026-08: train 5,452 races, test 1,064; blend w(market, model) = [1.087, 0.099] (se [0.026, 0.032], z model = 3.1); linear lambda(model) = 0.00; B5 A [0.909, 0.147]/[0.758, 0.216] B [0.802, 0.081]/[0.691, 0.218] (4s)
+- test 2026-09: train 6,516 races, test 1,110; blend w(market, model) = [1.082, 0.106] (se [0.024, 0.029], z model = 3.6); linear lambda(model) = 0.00; B5 A [0.905, 0.163]/[0.762, 0.203] B [0.794, 0.154]/[0.701, 0.229] (6s)
+- test 2026-10: train 7,626 races, test 506; blend w(market, model) = [1.085, 0.096] (se [0.022, 0.027], z model = 3.5); linear lambda(model) = 0.00; B5 A [0.904, 0.169]/[0.765, 0.215] B [0.805, 0.132]/[0.708, 0.228] (5s)
+- final (all replayed months, 8,132 races): blend w = [1.088, 0.091] se [0.021, 0.026]
+- D coefficients stage 2: lp +0.881 (0.028), lp*ln(n/10) +0.148 (0.039), lp*hcap -0.060 (0.031), fav -0.205 (0.052), rank2-3 -0.090 (0.036), style +0.051 (0.022), style_na +0.064 (0.046), lead -0.176 (0.074), top3 -0.048 (0.064), top3_na -0.068 (0.071), log_runs +0.084 (0.038), posscore +0.262 (0.118), log_btn +0.000 (1.000), btn_na -0.000 (1.000), dist_suit -0.121 (0.078), dist_na -0.013 (0.041), going_suit -0.034 (0.080), going_na -0.018 (0.035), class_change +0.033 (0.021)
+- D coefficients stage 3: lp +0.728 (0.027), lp*ln(n/10) +0.200 (0.040), lp*hcap -0.080 (0.030), fav -0.187 (0.055), rank2-3 -0.054 (0.036), style +0.006 (0.023), style_na +0.092 (0.048), lead -0.067 (0.076), top3 -0.315 (0.066), top3_na -0.049 (0.072), log_runs +0.208 (0.038), posscore +0.563 (0.119), log_btn +0.000 (1.000), btn_na +0.000 (1.000), dist_suit +0.082 (0.079), dist_na +0.009 (0.041), going_suit -0.062 (0.081), going_na -0.008 (0.035), class_change -0.013 (0.022)
+- G: 217 races scored (model input); reviewer-input variant 217 races
