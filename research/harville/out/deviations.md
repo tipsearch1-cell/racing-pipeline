@@ -1,0 +1,1 @@
+- 19 Nov ~11:15 UTC: during code smoke-testing, A/B/C were scored on 200 races from 13 Oct-14 Nov 2025 (inside the S2 test period) and B2 was fitted on 1,201 races from that month. Nothing in the spec or code was changed after seeing it; disclosed in the report.
