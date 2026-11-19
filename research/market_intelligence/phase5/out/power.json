@@ -1,0 +1,115 @@
+{
+ "alpha_one_sided_per_model": 0.0125,
+ "target_power": 0.8,
+ "sd_per_race_plan": 0.0939,
+ "design_effect_plan": 1.332,
+ "periods": {
+  "development May-Aug": {
+   "pE": {
+    "n_races": 4761,
+    "n_days": 123,
+    "races_per_day": 38.7,
+    "mean": 0.00344,
+    "sd": 0.0927,
+    "deff": 1.067
+   },
+   "pD2": {
+    "n_races": 4761,
+    "n_days": 123,
+    "races_per_day": 38.7,
+    "mean": 0.0022,
+    "sd": 0.0795,
+    "deff": 0.99
+   }
+  },
+  "re-used Sep-Oct": {
+   "pE": {
+    "n_races": 1623,
+    "n_days": 42,
+    "races_per_day": 38.6,
+    "mean": 0.00327,
+    "sd": 0.0955,
+    "deff": 1.2
+   },
+   "pD2": {
+    "n_races": 1623,
+    "n_days": 42,
+    "races_per_day": 38.6,
+    "mean": 0.00034,
+    "sd": 0.0515,
+    "deff": 1.182
+   }
+  },
+  "re-used H3 (sealed-card market)": {
+   "pE": {
+    "n_races": 776,
+    "n_days": 24,
+    "races_per_day": 32.3,
+    "mean": 0.0042,
+    "sd": 0.0974,
+    "deff": 1.332
+   },
+   "pD2": {
+    "n_races": 776,
+    "n_days": 24,
+    "races_per_day": 32.3,
+    "mean": 0.00145,
+    "sd": 0.029,
+    "deff": 1.128
+   }
+  }
+ },
+ "fixed_sample": [
+  {
+   "delta": 0.002,
+   "n_races_fixed": 27909,
+   "approx_days_at_30": 931,
+   "power_at_1000": 0.049
+  },
+  {
+   "delta": 0.003,
+   "n_races_fixed": 12404,
+   "approx_days_at_30": 414,
+   "power_at_1000": 0.086
+  },
+  {
+   "delta": 0.005,
+   "n_races_fixed": 4466,
+   "approx_days_at_30": 149,
+   "power_at_1000": 0.217
+  }
+ ],
+ "n_final": 12800,
+ "looks_races": [
+  1000,
+  3200,
+  6400,
+  9600,
+  12800
+ ],
+ "obf_critical_z": [
+  null,
+  4.926,
+  3.351,
+  2.67,
+  2.279
+ ],
+ "cumulative_alpha_spent": [
+  0.0,
+  5.87e-07,
+  0.000412,
+  0.00393,
+  0.0125
+ ],
+ "simulated_power_E": {
+  "0.0": 0.013,
+  "0.002": 0.547,
+  "0.003": 0.865,
+  "0.005": 0.999
+ },
+ "simulated_power_D2": {
+  "0.0": 0.007,
+  "0.002": 0.824,
+  "0.003": 0.995
+ }
+}

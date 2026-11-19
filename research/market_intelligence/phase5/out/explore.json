@@ -1,0 +1,444 @@
+{
+ "evening_coverage": {
+  "races": 8187,
+  "share_races_complete_E": 0.994,
+  "share_races_betfair_quote_all_runners_E": 0.986,
+  "median_bsp_over_betfair_quote_E": 2.0,
+  "median_bsp_over_betfair_quote_M": 1.292,
+  "median_bsp_over_betfair_quote_T10": 1.077
+ },
+ "overnight_movement": [
+  {
+   "period": "dev May-Aug",
+   "signal": "sigA",
+   "runners": 43297,
+   "races": 4753,
+   "corr": 0.2033,
+   "slope": 0.1698,
+   "slope_se_day": 0.0123
+  },
+  {
+   "period": "dev May-Aug",
+   "signal": "sigF",
+   "runners": 43297,
+   "races": 4753,
+   "corr": 0.1202,
+   "slope": 0.0996,
+   "slope_se_day": 0.0121
+  },
+  {
+   "period": "re-used Sep-Oct",
+   "signal": "sigA",
+   "runners": 15719,
+   "races": 1623,
+   "corr": 0.1017,
+   "slope": 0.0778,
+   "slope_se_day": 0.017
+  },
+  {
+   "period": "re-used Sep-Oct",
+   "signal": "sigF",
+   "runners": 15719,
+   "races": 1623,
+   "corr": -0.0096,
+   "slope": -0.007,
+   "slope_se_day": 0.0151
+  },
+  {
+   "period": "train-only Mar-Apr",
+   "signal": "sigA",
+   "runners": 16379,
+   "races": 1760,
+   "corr": 0.1861,
+   "slope": 0.1406,
+   "slope_se_day": 0.0519
+  },
+  {
+   "period": "train-only Mar-Apr",
+   "signal": "sigF",
+   "runners": 16379,
+   "races": 1760,
+   "corr": 0.1377,
+   "slope": 0.108,
+   "slope_se_day": 0.0546
+  }
+ ],
+ "clv_and_execution": [
+  {
+   "checkpoint": "21:00 market-anchored (D1 at E, walk-forward)",
+   "period": "dev May-Aug",
+   "selections": 2209,
+   "mean_quote": 13.0,
+   "median_quote": 5.3,
+   "clv_abs_mean": -0.0271,
+   "clv_abs_ci": [
+    -0.049,
+    -0.0059
+   ],
+   "share_beat_bsp": 0.497,
+   "clv_rel_mean": 0.9124,
+   "clv_rel_ci": [
+    0.8861,
+    0.9378
+   ],
+   "winners": 523,
+   "roi_fill_at_quote": 0.039,
+   "roi_at_bsp": -0.025,
+   "adverse_fill_rate": 0.503,
+   "roi_adverse_fills": -0.281,
+   "roi_haircut_5pct": -0.013
+  },
+  {
+   "checkpoint": "21:00 market-anchored (D1 at E, walk-forward)",
+   "period": "re-used Sep-Oct",
+   "selections": 841,
+   "mean_quote": 10.3,
+   "median_quote": 4.8,
+   "clv_abs_mean": -0.029,
+   "clv_abs_ci": [
+    -0.057,
+    -0.0033
+   ],
+   "share_beat_bsp": 0.486,
+   "clv_rel_mean": 0.8675,
+   "clv_rel_ci": [
+    0.8252,
+    0.9079
+   ],
+   "winners": 225,
+   "roi_fill_at_quote": 0.095,
+   "roi_at_bsp": 0.059,
+   "adverse_fill_rate": 0.514,
+   "roi_adverse_fills": -0.183,
+   "roi_haircut_5pct": 0.041
+  },
+  {
+   "checkpoint": "09:00 hybrid E (walk-forward)",
+   "period": "dev May-Aug",
+   "selections": 2571,
+   "mean_quote": 90.8,
+   "median_quote": 7.2,
+   "clv_abs_mean": 0.0767,
+   "clv_abs_ci": [
+    0.0574,
+    0.0954
+   ],
+   "share_beat_bsp": 0.556,
+   "clv_rel_mean": 0.47,
+   "clv_rel_ci": [
+    0.4463,
+    0.4946
+   ],
+   "winners": 491,
+   "roi_fill_at_quote": 0.074,
+   "roi_at_bsp": -0.09,
+   "adverse_fill_rate": 0.444,
+   "roi_adverse_fills": -0.374,
+   "roi_haircut_5pct": 0.02
+  },
+  {
+   "checkpoint": "09:00 hybrid E (walk-forward)",
+   "period": "re-used H3",
+   "selections": 590,
+   "mean_quote": 103.0,
+   "median_quote": 9.2,
+   "clv_abs_mean": 0.0821,
+   "clv_abs_ci": [
+    0.0172,
+    0.1388
+   ],
+   "share_beat_bsp": 0.576,
+   "clv_rel_mean": 0.451,
+   "clv_rel_ci": [
+    0.3821,
+    0.5132
+   ],
+   "winners": 94,
+   "roi_fill_at_quote": 0.149,
+   "roi_at_bsp": 0.042,
+   "adverse_fill_rate": 0.424,
+   "roi_adverse_fills": -0.255,
+   "roi_haircut_5pct": 0.092
+  },
+  {
+   "checkpoint": "09:00 hybrid E (walk-forward)",
+   "period": "re-used Sep-Oct",
+   "selections": 1118,
+   "mean_quote": 88.2,
+   "median_quote": 6.4,
+   "clv_abs_mean": 0.0524,
+   "clv_abs_ci": [
+    0.026,
+    0.0778
+   ],
+   "share_beat_bsp": 0.534,
+   "clv_rel_mean": 0.4434,
+   "clv_rel_ci": [
+    0.4113,
+    0.475
+   ],
+   "winners": 227,
+   "roi_fill_at_quote": 0.076,
+   "roi_at_bsp": -0.095,
+   "adverse_fill_rate": 0.466,
+   "roi_adverse_fills": -0.351,
+   "roi_haircut_5pct": 0.022
+  },
+  {
+   "checkpoint": "off-60 market-anchored (D1 at H)",
+   "period": "dev May-Aug",
+   "selections": 9501,
+   "mean_quote": 68.8,
+   "median_quote": 16.0,
+   "clv_abs_mean": -0.107,
+   "clv_abs_ci": [
+    -0.1189,
+    -0.0956
+   ],
+   "share_beat_bsp": 0.394,
+   "clv_rel_mean": 0.1409,
+   "clv_rel_ci": [
+    0.129,
+    0.1536
+   ],
+   "winners": 958,
+   "roi_fill_at_quote": -0.086,
+   "roi_at_bsp": -0.044,
+   "adverse_fill_rate": 0.606,
+   "roi_adverse_fills": -0.301,
+   "roi_haircut_5pct": -0.132
+  },
+  {
+   "checkpoint": "off-60 market-anchored (D1 at H)",
+   "period": "re-used Sep-Oct",
+   "selections": 3337,
+   "mean_quote": 88.1,
+   "median_quote": 18.5,
+   "clv_abs_mean": -0.1664,
+   "clv_abs_ci": [
+    -0.187,
+    -0.1481
+   ],
+   "share_beat_bsp": 0.352,
+   "clv_rel_mean": 0.097,
+   "clv_rel_ci": [
+    0.0768,
+    0.1153
+   ],
+   "winners": 292,
+   "roi_fill_at_quote": -0.203,
+   "roi_at_bsp": -0.177,
+   "adverse_fill_rate": 0.648,
+   "roi_adverse_fills": -0.379,
+   "roi_haircut_5pct": -0.243
+  },
+  {
+   "checkpoint": "off-10 market-anchored (D1 at T10)",
+   "period": "dev May-Aug",
+   "selections": 13032,
+   "mean_quote": 87.9,
+   "median_quote": 23.0,
+   "clv_abs_mean": -0.1242,
+   "clv_abs_ci": [
+    -0.1337,
+    -0.1144
+   ],
+   "share_beat_bsp": 0.367,
+   "clv_rel_mean": 0.0286,
+   "clv_rel_ci": [
+    0.0192,
+    0.0381
+   ],
+   "winners": 1045,
+   "roi_fill_at_quote": -0.094,
+   "roi_at_bsp": 0.009,
+   "adverse_fill_rate": 0.633,
+   "roi_adverse_fills": -0.224,
+   "roi_haircut_5pct": -0.14
+  },
+  {
+   "checkpoint": "off-10 market-anchored (D1 at T10)",
+   "period": "re-used Sep-Oct",
+   "selections": 4407,
+   "mean_quote": 108.2,
+   "median_quote": 28.0,
+   "clv_abs_mean": -0.1178,
+   "clv_abs_ci": [
+    -0.1318,
+    -0.1038
+   ],
+   "share_beat_bsp": 0.363,
+   "clv_rel_mean": 0.0469,
+   "clv_rel_ci": [
+    0.0324,
+    0.0611
+   ],
+   "winners": 316,
+   "roi_fill_at_quote": -0.146,
+   "roi_at_bsp": -0.102,
+   "adverse_fill_rate": 0.637,
+   "roi_adverse_fills": -0.355,
+   "roi_haircut_5pct": -0.188
+  },
+  {
+   "checkpoint": "21:00 independent model A (no market)",
+   "period": "dev May-Aug",
+   "selections": 6480,
+   "mean_quote": 21.1,
+   "median_quote": 10.5,
+   "clv_abs_mean": -0.4852,
+   "clv_abs_ci": [
+    -0.5208,
+    -0.4488
+   ],
+   "share_beat_bsp": 0.294,
+   "clv_rel_mean": 0.5649,
+   "clv_rel_ci": [
+    0.5277,
+    0.6017
+   ],
+   "winners": 709,
+   "roi_fill_at_quote": -0.21,
+   "roi_at_bsp": 0.147,
+   "adverse_fill_rate": 0.706,
+   "roi_adverse_fills": -0.436,
+   "roi_haircut_5pct": -0.25
+  },
+  {
+   "checkpoint": "21:00 independent model A (no market)",
+   "period": "re-used Sep-Oct",
+   "selections": 2202,
+   "mean_quote": 20.8,
+   "median_quote": 10.0,
+   "clv_abs_mean": -0.5436,
+   "clv_abs_ci": [
+    -0.6087,
+    -0.4897
+   ],
+   "share_beat_bsp": 0.258,
+   "clv_rel_mean": 0.573,
+   "clv_rel_ci": [
+    0.4995,
+    0.6404
+   ],
+   "winners": 231,
+   "roi_fill_at_quote": -0.233,
+   "roi_at_bsp": -0.033,
+   "adverse_fill_rate": 0.742,
+   "roi_adverse_fills": -0.451,
+   "roi_haircut_5pct": -0.271
+  },
+  {
+   "checkpoint": "21:00 independent model A (no market)",
+   "period": "train-only Mar-Apr",
+   "selections": 3367,
+   "mean_quote": 31.6,
+   "median_quote": 12.0,
+   "clv_abs_mean": -0.6212,
+   "clv_abs_ci": [
+    -0.6934,
+    -0.5487
+   ],
+   "share_beat_bsp": 0.264,
+   "clv_rel_mean": 0.3376,
+   "clv_rel_ci": [
+    0.2696,
+    0.4008
+   ],
+   "winners": 275,
+   "roi_fill_at_quote": -0.257,
+   "roi_at_bsp": 0.171,
+   "adverse_fill_rate": 0.736,
+   "roi_adverse_fills": -0.538,
+   "roi_haircut_5pct": -0.294
+  }
+ ],
+ "evening_gain_by_code": [
+  {
+   "period": "dev May-Aug",
+   "code": "Flat",
+   "mean": 0.0249,
+   "size": 3596
+  },
+  {
+   "period": "dev May-Aug",
+   "code": "Jumps",
+   "mean": 0.0228,
+   "size": 1157
+  },
+  {
+   "period": "re-used Sep-Oct",
+   "code": "Flat",
+   "mean": 0.0115,
+   "size": 1210
+  },
+  {
+   "period": "re-used Sep-Oct",
+   "code": "Jumps",
+   "mean": 0.0099,
+   "size": 413
+  }
+ ],
+ "evening_gain_by_band": [
+  {
+   "period": "dev May-Aug",
+   "ob": "<3",
+   "mean": 0.1115,
+   "size": 606
+  },
+  {
+   "period": "dev May-Aug",
+   "ob": "3-6",
+   "mean": 0.0758,
+   "size": 1555
+  },
+  {
+   "period": "dev May-Aug",
+   "ob": "6-11",
+   "mean": 0.0212,
+   "size": 1552
+  },
+  {
+   "period": "dev May-Aug",
+   "ob": "11-21",
+   "mean": -0.0778,
+   "size": 883
+  },
+  {
+   "period": "dev May-Aug",
+   "ob": "21+",
+   "mean": -0.2174,
+   "size": 156
+  },
+  {
+   "period": "re-used Sep-Oct",
+   "ob": "<3",
+   "mean": 0.1146,
+   "size": 235
+  },
+  {
+   "period": "re-used Sep-Oct",
+   "ob": "3-6",
+   "mean": 0.0874,
+   "size": 508
+  },
+  {
+   "period": "re-used Sep-Oct",
+   "ob": "6-11",
+   "mean": 0.0026,
+   "size": 482
+  },
+  {
+   "period": "re-used Sep-Oct",
+   "ob": "11-21",
+   "mean": -0.0831,
+   "size": 297
+  },
+  {
+   "period": "re-used Sep-Oct",
+   "ob": "21+",
+   "mean": -0.2959,
+   "size": 101
+  }
+ ]
+}

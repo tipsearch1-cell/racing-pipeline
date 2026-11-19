@@ -1,0 +1,7 @@
+period,signal,runners,races,corr,slope,slope_se_day
+dev May-Aug,sigA,43297,4753,0.2033,0.1698,0.0123
+dev May-Aug,sigF,43297,4753,0.1202,0.0996,0.0121
+re-used Sep-Oct,sigA,15719,1623,0.1017,0.0778,0.017
+re-used Sep-Oct,sigF,15719,1623,-0.0096,-0.007,0.0151
+train-only Mar-Apr,sigA,16379,1760,0.1861,0.1406,0.0519
+train-only Mar-Apr,sigF,16379,1760,0.1377,0.108,0.0546

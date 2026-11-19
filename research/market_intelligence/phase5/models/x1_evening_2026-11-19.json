@@ -1,0 +1,16 @@
+{
+ "name": "X1 evening hybrid (exploratory)",
+ "weights": [
+  1.0781421877541344,
+  0.2625035583733908,
+  0.08978859412010155
+ ],
+ "inputs": [
+  "log m_E (21:00 composite)",
+  "sC (frozen C score)",
+  "log f (production)"
+ ],
+ "fitted_on": "2026-03-01..2026-10-12 (8136 races, replay S3)",
+ "uses_frozen_C_sha256": "56179d9cf676d7d02a2ceb4e0cb484896057a4e0a9fbf8fcb5333bcc87178b52",
+ "status": "EXPLORATORY ONLY - cannot affect the confirmatory D2/E test"
+}
