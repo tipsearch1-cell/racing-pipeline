@@ -1,18 +1,38 @@
 {
- "checked_utc": "2026-11-19T13:27:38+00:00",
+ "checked_utc": "2026-11-19T15:18:44+00:00",
  "archive_integrity_failures": 0,
  "archive_integrity_detail": [],
  "frozen_model_sha256_ok": true,
- "days": {},
+ "days": {
+  "2026-11-19": {
+   "races": 33,
+   "components": false,
+   "snapshots_M": 0,
+   "snapshots_M_in_window": 0,
+   "snapshots_E": 0,
+   "races_in_E": 0,
+   "snapshots_SWEEP": 2,
+   "eligible_0900": 0,
+   "confirmatory_settled": 0,
+   "timestamp_violations": 0,
+   "mapping_errors": 0,
+   "model_hash_discrepancies": 0,
+   "duplicate_snapshot_races": 0,
+   "reasons": {
+    "no components": 33,
+    "no 09:00 prediction file": 33
+   }
+  }
+ },
  "totals": {
-  "races": 0,
+  "races": 33,
   "eligible_0900": 0,
   "confirmatory_settled": 0,
   "timestamp_violations": 0,
   "mapping_errors": 0,
   "model_hash_discrepancies": 0,
-  "missing_E": 0,
-  "missing_M": 0,
+  "missing_E": 1,
+  "missing_M": 1,
   "duplicate_snapshots": 0
  },
  "ok": true

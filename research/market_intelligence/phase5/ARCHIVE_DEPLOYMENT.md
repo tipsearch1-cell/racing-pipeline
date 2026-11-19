@@ -31,12 +31,7 @@
 | deploy_vps.sh | Idempotent installer. It checks that the env file is readable and chmod 600, and that the credentials are present (never echoed). It runs the selftest, one live tick, then installs the cron entries (every minute with flock; nightly push) |
 | push_archive.sh | Nightly. Verifies the VPS archive (hash chain), then pushes it to a separate `research-archive` branch. `cp -n` never overwrites a pushed file |
 
-**Exact commands for McCoy (on the VPS, as the user that runs the odds fetches):**
-```
-cd ~/racing-pipeline && git pull --ff-only origin main
-RACING_ENV_FILE=<the protected env file McCoy already uses for the Racing API> bash research/market_intelligence/phase5/vps/deploy_vps.sh ~/racing-pipeline
-tail -n 20 /var/log/p5collect.log          # expect "N races fetched, M snapshot files written" lines, no BLOCKED
-```
+**Exact commands for McCoy:** see VPS_DEPLOYMENT_REPORT.md (updated 19 Nov 15:20 UTC after a package review: `--check` audit first, schedule-cached ticking, no branch switching).
 
 **Also requested from McCoy (would remove the need to reconstruct checkpoints):**
 - If the VPS still keeps the provider's per-bookmaker price-change histories (raw/odds/<day>.jsonl.gz, raw/runner_spool per the archive README), push them daily to the raw-data branch under daily/odds_hist/<day>/.
