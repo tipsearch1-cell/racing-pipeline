@@ -98,3 +98,9 @@ For each of B and C:
 - **REJECT** otherwise.
 
 No live implementation follows from this test, whatever the result.
+
+## Amendment 1 (19 Nov 2026, before any outcome was compared - implementation details)
+1. **Class in model C.** A feature that is the same for every runner in a race cancels out in a per-race conditional logit. So class (and log n, Jumps, handicap) enter C only as interactions with log p. Class is centred, with missing set to 0.
+2. **4th place.** For 16+ runner handicaps the stage-4 weights reuse the stage-3 weights in B and C. A uses p.
+3. **Betting race eligibility.** Same as the accuracy eligibility, except that dead heats are not excluded; they are settled by the dead-heat rule. A bet needs a place SP for that runner.
+4. **R-track Forecasted Odds.** Turned into chances as 1/odds, normalised per race.
