@@ -1,0 +1,20 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian
+Frankie,Rogue Imperial,WIN,2026-11-19 11:48:00,BACK,3.32,false,Lingfield (AW),11:48,Flat,3.5
+Frankie,Stede Bonnet,WIN,2026-11-19 12:08:00,BACK,8.7,false,Thurles,12:08,Jumps,9.0
+Frankie,Iamagetaway,WIN,2026-11-19 12:40:00,BACK,3.56,false,Thurles,12:40,Jumps,3.75
+Frankie,Morrophore,WIN,2026-11-19 14:03:00,BACK,2.85,false,Lingfield (AW),14:03,Flat,3.0
+Frankie,Strong Run,WIN,2026-11-19 14:12:00,BACK,4.27,false,Warwick,14:12,Jumps,4.5
+Frankie,Aviatrice,WIN,2026-11-19 14:38:00,BACK,11.76,false,Lingfield (AW),14:38,Flat,13.0
+Frankie,Enchanted Queen,WIN,2026-11-19 14:38:00,BACK,3.09,false,Lingfield (AW),14:38,Flat,3.25
+Frankie,Paddy The Squire,WIN,2026-11-19 15:35:00,BACK,8.0,false,Newcastle (AW),15:35,Flat,7.5
+Frankie,Got The Booty,WIN,2026-11-19 15:40:00,BACK,3.32,false,Lingfield (AW),15:40,Flat,3.5
+Frankie,Pol Roger,WIN,2026-11-19 18:10:00,BACK,33.33,false,Newcastle (AW),18:10,Flat,34.0
+Frankie,We Dare To Dream,WIN,2026-11-19 18:10:00,BACK,11.11,false,Newcastle (AW),18:10,Flat,10.0
+Frankie,The Childe of Hale,WIN,2026-11-19 18:10:00,BACK,25.0,false,Newcastle (AW),18:10,Flat,26.0
+Frankie,Starmade,WIN,2026-11-19 18:40:00,BACK,4.27,false,Newcastle (AW),18:40,Flat,4.5
+Frankie,Lorna B,WIN,2026-11-19 18:40:00,BACK,11.11,false,Newcastle (AW),18:40,Flat,11.0
+Frankie,Hunky Dory,WIN,2026-11-19 18:40:00,BACK,20.83,false,Newcastle (AW),18:40,Flat,23.0
+Frankie,Uncertainty,WIN,2026-11-19 19:10:00,BACK,20.0,false,Newcastle (AW),19:10,Flat,26.0
+Frankie,Paddy's Day,WIN,2026-11-19 19:40:00,BACK,4.11,false,Newcastle (AW),19:40,Flat,4.33
+Frankie,Rock of England,WIN,2026-11-19 19:40:00,BACK,15.38,false,Newcastle (AW),19:40,Flat,15.0
+Frankie,Duran,WIN,2026-11-19 19:40:00,BACK,9.09,false,Newcastle (AW),19:40,Flat,9.0

@@ -1,0 +1,51 @@
+{"meeting": "thurles", "races": [
+  {"race_id": "rac_32304752753", "changes": [
+    {"horse_id": "hrs_39996453", "horse": "Doctor Steinberg", "chance_pct": 50.0, "reason": "204-day break, faded last time (-7.6%), pulled up in 1 of last 3 and first run over fences"},
+    {"horse_id": "hrs_52742039", "horse": "Stede Bonnet", "chance_pct": 11.5, "reason": "Second last time in a chase (already has fence experience), form 2302, Elliott 12/72 in 14 days, model 19.1%"},
+    {"horse_id": "hrs_32090744", "horse": "Fire Coral", "chance_pct": 2.4, "reason": "Won last two, has won at this trip, likely leader in an even gallop; model 25%"},
+    {"horse_id": "hrs_53476010", "horse": "Fort Dino", "chance_pct": 4.5, "reason": "Ninth last time, faded (-6.2%), jumping mistakes in 2 of last 3 runs"}
+  ], "checks": []},
+  {"race_id": "rac_32304754690", "changes": [
+    {"horse_id": "hrs_33774461", "horse": "That's About Right", "chance_pct": 9.0, "reason": "Trainer 0/24 in 14 days, OR 94 is 8 lb below field average, winless in last six"},
+    {"horse_id": "hrs_31083213", "horse": "Smallcraftwarning", "chance_pct": 9.0, "reason": "Best recent figure 106 is 14 lb above field average and 6 lb above his mark; has won at this trip"},
+    {"horse_id": "hrs_46515259", "horse": "Roc My Haarth", "chance_pct": 5.5, "reason": "Recent figures 16 lb below current mark, jumping mistakes in 2 of last 5"},
+    {"horse_id": "hrs_34268514", "horse": "Toor Khov", "chance_pct": 4.5, "reason": "Unplaced and faded (-6.6%) last time, 54 days off, jumping errors and a fall in last 5"},
+    {"horse_id": "hrs_39698897", "horse": "Wing Back", "chance_pct": 3.0, "reason": "Recent figures 7 lb below mark, pulled up two starts back"},
+    {"horse_id": "hrs_23796549", "horse": "Gatsby Grey", "chance_pct": 2.5, "reason": "Pulled up in 3 of last 5 jumps runs and looks high in the weights"}
+  ], "checks": [
+    {"horse_id": "hrs_34073193", "horse": "Iamagetaway", "verdict": "BET", "reason": "Won last time, top-rated (OR 110, 8 lb above average) with good recent positions; only the 166 lb burden against"}
+  ]},
+  {"race_id": "rac_32304756627", "changes": [
+    {"horse_id": "hrs_52055752", "horse": "Hi Ho Idaho", "chance_pct": 36.0, "reason": "Prominent racer in a slow/tactical race, finished strongly (+2.1%) when second last time"},
+    {"horse_id": "hrs_51434208", "horse": "Brother Walfrid", "chance_pct": 24.0, "reason": "Jumping mistakes in 4 of last 5 runs, midfield style in a race favouring prominent runners"},
+    {"horse_id": "hrs_41190226", "horse": "Minella Emperor", "chance_pct": 20.0, "reason": "Pulled up last time and in 2 of last 5 jumps runs, jumping mistakes noted"},
+    {"horse_id": "hrs_61684539", "horse": "Little Ginger", "chance_pct": 19.0, "reason": "Won last time, prominent in a tactical race, model 37.6%"}
+  ], "checks": []},
+  {"race_id": "rac_32304758564", "changes": [
+    {"horse_id": "hrs_59928120", "horse": "I Dont Really Care", "chance_pct": 33.0, "reason": "Best recent figure 121, 28 lb above field average; third in a 19-runner hurdle last time"},
+    {"horse_id": "hrs_60343346", "horse": "Dinner Dance", "chance_pct": 10.0, "reason": "First run over hurdles, only 2 runs in data, fifth last time"},
+    {"horse_id": "hrs_51124087", "horse": "Jury Time", "chance_pct": 12.0, "reason": "Prominent racer (led 38%) suits slow tactical pace, good recent finishing positions"}
+  ], "checks": []},
+  {"race_id": "rac_32304760501", "changes": [
+    {"horse_id": "hrs_36878835", "horse": "Cock And Bull", "chance_pct": 17.0, "reason": "Winless in last four, unplaced and faded last time, 40-day break, recent runs on the Flat; model 8.6%"},
+    {"horse_id": "hrs_27565923", "horse": "Crowsatedappletart", "chance_pct": 9.5, "reason": "Second last time, best recent figure 107 is 15 lb above field average"},
+    {"horse_id": "hrs_28014084", "horse": "Allo Al Khawaneej", "chance_pct": 9.0, "reason": "Best recent figure 106, 14 lb above field average, placed form and race-fit after 10 days"},
+    {"horse_id": "hrs_57654562", "horse": "Ocean Murphy", "chance_pct": 7.0, "reason": "Trainer 0/24 in 14 days, sixth last time and 48 days off"},
+    {"horse_id": "hrs_30002329", "horse": "Hidalgo Des Mottes", "chance_pct": 6.5, "reason": "Winless in last six, best figure 88 below field average, OR 10 lb below average"},
+    {"horse_id": "hrs_45445260", "horse": "Our Girl Ellie", "chance_pct": 5.5, "reason": "Best recent figure 83, 9 lb below field average; model 2.9%"},
+    {"horse_id": "hrs_58963044", "horse": "Mont Star", "chance_pct": 4.0, "reason": "103-day absence, sixth last time, only 2 runs in data"}
+  ], "checks": [
+    {"horse_id": "hrs_36878835", "horse": "Cock And Bull", "verdict": "SKIP", "reason": "Winless in last four, faded last time, 40-day break and model only 8.6% vs 23.3% market"}
+  ]},
+  {"race_id": "rac_32304762438", "changes": [
+    {"horse_id": "hrs_36192702", "horse": "Liceo", "chance_pct": 20.0, "reason": "Runner-up in last two incl. over C&D 7 days ago, best figure 103 is 19 lb above field average"},
+    {"horse_id": "hrs_39431553", "horse": "Phoenix Arizona", "chance_pct": 9.5, "reason": "Best figure 97, 13 lb above average and 4 lb above his mark; prominent in a slow-pace race"},
+    {"horse_id": "hrs_29243354", "horse": "Atlantic Wonder", "chance_pct": 6.0, "reason": "Winless in last five, best figure 73 is 11 lb below average, trainer 0/10"},
+    {"horse_id": "hrs_35054698", "horse": "Amron Diamond", "chance_pct": 4.0, "reason": "Ninth last time, best figure 63 is 21 lb below field average"},
+    {"horse_id": "hrs_30441138", "horse": "Hob's Angel", "chance_pct": 3.5, "reason": "Winless in last six, best figure 64 is 20 lb below average"},
+    {"horse_id": "hrs_30567943", "horse": "Getaway Henry", "chance_pct": 2.3, "reason": "Poor recent positions, high in the weights, held up in a steady-pace race"}
+  ], "checks": []},
+  {"race_id": "rac_32304764375", "changes": [
+    {"horse_id": "hrs_47065060", "horse": "Marhaba Ghaiyyath", "chance_pct": 11.0, "reason": "Trainer 0/12, 142-day break, first run over hurdles, held up in a steady-pace race, poor recent Flat form"}
+  ], "checks": []}
+]}

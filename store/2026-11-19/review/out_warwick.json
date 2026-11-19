@@ -1,0 +1,55 @@
+{"meeting": "warwick", "races": [
+  {"race_id": "rac_32304851540", "changes": [], "checks": []},
+  {"race_id": "rac_32305213759", "changes": [
+    {"horse_id": "hrs_50666854", "horse": "Power of Silence", "chance_pct": 10.5, "reason": "Held up into a likely steady gallop and returns from a 287-day break"},
+    {"horse_id": "hrs_17394733363", "horse": "Sub Editor", "chance_pct": 2.2, "reason": "Best recent figure 106 is 9 lb above field average and he finished strongly last time"},
+    {"horse_id": "hrs_62876338", "horse": "Artaban", "chance_pct": 4.8, "reason": "Prominent racer suits slow/tactical pace forecast; model 9.2% well above market"}
+  ], "checks": []},
+  {"race_id": "rac_32304853477", "changes": [
+    {"horse_id": "hrs_60090205", "horse": "Rock On Ronnie", "chance_pct": 12.0, "reason": "Best recent figure 96 is 7 lb below field average"},
+    {"horse_id": "hrs_17394787599", "horse": "Burk Flight", "chance_pct": 2.8, "reason": "Habitual leader (57%) named as likely pace-setter; fig 101 and model 14.2% well above market"},
+    {"horse_id": "hrs_62135738", "horse": "Short Sell", "chance_pct": 0.9, "reason": "Poor recent finishing positions (8th, 9th, 8th) and faded last time"}
+  ], "checks": []},
+  {"race_id": "rac_32304859288", "changes": [
+    {"horse_id": "hrs_57504356", "horse": "Capricciose", "chance_pct": 26.0, "reason": "Held up into a likely steady gallop, hard to close from off the pace"},
+    {"horse_id": "hrs_58132795", "horse": "Vrheligonne", "chance_pct": 22.0, "reason": "Prominent racer suits slow pace; consistent 2nd in 4 runs incl. fig 110 over 20f on Soft"},
+    {"horse_id": "hrs_58686859", "horse": "Tierbay", "chance_pct": 0.15, "reason": "Pulled up in both recent hurdle runs and held up into a slow pace"}
+  ], "checks": []},
+  {"race_id": "rac_32304857351", "changes": [
+    {"horse_id": "hrs_22856141", "horse": "The Boola Boss", "chance_pct": 19.0, "reason": "Jumping mistakes in 3 of last 4 runs and best figure 116 is 8 lb below field average"},
+    {"horse_id": "hrs_20373927", "horse": "Nocte Volatus", "chance_pct": 12.5, "reason": "Recent figures 9 lb below his mark and held up into a likely steady gallop"},
+    {"horse_id": "hrs_22722602", "horse": "Knappers Hill", "chance_pct": 10.0, "reason": "Pulled up on both recent runs and returns from 243 days off with 162 lb"},
+    {"horse_id": "hrs_23537801", "horse": "Sure Touch", "chance_pct": 12.5, "reason": "Best recent figure 131 is 7 lb above field average; consistent and prominent in a slow-pace race"},
+    {"horse_id": "hrs_22268589", "horse": "Pounding Poet", "chance_pct": 13.5, "reason": "Won last time at Ayr 24f Heavy finishing strongly; trainer 4/11 last 14 days"},
+    {"horse_id": "hrs_14995512", "horse": "Hang In There", "chance_pct": 3.2, "reason": "Held up into a steady gallop, carries 11 lb more than average, jumping errors noted"}
+  ], "checks": [
+    {"horse_id": "hrs_22856141", "horse": "The Boola Boss", "verdict": "SKIP", "reason": "Jumping mistakes in 3 of last 4 runs and best figure 8 lb below field average"}
+  ]},
+  {"race_id": "rac_32304855414", "changes": [
+    {"horse_id": "hrs_48644680", "horse": "Analiese", "chance_pct": 16.0, "reason": "Model 20.6% with consistent recent placings (2-1-4) and a likely leader in an even pace"},
+    {"horse_id": "hrs_46547172", "horse": "Crystal Spring", "chance_pct": 11.0, "reason": "Recent figures 8 lb below her mark and form tailed off (6th, 7th)"},
+    {"horse_id": "hrs_34571411", "horse": "Party Vibes", "chance_pct": 6.0, "reason": "Trainer 0/14 last 14 days, faded last time and 201 days off"},
+    {"horse_id": "hrs_24638789", "horse": "I Spy A Diva", "chance_pct": 9.0, "reason": "Recent figures 6 lb below her current mark"},
+    {"horse_id": "hrs_51650095", "horse": "Shallow Bowles", "chance_pct": 2.6, "reason": "Trainer 0/13 last 14 days and returns from 282 days off"},
+    {"horse_id": "hrs_31880758", "horse": "Miss Cynthia", "chance_pct": 13.5, "reason": "Trainer 18/80 last 14 days and bounced back with a 3rd last time"}
+  ], "checks": [
+    {"horse_id": "hrs_46169683", "horse": "Strong Run", "verdict": "BET", "reason": "Won two back at this trip; last-time unseat was over fences and she reverts to hurdles"}
+  ]},
+  {"race_id": "rac_32304861225", "changes": [
+    {"horse_id": "hrs_41052802", "horse": "Coolanna", "chance_pct": 18.0, "reason": "264-day absence, top weight 168 lb and first run over fences"},
+    {"horse_id": "hrs_41052578", "horse": "Hard Dealt", "chance_pct": 16.5, "reason": "Lone habitual front-runner may get an uncontested lead; best figure 110 is 7 lb above field average"},
+    {"horse_id": "hrs_51090928", "horse": "Indannya", "chance_pct": 15.5, "reason": "Ninth and faded last time, 243 days off, first run over fences"},
+    {"horse_id": "hrs_39827298", "horse": "Where's Cato", "chance_pct": 4.5, "reason": "Best figure 92 is 11 lb below field average; trainer 1/24 lately"},
+    {"horse_id": "hrs_37790382", "horse": "Presenting Doy", "chance_pct": 9.5, "reason": "Faded last time, 222 days off and first run over fences"}
+  ], "checks": [
+    {"horse_id": "hrs_41052802", "horse": "Coolanna", "verdict": "SKIP", "reason": "Returns from 264 days off with top weight on her first run over fences"}
+  ]},
+  {"race_id": "rac_32304863162", "changes": [
+    {"horse_id": "hrs_17395617827", "horse": "Ellie Marie", "chance_pct": 12.5, "reason": "Returns from a 571-day absence off a single run; model 6.1%"},
+    {"horse_id": "hrs_17395624085", "horse": "Fiercestone", "chance_pct": 8.8, "reason": "Won last time with progressive 2-1 form; trainer 3/14 last 14 days"},
+    {"horse_id": "hrs_17395393582", "horse": "Kells Bay", "chance_pct": 6.5, "reason": "Trainer 0/13 last 14 days and 235 days off"},
+    {"horse_id": "hrs_61842067", "horse": "Molly Hastings", "chance_pct": 2.5, "reason": "Trainer 0/10 last 14 days on debut"}
+  ], "checks": [
+    {"horse_id": "hrs_17395617827", "horse": "Ellie Marie", "verdict": "SKIP", "reason": "571 days off after a single run gives a specific fitness doubt"}
+  ]}
+]}

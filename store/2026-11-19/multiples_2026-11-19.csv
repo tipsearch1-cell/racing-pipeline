@@ -1,0 +1,5 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-19,11:48,Lingfield (AW),rac_32304822485,Rogue Imperial,hrs_64847293,3.75,3.5,William Hill,3.75,Betfred 3.5,2026-11-19-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-19,3:40,Lingfield (AW),rac_32304834107,Got The Booty,hrs_56219429,3.75,3.5,William Hill,3.75,"Bet Victor 3.5, Betfred 3.5",2026-11-19-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-19,6:40,Newcastle (AW),rac_32304847666,Starmade,hrs_56494697,5.0,4.5,William Hill,5.0,Betfred 4.5,2026-11-19-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-19,7:40,Newcastle (AW),rac_32304849603,Paddy's Day,hrs_29227226,4.33,4.33,William Hill,4.33,,2026-11-19-William Hill-1,Lucky 15,15,0.5,7.5

@@ -1,0 +1,30 @@
+{
+ "lingfield_aw": {
+  "course": "Lingfield (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-19/review/in_lingfield_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-19/review/out_lingfield_aw.json",
+  "races": 9,
+  "checks": 5
+ },
+ "warwick": {
+  "course": "Warwick",
+  "in": "/home/claude/racing-pipeline/store/2026-11-19/review/in_warwick.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-19/review/out_warwick.json",
+  "races": 8,
+  "checks": 4
+ },
+ "thurles": {
+  "course": "Thurles",
+  "in": "/home/claude/racing-pipeline/store/2026-11-19/review/in_thurles.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-19/review/out_thurles.json",
+  "races": 7,
+  "checks": 2
+ },
+ "newcastle_aw": {
+  "course": "Newcastle (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-19/review/in_newcastle_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-19/review/out_newcastle_aw.json",
+  "races": 9,
+  "checks": 5
+ }
+}

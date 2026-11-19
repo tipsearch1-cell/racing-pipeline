@@ -1,0 +1,82 @@
+{"meeting": "lingfield_aw", "races": [
+ {"race_id": "rac_32304820548", "changes": [
+  {"horse_id": "hrs_65414587", "horse": "Nascondino", "chance_pct": 51.0, "reason": "Best recent figure 55, 12 lb above field average; prominent racer in a slow/tactical pace"},
+  {"horse_id": "hrs_63203476", "horse": "Zeriya", "chance_pct": 9.0, "reason": "Trainer 0/18 last 14 days and returns from a 185-day break"},
+  {"horse_id": "hrs_17391993402", "horse": "Tilsworth Emma", "chance_pct": 0.5, "reason": "Faded last run (-2.4% finishing speed)"},
+  {"horse_id": "hrs_40859595", "horse": "Opal Rose", "chance_pct": 0.15, "reason": "Best figure 14 lb below field average; hold-up horse in a steady pace"}
+ ], "checks": []},
+ {"race_id": "rac_32304822485", "changes": [
+  {"horse_id": "hrs_17390697996", "horse": "Arthur Carrot", "chance_pct": 21.0, "reason": "Best recent figure 75, 7 lb above field average; trainer 1/8 in-form"},
+  {"horse_id": "hrs_17391112067", "horse": "Show Me Glory", "chance_pct": 16.0, "reason": "Recent figures 8 lb below current mark; trainer 0/18 last 14 days"},
+  {"horse_id": "hrs_65161467", "horse": "Rosevannion", "chance_pct": 8.5, "reason": "162-day absence and top weight 135lb"},
+  {"horse_id": "hrs_65974594", "horse": "Bacha", "chance_pct": 8.5, "reason": "OR 8 lb below field average; all recent runs at 5f, stepping up to 7f after 78 days"},
+  {"horse_id": "hrs_62170066", "horse": "Nour", "chance_pct": 7.0, "reason": "Trainer 0/9 last 14 days; likely to contest the lead with Rogue Imperial"},
+  {"horse_id": "hrs_17393467161", "horse": "Boy Basilica", "chance_pct": 5.0, "reason": "Comment: hard to fancy from draw 1; figures 20 lb below mark; trainer 0/9"},
+  {"horse_id": "hrs_65322432", "horse": "Cloud Summit", "chance_pct": 2.8, "reason": "111-day absence and winless in recent form"}
+ ], "checks": [
+  {"horse_id": "hrs_64847293", "horse": "Rogue Imperial", "verdict": "BET", "reason": "Won last two including at 7f, led 83% of runs; 53-day break and top weight are modest concerns"}
+ ]},
+ {"race_id": "rac_32305211822", "changes": [
+  {"horse_id": "hrs_60820788", "horse": "Fabulova", "chance_pct": 13.0, "reason": "Hold-up style in a slow/tactical pace; hold-up horses win 0.7x fair share at 7f here"},
+  {"horse_id": "hrs_17394184745", "horse": "Acrackintime", "chance_pct": 1.0, "reason": "Hold-up style vs slow pace and course bias; 9/9 last run"},
+  {"horse_id": "hrs_64780660", "horse": "Sparkling Jem", "chance_pct": 0.15, "reason": "Poor recent finishes, 107-day break, hold-up style vs pace"}
+ ], "checks": []},
+ {"race_id": "rac_32304824422", "changes": [
+  {"horse_id": "hrs_63809599", "horse": "Classic Bellini", "chance_pct": 37.0, "reason": "Best recent figure 53, 16 lb above field average; 2nd last time, model 42%"},
+  {"horse_id": "hrs_17395638687", "horse": "Star Run", "chance_pct": 18.0, "reason": "Debutante from a stable 0/18 in last 14 days"},
+  {"horse_id": "hrs_17394119036", "horse": "One Nine Seven", "chance_pct": 8.0, "reason": "Weak figures (14, 38); hold-up style vs slow pace and course bias"},
+  {"horse_id": "hrs_17393703922", "horse": "Stansfield Dream", "chance_pct": 0.9, "reason": "Figure 8 lb below field average, faded last run, hold-up vs pace"},
+  {"horse_id": "hrs_17394798029", "horse": "Sassaturra", "chance_pct": 0.6, "reason": "Figure 10 lb below field average, hold-up vs pace"}
+ ], "checks": []},
+ {"race_id": "rac_32304826359", "changes": [
+  {"horse_id": "hrs_41014057", "horse": "Startling", "chance_pct": 17.0, "reason": "Won last time, recent figures 4 lb above mark; trainer 1/1"},
+  {"horse_id": "hrs_41305061", "horse": "Moostar", "chance_pct": 16.0, "reason": "Best figure and OR both 8 lb below field average"},
+  {"horse_id": "hrs_58534875", "horse": "Rajiba", "chance_pct": 7.5, "reason": "111-day absence, trainer 0/9, winless in last five"},
+  {"horse_id": "hrs_55794963", "horse": "Moonlight Mirage", "chance_pct": 3.2, "reason": "218-day absence after an eighth last time"}
+ ], "checks": []},
+ {"race_id": "rac_32304828296", "changes": [
+  {"horse_id": "hrs_49695107", "horse": "Likealot", "chance_pct": 20.0, "reason": "117-day absence, trainer 0/8, hold-up style in a slow pace"},
+  {"horse_id": "hrs_17391521966", "horse": "Yamnah", "chance_pct": 10.0, "reason": "OR 9 lb below field average; hold-up style in a slow pace"},
+  {"horse_id": "hrs_57316364", "horse": "Littlecote", "chance_pct": 5.5, "reason": "Trainer 0/18 last 14 days; hold-up style in a slow pace"},
+  {"horse_id": "hrs_64072428", "horse": "Pierian", "chance_pct": 6.0, "reason": "Trainer 3/9 last 14 days; first-time cheekpieces"},
+  {"horse_id": "hrs_63422681", "horse": "Light of Paris", "chance_pct": 5.2, "reason": "Best figure 86, 5 lb above field average; trainer 5/14"},
+  {"horse_id": "hrs_45006682", "horse": "Miss Wong", "chance_pct": 0.8, "reason": "OR 9 lb below field average, faded last run"}
+ ], "checks": [
+  {"horse_id": "hrs_42616385", "horse": "Morrophore", "verdict": "BET", "reason": "Top-rated (OR 104, 12 lb above average), solid form and trainer 5/14 last 14 days"}
+ ]},
+ {"race_id": "rac_32304830233", "changes": [
+  {"horse_id": "hrs_55947682", "horse": "Enchanted Queen", "chance_pct": 28.0, "reason": "Lone habitual leader likely to get an uncontested lead; won last two, finished strongly"},
+  {"horse_id": "hrs_42073906", "horse": "Sky Safari", "chance_pct": 15.0, "reason": "Only seventh last time and returns after 64 days"},
+  {"horse_id": "hrs_47655370", "horse": "Kon Tiki", "chance_pct": 13.0, "reason": "Sixth last time and ninth before, after 47 days off"},
+  {"horse_id": "hrs_40745887", "horse": "Aviatrice", "chance_pct": 8.5, "reason": "Won last time (fig 99) 13 days ago; trainer 3/6 last 14 days"},
+  {"horse_id": "hrs_46449697", "horse": "American Gal", "chance_pct": 5.5, "reason": "47-day break, winless run, trainer 0/8"},
+  {"horse_id": "hrs_58900380", "horse": "Domina Ignis", "chance_pct": 1.9, "reason": "Poor recent finishing positions"},
+  {"horse_id": "hrs_52742179", "horse": "Nandita", "chance_pct": 1.1, "reason": "Returns from a 419-day break"}
+ ], "checks": [
+  {"horse_id": "hrs_55947682", "horse": "Enchanted Queen", "verdict": "BET", "reason": "Likely uncontested lead, won last two and has won at the trip; 48-day break a minor concern"}
+ ]},
+ {"race_id": "rac_32304832170", "changes": [
+  {"horse_id": "hrs_49143612", "horse": "Credit Forgedd It", "chance_pct": 17.5, "reason": "Winless in last six, figures only match his mark (59) and model 9.3%; Orange Emperor's figures superior"},
+  {"horse_id": "hrs_50433558", "horse": "Orange Emperor", "chance_pct": 17.0, "reason": "Best figure 66, 13 lb above field average; 6 lb well handicapped, finished strongly"},
+  {"horse_id": "hrs_31966298", "horse": "Ararat", "chance_pct": 6.8, "reason": "Poor recent finishing positions"},
+  {"horse_id": "hrs_53602017", "horse": "Snaafy", "chance_pct": 5.3, "reason": "Unplaced and faded (-2.7%) last time"},
+  {"horse_id": "hrs_25443495", "horse": "King of War", "chance_pct": 4.5, "reason": "Figures 16 lb below mark, faded last run"},
+  {"horse_id": "hrs_65068941", "horse": "Back At One", "chance_pct": 5.0, "reason": "Comment: 52 days off, stable 1/24, stall 11"},
+  {"horse_id": "hrs_24665193", "horse": "King of York", "chance_pct": 3.8, "reason": "Figures 6 lb below mark, poor recent finishes"},
+  {"horse_id": "hrs_45568460", "horse": "My Boy Harry", "chance_pct": 3.0, "reason": "Recent figures 28 lb below mark; hold-up course bias"},
+  {"horse_id": "hrs_21673918", "horse": "Bomb Squad", "chance_pct": 3.2, "reason": "Figures 6 lb below mark, poor recent finishes, aged 8"},
+  {"horse_id": "hrs_24907848", "horse": "Neptune Legend", "chance_pct": 2.8, "reason": "Figures 6 lb below mark; hold-up course bias"},
+  {"horse_id": "hrs_412693148", "horse": "Berning Hot", "chance_pct": 2.1, "reason": "Faded badly last run (-9.3%), 13/13"}
+ ], "checks": [
+  {"horse_id": "hrs_49143612", "horse": "Credit Forgedd It", "verdict": "SKIP", "reason": "Winless in last six with figures no better than his mark; model 9.3%"}
+ ]},
+ {"race_id": "rac_32304834107", "changes": [
+  {"horse_id": "hrs_56219429", "horse": "Got The Booty", "chance_pct": 26.0, "reason": "Runner-up last two; first-time cheekpieces; trainer 1/6"},
+  {"horse_id": "hrs_39191495", "horse": "Cayman Tai", "chance_pct": 10.5, "reason": "Recent figures 7 lb below current mark"},
+  {"horse_id": "hrs_43385363", "horse": "Magna", "chance_pct": 6.6, "reason": "Comment: 132lb from stall 1, one win in last six"},
+  {"horse_id": "hrs_22241317", "horse": "Shalaa Asker", "chance_pct": 7.5, "reason": "Second last time out, has won at the trip, in good heart"},
+  {"horse_id": "hrs_31069234", "horse": "Roman Spring", "chance_pct": 5.0, "reason": "Best figure 7 lb below field average; fifth last time"}
+ ], "checks": [
+  {"horse_id": "hrs_56219429", "horse": "Got The Booty", "verdict": "BET", "reason": "Runner-up last two at 5f, first-time cheekpieces, no specific doubt on the card"}
+ ]}
+]}
