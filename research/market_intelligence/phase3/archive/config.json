@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "_comment": "Forward market-intelligence archive. Disabled by default. See ../FORWARD_ARCHIVE.md before enabling. Credentials come ONLY from the environment (RACING_API_USERNAME / RACING_API_PASSWORD) and are never written or logged.",
+  "base_url": "https://api.theracingapi.com/v1",
+  "racecards_endpoint": "/racecards/standard",
+  "region_codes": "gb,ire",
+  "page_limit": 50,
+  "max_requests_per_second": 2,
+  "morning_checkpoint_uk": "09:00",
+  "pre_off_minutes": [60, 30, 15, 5, 1],
+  "tolerance_minutes": 3,
+  "out_dir": "archive_data",
+  "timezone": "Europe/London"
+}
