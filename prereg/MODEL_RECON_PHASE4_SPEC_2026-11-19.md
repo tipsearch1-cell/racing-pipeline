@@ -84,3 +84,14 @@ The bot is never affected.
 | PROMOTE TO FORWARD SHADOW TEST | Positive mean dev gain vs the 09:00 market with lower bound > 0 in May-Aug, **and** the same sign in Sep-Oct and H3 |
 | CONTINUE RESEARCH | Beats the baseline but not the market, or beats the market without a consistent sign |
 | REJECT | Neither |
+
+## Amendment 1 (19 Nov 2026, after the development scoring, before ANY shadow prediction exists)
+**What happened at selection:**
+- The sealed selection rule (best development gain; ties within 0.002 go to the simpler model) picked **D2** (boosted market residual), because it was within 0.0012 of **E** (hybrid).
+- D2's development lower bound is -0.0001, so it does not meet the sealed PROMOTE criterion.
+- E meets the PROMOTE criterion: development gain +0.0034 [+0.0008, +0.0060], with the same sign in Sep-Oct and H3.
+
+**Decision, so that neither result is suppressed and no swap is made after the fact:**
+- The prospective shadow test logs **both D2 (rule-selected) and E (criterion-promoted)**, frozen as fitted on 19 Nov.
+- Each is tested against the 09:00 market with a Bonferroni-adjusted interval (97.5%, two models). The pass rule is otherwise unchanged.
+- No shadow outcome exists yet.

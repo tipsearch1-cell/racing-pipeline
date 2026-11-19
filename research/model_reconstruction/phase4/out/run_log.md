@@ -1,0 +1,18 @@
+features 61; eval runners 83,181 in 8,963 races; months {'2026-03': 6729, '2026-04': 10046, '2026-05': 12276, '2026-06': 10798, '2026-07': 10584, '2026-08': 9722, '2026-09': 10825, '2026-10': 4894, 'H3-10': 2271, 'H3-11': 5036}
+- independent fit < 2026-03-01: A l2 flat/jumps 3.0/3.0; C trees 22; B trees 72 temp 1.23; 3.1s
+- independent fit < 2026-04-01: A l2 flat/jumps 3.0/3.0; C trees 77; B trees 82 temp 1.43; 10.1s
+- independent fit < 2026-05-01: A l2 flat/jumps 3.0/3.0; C trees 54; B trees 112 temp 1.40; 18.0s
+- independent fit < 2026-06-01: A l2 flat/jumps 1.0/3.0; C trees 40; B trees 72 temp 1.37; 20.4s
+- independent fit < 2026-07-01: A l2 flat/jumps 3.0/3.0; C trees 132; B trees 87 temp 1.40; 45.9s
+- independent fit < 2026-08-01: A l2 flat/jumps 0.3/3.0; C trees 109; B trees 103 temp 1.36; 58.2s
+- independent fit < 2026-09-01: A l2 flat/jumps 0.3/3.0; C trees 131; B trees 147 temp 1.34; 86.3s
+- independent fit < 2026-10-01: A l2 flat/jumps 0.3/0.3; C trees 81; B trees 122 temp 1.34; 85.9s
+- independent fit < 2026-11-01: A l2 flat/jumps 1.0/0.3; C trees 139; B trees 150 temp 1.31; 123.1s
+- market-dependent test 2026-05: train 1,803 races; D2 trees 13; E weights (log m, s_C, log f) [1.078, 0.073, 0.06]; 2s
+- market-dependent test 2026-06: train 3,136 races; D2 trees 31; E weights (log m, s_C, log f) [1.105, -0.023, 0.07]; 4s
+- market-dependent test 2026-07: train 4,298 races; D2 trees 77; E weights (log m, s_C, log f) [1.088, -0.033, 0.123]; 9s
+- market-dependent test 2026-08: train 5,492 races; D2 trees 43; E weights (log m, s_C, log f) [1.084, 0.002, 0.099]; 10s
+- market-dependent test 2026-09: train 6,564 races; D2 trees 22; E weights (log m, s_C, log f) [1.073, 0.031, 0.086]; 10s
+- market-dependent test 2026-10: train 7,679 races; D2 trees 13; E weights (log m, s_C, log f) [1.07, 0.053, 0.063]; 11s
+- market-dependent test H3-10: train 7,679 races; D2 trees 13; E weights (log m, s_C, log f) [1.07, 0.053, 0.063]; 6s
+- market-dependent test H3-11: train 8,187 races; D2 trees 8; E weights (log m, s_C, log f) [1.074, 0.052, 0.058]; 6s

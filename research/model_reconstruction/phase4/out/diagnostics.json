@@ -1,0 +1,102 @@
+{
+ "split": "train history < 2026-07-01; test Jul-Aug 2026 S3 races",
+ "test_races": 2266,
+ "train_races": 6093,
+ "market_ll": 1.7881244010537676,
+ "baseline_ll": 1.940797167525297,
+ "F_compression": {
+  "G0_l2_1": 1.941523354656169,
+  "G0_l2_0": 1.941681831879503,
+  "baseline_best_temperature_on_test (oracle)": 1.0055146144084193,
+  "baseline_ll_at_oracle_temperature": 1.9407927164792569,
+  "sum_to_one_max_err": 4.440892098500626e-16
+ },
+ "D_field_entropy": [
+  {
+   "field": "<=7",
+   "races": 904,
+   "entropy_model": 1.54730138544933,
+   "entropy_market": 1.4547447176817456,
+   "entropy_bsp": 1.3732788013952049,
+   "ll_model": 1.5661763139925866,
+   "ll_market": 1.4375641284038692
+  },
+  {
+   "field": "8-11",
+   "races": 875,
+   "entropy_model": 2.052064686864399,
+   "entropy_market": 1.9426512834074832,
+   "entropy_bsp": 1.8208329579668747,
+   "ll_model": 2.038307790048811,
+   "ll_market": 1.8847145602549749
+  },
+  {
+   "field": "12-15",
+   "races": 349,
+   "entropy_model": 2.3875420073886278,
+   "entropy_market": 2.2832090417317725,
+   "entropy_bsp": 2.0903076371036855,
+   "ll_model": 2.357379088082366,
+   "ll_market": 2.18766051785992
+  },
+  {
+   "field": "16+",
+   "races": 138,
+   "entropy_model": 2.7096855028371665,
+   "entropy_market": 2.6321685393745495,
+   "entropy_bsp": 2.4099907561097176,
+   "ll_model": 2.723031708185283,
+   "ll_market": 2.4616895634385862
+  }
+ ],
+ "D_field_temperature": {
+  "ll_before": 1.941523354656169,
+  "ll_after": 1.9412585607511028
+ },
+ "B_objective": {
+  "runner_logistic_then_normalised": 1.9527388071184486,
+  "race_softmax_listwise": 1.9475077036657338,
+  "pairwise_stumps": 1.9481326494740985
+ },
+ "A_relative_vs_absolute": {
+  "all_relative_features": 1.9157457525857413,
+  "absolute_features": 1.9110831550767913
+ },
+ "A_concordance": {
+  "market": 0.7364467849223947,
+  "baseline": 0.6751662971175166,
+  "all_relative": 0.6906319290465632,
+  "within_market_quintile": {
+   "0": {
+    "market": 0.7050561797752809,
+    "baseline": 0.5196629213483146,
+    "all_relative": 0.5393258426966292
+   },
+   "1": {
+    "market": 0.5635103926096998,
+    "baseline": 0.5831408775981525,
+    "all_relative": 0.5842956120092379
+   },
+   "2": {
+    "market": 0.5555555555555556,
+    "baseline": 0.5337301587301587,
+    "all_relative": 0.5687830687830688
+   },
+   "3": {
+    "market": 0.5344827586206896,
+    "baseline": 0.5239154616240267,
+    "all_relative": 0.5539488320355951
+   },
+   "4": {
+    "market": 0.5691260744985673,
+    "baseline": 0.5436962750716332,
+    "all_relative": 0.5164756446991404
+   }
+  }
+ },
+ "E_population": {
+  "expanding_Jan_Jun_per_code": 1.9157457525857413,
+  "last3months_Apr_Jun": 1.9157632922386687,
+  "pooled_codes": 1.9153682909362912
+ }
+}

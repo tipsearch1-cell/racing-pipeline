@@ -69,8 +69,10 @@ def write_once(cfg, day, rel, obj, captured_at):
     with open(tmp, "wb") as f:
         f.write(data)
     os.replace(tmp, path)
-    with open(os.path.join(cfg["out_dir"], day, "manifest.jsonl"), "a") as m:
-        m.write(json.dumps({"file": rel, "sha256": hashlib.sha256(data).hexdigest(), "bytes": len(data), "captured_at_utc": captured_at}) + "\n")
+    mf = os.path.join(cfg["out_dir"], day, "manifest.jsonl")
+    prev = hashlib.sha256(open(mf, "rb").read().splitlines()[-1]).hexdigest() if os.path.exists(mf) and os.path.getsize(mf) else "genesis"
+    with open(mf, "a") as m:   # each line carries the hash of the previous line: edits or deletions break the chain
+        m.write(json.dumps({"file": rel, "sha256": hashlib.sha256(data).hexdigest(), "bytes": len(data), "captured_at_utc": captured_at, "prev_line_sha256": prev}) + "\n")
     return True
 
 
@@ -117,12 +119,22 @@ def tick(cfg, fetch=http_fetch, now_utc=None, log=print):
         return 0
     now_utc = now_utc or dt.datetime.now(dt.timezone.utc)
     day = now_utc.astimezone(ZoneInfo(cfg["timezone"])).date().isoformat()
-    races = fetch_all(cfg, fetch)
+    try:
+        races = fetch_all(cfg, fetch)
+    except Blocker:
+        raise
+    except Exception as e:  # logged and recoverable: the next tick retries anything still due (state = files on disk)
+        os.makedirs(os.path.join(cfg["out_dir"], day), exist_ok=True)
+        with open(os.path.join(cfg["out_dir"], day, "failures.jsonl"), "a") as fl:
+            fl.write(json.dumps({"at_utc": now_utc.isoformat(timespec="seconds"), "error": type(e).__name__, "message": str(e)[:300]}) + "\n")
+        log(f"{now_utc.isoformat(timespec='seconds')}: fetch failed ({type(e).__name__}); logged, will retry next tick")
+        return -1
     captured = now_utc.isoformat(timespec="seconds")
     n = 0
     for lab, r in due_checkpoints(cfg, races, day, now_utc):
         rec = {"captured_at_utc": captured, "checkpoint": lab, "day": day, "source": cfg["racecards_endpoint"],
                "race_id": r["race_id"], "course": r.get("course"), "off_time": r.get("off_time"), "off_dt": r.get("off_dt"),
+               "off_utc_used": off_utc(r, day, ZoneInfo(cfg["timezone"])).isoformat(), "runner_count": len(r.get("runners", [])),
                "runners": [{"horse_id": h.get("horse_id"), "horse": h.get("horse"), "number": h.get("number"),
                             "odds": [{k: o.get(k) for k in ("bookmaker", "decimal", "fractional", "ew_places", "ew_denom", "updated")} for o in (h.get("odds") or [])]}
                            for h in r.get("runners", [])]}
@@ -189,8 +201,12 @@ def verify(cfg):
     bad = 0
     for day in sorted(os.listdir(cfg["out_dir"])) if os.path.isdir(cfg["out_dir"]) else []:
         mf = os.path.join(cfg["out_dir"], day, "manifest.jsonl")
-        for line in open(mf) if os.path.exists(mf) else []:
-            e = json.loads(line)
+        prev = "genesis"
+        for raw in open(mf, "rb").read().splitlines() if os.path.exists(mf) else []:
+            e = json.loads(raw)
+            if e.get("prev_line_sha256", prev) != prev:
+                bad += 1; print("MANIFEST CHAIN BROKEN", day, e["file"])
+            prev = hashlib.sha256(raw).hexdigest()
             data = open(os.path.join(cfg["out_dir"], day, e["file"]), "rb").read()
             if hashlib.sha256(data).hexdigest() != e["sha256"]:
                 bad += 1; print("HASH MISMATCH", day, e["file"])

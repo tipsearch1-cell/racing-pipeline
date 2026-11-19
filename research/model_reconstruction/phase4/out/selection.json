@@ -1,0 +1,58 @@
+{
+ "rule": "max mean development gain vs 09:00 market; ties within 0.002 -> simpler",
+ "ranking": [
+  {
+   "model": "E Hybrid (market + C + existing)",
+   "gain": 0.0034387906116038133,
+   "lo": 0.0007827632569011169,
+   "hi": 0.00596923452678659
+  },
+  {
+   "model": "D2 Market residual (boosted)",
+   "gain": 0.0021998684639472567,
+   "lo": -5.977963538838683e-05,
+   "hi": 0.004289235726653629
+  },
+  {
+   "model": "D1 Market residual (linear)",
+   "gain": 0.0006545671231785558,
+   "lo": -0.004330742644418861,
+   "hi": 0.005622572990590879
+  },
+  {
+   "model": "B Pairwise boosted",
+   "gain": -0.14171991977286025,
+   "lo": -0.15798854990440606,
+   "hi": -0.1254201824019297
+  },
+  {
+   "model": "A Improved current (linear, new features)",
+   "gain": -0.14239484774198366,
+   "lo": -0.15616564486848755,
+   "hi": -0.12666278766989847
+  },
+  {
+   "model": "C Listwise boosted",
+   "gain": -0.14813126231535853,
+   "lo": -0.16376607574461302,
+   "hi": -0.13353805549771952
+  }
+ ],
+ "chosen": "D2 Market residual (boosted)",
+ "re-used Sep-Oct": [
+  {
+   "gain": 0.000335873085812935,
+   "lo": -0.0025653957973500873,
+   "hi": 0.0027652996831151215,
+   "races": 1623
+  }
+ ],
+ "H3 26 Oct-18 Nov (re-used)": [
+  {
+   "gain": 0.0018115370345901187,
+   "lo": -0.0004097916151741933,
+   "hi": 0.003871024009533298,
+   "races": 674
+  }
+ ]
+}

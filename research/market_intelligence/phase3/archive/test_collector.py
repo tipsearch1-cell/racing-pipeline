@@ -106,3 +106,46 @@ def test_predictions_archive_real_day(tmp_path):
     for r in rec["rows"]:
         by.setdefault(r["race_id"], []).append(r["p_model"])
     assert all(abs(sum(v) - 1) < 1e-3 for v in by.values())
+
+
+def test_fetch_failure_logged_and_recovered(tmp_path):
+    c = cfg(tmp_path)
+    now = utc("2026-11-19T09:00:30+00:00")
+    def boom(cfg, params):
+        raise TimeoutError("provider timed out")
+    assert C.tick(c, fetch=boom, now_utc=now, log=lambda s: None) == -1
+    fl = [json.loads(l) for l in open(tmp_path / "arch" / "2026-11-19" / "failures.jsonl")]
+    assert fl[0]["error"] == "TimeoutError"
+    assert C.tick(c, fetch=fake_fetch([]), now_utc=utc("2026-11-19T09:02:00+00:00"), log=lambda s: None) == 3   # next tick recovers
+
+
+def test_postponed_race_uses_current_off_time(tmp_path):
+    c = cfg(tmp_path)
+    r = copy.deepcopy(FIX["racecards"][0])
+    old = dt.datetime.fromisoformat(r["off_dt"])
+    r["off_dt"] = (old + dt.timedelta(minutes=30)).isoformat()          # postponed by 30 minutes
+    assert C.due_checkpoints(c, [r], "2026-11-19", old.astimezone(dt.timezone.utc) - dt.timedelta(minutes=15)) == []
+    due = C.due_checkpoints(c, [r], "2026-11-19", old.astimezone(dt.timezone.utc) + dt.timedelta(minutes=15))
+    assert ("off-15m", r) in due
+
+
+def test_non_runner_removed_between_snapshots(tmp_path):
+    c = cfg(tmp_path)
+    fx = copy.deepcopy(FIX)
+    off = dt.datetime.fromisoformat(fx["racecards"][0]["off_dt"]).astimezone(dt.timezone.utc)
+    C.tick(c, fetch=lambda cfg, p: copy.deepcopy(fx), now_utc=off - dt.timedelta(minutes=60), log=lambda s: None)
+    fx["racecards"][0]["runners"] = fx["racecards"][0]["runners"][1:]      # a non-runner withdrawn
+    C.tick(c, fetch=lambda cfg, p: copy.deepcopy(fx), now_utc=off - dt.timedelta(minutes=30), log=lambda s: None)
+    rid = fx["racecards"][0]["race_id"]
+    a = json.loads(C.gzip.decompress(open(tmp_path / "arch" / "2026-11-19" / "market" / "off-60m" / f"{rid}.json.gz", "rb").read()))
+    b = json.loads(C.gzip.decompress(open(tmp_path / "arch" / "2026-11-19" / "market" / "off-30m" / f"{rid}.json.gz", "rb").read()))
+    assert a["runner_count"] == b["runner_count"] + 1        # both snapshots kept as captured; nothing overwritten
+
+
+def test_manifest_chain_detects_deleted_line(tmp_path):
+    c = cfg(tmp_path)
+    C.tick(c, fetch=fake_fetch([]), now_utc=utc("2026-11-19T09:00:00+00:00"), log=lambda s: None)
+    mf = tmp_path / "arch" / "2026-11-19" / "manifest.jsonl"
+    lines = mf.read_text().splitlines()
+    mf.write_text("\n".join([lines[0], lines[2]]) + "\n")            # silently drop a line
+    assert C.verify(c) >= 1
