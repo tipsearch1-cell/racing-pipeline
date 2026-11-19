@@ -1,2 +1,3 @@
 {"file": "predictions.json.gz", "sha256": "eb91dfa190cf3dadf0e834411f113332abd9af000b2ee832377634a6ff319d31", "bytes": 8938, "captured_at_utc": "2026-11-19T12:14:11+00:00"}
 {"file": "phase5/snapshots/SWEEP/20261119T131756Z.json.gz", "sha256": "9b067957526ec1cd871599054a9455d388c3b86c4532f677055cd2f026fbd43f", "bytes": 64372, "captured_at_utc": "2026-11-19T13:17:56+00:00", "prev_line_sha256": "10b5bf29b518f0c44120b30806d95609848e26bbf3ad2aee373b614f603b42e9"}
+{"file": "phase5/snapshots/SWEEP/20261119T140055Z.json.gz", "sha256": "9b4582aa006d5fa45220c22828cf1cea3539a2aeec1ca63023408fadf5997205", "bytes": 65042, "captured_at_utc": "2026-11-19T14:00:55+00:00", "prev_line_sha256": "b525bf57784b396009d9ec2a45c44dce54fb34d835ddadf66a4f886e65e393c1"}
