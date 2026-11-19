@@ -8,3 +8,4 @@ backups/
 *.log
 report/race-reports.html
 data/raceiq_runs.csv.gz
+research/harville/work/
