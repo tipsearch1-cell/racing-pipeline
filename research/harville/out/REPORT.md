@@ -112,7 +112,7 @@ The discount is weaker on 09:00 chances than on closing chances, because morning
 ## 5. Betting
 **Place bets at Betfair place SP.** Executable as limit-on-close BSP bets, with the limit set from the pre-race probability.
 - In 36 cells per test (3 models × 6 EV thresholds × 2 commission rates), no cell has a 95% lower bound above 0.
-- No cell is profitable in every quarter.
+- No cell in the O tests is profitable in every quarter (F covers a single quarter, so its "every quarter" flags mean little).
 - S1 shows +1-2% for every model and S2 shows -4 to -7%. The models do not separate from each other at the same threshold.
 - R (Forecasted Odds input) loses in all 5 years (-1% to -7%).
 - F with Frankie-model input shows +1-2%, but its intervals span ±12%.
