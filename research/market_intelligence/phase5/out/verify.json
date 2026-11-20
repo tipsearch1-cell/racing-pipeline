@@ -1,5 +1,5 @@
 {
- "checked_utc": "2026-11-20T08:42:56+00:00",
+ "checked_utc": "2026-11-20T09:00:33+00:00",
  "archive_integrity_failures": 0,
  "archive_integrity_detail": [],
  "frozen_model_sha256_ok": true,
@@ -7,31 +7,31 @@
   "2026-11-20": {
    "races": 39,
    "components": true,
-   "snapshots_M": 0,
-   "snapshots_M_in_window": 0,
+   "snapshots_M": 1,
+   "snapshots_M_in_window": 1,
    "snapshots_E": 1,
    "races_in_E": 39,
    "snapshots_SWEEP": 0,
-   "eligible_0900": 0,
+   "eligible_0900": 38,
    "confirmatory_settled": 0,
    "timestamp_violations": 0,
    "mapping_errors": 0,
    "model_hash_discrepancies": 0,
    "duplicate_snapshot_races": 0,
    "reasons": {
-    "no 09:00 prediction file": 39
+    "fewer than 2 runners": 1
    }
   }
  },
  "totals": {
   "races": 39,
-  "eligible_0900": 0,
+  "eligible_0900": 38,
   "confirmatory_settled": 0,
   "timestamp_violations": 0,
   "mapping_errors": 0,
   "model_hash_discrepancies": 0,
   "missing_E": 0,
-  "missing_M": 1,
+  "missing_M": 0,
   "duplicate_snapshots": 0
  },
  "ok": true
