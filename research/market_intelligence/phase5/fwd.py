@@ -326,6 +326,8 @@ def clv(out_dir=None, comm=0.02, ev_min=0.04):
         bf = {(r["race_id"], h["horse_id"]): q["decimal"] for r in snap["races"] for h in r["runners"] for q in h["quotes"] if q["bookmaker"] == "Betfair Exchange"}
         sweeps = snapshots(day, "SWEEP", out_dir)
         res = {(r["race_id"], h["horse_id"]): h for r in read_gz(rp)["results"] for h in r["runners"]}
+        bp = os.path.join(dd, "phase5", "results_bsp.json.gz")
+        sup = read_gz(bp)["bsp"] if os.path.exists(bp) else {}
         offs = {r["race_id"]: x["off_dt"] for x in [read_gz(os.path.join(dd, "phase5", "components.json.gz"))] for r in [dict(race_id=k, **v) for k, v in x["races"].items()]}
         for x in pred["rows"]:
             k = (x["race_id"], x["horse_id"]); q = bf.get(k); h = res.get(k)
@@ -339,7 +341,8 @@ def clv(out_dir=None, comm=0.02, ev_min=0.04):
                             for hh in r["runners"]:
                                 if hh["horse_id"] == x["horse_id"]:
                                     last = next((qq["decimal"] for qq in hh["quotes"] if qq["bookmaker"] == "Betfair Exchange"), last)
-            bsp = float(h["bsp"]) if str(h.get("bsp") or "").replace(".", "", 1).isdigit() else None
+            raw = h.get("bsp") or sup.get(x["race_id"], {}).get(x["horse_id"])
+            bsp = float(raw) if str(raw or "").replace(".", "", 1).isdigit() else None
             rows.append(dict(day=day, race_id=x["race_id"], horse_id=x["horse_id"], p_E=x["p_E"], m_0900=x["m_0900"], quote_0900=q,
                              price_type="exchange_back (provider, no depth)", last_sweep_quote=last, bsp=bsp, won=int(str(h.get("position")) == "1"),
                              ev=x["p_E"] * (1 + (q - 1) * (1 - comm)) - 1))
@@ -391,6 +394,20 @@ def settle(day, out_dir=None):
         raise SystemExit(f"no results for {day} yet")
     ok = COL.settle(cfg(out_dir), day, load_json(p))
     print(f"settle {day}: written={ok}")
+
+
+def bsp_supplement(day, out_dir=None):
+    """BSP published after the write-once settle: archive it once as phase5/results_bsp.json.gz (never rewrites results.json.gz).
+    Used only by exploratory CLV/execution; the primary metric needs winners only."""
+    from common import load_json
+    c = cfg(out_dir); p = os.path.join(ROOT, "store", day, "results_all.json.gz")
+    res = load_json(p)["results"]
+    b = {r["race_id"]: {h["horse_id"]: h.get("bsp") for h in r["runners"] if h.get("bsp") not in (None, "", "-")} for r in res}
+    n = sum(len(v) for v in b.values())
+    rec = dict(day=day, kind="bsp_supplement", created_utc=iso(now()), source="store/DAY/results_all.json.gz (Racing API results)",
+               runners_with_bsp=n, runners=sum(len(r["runners"]) for r in res), bsp=b)
+    ok = COL.write_once(c, day, "phase5/results_bsp.json.gz", rec, rec["created_utc"])
+    print(f"bsp {day}: {n}/{rec['runners']} runners with BSP; written={ok}")
 
 
 # ------------------------------------------------------------------ ledger / verify / status
@@ -607,12 +624,14 @@ def secondary(D):
 
 def main(argv=None):
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["components", "x1", "clv", "ingest", "predict0900", "stamp", "settle", "verify", "status", "analyze"])
+    ap.add_argument("cmd", choices=["components", "x1", "clv", "bsp", "ingest", "predict0900", "stamp", "settle", "verify", "status", "analyze"])
     ap.add_argument("args", nargs="*")
     ap.add_argument("--day"); ap.add_argument("--look", type=int)
     a = ap.parse_args(argv)
     if a.cmd == "components":
         components(a.args[0])
+    elif a.cmd == "bsp":
+        bsp_supplement(a.args[0])
     elif a.cmd == "clv":
         clv()
     elif a.cmd == "x1":
