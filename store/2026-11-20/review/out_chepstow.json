@@ -1,0 +1,60 @@
+{"meeting": "chepstow", "races": [
+  {"race_id": "rac_32305357097", "changes": [
+    {"horse_id": "hrs_51558206", "horse": "Bande Organisee", "chance_pct": 28.5, "reason": "Returns from a 272-day break with only 1 run in data; model 22.0% well below market"},
+    {"horse_id": "hrs_50433096", "horse": "Moments In Time", "chance_pct": 12.5, "reason": "273-day break and last run only 4/6 at Exeter; model 8.2%"},
+    {"horse_id": "hrs_17395016016", "horse": "Exciting Ride", "chance_pct": 12.0, "reason": "257-day break, form F42-, no runs in data; model 6.5%"},
+    {"horse_id": "hrs_62101571", "horse": "Music Song", "chance_pct": 2.8, "reason": "Form 42- with last-run finishing speed +7.3%; model 7.8% vs 1.9% market"}
+  ], "checks": []},
+  {"race_id": "rac_32304940642", "changes": [
+    {"horse_id": "hrs_57653547", "horse": "Sea The Day", "chance_pct": 26.0, "reason": "Returns from a 336-day break with no runs in data; model only 5.8%"},
+    {"horse_id": "hrs_17394105477", "horse": "Common Sense", "chance_pct": 28.0, "reason": "Best figure 114, 4 lb above field average; trainer 2/6 in 14 days"},
+    {"horse_id": "hrs_17394619676", "horse": "Passage Guenot", "chance_pct": 11.5, "reason": "Best figure 116, 6 lb above field average, finished strongly; model 12.9%"},
+    {"horse_id": "hrs_46077962", "horse": "What's Your Game", "chance_pct": 5.5, "reason": "Won last time with figure 115, 5 lb above field average, and finished strongly"},
+    {"horse_id": "hrs_61910695", "horse": "Littlebobbydazzler", "chance_pct": 5.0, "reason": "Best figure 105, 5 lb below field average; first run over hurdles"},
+    {"horse_id": "hrs_52087609", "horse": "Sears Crossing", "chance_pct": 1.8, "reason": "Held-up runner and a steady gallop is expected, hard to close"}
+  ], "checks": []},
+  {"race_id": "rac_32304942579", "changes": [
+    {"horse_id": "hrs_52056529", "horse": "Hidden Mountain", "chance_pct": 40.0, "reason": "Won last with figure 121, 11 lb above field average, finished strongly"},
+    {"horse_id": "hrs_52236506", "horse": "Old Habits", "chance_pct": 28.5, "reason": "Best figure 111 is 10 lb below Hidden Mountain's; model 11.0%"},
+    {"horse_id": "hrs_17394932576", "horse": "Moltezuma", "chance_pct": 12.0, "reason": "Returns from a 299-day break with no runs in data"},
+    {"horse_id": "hrs_17394320335", "horse": "Soviet Sailor", "chance_pct": 2.8, "reason": "Best figure 98, 12 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32304944516", "changes": [
+    {"horse_id": "hrs_34166496", "horse": "Ben Solo", "chance_pct": 15.5, "reason": "Top weight 169 lb, figures 10 lb below mark, PU and UR in last five; model 8.4%"},
+    {"horse_id": "hrs_50402205", "horse": "Sogna In Grande", "chance_pct": 6.5, "reason": "Recent figures 7 lb below mark and sixth last time on chase debut; model 4.0%"},
+    {"horse_id": "hrs_46697273", "horse": "Plains Drifter", "chance_pct": 5.0, "reason": "Won last, placed in 4 of last 5, prominent in a steady-pace race; model 14.7%"},
+    {"horse_id": "hrs_34961850", "horse": "Minella Missile", "chance_pct": 6.5, "reason": "Held up when a steady gallop is expected; yard 1/25 in 14 days"},
+    {"horse_id": "hrs_38792516", "horse": "Authentic Legacy", "chance_pct": 6.3, "reason": "Held up when a steady gallop is expected; 232-day break and 169 lb"},
+    {"horse_id": "hrs_21659876", "horse": "Hardy du Seuil", "chance_pct": 2.8, "reason": "Recent figures 9 lb below his current mark"}
+  ], "checks": [
+    {"horse_id": "hrs_34166496", "horse": "Ben Solo", "verdict": "SKIP", "reason": "169 lb, figures 10 lb below his mark and PU/UR in last five"}
+  ]},
+  {"race_id": "rac_32304946453", "changes": [
+    {"horse_id": "hrs_59335836", "horse": "Majeur Allen", "chance_pct": 14.5, "reason": "Returns from a 301-day break with only 1 run in data"},
+    {"horse_id": "hrs_58745428", "horse": "Lully du Houx", "chance_pct": 9.5, "reason": "Recent figures 8 lb below current mark; best figure 98, 7 lb below field average"},
+    {"horse_id": "hrs_49389200", "horse": "Can You Hear Me", "chance_pct": 5.5, "reason": "Held up when a steady gallop is expected; only seventh last time"},
+    {"horse_id": "hrs_37702259", "horse": "King of The Road", "chance_pct": 4.0, "reason": "First-time visor and trainer 5/25 in 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_60492432", "horse": "Lejo du Seuil", "verdict": "BET", "reason": "Recent 15-day run gave figure 109, 4 lb above field average; nothing specific against"}
+  ]},
+  {"race_id": "rac_32304948390", "changes": [
+    {"horse_id": "hrs_29212561", "horse": "Gingerbred", "chance_pct": 21.0, "reason": "Figures 10 lb below current mark, best figure 6 lb below field average; comment flags weight"},
+    {"horse_id": "hrs_34859818", "horse": "Better Off Alone", "chance_pct": 22.5, "reason": "Best figure 106, 5 lb above field average; trainer 3/13 in 14 days"},
+    {"horse_id": "hrs_35335790", "horse": "Patriotik", "chance_pct": 12.5, "reason": "Lone habitual front-runner who may get an easy lead"},
+    {"horse_id": "hrs_35416801", "horse": "Jongleur d'Etoiles", "chance_pct": 9.5, "reason": "Jumping mistakes in 3 of last 5, a fall and a PU; 119-day break"},
+    {"horse_id": "hrs_37701461", "horse": "Tommys Charm", "chance_pct": 5.0, "reason": "Jumping mistakes in 3 of last 4 runs and a 213-day break"},
+    {"horse_id": "hrs_25427703", "horse": "Esperti", "chance_pct": 3.4, "reason": "Form 211-23, has won at this trip; model 10.6%"}
+  ], "checks": [
+    {"horse_id": "hrs_29212561", "horse": "Gingerbred", "verdict": "SKIP", "reason": "Figures 10 lb below his raised mark and 158 lb is a stiff ask"}
+  ]},
+  {"race_id": "rac_32304950327", "changes": [
+    {"horse_id": "hrs_46109371", "horse": "Northwest Passage", "chance_pct": 42.0, "reason": "Figure 107 is 14 lb above field average and 11 lb above his mark"},
+    {"horse_id": "hrs_53181632", "horse": "Both of Us", "chance_pct": 3.5, "reason": "Best figure 75, 18 lb below field average and his mark; held up on a steady pace"},
+    {"horse_id": "hrs_30764545", "horse": "Activist", "chance_pct": 4.0, "reason": "266-day break, faded last time, held up on a steady pace"},
+    {"horse_id": "hrs_61910646", "horse": "Mistral St Georges", "chance_pct": 4.0, "reason": "Fell or unseated in 2 of last 3 and a 223-day break"}
+  ], "checks": []},
+  {"race_id": "rac_32304952264", "changes": [
+    {"horse_id": "hrs_17394112778", "horse": "Noble Calling", "chance_pct": 8.3, "reason": "Trainer 3/8 (38%) in the last 14 days"},
+    {"horse_id": "hrs_17395681450", "horse": "Cappanapeasta", "chance_pct": 3.0, "reason": "Trainer 3/8 (38%) in the last 14 days"}
+  ], "checks": []}
+]}

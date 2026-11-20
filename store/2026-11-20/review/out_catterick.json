@@ -1,0 +1,51 @@
+{"meeting": "catterick", "races": [
+  {"race_id": "rac_32304911587", "changes": [
+    {"horse_id": "hrs_50434748", "horse": "Poetry of Time", "chance_pct": 15.5, "reason": "Lone habitual front-runner likely to get an easy lead; finished strongly last run (+2.8%)"},
+    {"horse_id": "hrs_55851362", "horse": "Magical Merlot", "chance_pct": 15.0, "reason": "First run over hurdles after 66 days off"},
+    {"horse_id": "hrs_56873768", "horse": "See Blue", "chance_pct": 6.5, "reason": "Pulled up on only hurdles run last time"},
+    {"horse_id": "hrs_57255142", "horse": "Elm Creek", "chance_pct": 2.5, "reason": "Best recent figure 83, 9 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32304913524", "changes": [
+    {"horse_id": "hrs_17391213238", "horse": "I've Got A Friend", "chance_pct": 40.0, "reason": "Habitual leader likely to be taken on in a strong, contested pace"},
+    {"horse_id": "hrs_60394999", "horse": "Nightflyer", "chance_pct": 28.0, "reason": "Last-run figure 116 tops the field, finished strongly and has won at this trip"},
+    {"horse_id": "hrs_17395400883", "horse": "Seeyasunday", "chance_pct": 9.0, "reason": "Returns from a 325-day break"},
+    {"horse_id": "hrs_52055927", "horse": "Little John", "chance_pct": 4.3, "reason": "194-day break and likely to be taken on for the lead"},
+    {"horse_id": "hrs_17394663482", "horse": "Lipati", "chance_pct": 3.6, "reason": "Hold-up style suited by the expected contested lead"}
+  ], "checks": []},
+  {"race_id": "rac_32304915461", "changes": [
+    {"horse_id": "hrs_51124024", "horse": "Legendary Luke", "chance_pct": 28.0, "reason": "Faded badly last run (-9.7%, 7th of 7) and top weight at 170 lb"},
+    {"horse_id": "hrs_50188040", "horse": "Inedit d'Amour", "chance_pct": 23.5, "reason": "Two straight chase seconds, finished strongly last time, 7 lb less than average"},
+    {"horse_id": "hrs_41052431", "horse": "Sign Again", "chance_pct": 11.0, "reason": "Pulled up last time and unseated before that"},
+    {"horse_id": "hrs_24434403", "horse": "Singapore Trip", "chance_pct": 8.5, "reason": "Recent figures 6 lb below current mark and faded last run"}
+  ], "checks": []},
+  {"race_id": "rac_32304917398", "changes": [
+    {"horse_id": "hrs_32780258", "horse": "Jeteye", "chance_pct": 22.5, "reason": "Won four of last six incl. last two, finished strongly last run, has won at this trip"},
+    {"horse_id": "hrs_51185988", "horse": "Noonetellsmenothin", "chance_pct": 15.5, "reason": "Jumping mistakes mentioned in 3 of last 5 runs"},
+    {"horse_id": "hrs_33165202", "horse": "Speed Davis", "chance_pct": 13.5, "reason": "Best recent figure 113, 9 lb above field average, finished strongly last run"},
+    {"horse_id": "hrs_40647103", "horse": "Sunset Hill", "chance_pct": 11.3, "reason": "Best recent figure 112, 8 lb above field average, finished strongly last run"},
+    {"horse_id": "hrs_50433061", "horse": "Loulou Madrik", "chance_pct": 6.0, "reason": "Recent figures 8 lb below mark and faded last run"},
+    {"horse_id": "hrs_28446908", "horse": "Quercus Robur", "chance_pct": 4.5, "reason": "Ninth last time out and winless in last three"}
+  ], "checks": [
+    {"horse_id": "hrs_32780258", "horse": "Jeteye", "verdict": "BET", "reason": "In-form winner of last two at the trip, no specific negative on the card"}
+  ]},
+  {"race_id": "rac_32304919335", "changes": [
+    {"horse_id": "hrs_34045081", "horse": "Paddy O'Mahler", "chance_pct": 31.0, "reason": "Recent figures 7 lb below mark and likely to be taken on for the lead"},
+    {"horse_id": "hrs_30208612", "horse": "Some Scope", "chance_pct": 19.5, "reason": "Recent figures 11 lb below mark, faded last run, likely taken on for the lead"},
+    {"horse_id": "hrs_34457276", "horse": "Finn Lough", "chance_pct": 17.5, "reason": "Recent figures 7 lb below mark, best figure 4 lb below field average"},
+    {"horse_id": "hrs_37381631", "horse": "Melton Mossy", "chance_pct": 15.5, "reason": "Hold-up style suits strong contested pace and best recent figure tops field (110)"}
+  ], "checks": []},
+  {"race_id": "rac_32304921272", "changes": [
+    {"horse_id": "hrs_35336091", "horse": "I See The Sea", "chance_pct": 14.5, "reason": "Returns from 221-day break with jumping mistakes and a pull-up in recent runs"},
+    {"horse_id": "hrs_34003578", "horse": "Anytrixwilldo", "chance_pct": 15.0, "reason": "Won last time, best recent figure 15 lb above field average, trainer 6/31"},
+    {"horse_id": "hrs_37890426", "horse": "Jo Lescribaa", "chance_pct": 11.0, "reason": "237-day absence after pulling up, likely taken on for the lead"},
+    {"horse_id": "hrs_33644408", "horse": "Halfway House Lad", "chance_pct": 6.5, "reason": "Pulled up twice and eighth in last three, 83 days off"},
+    {"horse_id": "hrs_29829191", "horse": "Aill Dubh", "chance_pct": 5.0, "reason": "Best figure 18 lb below field average, 12 lb below mark, faded last run"}
+  ], "checks": [
+    {"horse_id": "hrs_35336091", "horse": "I See The Sea", "verdict": "SKIP", "reason": "221-day absence plus jumping mistakes and a recent pull-up"}
+  ]},
+  {"race_id": "rac_32304923209", "changes": [
+    {"horse_id": "hrs_64590505", "horse": "La Dame Ecarlate", "chance_pct": 31.0, "reason": "Lone leader may get an easy lead; trainer 6/22 in last 14 days"},
+    {"horse_id": "hrs_17391758727", "horse": "Rescheduled", "chance_pct": 22.0, "reason": "Only a 2nd of 3 to go on, 52 days off and carries 156 lb"},
+    {"horse_id": "hrs_61975410", "horse": "Billey Shiftit", "chance_pct": 10.5, "reason": "Unplaced last time and returns from 225 days off"}
+  ], "checks": []}
+]}

@@ -1,0 +1,37 @@
+{
+ "chepstow": {
+  "course": "Chepstow",
+  "in": "/home/claude/racing-pipeline/store/2026-11-20/review/in_chepstow.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-20/review/out_chepstow.json",
+  "races": 8,
+  "checks": 3
+ },
+ "catterick": {
+  "course": "Catterick",
+  "in": "/home/claude/racing-pipeline/store/2026-11-20/review/in_catterick.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-20/review/out_catterick.json",
+  "races": 7,
+  "checks": 2
+ },
+ "ascot": {
+  "course": "Ascot",
+  "in": "/home/claude/racing-pipeline/store/2026-11-20/review/in_ascot.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-20/review/out_ascot.json",
+  "races": 7,
+  "checks": 3
+ },
+ "wolverhampton_aw": {
+  "course": "Wolverhampton (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-20/review/in_wolverhampton_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-20/review/out_wolverhampton_aw.json",
+  "races": 9,
+  "checks": 4
+ },
+ "dundalk_aw": {
+  "course": "Dundalk (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-20/review/in_dundalk_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-20/review/out_dundalk_aw.json",
+  "races": 8,
+  "checks": 7
+ }
+}

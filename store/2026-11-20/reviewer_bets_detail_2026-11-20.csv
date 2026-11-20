@@ -1,0 +1,16 @@
+OffUK,StartTimeUTC,Course,SelectionName,Code,Source,MorningMedian,MinPrice,BestPrice9am,Matchbook9am,ReviewerChancePct,MarketChancePct,Reason,Status
+12:57,2026-11-20T12:57:00+00:00,Chepstow,Plains Drifter,Jumps,reviewer BET flag,19.0,20.0,29.0,29.0,5.0,3.89,"Won last, placed in 4 of last 5, prominent in a steady-pace race; model 14.7%",BOT FILE
+13:32,2026-11-20T13:32:00+00:00,Chepstow,Lejo du Seuil,Jumps,CHECK verdict BET,4.0,3.8,4.5,4.5,22.6,20.72,"Recent 15-day run gave figure 109, 4 lb above field average; nothing specific against",BOT FILE
+13:43,2026-11-20T13:43:00+00:00,Catterick,Jeteye,Jumps,CHECK verdict BET,4.0,3.8,4.5,4.5,22.5,21.28,"In-form winner of last two at the trip, no specific negative on the card",BOT FILE
+16:30,2026-11-20T16:30:00+00:00,Wolverhampton (AW),Molly Valentine,Flat,reviewer BET flag,23.0,23.81,36.0,36.0,4.2,3.1,"Second last time with fig 55, 5 lb above current mark (well handicapped).",BOT FILE
+16:45,2026-11-20T16:45:00+00:00,Dundalk (AW),Premier View,Flat,CHECK verdict BET,3.5,3.32,3.75,3.75,29.0,24.29,Form 8112 with clear best figure in the field and in-form trainer; only knock is the weight,BOT FILE
+17:15,2026-11-20T17:15:00+00:00,Dundalk (AW),One Cool Bear,Flat,reviewer BET flag,7.0,7.69,8.2,8.2,13.0,9.63,"Best figure 69, 21 lb above field average, figures 9 lb above mark; trainer 4/19 in 14 days",BOT FILE
+17:15,2026-11-20T17:15:00+00:00,Dundalk (AW),Surpass And Shine,Flat,CHECK verdict BET,3.0,2.85,3.3,3.3,22.56,22.93,"Won over course and distance last time, best figure 7 lb above field; no specific negative beyond the weight",BOT FILE
+17:45,2026-11-20T17:45:00+00:00,Dundalk (AW),Prince Of Peppard,Flat,CHECK verdict BET,3.5,3.32,4.0,4.0,27.0,23.85,Top figure in the race and looks well handicapped; consistent recent placings,BOT FILE
+18:15,2026-11-20T18:15:00+00:00,Dundalk (AW),City House,Flat,CHECK verdict BET,4.0,3.8,4.2,4.2,22.0,20.64,Improving course form (1st then 2nd) with the best figure in the field and an in-form stable,BOT FILE
+18:45,2026-11-20T18:45:00+00:00,Dundalk (AW),Golden Idol,Flat,CHECK verdict BET,3.5,3.32,3.5,3.5,25.5,23.93,"Clear best figure in the field, prominent style suits likely slow pace, stable in form",EXCLUDED - unknown runner(s) or off before seal
+19:00,2026-11-20T19:00:00+00:00,Wolverhampton (AW),Printing Money,Flat,CHECK verdict BET,4.0,3.8,4.3,4.2,22.0,20.82,"Solid 1-4-3 recent form, top fig 66 and prominent run style fits the expected pace.",BOT FILE
+19:45,2026-11-20T19:45:00+00:00,Dundalk (AW),Justenzia,Flat,reviewer BET flag,9.0,8.7,13.0,13.0,11.5,7.74,"Form 226212, best figure 78 is 19 lb above field average, well handicapped, prominent in slow pace",BOT FILE
+20:00,2026-11-20T20:00:00+00:00,Wolverhampton (AW),Eldeyaar,Flat,reviewer BET flag,11.0,10.53,15.5,15.5,9.5,6.66,"Won last time with fig 69, 15 lb above current mark.",BOT FILE
+20:15,2026-11-20T20:15:00+00:00,Dundalk (AW),Barretstown,Flat,reviewer BET flag,13.0,15.87,18.5,18.5,6.3,4.59,"Best figure 69, 18 lb above field average and 19 lb above his mark; upward curve 4-3",BOT FILE
+20:30,2026-11-20T20:30:00+00:00,Wolverhampton (AW),Born A Rebel,Flat,reviewer BET flag,11.0,11.76,18.0,18.0,8.5,6.02,"Best recent fig 69, 7 lb above mark, and finished strongly (+5.3%) last time.",BOT FILE

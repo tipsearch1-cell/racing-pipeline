@@ -1,0 +1,68 @@
+{"meeting": "dundalk_aw", "races": [
+  {"race_id": "rac_32305045240", "changes": [
+    {"horse_id": "hrs_65642381", "horse": "Premier View", "chance_pct": 29.0, "reason": "Best recent figure 85, 23 lb above field average; OR 14 lb above field; trainer 8/38 in 14 days"},
+    {"horse_id": "hrs_17391290420", "horse": "Sapphire Sun", "chance_pct": 14.5, "reason": "Best figure 46 is 16 lb below field average and 28 lb below her mark; winless in last three"},
+    {"horse_id": "hrs_17389030239", "horse": "Invincible Irish", "chance_pct": 22.5, "reason": "Back-to-back seconds, figures 11 lb above mark, finished strongly last time"},
+    {"horse_id": "hrs_65451442", "horse": "Rejoinder", "chance_pct": 8.5, "reason": "Held up into a likely slow pace; figures 15 lb below current mark; eighth last time"},
+    {"horse_id": "hrs_63323295", "horse": "Matriarchal", "chance_pct": 7.5, "reason": "Figures 22 lb below mark, sixth last time and poor recent finishing positions"},
+    {"horse_id": "hrs_65161439", "horse": "Space Dreamer", "chance_pct": 8.5, "reason": "Good recent form (2nd last time, earlier wins), best figure 70 is 8 lb above field average"}
+  ], "checks": [
+    {"horse_id": "hrs_65642381", "horse": "Premier View", "verdict": "BET", "reason": "Form 8112 with clear best figure in the field and in-form trainer; only knock is the weight"}
+  ]},
+  {"race_id": "rac_32305047177", "changes": [
+    {"horse_id": "hrs_53960053", "horse": "One Cool Bear", "chance_pct": 13.0, "reason": "Best figure 69, 21 lb above field average, figures 9 lb above mark; trainer 4/19 in 14 days"},
+    {"horse_id": "hrs_51897622", "horse": "This Guy", "chance_pct": 3.6, "reason": "Returns from a 154-day absence, winless in six"},
+    {"horse_id": "hrs_42226079", "horse": "Sovereign Banter", "chance_pct": 6.2, "reason": "Trainer 0 from 13 in last 14 days; consistency doubts per comment"},
+    {"horse_id": "hrs_412692735", "horse": "El Fontenaro", "chance_pct": 5.6, "reason": "Third 16 days ago with best figure 59, 11 lb above field average"},
+    {"horse_id": "hrs_40746006", "horse": "Rodeeve", "chance_pct": 3.2, "reason": "Recent figures 10 lb below mark; unplaced last time"}
+  ], "checks": [
+    {"horse_id": "hrs_37110843", "horse": "Surpass And Shine", "verdict": "BET", "reason": "Won over course and distance last time, best figure 7 lb above field; no specific negative beyond the weight"}
+  ]},
+  {"race_id": "rac_32305049114", "changes": [
+    {"horse_id": "hrs_65973264", "horse": "Prince Of Peppard", "chance_pct": 27.0, "reason": "Best figure 90, 21 lb above field average and 10 lb above his mark; consistent placings"},
+    {"horse_id": "hrs_62168043", "horse": "Bull Shark", "chance_pct": 16.5, "reason": "Returns from a 146-day break after a seventh where he faded (-3.4% finishing speed); lone lead is the only plus"},
+    {"horse_id": "hrs_7000000518", "horse": "Dear Theodosia", "chance_pct": 11.5, "reason": "Best figure 57 is 12 lb below field average and OR 23 lb below; out again just 2 days after winning"},
+    {"horse_id": "hrs_66655358", "horse": "Marcescence", "chance_pct": 10.5, "reason": "Recent figures 13 lb below mark; maiden carrying 133 lb"}
+  ], "checks": [
+    {"horse_id": "hrs_65973264", "horse": "Prince Of Peppard", "verdict": "BET", "reason": "Top figure in the race and looks well handicapped; consistent recent placings"}
+  ]},
+  {"race_id": "rac_32305051051", "changes": [
+    {"horse_id": "hrs_35895608", "horse": "City House", "chance_pct": 22.0, "reason": "Rising figures 79-81-84 over course, best in field; trainer 4/19 in 14 days"},
+    {"horse_id": "hrs_43667239", "horse": "Celtic Motif", "chance_pct": 10.0, "reason": "Returns from a 105-day break carrying top weight 140 lb"},
+    {"horse_id": "hrs_55061650", "horse": "Chicago Pope", "chance_pct": 11.5, "reason": "Poor recent finishing positions, sixth last time"},
+    {"horse_id": "hrs_58596475", "horse": "Alissam", "chance_pct": 10.5, "reason": "Form in decline since win five starts back, seventh last time"},
+    {"horse_id": "hrs_57041544", "horse": "El Rehaiby", "chance_pct": 3.8, "reason": "407 days off and trainer 0 from 13 in last 14 days"},
+    {"horse_id": "hrs_17391394720", "horse": "Tax Me Later", "chance_pct": 5.5, "reason": "Placed in all four starts, finished strongly (+3.4%) last time"}
+  ], "checks": [
+    {"horse_id": "hrs_35895608", "horse": "City House", "verdict": "BET", "reason": "Improving course form (1st then 2nd) with the best figure in the field and an in-form stable"}
+  ]},
+  {"race_id": "rac_32305052988", "changes": [
+    {"horse_id": "hrs_17392957134", "horse": "Golden Idol", "chance_pct": 25.5, "reason": "Best figure 70, 16 lb above field average, second over course; trainer 8/38 in 14 days"},
+    {"horse_id": "hrs_17390258893", "horse": "Sovereign Jazz", "chance_pct": 12.0, "reason": "Returns from a 106-day break off just a fifth on debut"},
+    {"horse_id": "hrs_66304847", "horse": "Selosse", "chance_pct": 10.0, "reason": "Cheekpieces fitted for the first time"},
+    {"horse_id": "hrs_17390851317", "horse": "Epic Arch", "chance_pct": 7.5, "reason": "Trainer 0 from 13 in last 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_17392957134", "horse": "Golden Idol", "verdict": "BET", "reason": "Clear best figure in the field, prominent style suits likely slow pace, stable in form"}
+  ]},
+  {"race_id": "rac_32305054925", "changes": [
+    {"horse_id": "hrs_65101379", "horse": "Carafinn", "chance_pct": 10.5, "reason": "Returns from a 134-day break"}
+  ], "checks": []},
+  {"race_id": "rac_32305056862", "changes": [
+    {"horse_id": "hrs_53602164", "horse": "Tero d'Rosa", "chance_pct": 10.5, "reason": "Best figure 53 is 6 lb below field average, figures 8 lb below mark, 16th of 19 last time"},
+    {"horse_id": "hrs_45982377", "horse": "Justenzia", "chance_pct": 11.5, "reason": "Form 226212, best figure 78 is 19 lb above field average, well handicapped, prominent in slow pace"},
+    {"horse_id": "hrs_40805534", "horse": "Usuario Amigo", "chance_pct": 10.0, "reason": "Held up into likely slow pace, back in two days after sixth and seventh"},
+    {"horse_id": "hrs_36665132", "horse": "Tribal Moon", "chance_pct": 9.0, "reason": "Seventh in each of last two, poor recent finishing positions"},
+    {"horse_id": "hrs_56625009", "horse": "Soaring Sun", "chance_pct": 9.5, "reason": "Eighth last time, figures 6 lb below mark"}
+  ], "checks": [
+    {"horse_id": "hrs_53602164", "horse": "Tero d'Rosa", "verdict": "SKIP", "reason": "Figures below field average and below his mark, well beaten last time; Justenzia has far stronger data"}
+  ]},
+  {"race_id": "rac_32305058799", "changes": [
+    {"horse_id": "hrs_51866388", "horse": "Showyoutheropes", "chance_pct": 11.5, "reason": "Held up into a likely slow pace; best figure 51 trails several rivals; form 090602 patchy"},
+    {"horse_id": "hrs_30017484", "horse": "Grey Fable", "chance_pct": 11.0, "reason": "Best figure 62, 11 lb above field, figures above mark, prominent, finished strongly last time"},
+    {"horse_id": "hrs_21837641", "horse": "Barretstown", "chance_pct": 6.3, "reason": "Best figure 69, 18 lb above field average and 19 lb above his mark; upward curve 4-3"},
+    {"horse_id": "hrs_40260703", "horse": "Preparations", "chance_pct": 3.8, "reason": "Flat figures 17 lb below mark, trainer 0 from 13 in last 14 days"},
+    {"horse_id": "hrs_47064955", "horse": "Captain Hanley", "chance_pct": 5.0, "reason": "Returns from 96-day break, held up into likely slow pace"}
+  ], "checks": [
+    {"horse_id": "hrs_51866388", "horse": "Showyoutheropes", "verdict": "SKIP", "reason": "Hold-up runner in a race expected to be slowly run, with a modest best figure and inconsistent form"}
+  ]}
+]}
