@@ -1,0 +1,66 @@
+{"meeting": "newcastle_aw", "races": [
+  {"race_id": "rac_32305461695", "changes": [
+    {"horse_id": "hrs_45192602", "horse": "Naval Command", "chance_pct": 4.5, "reason": "Form 659558, recent figures 17 lb below mark, best fig 53 and trainer 0/9 in 14 days"},
+    {"horse_id": "hrs_20662299", "horse": "Annandale", "chance_pct": 3.8, "reason": "Held up into a slow/tactical pace and returns from 80 days off"},
+    {"horse_id": "hrs_29593102", "horse": "Chicago Storm", "chance_pct": 2.8, "reason": "Poor recent finishing positions (last three 11/11, 13/13, PU) and sixth last time"},
+    {"horse_id": "hrs_43605632", "horse": "West Tyrone", "chance_pct": 10.0, "reason": "First-time visor and prominent style suits a slow pace with no established leader"}
+  ], "checks": []},
+  {"race_id": "rac_32305109161", "changes": [
+    {"horse_id": "hrs_28532693", "horse": "Humble Spark", "chance_pct": 20.0, "reason": "Winless in last six (form 665947), carries 8 lb more than average, model only 7.9%"},
+    {"horse_id": "hrs_47065046", "horse": "Rory's Gold", "chance_pct": 21.0, "reason": "Lone habitual front-runner likely to get an uncontested lead; second last time fig 64"},
+    {"horse_id": "hrs_412692889", "horse": "Kartini", "chance_pct": 16.0, "reason": "Last two 1st and 2nd (figs 65, 64), best fig 4 lb above field, finished strongly last time"},
+    {"horse_id": "hrs_50187746", "horse": "Regalian", "chance_pct": 9.0, "reason": "Form 886897, winless in last six with poor recent finishing positions"},
+    {"horse_id": "hrs_55731998", "horse": "Spirit of Nature", "chance_pct": 6.0, "reason": "OR 49, 13 lb below field average, 13/14 last time"},
+    {"horse_id": "hrs_35336700", "horse": "Royal Blaze", "chance_pct": 5.5, "reason": "Eighth last time, 44 days off and trainer 0/9 in 14 days"},
+    {"horse_id": "hrs_43287741", "horse": "Dragonflame", "chance_pct": 2.2, "reason": "Best fig 45, 16 lb below field, 12 lb below mark, trainer 0/9"}
+  ], "checks": [
+    {"horse_id": "hrs_28532693", "horse": "Humble Spark", "verdict": "SKIP", "reason": "Winless in last six with a fourth his best, top weight, model 7.9% vs market 27.7%"}
+  ]},
+  {"race_id": "rac_32305111098", "changes": [], "checks": []},
+  {"race_id": "rac_32305113035", "changes": [
+    {"horse_id": "hrs_65610426", "horse": "Court Legend", "chance_pct": 16.0, "reason": "Held up into a steady pace and 66 days off"},
+    {"horse_id": "hrs_17390210915", "horse": "Sankhum Galaxy", "chance_pct": 9.0, "reason": "Best fig 41, 8 lb below field and 7 lb below mark; held up into a slow pace"},
+    {"horse_id": "hrs_17389468299", "horse": "Wild Orchid", "chance_pct": 3.5, "reason": "Eighth last time, fig 31, 22 lb below current mark"}
+  ], "checks": [
+    {"horse_id": "hrs_17389956423", "horse": "Eagle Storm", "verdict": "BET", "reason": "Won last time with fig 61, 12 lb above field average, finished strongly, trainer 3/20"}
+  ]},
+  {"race_id": "rac_32305114972", "changes": [
+    {"horse_id": "hrs_66586072", "horse": "Debutante", "chance_pct": 10.0, "reason": "Best fig 46, 6 lb below field, trainer 0/9 in 14 days, model 3.6%"},
+    {"horse_id": "hrs_64812916", "horse": "Time And Effort", "chance_pct": 5.5, "reason": "Best recent fig 57, 5 lb above field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305116909", "changes": [
+    {"horse_id": "hrs_35624883", "horse": "Ganesha", "chance_pct": 11.0, "reason": "Winless in last six, seventh last time, figures 9 lb below mark (fig 43)"},
+    {"horse_id": "hrs_41189645", "horse": "Ardaddy", "chance_pct": 5.5, "reason": "Last fig 20, 30 lb below mark, 13/13 last time, trainer 0/8"},
+    {"horse_id": "hrs_56127785", "horse": "Pivotal Terms", "chance_pct": 11.0, "reason": "Form 1-2 last two, best fig 61, 17 lb above field, looks well handicapped"},
+    {"horse_id": "hrs_29229088", "horse": "Zuffolo", "chance_pct": 8.0, "reason": "Consistent (form 313832), fig 55 above field, prominent runner suits slow pace, draw 1"},
+    {"horse_id": "hrs_44417646", "horse": "What What What", "chance_pct": 4.0, "reason": "Returns from a 172-day break"},
+    {"horse_id": "hrs_52055024", "horse": "Sands of Seve", "chance_pct": 1.0, "reason": "Last fig 8, 40 lb below mark, 13/13 last time"}
+  ], "checks": [
+    {"horse_id": "hrs_412652982", "horse": "Uncle Sam", "verdict": "BET", "reason": "Consistent placed form, best fig 57, 13 lb above field, well handicapped, prominent in a slow pace"}
+  ]},
+  {"race_id": "rac_32305118846", "changes": [
+    {"horse_id": "hrs_62202133", "horse": "Battle Standard", "chance_pct": 9.5, "reason": "Best fig 69, 10 lb above field and 5 lb above mark"},
+    {"horse_id": "hrs_35729652", "horse": "Starliner", "chance_pct": 4.5, "reason": "Last fig 68, 9 lb above field, 4 lb above mark"},
+    {"horse_id": "hrs_49142709", "horse": "Karakula Dancer", "chance_pct": 4.8, "reason": "Eighth last time, best fig 51, 6 lb below mark"}
+  ], "checks": []},
+  {"race_id": "rac_32305120783", "changes": [
+    {"horse_id": "hrs_46078032", "horse": "Oxford Circus", "chance_pct": 34.0, "reason": "Recent figures 6 lb below mark and 134 lb from stall 8; model 15.5%"},
+    {"horse_id": "hrs_63390327", "horse": "Forest Phoenix", "chance_pct": 9.0, "reason": "Last fig 75, 19 lb above field, 12 lb above mark"},
+    {"horse_id": "hrs_26356659", "horse": "The Gay Blade", "chance_pct": 4.5, "reason": "Best fig 71, 15 lb above field, 6 lb above mark"},
+    {"horse_id": "hrs_30765105", "horse": "Tasever", "chance_pct": 4.0, "reason": "Habitual leader likely to be taken on in a strong contested pace"},
+    {"horse_id": "hrs_37505237", "horse": "Front Gunner", "chance_pct": 3.5, "reason": "155-day break, poor recent positions and likely contested lead"},
+    {"horse_id": "hrs_29227212", "horse": "Operation Gimcrack", "chance_pct": 5.5, "reason": "Form 506231, won last time and good recent finishing positions"},
+    {"horse_id": "hrs_46169648", "horse": "Get Up Everybody", "chance_pct": 6.0, "reason": "Hold-up style suits strong pace, best fig 61 above field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305122720", "changes": [
+    {"horse_id": "hrs_62678000", "horse": "Rousham", "chance_pct": 10.0, "reason": "Best fig 59, 5 lb below field average, winless in six, 132 lb from draw 11"},
+    {"horse_id": "hrs_34874399", "horse": "Bright", "chance_pct": 8.0, "reason": "Form 787008, figures 6 lb below mark, stall 14"},
+    {"horse_id": "hrs_24593625", "horse": "Showtime Mahomes", "chance_pct": 7.0, "reason": "Best fig 70, 6 lb above field, 9 lb above mark"},
+    {"horse_id": "hrs_35054425", "horse": "Miss Rainbow", "chance_pct": 6.0, "reason": "Third last two, best fig 71, 10 lb above mark, prominent in slow pace"},
+    {"horse_id": "hrs_36302553", "horse": "Havanagreattime", "chance_pct": 5.0, "reason": "Ninth in each of last two, poor recent finishing positions"},
+    {"horse_id": "hrs_29227254", "horse": "Roaring Ralph", "chance_pct": 5.0, "reason": "Ninth last time, figures 7 lb below mark"},
+    {"horse_id": "hrs_36454159", "horse": "Habrdi", "chance_pct": 3.2, "reason": "Returns from a 163-day break"}
+  ], "checks": [
+    {"horse_id": "hrs_62678000", "horse": "Rousham", "verdict": "SKIP", "reason": "Best fig 59 is 5 lb below field average, winless in six, wide draw 11 with 132 lb"}
+  ]}
+]}

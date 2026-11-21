@@ -1,0 +1,61 @@
+{"meeting": "lingfield_aw", "races": [
+  {"race_id": "rac_32305093665", "changes": [
+    {"horse_id": "hrs_57942094", "horse": "Honey Dale", "chance_pct": 40.0, "reason": "Recent figures 9 lb below current mark and unplaced in two of three runs before last win."},
+    {"horse_id": "hrs_50435105", "horse": "Labiche", "chance_pct": 18.0, "reason": "Best recent figure 52, 11 lb above field average, consistent form."},
+    {"horse_id": "hrs_53420409", "horse": "Who Is Alice", "chance_pct": 5.4, "reason": "Best recent figure 56, 15 lb above field average, third last time."},
+    {"horse_id": "hrs_66494127", "horse": "Anncanya", "chance_pct": 1.8, "reason": "Figures 19 lb below mark and best figure 9 lb below field average (form 666)."},
+    {"horse_id": "hrs_57286824", "horse": "Seapearl", "chance_pct": 1.0, "reason": "Figures 24 lb below mark, best figure 15 lb below field average."}
+  ], "checks": []},
+  {"race_id": "rac_32305459758", "changes": [
+    {"horse_id": "hrs_17393011370", "horse": "King Gamrah", "chance_pct": 5.5, "reason": "Lone habitual front-runner, may get an uncontested lead."},
+    {"horse_id": "hrs_17393789448", "horse": "Force Field", "chance_pct": 2.1, "reason": "Debut figure 56, 12 lb above field average."}
+  ], "checks": [
+    {"horse_id": "hrs_17395819126", "horse": "El Mutamaken", "verdict": "BET", "reason": "Debutant with no specific negative on the card beyond no form data."}
+  ]},
+  {"race_id": "rac_32305095602", "changes": [
+    {"horse_id": "hrs_17394161799", "horse": "I Know You By Now", "chance_pct": 13.0, "reason": "Debut figure 67, 20 lb above field average."},
+    {"horse_id": "hrs_17395647031", "horse": "Sunday Slew", "chance_pct": 9.0, "reason": "Trainer 0 from 9 in last 14 days."},
+    {"horse_id": "hrs_17394668697", "horse": "Gattino", "chance_pct": 4.5, "reason": "Last-run figure 58, 11 lb above field average, improving (7th then 3rd)."}
+  ], "checks": []},
+  {"race_id": "rac_32305097539", "changes": [
+    {"horse_id": "hrs_63357497", "horse": "Crimson Blaze", "chance_pct": 14.0, "reason": "Hold-up type in a likely steady pace, 51 days off."},
+    {"horse_id": "hrs_60821705", "horse": "Heart of Glass", "chance_pct": 3.8, "reason": "Only figure 27, 24 lb below field average; hold-up in slow pace."}
+  ], "checks": []},
+  {"race_id": "rac_32305099476", "changes": [
+    {"horse_id": "hrs_41325396", "horse": "Mr Nugget", "chance_pct": 14.0, "reason": "Comment calls him hard to fancy: winless in last six, fifth or worse in five; hold-up style."},
+    {"horse_id": "hrs_44076025", "horse": "King's Hand", "chance_pct": 9.0, "reason": "Returns from a 177-day break."},
+    {"horse_id": "hrs_36614893", "horse": "Bubbles Wonky", "chance_pct": 2.6, "reason": "Figures 19 lb below mark, 11th of 13 last time."},
+    {"horse_id": "hrs_35864437", "horse": "Newfangled", "chance_pct": 6.5, "reason": "Two sevenths last two, figures 12 lb below mark."}
+  ], "checks": [
+    {"horse_id": "hrs_41325396", "horse": "Mr Nugget", "verdict": "SKIP", "reason": "Winless in six with five finishes of fifth or worse; comment says hard to fancy."}
+  ]},
+  {"race_id": "rac_32305101413", "changes": [
+    {"horse_id": "hrs_50433432", "horse": "Angel Gabriel", "chance_pct": 5.5, "reason": "Best recent figure 84, 5 lb above field average, consistent and won at trip."},
+    {"horse_id": "hrs_45887737", "horse": "Star Chorus", "chance_pct": 2.2, "reason": "Figures 17 lb below mark, last of 10 last time."},
+    {"horse_id": "hrs_41782391", "horse": "Artagnan", "chance_pct": 7.0, "reason": "Comes off an eighth and a ninth, winless in six."}
+  ], "checks": [
+    {"horse_id": "hrs_42327698", "verdict": "BET", "horse": "Uncle Don", "reason": "Best figure 89, 10 lb above field and figures 4 lb above his mark; no specific doubt on card."}
+  ]},
+  {"race_id": "rac_32305103350", "changes": [
+    {"horse_id": "hrs_53633027", "horse": "Yachtsman", "chance_pct": 15.0, "reason": "Figure 71 last time, 7 lb above mark, finished strongly, first-time cheekpieces."},
+    {"horse_id": "hrs_35713769", "horse": "Macarone", "chance_pct": 11.0, "reason": "Five straight wins (form 511111), won at trip."},
+    {"horse_id": "hrs_36527981", "horse": "Midnight Call", "chance_pct": 3.8, "reason": "Lone habitual front-runner, may get an uncontested lead."},
+    {"horse_id": "hrs_31022481", "horse": "Way To Dubai", "chance_pct": 4.2, "reason": "Figures 13 lb below mark, trainer 0 from 8 in 14 days."},
+    {"horse_id": "hrs_52054849", "horse": "Far Too Fizzy", "chance_pct": 4.2, "reason": "Figures 15 lb below mark, ninth last time."}
+  ], "checks": [
+    {"horse_id": "hrs_37276246", "horse": "Giorgio M", "verdict": "BET", "reason": "Won last time with figure 72, 8 lb above his mark; patchy earlier form not a specific current doubt."}
+  ]},
+  {"race_id": "rac_32305105287", "changes": [
+    {"horse_id": "hrs_39961719", "horse": "Victory Sound", "chance_pct": 16.5, "reason": "Hold-up style suits contested strong pace, well handicapped, light weight."},
+    {"horse_id": "hrs_62360858", "horse": "Mooncoin", "chance_pct": 7.5, "reason": "Form 909, poor finishing positions, back from 50 days."},
+    {"horse_id": "hrs_27206634", "horse": "Dion Baker", "chance_pct": 4.0, "reason": "Habitual leader likely to be taken on for the lead, 54 days off."},
+    {"horse_id": "hrs_34471276", "horse": "Didaar", "chance_pct": 10.0, "reason": "Hold-up style suits the expected strong pace."},
+    {"horse_id": "hrs_56961807", "horse": "Wind Summer", "chance_pct": 1.0, "reason": "Figures 30 lb below mark, faded last time."}
+  ], "checks": []},
+  {"race_id": "rac_32305107224", "changes": [
+    {"horse_id": "hrs_64257984", "horse": "Adalo", "chance_pct": 13.0, "reason": "Form 767 and returning from 131 days off."},
+    {"horse_id": "hrs_44199232", "horse": "Off Spin", "chance_pct": 11.0, "reason": "Won last time, figure 66 8 lb above field, finished strongly."},
+    {"horse_id": "hrs_43796655", "horse": "Masterofperfection", "chance_pct": 3.5, "reason": "Returns from a 513-day absence."},
+    {"horse_id": "hrs_36738604", "horse": "Tortured Soul", "chance_pct": 6.0, "reason": "Form 9-7-9 last three, figures 16 lb below mark."}
+  ], "checks": []}
+]}

@@ -1,0 +1,50 @@
+{"meeting": "huntingdon", "races": [
+  {"race_id": "rac_32305082043", "changes": [
+    {"horse_id": "hrs_17395087983", "horse": "Lastbutnotleased", "chance_pct": 46.0, "reason": "Returns from a 209-day break with no runs in our data"},
+    {"horse_id": "hrs_50556499", "horse": "Kaldoun des Rocs", "chance_pct": 12.0, "reason": "Trainer 17/80 last 14 days, prominent racer suits slow/tactical pace, model 21.5%"},
+    {"horse_id": "hrs_44540734", "horse": "Kasgani", "chance_pct": 3.5, "reason": "Held up into a steady pace and first run over hurdles"},
+    {"horse_id": "hrs_57103459", "horse": "Meritocratic", "chance_pct": 2.0, "reason": "Pulled up on only jumps run and held up into a steady pace"}
+  ], "checks": []},
+  {"race_id": "rac_32305083980", "changes": [
+    {"horse_id": "hrs_27371862", "horse": "Charlie My Boy", "chance_pct": 18.0, "reason": "Won last time over 25f at Huntingdon, finished strongly (+2.7%)"},
+    {"horse_id": "hrs_60884852", "horse": "That Is Blue", "chance_pct": 14.5, "reason": "Jumping mistakes in 2 of last 3 runs; yet to win in recent run"},
+    {"horse_id": "hrs_30314704", "horse": "Daaris", "chance_pct": 5.0, "reason": "Held up; steady gallop expected makes it hard to close"},
+    {"horse_id": "hrs_63357049", "horse": "Ifyouhaveaplan", "chance_pct": 3.5, "reason": "Winless in six, faded last time (-9.1%), model 1.5%"},
+    {"horse_id": "hrs_57504349", "horse": "Footage Detectives", "chance_pct": 3.2, "reason": "Recent figures 9 lb below current mark, best figure 15 lb below field average"},
+    {"horse_id": "hrs_18181709", "horse": "Richardson", "chance_pct": 3.0, "reason": "240-day absence, aged 11, held up into a steady pace"},
+    {"horse_id": "hrs_59491803", "horse": "Credit Union", "chance_pct": 1.7, "reason": "Figures 6 lb below mark and held up into a steady pace"}
+  ], "checks": [
+    {"horse_id": "hrs_47345312", "horse": "U S Marshall", "verdict": "BET", "reason": "Top weight is offset by best figure 94 (8 lb above field), prominent style suits slow pace, trainer 2/8"}
+  ]},
+  {"race_id": "rac_32305085917", "changes": [
+    {"horse_id": "hrs_49578186", "horse": "Kilworth", "chance_pct": 19.0, "reason": "Lone habitual front-runner, may get an uncontested lead; has won at the trip"},
+    {"horse_id": "hrs_39208673", "horse": "Crazierthandaisy", "chance_pct": 18.0, "reason": "Pulled up last time, 212-day absence and first run over fences"},
+    {"horse_id": "hrs_50187872", "horse": "Livingonaprayer", "chance_pct": 10.5, "reason": "220 days off, faded last time (-11.4%), first run over fences"},
+    {"horse_id": "hrs_49578263", "horse": "Edith Pelham", "chance_pct": 9.5, "reason": "Faded last time (-6.6%) and first run over fences"},
+    {"horse_id": "hrs_30138220", "horse": "Regal Renaissance", "chance_pct": 11.5, "reason": "Proven chaser, won three of last six and has won at the trip; model 19.3%"},
+    {"horse_id": "hrs_49174237", "horse": "Hill In Brazil", "chance_pct": 5.0, "reason": "428-day absence is a big question mark"}
+  ], "checks": [
+    {"horse_id": "hrs_35335769", "verdict": "BET", "horse": "Realta Liath", "reason": "Consistent chase form (2-2 last two), trainer 5/17 in 14 days, wind surgery; break is the only negative"}
+  ]},
+  {"race_id": "rac_32305087854", "changes": [
+    {"horse_id": "hrs_57471050", "horse": "Bankatary", "chance_pct": 12.5, "reason": "Recent figures 6 lb below mark and jumping mistakes in last 2 runs"},
+    {"horse_id": "hrs_27343379", "horse": "Virtual Rock", "chance_pct": 15.5, "reason": "Form 1-1-2, best figure 113, finished strongly (+5.1%), model 17.2%"},
+    {"horse_id": "hrs_25939179", "horse": "Bluegrass", "chance_pct": 9.0, "reason": "Recent figures 11 lb below current mark"},
+    {"horse_id": "hrs_32278498", "horse": "Banderas", "chance_pct": 2.5, "reason": "Recent figures 13 lb below mark and slipping in form"}
+  ], "checks": [
+    {"horse_id": "hrs_41190429", "horse": "North of Richmond", "verdict": "BET", "reason": "Won last time with figure 118 (10 lb above field), finished strongly, proven at trip"}
+  ]},
+  {"race_id": "rac_32305089791", "changes": [
+    {"horse_id": "hrs_30016189", "horse": "Chosen Hero", "chance_pct": 23.0, "reason": "Pulled up in 3 of last 4 jumps runs and first run over fences"},
+    {"horse_id": "hrs_23240721", "horse": "Helios Allen", "chance_pct": 21.0, "reason": "Won last time at Huntingdon, figures improving 71-74-82, trainer 1/5"},
+    {"horse_id": "hrs_22559229", "horse": "Kaproyale", "chance_pct": 12.5, "reason": "Best recent figure 100, 16 lb above field average, finished strongly"},
+    {"horse_id": "hrs_38305400", "horse": "Forcetoreckonwith", "chance_pct": 6.0, "reason": "Recent figures 8 lb below current mark"},
+    {"horse_id": "hrs_28903826", "horse": "Slievehill", "chance_pct": 2.0, "reason": "Faded last time (-8.5%) and first run over fences"}
+  ], "checks": []},
+  {"race_id": "rac_32305091728", "changes": [
+    {"horse_id": "hrs_17393897920", "horse": "Nostrae de Cougny", "chance_pct": 36.0, "reason": "Won debut with figure 131, finished strongly (+9.0%)"},
+    {"horse_id": "hrs_17393313840", "horse": "Annies Pass", "chance_pct": 15.0, "reason": "Second on debut with figure 121, finished strongly (+6.0%)"},
+    {"horse_id": "hrs_17395802438", "horse": "Touriga Park", "chance_pct": 12.5, "reason": "Trainer 17/80 last 14 days"},
+    {"horse_id": "hrs_17393320098", "horse": "Potters Beauden", "chance_pct": 1.0, "reason": "Finished last (8/8) on only run"}
+  ], "checks": []}
+]}

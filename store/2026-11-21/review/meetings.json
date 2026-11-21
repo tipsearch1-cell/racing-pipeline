@@ -1,0 +1,44 @@
+{
+ "lingfield_aw": {
+  "course": "Lingfield (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-21/review/in_lingfield_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-21/review/out_lingfield_aw.json",
+  "races": 9,
+  "checks": 4
+ },
+ "punchestown": {
+  "course": "Punchestown",
+  "in": "/home/claude/racing-pipeline/store/2026-11-21/review/in_punchestown.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-21/review/out_punchestown.json",
+  "races": 8,
+  "checks": 3
+ },
+ "haydock": {
+  "course": "Haydock",
+  "in": "/home/claude/racing-pipeline/store/2026-11-21/review/in_haydock.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-21/review/out_haydock.json",
+  "races": 7,
+  "checks": 3
+ },
+ "huntingdon": {
+  "course": "Huntingdon",
+  "in": "/home/claude/racing-pipeline/store/2026-11-21/review/in_huntingdon.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-21/review/out_huntingdon.json",
+  "races": 6,
+  "checks": 3
+ },
+ "ascot": {
+  "course": "Ascot",
+  "in": "/home/claude/racing-pipeline/store/2026-11-21/review/in_ascot.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-21/review/out_ascot.json",
+  "races": 7,
+  "checks": 3
+ },
+ "newcastle_aw": {
+  "course": "Newcastle (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-21/review/in_newcastle_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-21/review/out_newcastle_aw.json",
+  "races": 9,
+  "checks": 4
+ }
+}

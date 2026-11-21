@@ -1,0 +1,50 @@
+{"meeting": "ascot", "races": [
+  {"race_id": "rac_32305060736", "changes": [
+    {"horse_id": "hrs_46483052", "horse": "Katarcice", "chance_pct": 22.0, "reason": "Recent form 1-2 with strong finishing speed, prominent style suits slow/tactical pace, has won at trip"},
+    {"horse_id": "hrs_17395089026", "horse": "Vedivici", "chance_pct": 17.0, "reason": "Returns from a 202-day break with no runs in data"},
+    {"horse_id": "hrs_50188775", "horse": "Handmedownastar", "chance_pct": 6.0, "reason": "Faded last run (-6.3% finishing speed), 8th of 9 and PU in last three"}
+  ], "checks": []},
+  {"race_id": "rac_32305062673", "changes": [
+    {"horse_id": "hrs_28489034", "horse": "Blow Your Wad", "chance_pct": 32.0, "reason": "210-day absence, yard out of form (1/23), jumping mistakes in 2 of last 5"},
+    {"horse_id": "hrs_29623195", "horse": "Doyen Quest", "chance_pct": 26.0, "reason": "Habitual leader, trainer in form (17/80), has won at trip; tempered by 162lb off 147"}
+  ], "checks": []},
+  {"race_id": "rac_32305064610", "changes": [
+    {"horse_id": "hrs_28851865", "horse": "Kateira", "chance_pct": 29.0, "reason": "Hold-up style against a slow/tactical pace; patchy form before last win"}
+  ], "checks": []},
+  {"race_id": "rac_32305066547", "changes": [
+    {"horse_id": "hrs_41052599", "horse": "Easy Love", "chance_pct": 16.0, "reason": "229-day break, poor recent form (P16P7), comment says hard to fancy"},
+    {"horse_id": "hrs_39431868", "horse": "That's Nice", "chance_pct": 19.0, "reason": "Won last time with strong finishing speed (+4.8%), has won at this trip"},
+    {"horse_id": "hrs_29313053", "horse": "Letterston Lady", "chance_pct": 7.0, "reason": "Seventh last time, recent figures 6lb below mark"},
+    {"horse_id": "hrs_34003536", "horse": "Miss Goldfire", "chance_pct": 7.0, "reason": "Form trending the wrong way (4th then 7th)"},
+    {"horse_id": "hrs_29522892", "horse": "Popova", "chance_pct": 3.5, "reason": "Returns from a 347-day break"}
+  ], "checks": [
+    {"horse_id": "hrs_41052599", "horse": "Easy Love", "verdict": "SKIP", "reason": "229-day absence and poor recent form (PU and 7th in last two)"}
+  ]},
+  {"race_id": "rac_32305068484", "changes": [
+    {"horse_id": "hrs_29117291", "horse": "Rock My Way", "chance_pct": 21.0, "reason": "210-day absence, sixth last time, 165lb to carry"},
+    {"horse_id": "hrs_24494169", "horse": "Ballycamus", "chance_pct": 11.5, "reason": "Won last time and hold-up style suits the expected strong, contested pace"},
+    {"horse_id": "hrs_32401985", "horse": "Brandt", "chance_pct": 12.5, "reason": "Figures 6lb below current mark, jumping mistakes in 2 of last 5"},
+    {"horse_id": "hrs_30175740", "horse": "Henry's Friend", "chance_pct": 8.5, "reason": "Winless in five, figures 10lb below mark, PU in last three"},
+    {"horse_id": "hrs_28891597", "horse": "My Gift To You", "chance_pct": 7.0, "reason": "Figures 7lb below mark, likely to be taken on for the lead"},
+    {"horse_id": "hrs_29621921", "horse": "Sound And Fury", "chance_pct": 5.5, "reason": "Unseated last time, likely to be taken on for the lead"},
+    {"horse_id": "hrs_34073452", "horse": "Mt Fugi Park", "chance_pct": 4.2, "reason": "Fell last time, jumping mistakes in 3 of last 5, likely taken on for lead"}
+  ], "checks": [
+    {"horse_id": "hrs_29117291", "horse": "Rock My Way", "verdict": "SKIP", "reason": "210-day absence, sixth last time out and top-weight-range 165lb"}
+  ]},
+  {"race_id": "rac_32304187149", "changes": [
+    {"horse_id": "hrs_24263722", "horse": "Sans Bruit", "chance_pct": 17.0, "reason": "Lone front-runner may get an uncontested lead; second last time"},
+    {"horse_id": "hrs_29283590", "horse": "Ryan's Rocket", "chance_pct": 12.5, "reason": "Returns from a 226-day break"},
+    {"horse_id": "hrs_18952458", "horse": "Calico", "chance_pct": 12.0, "reason": "Best recent figure 148, 13lb above field average; trainer in form"},
+    {"horse_id": "hrs_34845902", "horse": "Shakeyatailfeather", "chance_pct": 8.5, "reason": "Unseated last time, figures 13lb below field, jumping mistakes"},
+    {"horse_id": "hrs_24277456", "horse": "Gabriel's Getaway", "chance_pct": 6.0, "reason": "Figures 18lb below field average, jumping mistakes in 3 of last 5"}
+  ], "checks": []},
+  {"race_id": "rac_32305070421", "changes": [
+    {"horse_id": "hrs_47033056", "horse": "Herbygoesbananas", "chance_pct": 24.0, "reason": "Hold-up style against slow/tactical pace, ninth two starts back"},
+    {"horse_id": "hrs_51558087", "horse": "Kilnew Supreme", "chance_pct": 27.0, "reason": "Four straight seconds, prominent style suits slow pace"},
+    {"horse_id": "hrs_51434334", "horse": "Mr Rafiki", "chance_pct": 11.5, "reason": "Won last time, best figure 6lb above field, finished strongly"},
+    {"horse_id": "hrs_51185820", "horse": "Baile An Or", "chance_pct": 10.0, "reason": "Figures 9lb below mark, faded last run"},
+    {"horse_id": "hrs_52055745", "horse": "Dante's Rocco", "chance_pct": 7.5, "reason": "Returns from a 231-day break"}
+  ], "checks": [
+    {"horse_id": "hrs_47033056", "horse": "Herbygoesbananas", "verdict": "SKIP", "reason": "Held up into an expected slow pace and inconsistent (ninth two starts back)"}
+  ]}
+]}

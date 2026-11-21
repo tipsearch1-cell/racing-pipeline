@@ -1,0 +1,4 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-21,1:45,Lingfield (AW),rac_32305101413,Uncle Don,hrs_42327698,3.25,3.25,Betfred,3.25,,2026-11-21-Betfred-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-21,4:30,Newcastle (AW),rac_32305113035,Eagle Storm,hrs_17389956423,3.0,3.0,Betfred,3.0,William Hill 3,2026-11-21-Betfred-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-21,5:30,Newcastle (AW),rac_32305116909,Uncle Sam,hrs_412652982,3.75,3.75,Betfred,3.75,,2026-11-21-Betfred-1,Trixie (3 doubles + treble),4,0.5,2.0

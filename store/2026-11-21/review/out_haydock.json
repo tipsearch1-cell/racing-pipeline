@@ -1,0 +1,51 @@
+{"meeting": "haydock", "races": [
+  {"race_id": "rac_32305078169", "changes": [
+    {"horse_id": "hrs_27451928", "horse": "Leave of Absence", "chance_pct": 8.5, "reason": "Jumping mistakes in 3 of last 4, faded last run (-3.6%), OR 7 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305072358", "changes": [
+    {"horse_id": "hrs_29523060", "horse": "Bleu d'Enfer", "chance_pct": 8.0, "reason": "Best recent figure 128 is 7 lb above field average and 5 lb above his mark (well handicapped)"},
+    {"horse_id": "hrs_47621595", "horse": "Tigers Moon", "chance_pct": 17.0, "reason": "Best recent figure 109 is 12 lb below field average; OR 8 lb below field average"},
+    {"horse_id": "hrs_13004180", "horse": "Sir Tivo", "chance_pct": 2.2, "reason": "Pulled up last time out (2 of last 5) and aged 12"},
+    {"horse_id": "hrs_16929038", "horse": "Calgary Tiger", "chance_pct": 2.0, "reason": "223-day break and OR 21 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305074295", "changes": [
+    {"horse_id": "hrs_57942038", "horse": "Saint Jeannais", "chance_pct": 14.0, "reason": "Won last two, finished strongly last run (+11.8%), prominent style suits slow pace"},
+    {"horse_id": "hrs_62393989", "horse": "Kingofthefrontier", "chance_pct": 9.5, "reason": "Held-up style; steady gallop likely makes it hard to come from off the pace"},
+    {"horse_id": "hrs_59862586", "horse": "Wilde's Legacy", "chance_pct": 12.0, "reason": "Best recent figure 112 is 6 lb below field average"},
+    {"horse_id": "hrs_50666847", "horse": "Cosmic Connection", "chance_pct": 19.0, "reason": "Ninth and faded (-3.6%) last time out"},
+    {"horse_id": "hrs_17390767877", "horse": "Spanish Darling", "chance_pct": 4.0, "reason": "Unseated last run 7 days ago; OR 5 lb below field average"}
+  ], "checks": [
+    {"horse_id": "hrs_55915818", "horse": "North Shore", "verdict": "BET", "reason": "Won last time, best figure 126 tops field by 8 lb, OR highest, trainer 21% in form, prominent style suits slow pace"}
+  ]},
+  {"race_id": "rac_32305076232", "changes": [
+    {"horse_id": "hrs_40494097", "horse": "Kocktail Bleu", "chance_pct": 31.0, "reason": "Habitual leader likely to be taken on in a strong, contested pace"},
+    {"horse_id": "hrs_58745442", "horse": "Manganese", "chance_pct": 13.0, "reason": "254-day absence and likely to be taken on for the lead"},
+    {"horse_id": "hrs_41305131", "horse": "Give It To Me Oj", "chance_pct": 8.5, "reason": "168-day break, fading finishes, stable 1/23 in last 14 days"},
+    {"horse_id": "hrs_31395378", "horse": "My Chiquita", "chance_pct": 5.2, "reason": "Contested lead should suit her hold-up style"},
+    {"horse_id": "hrs_29623125", "horse": "Miss Maverick", "chance_pct": 3.0, "reason": "Recent figures 15 lb below mark, faded last run, likely taken on for lead"}
+  ], "checks": []},
+  {"race_id": "rac_32304189086", "changes": [
+    {"horse_id": "hrs_48242404", "horse": "The Egyptian Ginge", "chance_pct": 9.5, "reason": "Best recent figure 133, 9 lb above field average, fit after 14 days"},
+    {"horse_id": "hrs_38089170", "horse": "Hartington", "chance_pct": 14.0, "reason": "Returns from a 252-day break"},
+    {"horse_id": "hrs_39827081", "horse": "Supreme Malinas", "chance_pct": 10.5, "reason": "Returns from a 287-day break, fitness a real question"},
+    {"horse_id": "hrs_38288264", "horse": "Gold For Alec", "chance_pct": 5.5, "reason": "Figures 6 lb below mark, trainer 0/9 in 14 days, fell two starts back"},
+    {"horse_id": "hrs_47773824", "horse": "Eagles Reprieve", "chance_pct": 4.5, "reason": "Best recent figure 115 is 9 lb below field average"},
+    {"horse_id": "hrs_40473559", "horse": "Yellow Car", "chance_pct": 3.0, "reason": "617-day absence under 166 lb"}
+  ], "checks": [
+    {"horse_id": "hrs_52055766", "horse": "Seaniecon", "verdict": "BET", "reason": "Won last time, best figure 130 is 6 lb above field average, proven at trip; no specific negative on card"}
+  ]},
+  {"race_id": "rac_32304191023", "changes": [
+    {"horse_id": "hrs_27846567", "horse": "Grey Dawning", "chance_pct": 38.0, "reason": "225-day break and jumping mistakes in 2 of last 3 runs"},
+    {"horse_id": "hrs_28903840", "horse": "Gorgeous Tom", "chance_pct": 10.0, "reason": "Last-time-out winner, best figure 155 is 6 lb above field average, finished strongly"},
+    {"horse_id": "hrs_30709889", "horse": "Konfusion", "chance_pct": 1.4, "reason": "Jumping mistakes in 3 of last 4, OR 12 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305080106", "changes": [
+    {"horse_id": "hrs_34166867", "horse": "Caughtinyourtrance", "chance_pct": 17.0, "reason": "Best recent figure 127 is 10 lb above field average, second in each of last three"},
+    {"horse_id": "hrs_38017469", "horse": "Jaccours", "chance_pct": 16.5, "reason": "Best figure 110 is 7 lb below field average, OR 9 lb below, pulled up in last 4"},
+    {"horse_id": "hrs_39431483", "horse": "Chasingouttheblues", "chance_pct": 16.0, "reason": "Recent figures 6 lb below his mark (high in the weights)"},
+    {"horse_id": "hrs_33274990", "horse": "Saladins Son", "chance_pct": 17.5, "reason": "Returns from a 231-day break"},
+    {"horse_id": "hrs_28838257", "horse": "Fortunedefortunata", "chance_pct": 1.8, "reason": "211-day absence, faded last run, fell and pulled up in last 4"}
+  ], "checks": [
+    {"horse_id": "hrs_41190030", "horse": "Dexperts Opinion", "verdict": "BET", "reason": "Consistent (1-2-1-2), prominent, trainer 21% in form; best figure only 4 lb below average is not a strong doubt"}
+  ]}
+]}
