@@ -1,5 +1,5 @@
 {
- "checked_utc": "2026-11-21T09:00:39+00:00",
+ "checked_utc": "2026-11-22T08:42:16+00:00",
  "archive_integrity_failures": 0,
  "archive_integrity_detail": [],
  "frozen_model_sha256_ok": true,
@@ -29,25 +29,43 @@
    "snapshots_M_in_window": 1,
    "snapshots_E": 1,
    "races_in_E": 46,
-   "snapshots_SWEEP": 0,
+   "snapshots_SWEEP": 4,
    "eligible_0900": 46,
-   "confirmatory_settled": 0,
+   "confirmatory_settled": 46,
    "timestamp_violations": 0,
    "mapping_errors": 0,
    "model_hash_discrepancies": 0,
    "duplicate_snapshot_races": 0,
    "reasons": {}
+  },
+  "2026-11-22": {
+   "races": 38,
+   "components": true,
+   "snapshots_M": 0,
+   "snapshots_M_in_window": 0,
+   "snapshots_E": 1,
+   "races_in_E": 38,
+   "snapshots_SWEEP": 0,
+   "eligible_0900": 0,
+   "confirmatory_settled": 0,
+   "timestamp_violations": 0,
+   "mapping_errors": 0,
+   "model_hash_discrepancies": 0,
+   "duplicate_snapshot_races": 0,
+   "reasons": {
+    "no 09:00 prediction file": 38
+   }
   }
  },
  "totals": {
-  "races": 85,
+  "races": 123,
   "eligible_0900": 84,
-  "confirmatory_settled": 38,
+  "confirmatory_settled": 84,
   "timestamp_violations": 0,
   "mapping_errors": 0,
   "model_hash_discrepancies": 0,
   "missing_E": 0,
-  "missing_M": 0,
+  "missing_M": 1,
   "duplicate_snapshots": 0
  },
  "ok": true
