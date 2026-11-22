@@ -1,0 +1,54 @@
+{"meeting": "exeter", "races": [
+  {"race_id": "rac_32305124657", "changes": [
+    {"horse_id": "hrs_17395272594", "horse": "Naturaouse", "chance_pct": 26.0, "reason": "Trainer in strong form, 35% wins (6/17) last 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32305126594", "changes": [
+    {"horse_id": "hrs_48499241", "horse": "Seventeenothree", "chance_pct": 21.0, "reason": "Returns from 230-day break and OR 71 is 7 lb below field average"},
+    {"horse_id": "hrs_17395567763", "horse": "Correen", "chance_pct": 14.0, "reason": "Trainer 0 wins from 9 runs in last 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_48499241", "horse": "Seventeenothree", "verdict": "SKIP", "reason": "230-day absence and OR 7 lb below field average give specific doubt"}
+  ]},
+  {"race_id": "rac_32305128531", "changes": [
+    {"horse_id": "hrs_36970423", "horse": "Torrent", "chance_pct": 20.5, "reason": "Best recent figure 108 is 9 lb below field average and 9 lb below current mark"},
+    {"horse_id": "hrs_44975042", "horse": "Silver Hill", "chance_pct": 21.5, "reason": "Trainer 23% wins (5/22) last 14 days and good recent finishing positions"},
+    {"horse_id": "hrs_48700505", "horse": "Champagne Chic", "chance_pct": 17.0, "reason": "Trainer 0/10 last 14 days, poor recent placings and first run over fences"},
+    {"horse_id": "hrs_34789727", "horse": "Solar System", "chance_pct": 11.0, "reason": "Returns from 232 days off, winless in last four, OR 8 lb below field average"},
+    {"horse_id": "hrs_27997361", "horse": "Red Dirt Road", "chance_pct": 9.5, "reason": "221-day break, jumping mistakes in 2 of last 4 and first run over fences"},
+    {"horse_id": "hrs_34652338", "horse": "Rickety Bridge", "chance_pct": 13.5, "reason": "Best recent figure 121 is 4 lb above field average after a hat-trick of chase wins"}
+  ], "checks": [
+    {"horse_id": "hrs_36970423", "horse": "Torrent", "verdict": "SKIP", "reason": "Recent figures 9 lb below his mark, looks high in the weights"}
+  ]},
+  {"race_id": "rac_32305130468", "changes": [
+    {"horse_id": "hrs_21687946", "horse": "Son of Hypnos", "chance_pct": 5.5, "reason": "Lone habitual leader likely to get uncontested lead, carries 15 lb less than average"},
+    {"horse_id": "hrs_23048634", "horse": "Washington", "chance_pct": 18.0, "reason": "Won last time, trainer 30% (3/10) last 14 days, OR 10 lb above field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305132405", "changes": [
+    {"horse_id": "hrs_37702364", "horse": "Kel du Large", "chance_pct": 20.0, "reason": "Strong contested pace with 5 front-runners means likely taken on for the lead; unseated two runs ago"},
+    {"horse_id": "hrs_40553632", "horse": "Koukeo", "chance_pct": 25.0, "reason": "Best recent figure 121 is 11 lb above field average, first-time cheekpieces"},
+    {"horse_id": "hrs_32709558", "horse": "He Knows Better", "chance_pct": 12.5, "reason": "Trainer 35% (6/17) last 14 days, finished strongly last time, wind surgery"},
+    {"horse_id": "hrs_34557726", "horse": "Another Folly", "chance_pct": 9.0, "reason": "Best figure 103 is 7 lb below field average and likely taken on for the lead"},
+    {"horse_id": "hrs_27358702", "horse": "Bonza Boy", "chance_pct": 5.5, "reason": "Trainer 0/10 last 14 days, 232-day break, faded last time"},
+    {"horse_id": "hrs_22856050", "horse": "Kingcormac", "chance_pct": 7.5, "reason": "Hold-up style suited by contested lead, two wins in last three, 12 lb less than average"}
+  ], "checks": [
+    {"horse_id": "hrs_37702364", "horse": "Kel du Large", "verdict": "SKIP", "reason": "Pace data says likely to be taken on for the lead in a strongly-run race"}
+  ]},
+  {"race_id": "rac_32305134342", "changes": [
+    {"horse_id": "hrs_58195515", "horse": "Bandjo", "chance_pct": 21.0, "reason": "Recent figures 7 lb below his mark, form 88 last two, trainer 0/3"},
+    {"horse_id": "hrs_42647864", "horse": "Arbitration", "chance_pct": 18.0, "reason": "Best figure 93 is 6 lb below field and 9 lb below mark, partly offset by trainer form and first-time tongue tie"},
+    {"horse_id": "hrs_53211655", "horse": "The Bellhop", "chance_pct": 19.5, "reason": "Best recent figure 109 is 10 lb above field average, finished strongly, first-time blinkers"},
+    {"horse_id": "hrs_52525984", "horse": "One Island", "chance_pct": 12.5, "reason": "Best figure 88 is 12 lb below field average and 9 lb below mark"},
+    {"horse_id": "hrs_47161989", "horse": "Out of Aces", "chance_pct": 4.5, "reason": "Lone leader may get an uncontested lead"}
+  ], "checks": [
+    {"horse_id": "hrs_58195515", "horse": "Bandjo", "verdict": "SKIP", "reason": "Recent figures 7 lb below current mark and beaten 8th last two"}
+  ]},
+  {"race_id": "rac_32305136279", "changes": [
+    {"horse_id": "hrs_40786291", "horse": "Romany Brown", "chance_pct": 19.0, "reason": "Best recent figure 102 is 7 lb above field average and finished strongly last time"},
+    {"horse_id": "hrs_40332523", "horse": "Locked Down Lad", "chance_pct": 14.5, "reason": "Best recent figure 78 is 17 lb below field average"},
+    {"horse_id": "hrs_49389200", "horse": "Can You Hear Me", "chance_pct": 13.5, "reason": "Held-up style versus steady pace forecast, top weight 168 lb"},
+    {"horse_id": "hrs_59678815", "horse": "What A Dragon", "chance_pct": 9.5, "reason": "Pulled up last time 7 days ago, OR 78 is 14 lb below field average, held up in slow pace"},
+    {"horse_id": "hrs_27451879", "horse": "Bertie Wooster", "chance_pct": 10.0, "reason": "Trainer 27% (8/30) last 14 days, OR 13 lb above field average"},
+    {"horse_id": "hrs_33165216", "horse": "Blue In The West", "chance_pct": 7.0, "reason": "Form trending wrong way, jumping mistakes, held up in steady pace"}
+  ], "checks": [
+    {"horse_id": "hrs_40786291", "horse": "Romany Brown", "verdict": "BET", "reason": "Solid recent form, best figure above field and finished strongly; no specific doubt on the card"}
+  ]}
+]}

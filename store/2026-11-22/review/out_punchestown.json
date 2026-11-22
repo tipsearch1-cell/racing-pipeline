@@ -1,0 +1,52 @@
+{"meeting": "punchestown", "races": [
+  {"race_id": "rac_32305302861", "changes": [
+    {"horse_id": "hrs_24494554", "horse": "Stumptown", "chance_pct": 38.0, "reason": "Comment flags 163lb as a hefty burden off OR 149"},
+    {"horse_id": "hrs_13966008", "horse": "Fakir d'Oudairies", "chance_pct": 3.2, "reason": "Jumping mistakes in 3 of last 5 runs and faded last time (-5.0%)"},
+    {"horse_id": "hrs_22975946", "horse": "Caesar Rock", "chance_pct": 1.3, "reason": "Pulled up last time, 123-day break, OR 10lb below field average"},
+    {"horse_id": "hrs_29735356", "horse": "Idy Wood", "chance_pct": 1.1, "reason": "Poor recent form (9th, PU), faded last time and first run over fences"}
+  ], "checks": []},
+  {"race_id": "rac_32305304798", "changes": [
+    {"horse_id": "hrs_47345249", "horse": "Sine Qua Non", "chance_pct": 7.0, "reason": "Jumping mistakes in 2 of 2 runs, pulled up last time, 232-day break"},
+    {"horse_id": "hrs_50906275", "horse": "Beechwood Road", "chance_pct": 2.6, "reason": "Trainer 3/6 last 14 days and finished strongly last time"},
+    {"horse_id": "hrs_17395889007", "horse": "Call Of Freedom", "chance_pct": 0.9, "reason": "Trainer 0/24 last 14 days and 235-day break"}
+  ], "checks": []},
+  {"race_id": "rac_32305306735", "changes": [
+    {"horse_id": "hrs_34387836", "horse": "J'Arrive de L'Est", "chance_pct": 14.0, "reason": "Pulled up in 2 of last 4 and likely taken on for the lead in a strong pace"},
+    {"horse_id": "hrs_33465306", "horse": "Staffordshire Knot", "chance_pct": 3.8, "reason": "Jumping mistakes 3 of 4, faded last time, 202-day break, likely taken on for lead"},
+    {"horse_id": "hrs_32061225", "horse": "Feud", "chance_pct": 2.6, "reason": "Jumping mistakes in 5 of last 5 runs and pulled up last time"},
+    {"horse_id": "hrs_34961360", "horse": "Yeats Star", "chance_pct": 2.7, "reason": "293-day break and pulled up last time"}
+  ], "checks": [
+    {"horse_id": "hrs_34387836", "horse": "J'Arrive de L'Est", "verdict": "SKIP", "reason": "Two pulled-up runs in last four and pace data says he will be taken on for the lead"}
+  ]},
+  {"race_id": "rac_32305308672", "changes": [
+    {"horse_id": "hrs_62813044", "horse": "Bunker Buster", "chance_pct": 16.0, "reason": "Recent figures 12lb below current mark, looks high in the weights"},
+    {"horse_id": "hrs_29690794", "horse": "Not Too Bad", "chance_pct": 4.5, "reason": "Returns from a 1281-day break carrying 163lb"},
+    {"horse_id": "hrs_45856020", "horse": "Crystabel", "chance_pct": 1.9, "reason": "Recent figures 12lb below mark, winless in last six"},
+    {"horse_id": "hrs_31300192", "horse": "Stepdance", "chance_pct": 1.8, "reason": "Fell last time, poor recent positions, jumping mistakes"}
+  ], "checks": [
+    {"horse_id": "hrs_55241683", "horse": "Gomez Addams", "verdict": "BET", "reason": "Model (25.4%) backs the market; OR 10lb above field, trainer 9/38, won at trip; layoff only moderate"}
+  ]},
+  {"race_id": "rac_32305310609", "changes": [
+    {"horse_id": "hrs_58099860", "horse": "Alliteration", "chance_pct": 9.0, "reason": "Lone habitual front-runner, may get an uncontested lead"},
+    {"horse_id": "hrs_31672949", "horse": "Catchabird", "chance_pct": 2.2, "reason": "Best figure 6lb and OR 9lb below field average, unplaced last time"}
+  ], "checks": []},
+  {"race_id": "rac_32305312546", "changes": [
+    {"horse_id": "hrs_40493810", "horse": "Lovely Hurling", "chance_pct": 25.0, "reason": "267-day break, one run in data, and form 2/222 shows no recent win"},
+    {"horse_id": "hrs_34427911", "horse": "Ocastle Des Mottes", "chance_pct": 22.0, "reason": "Lone leader may get an easy lead; won last two, trainer 7/31"},
+    {"horse_id": "hrs_46697140", "horse": "Frankie John", "chance_pct": 14.0, "reason": "Trainer 0 wins from 15 runs last 14 days"},
+    {"horse_id": "hrs_40553877", "horse": "Zanoosh", "chance_pct": 24.0, "reason": "First run over fences and 207-day break"}
+  ], "checks": [
+    {"horse_id": "hrs_40493810", "horse": "Lovely Hurling", "verdict": "SKIP", "reason": "Returns from 267 days, lightly raced, and a string of seconds without a win"}
+  ]},
+  {"race_id": "rac_32303497577", "changes": [
+    {"horse_id": "hrs_40920628", "horse": "Kitzbuhel", "chance_pct": 4.4, "reason": "Jumping mistakes in 3 of 3, pulled up last time, likely taken on for lead"},
+    {"horse_id": "hrs_33067363", "horse": "Impaire Et Passe", "chance_pct": 3.0, "reason": "Fell last time; fall, PU and BD in last four"},
+    {"horse_id": "hrs_28824691", "horse": "Fact To File", "chance_pct": 17.5, "reason": "Habitual leader likely taken on in a strong contested pace"},
+    {"horse_id": "hrs_22840202", "horse": "I Am Maximus", "chance_pct": 1.6, "reason": "OR 173, won last time finishing strongly (+10.2%); strong pace suits non-leaders"}
+  ], "checks": []},
+  {"race_id": "rac_32305314483", "changes": [
+    {"horse_id": "hrs_39996607", "horse": "Some See Stars", "chance_pct": 4.3, "reason": "Held-up type; steady gallop expected, hard to come from off the pace"},
+    {"horse_id": "hrs_17392985295", "horse": "Pillars Presence", "chance_pct": 1.5, "reason": "Best figure 7lb below field and held up in a steady-pace race"},
+    {"horse_id": "hrs_17395894222", "horse": "Doctor Grimwig", "chance_pct": 8.5, "reason": "Trainer 3/15 (20%) last 14 days"}
+  ], "checks": []}
+]}

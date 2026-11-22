@@ -1,0 +1,4 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-22,11:25,Lingfield (AW),rac_32305149838,Mister Mojito,hrs_35257866,4.5,4.5,Betfred,4.5,William Hill 4.5,2026-11-22-Betfred-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-22,2:55,Lingfield (AW),rac_32305161460,Wellwhatshappenin,hrs_45413151,3.75,3.5,Betfred,3.75,William Hill 3.5,2026-11-22-Betfred-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-22,3:25,Lingfield (AW),rac_32305163397,In The Post,hrs_55454119,4.0,4.0,Betfred,4.0,William Hill 4,2026-11-22-Betfred-1,Trixie (3 doubles + treble),4,0.5,2.0

@@ -1,0 +1,85 @@
+{"meeting": "cork", "races": [
+  {"race_id": "rac_32305215696", "changes": [
+    {"horse_id": "hrs_17394395431", "horse": "Noon Blu Dodville", "chance_pct": 25.0, "reason": "Fell on only start (form F) and model 14.4% from 1 run; trainer form and first-time tongue tie keep cut moderate"},
+    {"horse_id": "hrs_17395249648", "horse": "Klaus", "chance_pct": 0.7, "reason": "Trainer 0/12 in 14 days and hold-up style in a slow, tactical pace"},
+    {"horse_id": "hrs_17394396474", "horse": "One For Christy", "chance_pct": 0.4, "reason": "Pulled up on only run and held up in a race expected to be slowly run"}
+  ], "checks": []},
+  {"race_id": "rac_32305217633", "changes": [
+    {"horse_id": "hrs_51678900", "horse": "Dark Summit", "chance_pct": 2.8, "reason": "Recent Flat placings 3/16 and 2/24, model 10.8%; first run over hurdles limits the rise"},
+    {"horse_id": "hrs_62645303", "horse": "Good Vibrations", "chance_pct": 0.7, "reason": "Faded last run (-5.0% finishing speed) and returns from 231-day break"},
+    {"horse_id": "hrs_17394882512", "horse": "A Poets Day Out", "chance_pct": 0.6, "reason": "Last of 14 last time and faded (-6.2% finishing speed)"}
+  ], "checks": [
+    {"horse_id": "hrs_64522829", "horse": "Maestro Des Pins", "verdict": "BET", "reason": "Trainer 7/31 in 14 days and finished strongly last run; 196-day break is shared by the main rivals, no specific doubt"}
+  ]},
+  {"race_id": "rac_32305219570", "changes": [
+    {"horse_id": "hrs_51185946", "horse": "Look Me", "chance_pct": 31.0, "reason": "First run over hurdles after a 225-day break"},
+    {"horse_id": "hrs_58316006", "horse": "Soul Asylum", "chance_pct": 33.5, "reason": "Best hurdle figure 110, 12 lb above field average, already hurdle-fit 28 days ago and a likely leader in even pace"},
+    {"horse_id": "hrs_51434404", "horse": "Young Rebel", "chance_pct": 12.5, "reason": "Second last time, first-time hood, trainer 2/7, model 16.6%"},
+    {"horse_id": "hrs_59186120", "horse": "Moonverrin", "chance_pct": 8.5, "reason": "256-day break, first run over hurdles, model only 4.7%"},
+    {"horse_id": "hrs_64556156", "horse": "River Ore", "chance_pct": 0.6, "reason": "Best figure 89, 9 lb below field average; trainer 0/9; poor recent positions"},
+    {"horse_id": "hrs_17395218358", "horse": "Dusty Mills", "chance_pct": 0.8, "reason": "Best figure 89, 9 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305221507", "changes": [
+    {"horse_id": "hrs_45445099", "horse": "Place De La Nation", "chance_pct": 27.0, "reason": "First run over fences after 204-day break; model 8.9%"},
+    {"horse_id": "hrs_39959584", "horse": "Echoing Silence", "chance_pct": 16.0, "reason": "Chase figure 117, 15 lb above field average, already has fences experience, first-time tongue tie, trainer 9/38"},
+    {"horse_id": "hrs_34166552", "horse": "Mongibello", "chance_pct": 6.0, "reason": "OR 128 with chase form (2nd at Galway), placed in four of last five, model 9.7%"},
+    {"horse_id": "hrs_41052676", "horse": "Blue Velvet", "chance_pct": 2.0, "reason": "Pulled up last time, 231-day break, first run over fences"},
+    {"horse_id": "hrs_40096063", "horse": "Carry On Heidi", "chance_pct": 1.0, "reason": "Jumping mistakes in 2 of last 3 runs, 98-day break"},
+    {"horse_id": "hrs_38532732", "horse": "Miss Mini Bee", "chance_pct": 0.5, "reason": "Jumping mistakes in 3 of last 5, figure 11 lb below field average, first run over fences"}
+  ], "checks": []},
+  {"race_id": "rac_32305223444", "changes": [
+    {"horse_id": "hrs_39698883", "horse": "Karl Des Tourelles", "chance_pct": 13.5, "reason": "Recent figures 6 lb below current mark of 132 and carries 11 lb more than average"},
+    {"horse_id": "hrs_39827263", "horse": "Rockonliam", "chance_pct": 12.5, "reason": "Best figure 128, 9 lb above field average, won at trip or further, trainer 9/38"},
+    {"horse_id": "hrs_39334239", "horse": "On Your Way", "chance_pct": 5.5, "reason": "Figures 12 lb below mark, hold-up style in slow pace, model 2.7%"},
+    {"horse_id": "hrs_46013772", "horse": "Kings Jet", "chance_pct": 5.5, "reason": "Comment: hard to fancy; jumping mistakes in 3 of last 5 and a fall"},
+    {"horse_id": "hrs_30208458", "horse": "El Champo", "chance_pct": 4.5, "reason": "Trainer 0/24 in 14 days, winless in last five"},
+    {"horse_id": "hrs_38433290", "horse": "I Am Lorenzo", "chance_pct": 3.3, "reason": "Figures 12 lb below mark, 8th and 9th last two"},
+    {"horse_id": "hrs_33067356", "horse": "Harvard Guy", "chance_pct": 3.2, "reason": "231-day break, jumping mistakes, hold-up in slow pace"},
+    {"horse_id": "hrs_35218708", "horse": "Rusheen", "chance_pct": 2.7, "reason": "Comment: hard to fancy; 195-day break, faded last time, PU and UR in last five"},
+    {"horse_id": "hrs_22138151", "horse": "Meet And Greet", "chance_pct": 2.5, "reason": "Figures 9 lb below mark, hold-up in slow pace"},
+    {"horse_id": "hrs_32683322", "horse": "Invictus Machin", "chance_pct": 2.2, "reason": "Pulled up last two starts, 135-day break"},
+    {"horse_id": "hrs_27251630", "horse": "Happy Dreams", "chance_pct": 1.8, "reason": "Poor recent positions, faded, 259-day break"},
+    {"horse_id": "hrs_32952654", "horse": "Hermino AA", "chance_pct": 1.3, "reason": "Trainer 0/12 in 14 days and faded last run"}
+  ], "checks": [
+    {"horse_id": "hrs_39698883", "horse": "Karl Des Tourelles", "verdict": "SKIP", "reason": "DATA: recent figures 6 lb below his mark (looks high in the weights) with Rockonliam rated higher on figures at the same weight"}
+  ]},
+  {"race_id": "rac_32305225381", "changes": [
+    {"horse_id": "hrs_52055689", "horse": "Some Song", "chance_pct": 12.5, "reason": "Jumping mistakes in 2 of last 4 runs, winless in last five, model 6.8%"},
+    {"horse_id": "hrs_46697119", "horse": "Affinity Rock", "chance_pct": 9.5, "reason": "Habitual leader, finished strongly when 2nd last time, consistent, model 11.0%"},
+    {"horse_id": "hrs_41090973", "horse": "Polepatrick", "chance_pct": 7.2, "reason": "Best figure 118, 8 lb above field average, likely leader"},
+    {"horse_id": "hrs_51831612", "horse": "Gin Tonic", "chance_pct": 5.0, "reason": "Pulled up in last three, 113-day break, first run over fences, model 2.1%"},
+    {"horse_id": "hrs_48644540", "horse": "Kaiser De Chanay", "chance_pct": 6.0, "reason": "234-day break and first run over fences"},
+    {"horse_id": "hrs_51341486", "horse": "Chase The Moon", "chance_pct": 3.5, "reason": "Trainer 0/24 in 14 days, 7th and 9th last two"},
+    {"horse_id": "hrs_52055402", "horse": "Dubhain", "chance_pct": 2.6, "reason": "Jumping mistakes in 3 of last 4, 192-day break, first run over fences"},
+    {"horse_id": "hrs_47620860", "horse": "Mojoe", "chance_pct": 2.6, "reason": "Faded badly last run (-6.8%), first run over fences"},
+    {"horse_id": "hrs_27359010", "horse": "Maidenstreetprince", "chance_pct": 2.0, "reason": "Poor recent positions, figures 106-109 last two chases"}
+  ], "checks": [
+    {"horse_id": "hrs_52055689", "verdict": "SKIP", "horse": "Some Song", "reason": "Jumping mistakes in 2 of last 4 runs and winless in last five; model only 6.8%"}
+  ]},
+  {"race_id": "rac_32305227318", "changes": [
+    {"horse_id": "hrs_52055654", "horse": "Lanzhou", "chance_pct": 20.0, "reason": "Won last two, best figure 108 is 9 lb above field and 7 lb above his mark"},
+    {"horse_id": "hrs_35446369", "horse": "Theanniversary Man", "chance_pct": 14.5, "reason": "Comment: one good day hard to build on; best figure 89, 10 lb below field average; hold-up in slow pace"},
+    {"horse_id": "hrs_47345375", "horse": "St Lawrence's Well", "chance_pct": 14.0, "reason": "Best figure 108, 9 lb above field average, first-time tongue tie"},
+    {"horse_id": "hrs_39978218", "horse": "Springboard", "chance_pct": 8.0, "reason": "Comment: hard to fancy; best figure 86, 13 lb below field average"},
+    {"horse_id": "hrs_48854001", "horse": "Mister Loolah", "chance_pct": 7.5, "reason": "Fell, brought down and pulled up in last five; model 3.8%"},
+    {"horse_id": "hrs_52862628", "horse": "Royal Belief", "chance_pct": 6.0, "reason": "Won last hurdle start, OR 6 lb above field average, model 13.0%"},
+    {"horse_id": "hrs_7000000805", "horse": "You Lift Me Up", "chance_pct": 3.8, "reason": "Trainer 0/24 in 14 days, jumping mistakes"},
+    {"horse_id": "hrs_28930930", "horse": "River Vale", "chance_pct": 3.5, "reason": "Pulled up last time, aged 10"},
+    {"horse_id": "hrs_17393306539", "horse": "Issy's Lad", "chance_pct": 1.0, "reason": "OR 83, 16 lb below field average, poor positions, hold-up in slow pace"}
+  ], "checks": [
+    {"horse_id": "hrs_52055654", "horse": "Lanzhou", "verdict": "BET", "reason": "Won last two and figures 7 lb above his mark; no specific doubt beyond hold-up style"}
+  ]},
+  {"race_id": "rac_32305229255", "changes": [
+    {"horse_id": "hrs_36878835", "horse": "Cock And Bull", "chance_pct": 16.0, "reason": "Comment: hard to fancy, back after just three days under 162 lb; OR 6 lb below field average"},
+    {"horse_id": "hrs_58132802", "horse": "King Of The Greys", "chance_pct": 16.0, "reason": "Won last time, figure 105 is 8 lb above field average, trainer 3/6, finished strongly"},
+    {"horse_id": "hrs_52742032", "horse": "Political Stance", "chance_pct": 3.8, "reason": "Pulled up just five days ago"},
+    {"horse_id": "hrs_34268514", "horse": "Toor Khov", "chance_pct": 2.8, "reason": "Pulled up three days ago, jumping mistakes"},
+    {"horse_id": "hrs_50221297", "horse": "Bergamasquo", "chance_pct": 3.0, "reason": "Pulled up last time and fell before that"},
+    {"horse_id": "hrs_51124010", "horse": "West Of Bally", "chance_pct": 2.7, "reason": "Figures 7 lb below mark, trainer 0/12"},
+    {"horse_id": "hrs_39021472", "horse": "Born Bright", "chance_pct": 2.4, "reason": "Pulled up in last two, hold-up in slow pace"},
+    {"horse_id": "hrs_52495562", "horse": "Scotty Joe", "chance_pct": 2.3, "reason": "Trainer 0/24, poor recent positions, model 1.2%"},
+    {"horse_id": "hrs_18780965", "horse": "Custers Mistake", "chance_pct": 1.5, "reason": "Pulled up in last two, first run over hurdles"}
+  ], "checks": [
+    {"horse_id": "hrs_36878835", "horse": "Cock And Bull", "verdict": "SKIP", "reason": "Comment flags a three-day turnaround under 162 lb after a single win from poor form"}
+  ]}
+]}

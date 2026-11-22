@@ -1,0 +1,66 @@
+{"meeting": "lingfield_aw", "races": [
+  {"race_id": "rac_32305149838", "changes": [
+    {"horse_id": "hrs_41939156", "horse": "Stenmark", "chance_pct": 11.0, "reason": "Best recent figure 62 is 9 lb below field average and 13 lb below his mark; unplaced last time."},
+    {"horse_id": "hrs_47098863", "horse": "Lady Mariko", "chance_pct": 14.5, "reason": "Won last time with fig 80, 9 lb above field average and 5 lb above her mark."},
+    {"horse_id": "hrs_43002505", "horse": "Handle With Care", "chance_pct": 10.5, "reason": "Trainer 0/8 in last 14 days and only sixth last time."},
+    {"horse_id": "hrs_36588559", "horse": "Arantes Nascimento", "chance_pct": 8.5, "reason": "Winless in last six, seventh last time; model only 5.8%."},
+    {"horse_id": "hrs_43508444", "horse": "This Farh", "chance_pct": 5.5, "reason": "Sixth in each of last three runs (poor recent finishing positions)."},
+    {"horse_id": "hrs_55763918", "horse": "Viking Glory", "chance_pct": 6.0, "reason": "Won last time over 7f on AW at Kempton; model 8.2%."}
+  ], "checks": [
+    {"horse_id": "hrs_35257866", "horse": "Mister Mojito", "verdict": "BET", "reason": "Won last time, best figure 79 is 8 lb above field and 4 lb above mark; mild hold-up course bias doesn't outweigh that."}
+  ]},
+  {"race_id": "rac_32305591474", "changes": [
+    {"horse_id": "hrs_17394442366", "horse": "Reign Over All", "chance_pct": 20.5, "reason": "Hold-up horse in a race expected to be steadily run, so hard to close."},
+    {"horse_id": "hrs_17394909630", "horse": "Basics", "chance_pct": 7.5, "reason": "Debut fig 56 is best in field (10 lb above average); model 17.9%."}
+  ], "checks": []},
+  {"race_id": "rac_32305151775", "changes": [], "checks": []},
+  {"race_id": "rac_32305153712", "changes": [
+    {"horse_id": "hrs_63422751", "horse": "Olympic Charter", "chance_pct": 41.0, "reason": "Returns from a 228-day break after a single run."},
+    {"horse_id": "hrs_17393646557", "horse": "Medaali", "chance_pct": 12.0, "reason": "Improved to third (fig 60) last time on AW at Wolverhampton 20 days ago; model 18%."},
+    {"horse_id": "hrs_55947633", "horse": "Nada Two", "chance_pct": 7.0, "reason": "Returns from a 421-day break."}
+  ], "checks": []},
+  {"race_id": "rac_32305155649", "changes": [
+    {"horse_id": "hrs_56007959", "horse": "Merci Monsieur", "chance_pct": 26.0, "reason": "Only figure 60 is 14 lb below field average and 20 lb below his mark of 80; comment says hard to fancy off 80."},
+    {"horse_id": "hrs_36738786", "horse": "Duke's Command", "chance_pct": 18.0, "reason": "Best figure 86 is 12 lb above field and he finished strongly last time, though trainer is 0/11."},
+    {"horse_id": "hrs_42521864", "horse": "Gilet", "chance_pct": 12.5, "reason": "Trainer 6/17 (35%) in last 14 days."},
+    {"horse_id": "hrs_47621553", "horse": "Crack On Boys", "chance_pct": 7.5, "reason": "Form of eighth, ninth, eighth in last three runs."},
+    {"horse_id": "hrs_40514663", "horse": "Wyld Bill", "chance_pct": 5.0, "reason": "Figures 16 lb below his mark, faded last time, two unplaced runs."}
+  ], "checks": []},
+  {"race_id": "rac_32305157586", "changes": [
+    {"horse_id": "hrs_45314892", "horse": "Eazy On The Eye", "chance_pct": 13.5, "reason": "Lone leader likely to get an easy lead; fig 89 is 15 lb above field and 16 lb above her mark."},
+    {"horse_id": "hrs_55177654", "horse": "Lady Milton", "chance_pct": 8.5, "reason": "86-day absence and unplaced last time."},
+    {"horse_id": "hrs_36864919", "horse": "Madame de Sevigne", "chance_pct": 7.0, "reason": "Returns from a 92-day break and winless in last six; model 4.7%."},
+    {"horse_id": "hrs_55454084", "horse": "Lahan Kingman", "chance_pct": 8.0, "reason": "Best recent figure 65 is 9 lb below field average; winless in last six."}
+  ], "checks": []},
+  {"race_id": "rac_32305159523", "changes": [
+    {"horse_id": "hrs_44816562", "horse": "Lazzar", "chance_pct": 21.0, "reason": "Winless in last six (464545); hold-up horse in a race with a lone leader; model 13.9%."},
+    {"horse_id": "hrs_32210241", "horse": "Diamond Dreamer", "chance_pct": 17.0, "reason": "Best figure 66 is 11 lb above field and 9 lb above his mark."},
+    {"horse_id": "hrs_43002491", "horse": "One For Harvey", "chance_pct": 16.0, "reason": "Won over 5f two starts back and third last time; fig 62 is 7 lb above field; model 27.4%."},
+    {"horse_id": "hrs_52055031", "horse": "Little Jaybee", "chance_pct": 10.0, "reason": "Trainer 0/8 in 14 days and form fading, ninth last time."},
+    {"horse_id": "hrs_54059635", "horse": "Davorge Nation", "chance_pct": 7.0, "reason": "69-day absence and yard 1/22; model 4.5%."},
+    {"horse_id": "hrs_49012838", "horse": "Express Train", "chance_pct": 9.0, "reason": "Figure 62 is 7 lb above field and 6 lb above his mark."},
+    {"horse_id": "hrs_51273187", "horse": "Nuevo Slovo", "chance_pct": 3.8, "reason": "Best figure 39 is 16 lb below field and 21 lb below his mark; faded last time."},
+    {"horse_id": "hrs_61521614", "horse": "Sheik Yerbouti", "chance_pct": 3.0, "reason": "Last figure 36 is 19 lb below field and 23 lb below his mark."}
+  ], "checks": [
+    {"horse_id": "hrs_44816562", "horse": "Lazzar", "verdict": "SKIP", "reason": "Winless in last six, held up behind a lone leader at 5f, and model 13.9% is well below market."}
+  ]},
+  {"race_id": "rac_32305161460", "changes": [
+    {"horse_id": "hrs_45413151", "horse": "Wellwhatshappenin", "chance_pct": 25.0, "reason": "Second last time; fig 61 is 15 lb above field and 7 lb above his mark."},
+    {"horse_id": "hrs_43827000", "horse": "Poke The Bear", "chance_pct": 12.5, "reason": "Figure 59 is 13 lb above field and 6 lb above his mark."},
+    {"horse_id": "hrs_47869066", "horse": "Electric Bass", "chance_pct": 8.5, "reason": "Seventh last time and returns after 69 days."},
+    {"horse_id": "hrs_19261746", "horse": "Uzincso", "chance_pct": 3.0, "reason": "Figure 32 is 14 lb below field and 20 lb below his mark; poor recent finishing positions."},
+    {"horse_id": "hrs_42163240", "horse": "Shielas Well", "chance_pct": 2.5, "reason": "Ran just 2 days ago, faded, figures 8 lb below her mark."}
+  ], "checks": [
+    {"horse_id": "hrs_45413151", "horse": "Wellwhatshappenin", "verdict": "BET", "reason": "Best figure in the field by 15 lb, well handicapped and in good form; no specific doubt on the card."}
+  ]},
+  {"race_id": "rac_32305163397", "changes": [
+    {"horse_id": "hrs_63323694", "horse": "Chilli King", "chance_pct": 16.0, "reason": "Winless in last four with fifth last time; comment says hard to fancy; model 10.5%."},
+    {"horse_id": "hrs_51523885", "horse": "Noble Grace", "chance_pct": 13.5, "reason": "Trainer 6/17 in last 14 days; won two back and third last time over 16f on AW."},
+    {"horse_id": "hrs_41939121", "horse": "Autumn's Breeze", "chance_pct": 9.0, "reason": "Figures 14 lb below her mark and she carries 8 lb more than average."},
+    {"horse_id": "hrs_24758412", "horse": "Snapius", "chance_pct": 8.0, "reason": "Returns from a 184-day break; rating 11 lb below field average."},
+    {"horse_id": "hrs_7000000357", "horse": "State Express", "chance_pct": 4.2, "reason": "Best figure 44 is 11 lb below field and 19 lb below his mark; unplaced last time."},
+    {"horse_id": "hrs_37446850", "horse": "Calshot Spit", "chance_pct": 6.0, "reason": "Second over 17f last flat run and a prominent racer, with prominent racers winning 1.3x their share here."}
+  ], "checks": [
+    {"horse_id": "hrs_55454119", "horse": "In The Post", "verdict": "BET", "reason": "Best figure 60 is 5 lb above field, three straight thirds, and prominent style suits the course bias at 16f."}
+  ]}
+]}

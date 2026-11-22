@@ -1,0 +1,15 @@
+OffUK,StartTimeUTC,Course,SelectionName,Code,Source,MorningMedian,MinPrice,BestPrice9am,Matchbook9am,ReviewerChancePct,MarketChancePct,Reason,Status
+11:25,2026-11-22T11:25:00+00:00,Lingfield (AW),Mister Mojito,Flat,CHECK verdict BET,4.5,4.27,5.5,5.5,19.76,17.32,"Won last time, best figure 79 is 8 lb above field and 4 lb above mark; mild hold-up course bias doesn't outweigh that.",BOT FILE
+11:55,2026-11-22T11:55:00+00:00,Lingfield (AW),Basics,Flat,reviewer BET flag,13.0,13.33,21.0,21.0,7.5,5.43,Debut fig 56 is best in field (10 lb above average); model 17.9%.,EXCLUDED - unknown runner(s) or off before seal
+12:49,2026-11-22T12:49:00+00:00,Cork,Maestro Des Pins,Jumps,CHECK verdict BET,3.0,2.85,3.1,3.1,24.16,24.24,"Trainer 7/31 in 14 days and finished strongly last run; 196-day break is shared by the main rivals, no specific doubt",EXCLUDED - unknown runner(s) or off before seal
+13:30,2026-11-22T13:30:00+00:00,Punchestown,Gomez Addams,Jumps,CHECK verdict BET,3.25,3.09,3.4,3.4,28.92,27.03,"Model (25.4%) backs the market; OR 10lb above field, trainer 9/38, won at trip; layoff only moderate",BOT FILE
+13:49,2026-11-22T13:49:00+00:00,Cork,Echoing Silence,Jumps,reviewer BET flag,6.0,6.25,7.6,7.6,16.0,12.74,"Chase figure 117, 15 lb above field average, already has fences experience, first-time tongue tie, trainer 9/38",BOT FILE
+13:55,2026-11-22T13:55:00+00:00,Lingfield (AW),Eazy On The Eye,Flat,reviewer BET flag,8.5,7.41,11.0,11.0,13.5,9.33,Lone leader likely to get an easy lead; fig 89 is 15 lb above field and 16 lb above her mark.,BOT FILE
+14:07,2026-11-22T14:07:00+00:00,Exeter,Son of Hypnos,Jumps,reviewer BET flag,23.0,18.18,25.0,25.0,5.5,3.97,"Lone habitual leader likely to get uncontested lead, carries 15 lb less than average",BOT FILE
+14:13,2026-11-22T14:13:00+00:00,Fakenham,Gata Ban,Jumps,reviewer BET flag,6.0,5.26,7.6,7.6,19.0,13.72,"Won last time 9 days ago, three wins in last six, best recent figure 10 lb above field average",BOT FILE
+14:55,2026-11-22T14:55:00+00:00,Lingfield (AW),Wellwhatshappenin,Flat,CHECK verdict BET,3.5,3.32,3.9,3.9,25.0,23.18,"Best figure in the field by 15 lb, well handicapped and in good form; no specific doubt on the card.",BOT FILE
+15:07,2026-11-22T15:07:00+00:00,Exeter,Out of Aces,Jumps,reviewer BET flag,26.0,22.22,32.0,32.0,4.5,3.34,Lone leader may get an uncontested lead,BOT FILE
+15:19,2026-11-22T15:19:00+00:00,Cork,Royal Belief,Jumps,reviewer BET flag,15.0,16.67,21.0,21.0,6.0,4.77,"Won last hurdle start, OR 6 lb above field average, model 13.0%",BOT FILE
+15:19,2026-11-22T15:19:00+00:00,Cork,Lanzhou,Jumps,CHECK verdict BET,4.33,4.11,5.0,5.0,20.0,18.37,Won last two and figures 7 lb above his mark; no specific doubt beyond hold-up style,BOT FILE
+15:25,2026-11-22T15:25:00+00:00,Lingfield (AW),In The Post,Flat,CHECK verdict BET,4.0,3.8,4.6,4.6,23.83,20.9,"Best figure 60 is 5 lb above field, three straight thirds, and prominent style suits the course bias at 16f.",BOT FILE
+15:37,2026-11-22T15:37:00+00:00,Exeter,Romany Brown,Jumps,CHECK verdict BET,5.0,4.75,5.2,5.2,19.0,17.82,"Solid recent form, best figure above field and finished strongly; no specific doubt on the card",BOT FILE

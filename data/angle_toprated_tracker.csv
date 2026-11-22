@@ -206,4 +206,4 @@ day,race_id,off_dt,course,horse_id,horse,mb,best,mkt,selected,pos,won,bsp
 2026-11-21,rac_32305300924,2026-11-21T15:53:00+00:00,Punchestown,hrs_57718808,Ifuknowuknow,7.6,7.6,13.78,False,1,1,
 2026-11-21,rac_32305116909,2026-11-21T17:30:00+00:00,Newcastle (AW),hrs_35624883,Ganesha,5.7,5.7,15.72,False,5,0,
 2026-11-21,rac_32305120783,2026-11-21T18:30:00+00:00,Newcastle (AW),hrs_29918035,Tough Enough,13.5,13.5,6.86,True,1,1,
-2026-11-21,rac_32305122720,2026-11-21T19:00:00+00:00,Newcastle (AW),hrs_34874399,Bright,8.6,8.6,10.75,True,,0,
+2026-11-21,rac_32305122720,2026-11-21T19:00:00+00:00,Newcastle (AW),hrs_34874399,Bright,8.6,8.6,10.75,True,9,0,

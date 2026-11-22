@@ -1,0 +1,33 @@
+{"meeting": "fakenham", "races": [
+  {"race_id": "rac_32305138216", "changes": [
+    {"horse_id": "hrs_43826860", "horse": "Hello Sweety", "chance_pct": 19.0, "reason": "Jumping mistakes in 2 of last 5 runs and a hefty 162 lb burden"},
+    {"horse_id": "hrs_51024253", "horse": "Golden Falls", "chance_pct": 12.0, "reason": "Returns from a 266-day layoff carrying top weight of 168 lb (10 lb above average)"},
+    {"horse_id": "hrs_36123108", "horse": "Dancing Dame", "chance_pct": 12.0, "reason": "Won two starts back, ran again only 12 days ago over this trip/going; model 23.7% well above market"}
+  ], "checks": []},
+  {"race_id": "rac_32305140153", "changes": [
+    {"horse_id": "hrs_28400099", "horse": "Gambie Tiep", "chance_pct": 23.0, "reason": "Winless in last five, pulled up two back, recent figures 7 lb below current mark"},
+    {"horse_id": "hrs_30541329", "horse": "Applejack Poet", "chance_pct": 34.0, "reason": "Won last time 19 days ago, form 321, and is the lone front-runner who may get an uncontested lead"},
+    {"horse_id": "hrs_20456415", "horse": "Getaway Jewel", "chance_pct": 14.0, "reason": "Seventh last time and faded (-7.0% finishing speed); OR 9 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305142090", "changes": [
+    {"horse_id": "hrs_58686873", "horse": "Eustace Grenier", "chance_pct": 25.0, "reason": "Form 43-450, beaten 10th of 15 last time out"},
+    {"horse_id": "hrs_39826857", "horse": "Claim The Throne", "chance_pct": 15.0, "reason": "Returns from a 385-day break after pulling up on last start (form 561/P-)"}
+  ], "checks": []},
+  {"race_id": "rac_32305144027", "changes": [
+    {"horse_id": "hrs_30016189", "horse": "Chosen Hero", "chance_pct": 32.0, "reason": "Ran only 1 day ago (5th), pulled up in 3 of last 5 jumps runs, OR 6 lb below field average"},
+    {"horse_id": "hrs_40820402", "horse": "I Am The Moon", "chance_pct": 14.0, "reason": "Returns from a 144-day break and faded last time (-7.3% finishing speed)"},
+    {"horse_id": "hrs_22797670", "horse": "Sweet Nightingale", "chance_pct": 12.0, "reason": "Comment says she has gone down the order; best figure 78 is 6 lb below field average"},
+    {"horse_id": "hrs_29621935", "horse": "Gata Ban", "chance_pct": 19.0, "reason": "Won last time 9 days ago, three wins in last six, best recent figure 10 lb above field average"},
+    {"horse_id": "hrs_39959647", "horse": "Eastern Shores", "chance_pct": 7.5, "reason": "Hold-up horse in a likely slow pace; recent figures 9 lb below current mark"}
+  ], "checks": []},
+  {"race_id": "rac_32305145964", "changes": [
+    {"horse_id": "hrs_47621056", "horse": "At Mangan Bridge", "chance_pct": 21.0, "reason": "Held up in a likely steady gallop and faded when 12th of 15 last time"},
+    {"horse_id": "hrs_51091054", "horse": "King Jon Oliver", "chance_pct": 14.0, "reason": "Pulled up in 3 of last 5 with jumping mistakes in 3 of last 5; first-time blinkers only partial offset"}
+  ], "checks": []},
+  {"race_id": "rac_32305147901", "changes": [
+    {"horse_id": "hrs_29621984", "horse": "Painted Wolf", "chance_pct": 23.0, "reason": "First run over fences, recent figures 12 lb below current mark, faded last time, 38-day absence with 164 lb"},
+    {"horse_id": "hrs_27566014", "horse": "Hawaii du Mestivel", "chance_pct": 16.0, "reason": "Returns from a 228-day break and pulled up in 2 of last 3 jumps runs"}
+  ], "checks": [
+    {"horse_id": "hrs_29621984", "horse": "Painted Wolf", "verdict": "SKIP", "reason": "Chasing debut with figures 12 lb below his mark and faded last time; first-time tongue-tie/cheekpieces and wind surgery are unproven"}
+  ]}
+]}

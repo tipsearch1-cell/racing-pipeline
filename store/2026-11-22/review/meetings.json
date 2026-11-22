@@ -1,0 +1,37 @@
+{
+ "lingfield_aw": {
+  "course": "Lingfield (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-22/review/in_lingfield_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-22/review/out_lingfield_aw.json",
+  "races": 9,
+  "checks": 4
+ },
+ "punchestown": {
+  "course": "Punchestown",
+  "in": "/home/claude/racing-pipeline/store/2026-11-22/review/in_punchestown.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-22/review/out_punchestown.json",
+  "races": 8,
+  "checks": 3
+ },
+ "cork": {
+  "course": "Cork",
+  "in": "/home/claude/racing-pipeline/store/2026-11-22/review/in_cork.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-22/review/out_cork.json",
+  "races": 8,
+  "checks": 5
+ },
+ "exeter": {
+  "course": "Exeter",
+  "in": "/home/claude/racing-pipeline/store/2026-11-22/review/in_exeter.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-22/review/out_exeter.json",
+  "races": 7,
+  "checks": 5
+ },
+ "fakenham": {
+  "course": "Fakenham",
+  "in": "/home/claude/racing-pipeline/store/2026-11-22/review/in_fakenham.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-22/review/out_fakenham.json",
+  "races": 6,
+  "checks": 1
+ }
+}
