@@ -1,0 +1,37 @@
+{
+ "bangor_on_dee": {
+  "course": "Bangor-on-Dee",
+  "in": "/home/claude/racing-pipeline/store/2026-11-23/review/in_bangor_on_dee.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-23/review/out_bangor_on_dee.json",
+  "races": 7,
+  "checks": 3
+ },
+ "kempton": {
+  "course": "Kempton",
+  "in": "/home/claude/racing-pipeline/store/2026-11-23/review/in_kempton.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-23/review/out_kempton.json",
+  "races": 7,
+  "checks": 3
+ },
+ "huntingdon": {
+  "course": "Huntingdon",
+  "in": "/home/claude/racing-pipeline/store/2026-11-23/review/in_huntingdon.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-23/review/out_huntingdon.json",
+  "races": 6,
+  "checks": 2
+ },
+ "newcastle_aw": {
+  "course": "Newcastle (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-23/review/in_newcastle_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-23/review/out_newcastle_aw.json",
+  "races": 9,
+  "checks": 6
+ },
+ "wolverhampton_aw": {
+  "course": "Wolverhampton (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-23/review/in_wolverhampton_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-23/review/out_wolverhampton_aw.json",
+  "races": 9,
+  "checks": 5
+ }
+}

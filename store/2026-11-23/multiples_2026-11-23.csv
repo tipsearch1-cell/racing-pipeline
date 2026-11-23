@@ -1,0 +1,6 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-23,4:30,Wolverhampton (AW),rac_32305271869,Eighty Eight,hrs_25825541,3.0,3.0,William Hill,3.0,Betfred 3,2026-11-23-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-23,6:45,Newcastle (AW),rac_32305266058,Lord Abama,hrs_27166524,4.0,4.0,William Hill,4.0,Betfred 4,2026-11-23-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-23,7:00,Wolverhampton (AW),rac_32305279617,Ridger,hrs_65549820,4.5,4.5,William Hill,4.5,Betfred 4.5,2026-11-23-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-23,7:15,Newcastle (AW),rac_32305267995,Simba's Pride,hrs_51800448,4.5,4.165,William Hill,4.5,Betfred 4.33,2026-11-23-William Hill-1,Lucky 15,15,0.5,7.5
+2026-11-23,7:30,Wolverhampton (AW),rac_32305281554,Yehudi,hrs_41662271,4.33,4.0,William Hill,4.33,Betfred 4,2026-11-23-William Hill-single,Single only (no partner leg),1,0.5,0.5

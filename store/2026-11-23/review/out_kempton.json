@@ -1,0 +1,42 @@
+{"meeting": "kempton", "races": [
+  {"race_id": "rac_32305242814", "changes": [
+    {"horse_id": "hrs_55948228", "horse": "James Choice", "chance_pct": 12.5, "reason": "Trainer in cracking form (6/20, 30% last 14 days) and finished strongly last run (+4.0%)"},
+    {"horse_id": "hrs_57406951", "horse": "Temple", "chance_pct": 14.0, "reason": "First run over hurdles and last Flat figure only 65 when 7th of 10"},
+    {"horse_id": "hrs_54242657", "horse": "Kiss For An Angel", "chance_pct": 0.7, "reason": "Faded last run (-2.6%), poor recent finishing positions, hurdles debut"}
+  ], "checks": [
+    {"horse_id": "hrs_56094878", "horse": "Thisonesforyou", "verdict": "BET", "reason": "Won last time 20 days ago, best figure 112 is 16 lb above field average, trainer 10/50 in 14 days"}
+  ]},
+  {"race_id": "rac_32305244751", "changes": [
+    {"horse_id": "hrs_62549214", "horse": "Stars Aligning", "chance_pct": 74.0, "reason": "Returns from a 254-day break and only 1 run in data"},
+    {"horse_id": "hrs_63875448", "horse": "Thatsnotmyname", "chance_pct": 7.0, "reason": "Fell last time, jumping mistakes in 2 of last 3, held-up style in a steady-pace race"}
+  ], "checks": []},
+  {"race_id": "rac_32305246688", "changes": [
+    {"horse_id": "hrs_34153315", "horse": "Bond Broker", "chance_pct": 34.0, "reason": "Won last time, has won at this trip, and is lone leader likely to get an uncontested lead"},
+    {"horse_id": "hrs_46295844", "horse": "Cinquenta", "chance_pct": 27.5, "reason": "Unseated last time out on chase debut"}
+  ], "checks": []},
+  {"race_id": "rac_32305248625", "changes": [
+    {"horse_id": "hrs_49757785", "horse": "Marsiac", "chance_pct": 25.0, "reason": "Form slipping (ninth last time, faded -3.3%) and returns after 60 days"},
+    {"horse_id": "hrs_36696338", "horse": "Road To Wembley", "chance_pct": 23.0, "reason": "Recent figures 15 lb below current mark, looks high in the weights"},
+    {"horse_id": "hrs_23921555", "horse": "Ernest Gray", "chance_pct": 10.5, "reason": "Won last run and finished strongly (+3.7%), form 4-2-1 at around this trip"}
+  ], "checks": []},
+  {"race_id": "rac_32305250562", "changes": [
+    {"horse_id": "hrs_40352494", "horse": "Jackie Hobbs", "chance_pct": 33.0, "reason": "Returns from 232-day absence after a sixth last time"},
+    {"horse_id": "hrs_29816451", "horse": "Take No Chances", "chance_pct": 34.0, "reason": "Best recent figure 142 is 15 lb above field average and OR 146 tops the field; race-fit after 23 days"},
+    {"horse_id": "hrs_39940726", "horse": "Hollygrove Cha Cha", "chance_pct": 17.0, "reason": "247-day absence, faded badly last run (-17.0%), jumping mistakes in 2 of last 3"}
+  ], "checks": []},
+  {"race_id": "rac_32305252499", "changes": [
+    {"horse_id": "hrs_38002454", "horse": "King Califet", "chance_pct": 21.0, "reason": "Returns from a 248-day break, lightly raced, earlier form (4th, 8th) weak"},
+    {"horse_id": "hrs_39941139", "horse": "Glynn Brae", "chance_pct": 17.5, "reason": "Recent figures 8 lb below current mark, faded last run, carries 168 lb"},
+    {"horse_id": "hrs_34961402", "horse": "Fierce Warrior", "chance_pct": 14.0, "reason": "222-day absence and faded when eighth last time"},
+    {"horse_id": "hrs_28190904", "horse": "El Rio", "chance_pct": 10.0, "reason": "Fell last time out"}
+  ], "checks": [
+    {"horse_id": "hrs_38002454", "horse": "King Califet", "verdict": "SKIP", "reason": "248-day absence and only 2 runs in data give a specific reason to doubt the favourite"}
+  ]},
+  {"race_id": "rac_32305254436", "changes": [
+    {"horse_id": "hrs_32443579", "horse": "Gordon Grey", "chance_pct": 16.0, "reason": "57 days off with 160 lb, faded last run (-4.0%), model rates only 8.9%"},
+    {"horse_id": "hrs_37207926", "horse": "Dambuster", "chance_pct": 4.0, "reason": "Returns from 581 days off with stable 1/22 in last 14 days"},
+    {"horse_id": "hrs_39488302", "horse": "A Good Yomp", "chance_pct": 11.0, "reason": "Fifth last time and best recent figure 95 is 9 lb below field average"}
+  ], "checks": [
+    {"horse_id": "hrs_32733463", "verdict": "BET", "horse": "Woodstock City", "reason": "Won last time 20 days ago finishing strongly, best figure 108 above field average, trainer 10/50 in 14 days"}
+  ]}
+]}

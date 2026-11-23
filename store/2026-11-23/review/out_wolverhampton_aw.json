@@ -1,0 +1,79 @@
+{"meeting": "wolverhampton_aw", "races": [
+  {"race_id": "rac_32305271869", "changes": [
+    {"horse_id": "hrs_43796431", "horse": "Law of Design", "chance_pct": 10.0, "reason": "Form 523589 tailing off; best recent fig 42 is 9 lb below field and 17 lb below mark"},
+    {"horse_id": "hrs_45855257", "horse": "Beachborough Girl", "chance_pct": 4.8, "reason": "Comment says form cooling (5th, 8th); recent figures 11 lb below mark"},
+    {"horse_id": "hrs_64072323", "horse": "Ceinture d'Orion", "chance_pct": 3.8, "reason": "Trainer 0/12 in last 14 days; winless in six"},
+    {"horse_id": "hrs_55273141", "horse": "Symphony of Joy", "chance_pct": 2.9, "reason": "Recent figures 9 lb below mark; 8th of 10 last time"},
+    {"horse_id": "hrs_45855124", "horse": "Riyadh Gem", "chance_pct": 2.2, "reason": "Best recent fig 34, 17 lb below field and 24 lb below mark"},
+    {"horse_id": "hrs_45824492", "horse": "Boogie Inthejungle", "chance_pct": 1.6, "reason": "Returns from 171-day break after poor hurdle runs (6th, 8th, 9th)"}
+  ], "checks": [
+    {"horse_id": "hrs_25825541", "horse": "Eighty Eight", "verdict": "BET", "reason": "Won last time with fig 62, 11 lb above field and 5 lb above mark; no specific doubt beyond age"}
+  ]},
+  {"race_id": "rac_32305769678", "changes": [
+    {"horse_id": "hrs_17391095379", "horse": "Distant Sun", "chance_pct": 8.5, "reason": "Form 9809, best fig 47 is 14 lb below field, 8 lb below mark; model 1.4%"},
+    {"horse_id": "hrs_17392932102", "horse": "Aquila d'Oro", "chance_pct": 6.8, "reason": "Recent figures 12 lb below mark; comment says hard to make a case on form"},
+    {"horse_id": "hrs_66655519", "horse": "Hello You Ten", "chance_pct": 6.3, "reason": "Fig 61 last time is near his mark of 62 and he was 2nd two starts back; model 14%"}
+  ], "checks": []},
+  {"race_id": "rac_32305273806", "changes": [
+    {"horse_id": "hrs_65287243", "horse": "Queen of Christmas", "chance_pct": 8.0, "reason": "Returns from 152-day break and faded last time (-2.5% finishing speed)"},
+    {"horse_id": "hrs_17394162842", "horse": "Incandescence", "chance_pct": 4.0, "reason": "Trainer 6/20 (30%) in last 14 days"},
+    {"horse_id": "hrs_17395113015", "horse": "Tarragindi", "chance_pct": 2.7, "reason": "Trainer 6/20 (30%) in last 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_17389306634", "horse": "Geometric", "verdict": "BET", "reason": "Debutant with first-time tongue tie; card gives no specific reason to doubt the market"}
+  ]},
+  {"race_id": "rac_32305275743", "changes": [
+    {"horse_id": "hrs_27301694", "horse": "Cabeza de Llave", "chance_pct": 10.5, "reason": "Won last time over C&D (fig 49), form 855441; model 18.7%"},
+    {"horse_id": "hrs_55061930", "horse": "Bessie Wallis", "chance_pct": 3.9, "reason": "Best recent fig 58, 8 lb above field; figures 5 lb above mark"},
+    {"horse_id": "hrs_37260328", "horse": "Piperstown", "chance_pct": 2.8, "reason": "9th and 8th lately; figures 9 lb below mark"},
+    {"horse_id": "hrs_53743361", "horse": "Bold Return", "chance_pct": 2.0, "reason": "Best recent fig 36, 14 lb below field and 16 lb below mark"}
+  ], "checks": [
+    {"horse_id": "hrs_45662183", "horse": "Our Planet", "verdict": "BET", "reason": "Won 3 days ago with fig 60 (6 lb above mark) and may get an uncontested lead as lone front-runner"}
+  ]},
+  {"race_id": "rac_32305277680", "changes": [
+    {"horse_id": "hrs_22033354", "horse": "Kaaranah", "chance_pct": 11.5, "reason": "Runner-up last two (fig 74, 7 lb above field) and strong contested pace suits hold-up style"},
+    {"horse_id": "hrs_34775195", "horse": "Charlie's Choice", "chance_pct": 6.0, "reason": "Comment notes current slide (7th, 8th), winless in six"},
+    {"horse_id": "hrs_52054765", "horse": "Magician of Riga", "chance_pct": 5.5, "reason": "Recent figures 12 lb below mark; cooled to 5th, 5th, 6th"},
+    {"horse_id": "hrs_54555375", "horse": "Aleen", "chance_pct": 4.5, "reason": "Returns from a 368-day break"},
+    {"horse_id": "hrs_23568321", "horse": "Three Dons", "chance_pct": 1.5, "reason": "240-day break, 9th last time, trainer 1/26"},
+    {"horse_id": "hrs_59831247", "horse": "Helga", "chance_pct": 1.0, "reason": "Figures 20 lb below mark, faded last time, likely taken on for lead"}
+  ], "checks": []},
+  {"race_id": "rac_32305279617", "changes": [
+    {"horse_id": "hrs_53294423", "horse": "Dark Mandate", "chance_pct": 17.5, "reason": "Fig 69 (12 lb above field, 6 lb above mark), finished strongly last time, first-time cheekpieces"},
+    {"horse_id": "hrs_37276246", "horse": "Giorgio M", "chance_pct": 15.5, "reason": "Won last two; best fig 72 is 15 lb above field and 8 lb above mark"},
+    {"horse_id": "hrs_39960333", "horse": "Montpellier Green", "chance_pct": 8.5, "reason": "Best fig 49, 8 lb below field; comment says fitness is about all he has going for him; model 5%"},
+    {"horse_id": "hrs_41565055", "horse": "State of Madness", "chance_pct": 2.7, "reason": "95-day absence after 8th last time"},
+    {"horse_id": "hrs_44417639", "horse": "On Key", "chance_pct": 2.5, "reason": "Best recent fig 41, 16 lb below field and mark; 9th of 9 last time"},
+    {"horse_id": "hrs_19138861", "horse": "Punchbowl Flyer", "chance_pct": 1.5, "reason": "Figures 27 lb below mark and faded last time"}
+  ], "checks": [
+    {"horse_id": "hrs_65549820", "horse": "Ridger", "verdict": "BET", "reason": "Form 231122, fig 66 is 9 lb above field and 4 lb above mark; trainer 1/5"}
+  ]},
+  {"race_id": "rac_32305281554", "changes": [
+    {"horse_id": "hrs_29736280", "horse": "Good Karma", "chance_pct": 13.0, "reason": "Two 6th places lately, winless in six, best fig 54 is 5 lb below field; model 7.8%"},
+    {"horse_id": "hrs_55700939", "horse": "Girls Allowed", "chance_pct": 18.5, "reason": "Won last two; fig 71 is 12 lb above field and 9 lb above mark"},
+    {"horse_id": "hrs_21686462", "horse": "Monsieur Patat", "chance_pct": 12.0, "reason": "2nd in last two, fig 66 is 7 lb above field; model 18%"},
+    {"horse_id": "hrs_36738660", "horse": "Profit Street", "chance_pct": 6.5, "reason": "Form tailed off with two 6ths; 44 days off"}
+  ], "checks": [
+    {"horse_id": "hrs_41662271", "horse": "Yehudi", "verdict": "BET", "reason": "Won two starts back with fig 62, top-rated in field; no specific doubt"}
+  ]},
+  {"race_id": "rac_32305283491", "changes": [
+    {"horse_id": "hrs_56219422", "horse": "Monarch's Gold", "chance_pct": 18.0, "reason": "Winless in six, last three 5th/6th/5th, 52 days off; model 12.1%"},
+    {"horse_id": "hrs_48447280", "horse": "The Watcher", "chance_pct": 13.0, "reason": "Returns from a 586-day absence after a 9th last time"},
+    {"horse_id": "hrs_37027039", "horse": "Drifts Away", "chance_pct": 13.5, "reason": "Fig 81 is 12 lb above field; model 17.4%"},
+    {"horse_id": "hrs_52054254", "horse": "Reciprocated", "chance_pct": 9.5, "reason": "2nd last time, fig 78 9 lb above field, trainer 2/5"},
+    {"horse_id": "hrs_43984220", "horse": "Shah", "chance_pct": 4.5, "reason": "191-day absence and faded badly last time (-5.0%)"},
+    {"horse_id": "hrs_34472669", "horse": "Treasure Time", "chance_pct": 4.5, "reason": "Poor recent book (form 040-08), 47 days off"},
+    {"horse_id": "hrs_36999998", "horse": "Jez Bomb", "chance_pct": 4.5, "reason": "Fig 76 is 7 lb above field; trainer 5/22"},
+    {"horse_id": "hrs_31919636", "horse": "City Cyclone", "chance_pct": 1.5, "reason": "Best fig 32, 44 lb below mark; last of 12 last time"}
+  ], "checks": [
+    {"horse_id": "hrs_56219422", "horse": "Monarch's Gold", "verdict": "SKIP", "reason": "Winless in six with last three runs 5th, 6th, 5th and a 52-day absence; model 12.1% well below market"}
+  ]},
+  {"race_id": "rac_32305285428", "changes": [
+    {"horse_id": "hrs_32780041", "horse": "Hitched", "chance_pct": 22.0, "reason": "Form 066884, no win in six, recent positions 8th, 8th, 4th; model 8.7%"},
+    {"horse_id": "hrs_50434706", "horse": "Galba", "chance_pct": 19.0, "reason": "Won last time finishing strongly (+2.3%), fig 70 8 lb above field; model 26.3%"},
+    {"horse_id": "hrs_56278306", "horse": "Shadowmere", "chance_pct": 7.0, "reason": "105-day break and faded badly last time (-15.3%)"},
+    {"horse_id": "hrs_24819557", "horse": "He's A Gentleman", "chance_pct": 6.5, "reason": "8th last time; recent figures 9 lb below mark"},
+    {"horse_id": "hrs_52831044", "horse": "Galileo Island", "chance_pct": 2.0, "reason": "Figures 20 lb below mark; unplaced in last two"}
+  ], "checks": [
+    {"horse_id": "hrs_32780041", "horse": "Hitched", "verdict": "SKIP", "reason": "Winless in six (066884) with recent 8th, 8th, 4th; model 8.7% far below market 29%"}
+  ]}
+]}

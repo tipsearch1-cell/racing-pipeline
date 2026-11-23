@@ -1,0 +1,47 @@
+{"meeting": "huntingdon", "races": [
+  {"race_id": "rac_32305231192", "changes": [
+    {"horse_id": "hrs_51558192", "horse": "Double The Dance", "chance_pct": 22.0, "reason": "Returns from a 252-day break and trainer only 1/22 in last 14 days"},
+    {"horse_id": "hrs_43002680", "horse": "Donegal", "chance_pct": 9.5, "reason": "Returns from a 315-day break after only one run (7/14) over hurdles"},
+    {"horse_id": "hrs_54525520", "horse": "Big Win", "chance_pct": 9.5, "reason": "Good recent Flat form (1st, 4th, 2nd) and finished strongly last time (+3.6%); hurdling debut tempers it"},
+    {"horse_id": "hrs_39848634", "horse": "Trapper John", "chance_pct": 6.0, "reason": "Trainer 0/8 in 14 days, poor recent form and unseated in 1 of last 2 jumps runs"}
+  ], "checks": []},
+  {"race_id": "rac_32305233129", "changes": [
+    {"horse_id": "hrs_54398386", "horse": "Chico Magnifica", "chance_pct": 34.5, "reason": "Won last time out, best figure 97, finished strongly and trainer 10/50 in 14 days"},
+    {"horse_id": "hrs_59961475", "horse": "Tazman Dan", "chance_pct": 17.0, "reason": "Winless in last five, top weight 165lb and jumping mistakes in 2 of last 3 runs"},
+    {"horse_id": "hrs_47313658", "horse": "Uncle Remus", "chance_pct": 13.5, "reason": "Pace data says he is the lone leader and may get an uncontested lead"},
+    {"horse_id": "hrs_32278421", "horse": "Dotties Star", "chance_pct": 10.0, "reason": "Won last time 13 days ago, finished strongly (+4.8%) and trainer 2/4 in 14 days"},
+    {"horse_id": "hrs_40312321", "horse": "Saucats", "chance_pct": 4.2, "reason": "First-time tongue strap and trainer 2/10 (20%) in 14 days"},
+    {"horse_id": "hrs_59275993", "horse": "Callero", "chance_pct": 2.2, "reason": "Recent figures 7lb below his mark, faded last time, pulled up 2 runs back"}
+  ], "checks": []},
+  {"race_id": "rac_32305235066", "changes": [
+    {"horse_id": "hrs_51558073", "horse": "Crystal Island", "chance_pct": 55.0, "reason": "216-day layoff (comment flags fitness) and only hurdle form in the data for this chase"},
+    {"horse_id": "hrs_41229769", "horse": "John Barbour", "chance_pct": 9.0, "reason": "Only runner with a recent outing (31 days) while all rivals return from 216+ day breaks"}
+  ], "checks": []},
+  {"race_id": "rac_32305237003", "changes": [
+    {"horse_id": "hrs_39996488", "horse": "Jamada", "chance_pct": 36.5, "reason": "Trainer 10/50 in 14 days, finished strongly last time and has won at this trip"},
+    {"horse_id": "hrs_37702238", "horse": "Inside Man", "chance_pct": 24.0, "reason": "Best figure in field (116), second last time 19 days ago, trainer 3/8 (38%) in 14 days"},
+    {"horse_id": "hrs_47345284", "horse": "Sweeper System", "chance_pct": 16.5, "reason": "Won last time out with a +4.3% finishing speed and has won at this trip"},
+    {"horse_id": "hrs_21387275", "horse": "Yes Indeed", "chance_pct": 9.0, "reason": "172-day absence, faded last time (-8.4%) and jumping mistakes in 2 of last 5"},
+    {"horse_id": "hrs_35512659", "horse": "Granny Hawkins", "chance_pct": 5.5, "reason": "Two fifths in a row, recent figures 11lb below her mark and first run over fences"},
+    {"horse_id": "hrs_26460035", "horse": "Black Hawk Eagle", "chance_pct": 5.0, "reason": "Recent figures 10lb below his mark, top weight and faded last time"}
+  ], "checks": []},
+  {"race_id": "rac_32305238940", "changes": [
+    {"horse_id": "hrs_44721733", "horse": "Zaraquelle", "chance_pct": 16.5, "reason": "Has run over today's trip (2nd at 19.7f), fit after 13 days"},
+    {"horse_id": "hrs_47161338", "horse": "Conniemak", "chance_pct": 12.0, "reason": "Absent 261 days and winless in last five (comment calls her hard to fancy)"},
+    {"horse_id": "hrs_54304803", "horse": "Midnight Pass", "chance_pct": 10.5, "reason": "Pace data says lone leader who may be allowed an easy lead"},
+    {"horse_id": "hrs_40186384", "horse": "Mistress Fox", "chance_pct": 7.5, "reason": "166 days off after a seventh last time; comment says hard to fancy"},
+    {"horse_id": "hrs_40591971", "horse": "Lady Showtime", "chance_pct": 1.8, "reason": "626-day absence with an eighth last time out"}
+  ], "checks": [
+    {"horse_id": "hrs_58196677", "horse": "Lets Go Mo", "verdict": "BET", "reason": "Second last time 20 days ago, looks 4lb well handicapped and finished strongly; only minor doubt is untried at 2m4f"}
+  ]},
+  {"race_id": "rac_32305240877", "changes": [
+    {"horse_id": "hrs_52117394", "horse": "Lyrical Choice", "chance_pct": 15.5, "reason": "274-day break, winless in last five, only 2 runs in data and all form at around 2m"},
+    {"horse_id": "hrs_40942118", "horse": "Fidendum", "chance_pct": 12.5, "reason": "Habitual leader likely to be taken on in a strong contested pace"},
+    {"horse_id": "hrs_50188915", "horse": "Lewisham Grove", "chance_pct": 6.5, "reason": "Likely taken on for the lead, jumping mistakes in 2 of last 3 and 166lb"},
+    {"horse_id": "hrs_37702336", "horse": "Dirty Den", "chance_pct": 9.0, "reason": "Contested lead should suit his hold-up style; trainer 2/10 in 14 days"},
+    {"horse_id": "hrs_45950695", "horse": "Beau Quali", "chance_pct": 5.5, "reason": "Beaten 14th and 9th last two runs and faded last time (-4.7%)"},
+    {"horse_id": "hrs_40592188", "horse": "Devon Skies", "chance_pct": 1.6, "reason": "233-day break and a leader likely to be taken on for the lead"}
+  ], "checks": [
+    {"horse_id": "hrs_52117394", "horse": "Lyrical Choice", "verdict": "SKIP", "reason": "274 days off with fitness the question (per comment), winless in five and lightly raced"}
+  ]}
+]}

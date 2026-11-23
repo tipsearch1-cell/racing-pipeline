@@ -1,0 +1,49 @@
+{"meeting": "bangor_on_dee", "races": [
+  {"race_id": "rac_32305359034", "changes": [
+    {"horse_id": "hrs_46483073", "horse": "Starmount", "chance_pct": 33.0, "reason": "268-day layoff, pulled up last time and first run over fences"},
+    {"horse_id": "hrs_32278477", "horse": "Fiercely Proud", "chance_pct": 13.5, "reason": "Returns from 227-day break on first run over fences"}
+  ], "checks": []},
+  {"race_id": "rac_32305360971", "changes": [
+    {"horse_id": "hrs_37381309", "horse": "Falco des Pins", "chance_pct": 9.0, "reason": "Trainer 0/8 last 14 days and best recent figure 7 lb below field average"},
+    {"horse_id": "hrs_40920425", "horse": "Kiwi Rush", "chance_pct": 6.0, "reason": "Fell last time out and jumping mistakes in 2 of last 5 runs"},
+    {"horse_id": "hrs_34073081", "horse": "Jhentong Enki", "chance_pct": 4.5, "reason": "Pulled up last time and unplaced run before that"}
+  ], "checks": []},
+  {"race_id": "rac_32305362908", "changes": [
+    {"horse_id": "hrs_50906142", "horse": "Dig Deep", "chance_pct": 17.0, "reason": "254-day break, first run over fences and top weight 169 lb"},
+    {"horse_id": "hrs_41052578", "horse": "Hard Dealt", "chance_pct": 23.0, "reason": "Won 4 days ago with fig 122, 9 lb above current mark (well handicapped)"},
+    {"horse_id": "hrs_37757902", "horse": "Kingbel du Lion", "chance_pct": 8.0, "reason": "635-day absence and trainer 0/8 last 14 days"},
+    {"horse_id": "hrs_52055472", "horse": "The Burren Man", "chance_pct": 5.5, "reason": "Unplaced and faded (-3.6% finishing speed) last time"}
+  ], "checks": [
+    {"horse_id": "hrs_50906142", "horse": "Dig Deep", "verdict": "SKIP", "reason": "254-day layoff, first run over fences and 169 lb give specific reason to doubt"}
+  ]},
+  {"race_id": "rac_32305364845", "changes": [
+    {"horse_id": "hrs_46233222", "horse": "Knead A Win", "chance_pct": 12.5, "reason": "225-day absence carrying top weight 170 lb, lightly raced"},
+    {"horse_id": "hrs_40352375", "horse": "Douglas Hyde", "chance_pct": 10.5, "reason": "248-day break, faded when eighth last time, first run over fences"},
+    {"horse_id": "hrs_50188887", "horse": "Crystello", "chance_pct": 11.5, "reason": "Best figure 97, 10 lb below field average and 6 lb below current mark"},
+    {"horse_id": "hrs_34665197", "horse": "De Kingpin", "chance_pct": 7.0, "reason": "248-day break, first over fences and likely to be taken on for the lead"},
+    {"horse_id": "hrs_412693680", "horse": "Top Guy", "chance_pct": 6.0, "reason": "Recent figures 13 lb below current mark and faded last time"},
+    {"horse_id": "hrs_33051480", "horse": "Sole Solution", "chance_pct": 4.5, "reason": "296-day layoff, trainer 0/8, faded badly and jumping mistakes in last 2 runs"},
+    {"horse_id": "hrs_27139714", "horse": "Leading Choice", "chance_pct": 4.5, "reason": "Figures 6 lb above mark and strong contested pace suits hold-up style"},
+    {"horse_id": "hrs_37790130", "horse": "Skuna Bay", "chance_pct": 5.5, "reason": "270-day absence, first over fences and likely to be taken on for the lead"}
+  ], "checks": [
+    {"horse_id": "hrs_46233222", "horse": "Knead A Win", "verdict": "SKIP", "reason": "225-day absence under top weight 170 lb with only one run in data"}
+  ]},
+  {"race_id": "rac_32305366782", "changes": [
+    {"horse_id": "hrs_17395068166", "horse": "Grande J", "chance_pct": 21.0, "reason": "Returns from 289-day break with no runs in data"},
+    {"horse_id": "hrs_62516538", "horse": "Jetzet", "chance_pct": 28.0, "reason": "Best figure 110, 9 lb above field, finished strongly and trainer 4/18"},
+    {"horse_id": "hrs_62170871", "horse": "Dylans Moon", "chance_pct": 7.5, "reason": "Fell last time and 216-day break"},
+    {"horse_id": "hrs_59961461", "horse": "Looking For Eight", "chance_pct": 2.8, "reason": "Likely uncontested lead and finished strongly (+7.7%) last time"},
+    {"horse_id": "hrs_17394535193", "horse": "The Gift Shop", "chance_pct": 4.2, "reason": "Sixth of seven last time with figure 10 lb below field average, faded"}
+  ], "checks": [
+    {"horse_id": "hrs_17395068166", "horse": "Grande J", "verdict": "SKIP", "reason": "289-day absence after wind surgery, no form data to support favouritism"}
+  ]},
+  {"race_id": "rac_32305368719", "changes": [
+    {"horse_id": "hrs_51491902", "horse": "Mille Et Une Vies", "chance_pct": 44.0, "reason": "256-day break and faded when 18th of 22 last time"},
+    {"horse_id": "hrs_17394074187", "horse": "Aeropress", "chance_pct": 22.0, "reason": "Best figure 97, 8 lb above field and finished strongly last time"},
+    {"horse_id": "hrs_17395401926", "horse": "Perfect Package", "chance_pct": 10.0, "reason": "624-day absence"},
+    {"horse_id": "hrs_59246943", "horse": "Mysti Meadow", "chance_pct": 2.3, "reason": "Finished strongly last time and prominent style suits a slow pace"}
+  ], "checks": []},
+  {"race_id": "rac_32305370656", "changes": [
+    {"horse_id": "hrs_64938125", "horse": "Pether's Angel", "chance_pct": 11.0, "reason": "Trainer 4/18 (22%) last 14 days and 7 lb lighter than rivals"}
+  ], "checks": []}
+]}
