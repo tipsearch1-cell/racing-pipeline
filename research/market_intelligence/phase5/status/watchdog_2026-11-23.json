@@ -1,0 +1,21 @@
+{
+  "day": "2026-11-23",
+  "checked_utc": "2026-11-23T10:24:01Z",
+  "files": {
+    "present": [
+      "store/2026-11-23/sealed_card.json.gz",
+      "archive_data/2026-11-23/phase5/components.json.gz",
+      "archive_data/2026-11-23/phase5/pred_0900.json.gz",
+      "archive_data/2026-11-23/phase5/stamps/*.json.gz (1 file)",
+      "archive_data/2026-11-23/phase5/snapshots/E/20261122T210946Z.json.gz"
+    ],
+    "missing": []
+  },
+  "verify": {"ok": true, "archive_integrity_failures": 0, "frozen_model_sha256_ok": true, "races": 38, "eligible_0900": 38, "confirmatory_settled": 0, "timestamp_violations": 0, "mapping_errors": 0, "model_hash_discrepancies": 0, "missing_E": 0, "missing_M": 0, "duplicate_snapshots": 0},
+  "build_chain": "intact",
+  "schedule": {
+    "tomorrow_build": "24 Nov 08:35 racing build (trig_01M25eo2MPLpWs36drZRTGzs), next run 2026-11-24T08:35:00Z = 08:35 UK",
+    "evening_snapshot": "enabled, next run 2026-11-23 21:00 UK",
+    "watchdog": "enabled"
+  }
+}
