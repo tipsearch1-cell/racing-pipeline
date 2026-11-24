@@ -1,0 +1,88 @@
+{"meeting": "tramore", "races": [
+  {"race_id": "rac_32305463632", "changes": [
+    {"horse_id": "hrs_57470973", "horse": "Forty Fifty", "chance_pct": 40.0, "reason": "Returns from a 256-day break with only one run in data (model 5.3%)"},
+    {"horse_id": "hrs_40786466", "horse": "Global Submission", "chance_pct": 20.0, "reason": "Best figure 112 is 15 lb above field average, trainer 9/42 in 14 days, prominent style suits slow pace"},
+    {"horse_id": "hrs_17395851459", "horse": "Blue Rebel", "chance_pct": 12.0, "reason": "Returns from a 269-day break with no runs in data"},
+    {"horse_id": "hrs_17395146391", "horse": "Flooring Brandy", "chance_pct": 5.5, "reason": "First-time tongue tie"},
+    {"horse_id": "hrs_58745701", "horse": "Kiltinan", "chance_pct": 1.3, "reason": "Poor recent positions, pulled up in 1 of last 3, held up in slow pace"},
+    {"horse_id": "hrs_59961405", "horse": "Lake Isle", "chance_pct": 0.5, "reason": "Trainer 0/13 in 14 days and 316-day break"},
+    {"horse_id": "hrs_63171402", "horse": "Sapphire Jewel", "chance_pct": 1.0, "reason": "Best figure 90 is 7 lb below field average, poor recent positions"}
+  ], "checks": []},
+  {"race_id": "rac_32305465569", "changes": [
+    {"horse_id": "hrs_59428936", "horse": "Even Tho", "chance_pct": 70.0, "reason": "Returns from a 209-day break and first run over hurdles"},
+    {"horse_id": "hrs_17393979274", "horse": "Whelkeen View", "chance_pct": 4.0, "reason": "Figure 105 when third over 20.5f on Soft, trainer 3/12 in 14 days"},
+    {"horse_id": "hrs_17393627783", "horse": "Marie D'angos", "chance_pct": 4.0, "reason": "Faded last time (finishing speed -2.5%)"},
+    {"horse_id": "hrs_52710462", "horse": "Howyasox", "chance_pct": 2.2, "reason": "Fell in 1 of last 3, held up in a slow-pace race"},
+    {"horse_id": "hrs_64135225", "horse": "Gotawinnerinyou", "chance_pct": 0.6, "reason": "Faded badly last time (finishing speed -7.3%)"},
+    {"horse_id": "hrs_17390250549", "horse": "A Chairde Go Leir", "chance_pct": 0.4, "reason": "Unseated on only hurdles run, held up in slow pace"}
+  ], "checks": []},
+  {"race_id": "rac_32305467506", "changes": [
+    {"horse_id": "hrs_41629399", "horse": "Coillte M C G", "chance_pct": 11.0, "reason": "197-day absence, first run over hurdles, faded last time, held up in slow pace"},
+    {"horse_id": "hrs_40352319", "horse": "Miss Lia", "chance_pct": 10.0, "reason": "Trainer 0/31 in 14 days, OR 6 lb below field average, jumping mistakes in 3 of last 5"},
+    {"horse_id": "hrs_63171717", "horse": "Mastertown Miss", "chance_pct": 8.5, "reason": "Jumping mistakes mentioned in 3 of last 3 runs"},
+    {"horse_id": "hrs_46450201", "horse": "Maxios Prime", "chance_pct": 6.5, "reason": "197-day absence and trainer 0/31 in 14 days"},
+    {"horse_id": "hrs_30122974", "horse": "Onefortheditch", "chance_pct": 6.0, "reason": "Unseated in each of last two runs, carries 12 lb more than average"},
+    {"horse_id": "hrs_63810089", "horse": "Dromana Mist", "chance_pct": 7.5, "reason": "On a two-race winning run, won at trip, prominent style suits slow pace"},
+    {"horse_id": "hrs_17393176164", "horse": "French Adventure", "chance_pct": 3.0, "reason": "Comment says hard to fancy; held up in slow pace"},
+    {"horse_id": "hrs_17393307582", "horse": "Leading Rose", "chance_pct": 1.7, "reason": "Best figure 77 is 11 lb below field average and 8 lb below mark"}
+  ], "checks": [
+    {"horse_id": "hrs_33274843", "horse": "Mount Shenshan", "verdict": "BET", "reason": "Two wins and a fourth in last three, won at trip, quick return; only minor jumping-error note"}
+  ]},
+  {"race_id": "rac_32305469443", "changes": [
+    {"horse_id": "hrs_55061601", "horse": "Talas Kera", "chance_pct": 15.5, "reason": "Won last time after a second, has run over trip and going"},
+    {"horse_id": "hrs_48853973", "horse": "The Ducks Walk", "chance_pct": 15.5, "reason": "Second last time with figure 91 and finished strongly (+5.9%)"},
+    {"horse_id": "hrs_36970332", "horse": "Johnny Cakes", "chance_pct": 9.5, "reason": "Trainer 0/31 in 14 days, best figure 6 lb below field average"},
+    {"horse_id": "hrs_51185925", "horse": "Le Midnightdancer", "chance_pct": 6.5, "reason": "Returns from a 252-day break, no form better than 7th"},
+    {"horse_id": "hrs_17950198", "horse": "Lake Chad", "chance_pct": 8.5, "reason": "Figure 101 is 12 lb above field average when winning last time, won at trip"},
+    {"horse_id": "hrs_32982418", "horse": "Ballinaboola Jet", "chance_pct": 4.5, "reason": "Faded badly last time (-12.4%), finished 14/15"},
+    {"horse_id": "hrs_34253422", "horse": "Madame Masque", "chance_pct": 4.5, "reason": "Recent figures 8 lb below current mark"},
+    {"horse_id": "hrs_17391270603", "horse": "Man Down", "chance_pct": 4.0, "reason": "Recent figures 10 lb below mark, unseated last time"},
+    {"horse_id": "hrs_40646921", "horse": "Walkmethroughit", "chance_pct": 2.3, "reason": "Pulled up in 3 of last 5, jumping mistakes in all 5"},
+    {"horse_id": "hrs_49325780", "horse": "Fairy Meadow", "chance_pct": 1.5, "reason": "Trainer 0/9 in 14 days, poor recent positions"},
+    {"horse_id": "hrs_65678249", "horse": "Piper Street", "chance_pct": 1.3, "reason": "Trainer 0/31 in 14 days, unplaced in last four"},
+    {"horse_id": "hrs_38002384", "horse": "Renard De Noir", "chance_pct": 1.0, "reason": "Returns from a 774-day absence, OR 13 lb below field average"}
+  ], "checks": [
+    {"horse_id": "hrs_55061601", "horse": "Talas Kera", "verdict": "BET", "reason": "Won last time, second before, fresh 17 days and proven over trip and going"}
+  ]},
+  {"race_id": "rac_32305471380", "changes": [
+    {"horse_id": "hrs_17393304453", "horse": "Rebel Reba", "chance_pct": 13.5, "reason": "First run over fences, 159 lb, comment says seventh and sixth temper enthusiasm (model 6.5%)"},
+    {"horse_id": "hrs_59961454", "horse": "Leni's Law", "chance_pct": 9.5, "reason": "Chase figure 97 is 8 lb above field average, experienced over fences"},
+    {"horse_id": "hrs_51373686", "horse": "Let's Go Mans", "chance_pct": 6.5, "reason": "240-day break and first run over fences"},
+    {"horse_id": "hrs_49325878", "horse": "Walk In The Clouds", "chance_pct": 5.5, "reason": "238-day layoff and first run over fences"},
+    {"horse_id": "hrs_49974239", "horse": "Kanog Bay", "chance_pct": 4.5, "reason": "Pulled up last two, 240-day absence, trainer 0/10, first time over fences"},
+    {"horse_id": "hrs_51434236", "horse": "Glenary Prince", "chance_pct": 6.5, "reason": "Trainer 9/42 in 14 days, already has chase figure 92"},
+    {"horse_id": "hrs_39208127", "horse": "Harry's Dream", "chance_pct": 3.0, "reason": "Trainer 0/31 in 14 days, last of 10 on chase debut"},
+    {"horse_id": "hrs_58962876", "horse": "Datzdjazz", "chance_pct": 2.0, "reason": "Pulled up last time, trainer 0/12 in 14 days"},
+    {"horse_id": "hrs_46233593", "horse": "I C U In My Dreams", "chance_pct": 1.8, "reason": "Habitual leader likely to be taken on in a strong pace, poor recent positions"},
+    {"horse_id": "hrs_35069097", "horse": "Sekakarma", "chance_pct": 1.8, "reason": "Leader likely to be taken on, first time over fences"},
+    {"horse_id": "hrs_17391515708", "horse": "Queen Of The Gales", "chance_pct": 1.3, "reason": "Best figure 16 lb below field average, leader likely to be taken on"}
+  ], "checks": [
+    {"horse_id": "hrs_17393304453", "horse": "Rebel Reba", "verdict": "SKIP", "reason": "First run over fences with 159 lb and comment flags a seventh and sixth before last-time second"}
+  ]},
+  {"race_id": "rac_32305473317", "changes": [
+    {"horse_id": "hrs_39959430", "horse": "Notimelikedpresent", "chance_pct": 10.5, "reason": "Comment says hard to fancy: winless in four, 276-day layoff under 155 lb"},
+    {"horse_id": "hrs_39959696", "horse": "Stily", "chance_pct": 9.0, "reason": "Placed third in last two chases, prominent style suits slow pace"},
+    {"horse_id": "hrs_29621886", "horse": "Lough Nigara", "chance_pct": 6.5, "reason": "First run over fences, 168 lb, 12th of 12 last time"},
+    {"horse_id": "hrs_29721972", "horse": "Roccabaker", "chance_pct": 6.0, "reason": "Recent figures 10 lb below mark, held up in slow pace"},
+    {"horse_id": "hrs_35321769", "horse": "Knockbrack Rambler", "chance_pct": 6.0, "reason": "176-day absence carrying 163 lb"},
+    {"horse_id": "hrs_40225206", "horse": "Revolut Ned", "chance_pct": 6.5, "reason": "Won last time over fences 14 days ago"},
+    {"horse_id": "hrs_412672925", "horse": "Orlando Spirit", "chance_pct": 4.8, "reason": "195-day absence, first run over fences, held up in slow pace"},
+    {"horse_id": "hrs_27997319", "horse": "Another Ocana", "chance_pct": 4.5, "reason": "Recent figures 7 lb below current mark"},
+    {"horse_id": "hrs_37687447", "horse": "Without Exception", "chance_pct": 3.5, "reason": "257-day absence, trainer 0/31 in 14 days, first time over fences"},
+    {"horse_id": "hrs_30865527", "horse": "Rockstown Girl", "chance_pct": 3.0, "reason": "Jumping mistakes in 3 of last 5, carries 13 lb more than average"},
+    {"horse_id": "hrs_23858352", "horse": "God Help Us", "chance_pct": 2.0, "reason": "257-day break and pulled up last time"},
+    {"horse_id": "hrs_21678636", "horse": "Battle Of Benburb", "chance_pct": 0.8, "reason": "Faded badly last time (-11.5%), pulled up in 2 of last 5"}
+  ], "checks": [
+    {"horse_id": "hrs_39959430", "verdict": "SKIP", "horse": "Notimelikedpresent", "reason": "Returns from 276-day layoff, winless in four, one run in data"}
+  ]},
+  {"race_id": "rac_32305475254", "changes": [
+    {"horse_id": "hrs_17395972447", "horse": "Lady Aurora", "chance_pct": 33.0, "reason": "Returns after 296 days, comment says fitness is the question"},
+    {"horse_id": "hrs_61012665", "horse": "Found It", "chance_pct": 13.0, "reason": "Returns after 206 days, seventh last time"},
+    {"horse_id": "hrs_66463446", "horse": "Shuil Solas", "chance_pct": 13.0, "reason": "Two seconds in last three bumpers, fresh from run nine days ago"},
+    {"horse_id": "hrs_60343395", "horse": "Lest Ye Forget", "chance_pct": 10.5, "reason": "Figure 95 on Soft is 5 lb above field average"},
+    {"horse_id": "hrs_17392912285", "horse": "Miss Kobe", "chance_pct": 5.2, "reason": "Trainer 0/17 in 14 days, held up in slow pace"},
+    {"horse_id": "hrs_66619504", "horse": "Mozart's Song", "chance_pct": 5.5, "reason": "Third in both runs, including on Soft"},
+    {"horse_id": "hrs_17392700556", "horse": "For My Lady", "chance_pct": 3.0, "reason": "Trainer 0/31 in 14 days, fell last time"},
+    {"horse_id": "hrs_17393385807", "horse": "She's Trixy", "chance_pct": 1.8, "reason": "Trainer 0/17 in 14 days, seventh of 8 last time"}
+  ], "checks": []}
+]}

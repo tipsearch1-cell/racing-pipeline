@@ -1,0 +1,66 @@
+{"meeting": "wolverhampton_aw", "races": [
+  {"race_id": "rac_32305413270", "changes": [
+    {"horse_id": "hrs_30208255", "horse": "Mehmar", "chance_pct": 30.0, "reason": "Winless in last six with only one other top-four finish; form model just 10.3% vs 39.5% market"},
+    {"horse_id": "hrs_57041565", "horse": "Black Missile", "chance_pct": 13.0, "reason": "Second last time, best recent figure 62 is 9 lb above field average"},
+    {"horse_id": "hrs_36454222", "horse": "Act of Violence", "chance_pct": 5.5, "reason": "Recent figures 8 lb below current mark; 13th of 15 last time"},
+    {"horse_id": "hrs_54842711", "horse": "Forever Glamorous", "chance_pct": 5.0, "reason": "88 days off and a hold-up horse in a race expected to be slowly run"},
+    {"horse_id": "hrs_36207647", "horse": "Diligent Henry", "chance_pct": 4.0, "reason": "Comment: winless in six, never closer than fifth; best figure 41 is 12 lb below field average"},
+    {"horse_id": "hrs_50434307", "horse": "Goldenstateofmind", "chance_pct": 2.0, "reason": "125-day break after two eighths and faded last time (-9.0% finishing speed)"},
+    {"horse_id": "hrs_25156467", "horse": "Papa Don't Preach", "chance_pct": 1.6, "reason": "Figures 7 lb below mark and hold-up style vs steady pace"}
+  ], "checks": []},
+  {"race_id": "rac_32305415207", "changes": [
+    {"horse_id": "hrs_17394425678", "horse": "Prosewriter", "chance_pct": 36.0, "reason": "Hold-up runner in a slow/tactical race; hold-up horses win 0.7x fair share at 6f here"},
+    {"horse_id": "hrs_56873845", "horse": "Baandee", "chance_pct": 16.0, "reason": "First-time blinkers on a consistent runner (five seconds), OR 74, fig 55 above field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305816166", "changes": [
+    {"horse_id": "hrs_17393191809", "horse": "Son of Vega", "chance_pct": 2.5, "reason": "Only habitual front-runner, may get an uncontested lead; first-time hood"}
+  ], "checks": []},
+  {"race_id": "rac_32305417144", "changes": [
+    {"horse_id": "hrs_17393753986", "horse": "Mythical Tale", "chance_pct": 23.0, "reason": "Held-up type in a race expected to be steadily run; only sixth on debut (fig 52)"},
+    {"horse_id": "hrs_17393751900", "horse": "Haldon Fire", "chance_pct": 15.5, "reason": "Second on debut with fig 67, 19 lb above field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305419081", "changes": [
+    {"horse_id": "hrs_66399494", "horse": "Happy Love", "chance_pct": 28.0, "reason": "Recent figures 23 lb below his mark of 80 (looks high in the weights), still a maiden"},
+    {"horse_id": "hrs_65254826", "horse": "National Pride", "chance_pct": 40.0, "reason": "Won last time with fig 87, 9 lb above current mark, finished strongly"},
+    {"horse_id": "hrs_62169436", "horse": "High Calibre", "chance_pct": 18.0, "reason": "Won last time (fig 85), 8 lb above mark, has won at the trip"},
+    {"horse_id": "hrs_63811412", "horse": "Capricious Star", "chance_pct": 11.0, "reason": "Quick turnaround after one day; trainer 0/10 in 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32305421018", "changes": [
+    {"horse_id": "hrs_39961614", "horse": "Another Abbot", "chance_pct": 15.0, "reason": "Comment says hard to fancy: unplaced (16/18) last time, faded, and 53-day break"},
+    {"horse_id": "hrs_53994038", "horse": "Silent Strike", "chance_pct": 17.5, "reason": "Third over C&D last time with fig 91, finished strongly, 4 lb well handicapped"},
+    {"horse_id": "hrs_54525541", "horse": "Dandana", "chance_pct": 11.0, "reason": "Lone habitual front-runner, may get an easy lead (tempered by 73 days off)"},
+    {"horse_id": "hrs_32210332", "horse": "Desert Falcon", "chance_pct": 8.5, "reason": "Poor recent finishing positions (9th, 6th, 17th) and 66-day break"},
+    {"horse_id": "hrs_27040678", "horse": "Harry Three", "chance_pct": 2.5, "reason": "822-day absence; fitness a major question"},
+    {"horse_id": "hrs_40859483", "horse": "Bolo Neighs", "chance_pct": 15.5, "reason": "Hold-up horse; hold-up runners win 0.7x fair share at 6f here, winless in six"}
+  ], "checks": [
+    {"horse_id": "hrs_39961614", "horse": "Another Abbot", "verdict": "SKIP", "reason": "Unplaced and faded last time, 53-day break, comment calls him hard to fancy"}
+  ]},
+  {"race_id": "rac_32305422955", "changes": [
+    {"horse_id": "hrs_54150096", "horse": "Queen Tamara", "chance_pct": 16.0, "reason": "Winless in last five; form model only 7.3%"},
+    {"horse_id": "hrs_41503805", "horse": "Um Wadi", "chance_pct": 19.0, "reason": "Won last time and trainer 6/20 (30%) in last 14 days"},
+    {"horse_id": "hrs_56437906", "horse": "Nanoscience", "chance_pct": 14.5, "reason": "Lone front-runner may get an easy lead; figures 7 lb above mark, finished strongly"},
+    {"horse_id": "hrs_52742116", "horse": "Inside Story", "chance_pct": 6.5, "reason": "Recent figures 26 lb below mark, last of 8 and faded last time"},
+    {"horse_id": "hrs_42261198", "horse": "Queue Dos", "chance_pct": 8.5, "reason": "Second last time with fig 77, 7 lb above mark, finished strongly"},
+    {"horse_id": "hrs_43796683", "horse": "Maldevious", "chance_pct": 6.5, "reason": "Won last time, figures 8 lb above mark, finished strongly"},
+    {"horse_id": "hrs_59246908", "horse": "Merry", "chance_pct": 4.0, "reason": "Last of 12 and faded badly (-12.9%) last time, 63 days off"}
+  ], "checks": [
+    {"horse_id": "hrs_54150096", "horse": "Queen Tamara", "verdict": "SKIP", "reason": "Winless in last five, model 7.3% well below market; no edge as favourite"}
+  ]},
+  {"race_id": "rac_32305424892", "changes": [
+    {"horse_id": "hrs_17389810403", "horse": "Flagbearer", "chance_pct": 16.0, "reason": "Recent figures 16 lb below mark, best figure 15 lb below field average; comment says plenty to prove"},
+    {"horse_id": "hrs_46515455", "horse": "Yaa Min", "chance_pct": 8.0, "reason": "Lone front-runner, first-time cheekpieces, fig 88 and 4 lb well handicapped"},
+    {"horse_id": "hrs_54398393", "horse": "Codiak", "chance_pct": 15.0, "reason": "Best figure 88, 9 lb above field average, has won at the trip"},
+    {"horse_id": "hrs_25580702", "horse": "Oneforthegutter", "chance_pct": 5.0, "reason": "Recent figures 10 lb below mark; winless in six"},
+    {"horse_id": "hrs_49044506", "horse": "Senor Cortez", "chance_pct": 6.5, "reason": "Slipped to 4th and 7th, faded last time"}
+  ], "checks": [
+    {"horse_id": "hrs_17389810403", "horse": "Flagbearer", "verdict": "SKIP", "reason": "Figures 16 lb below his mark; model 9.0% vs 21.6% market"}
+  ]},
+  {"race_id": "rac_32305426829", "changes": [
+    {"horse_id": "hrs_40293729", "horse": "Grandlad", "chance_pct": 15.0, "reason": "Winless in six, 7th last time; model 7.4%"},
+    {"horse_id": "hrs_50434272", "horse": "Campenaerts", "chance_pct": 17.0, "reason": "Won last time (fig 74), trainer 2/10 in 14 days, good recent positions"},
+    {"horse_id": "hrs_52388546", "horse": "Burdett Estate", "chance_pct": 5.5, "reason": "Recent figures 28 lb below mark, poor recent finishes"},
+    {"horse_id": "hrs_53476045", "horse": "Truly Glamorous", "chance_pct": 8.0, "reason": "82-day absence"}
+  ], "checks": [
+    {"horse_id": "hrs_29228773", "horse": "Maharajas Express", "verdict": "BET", "reason": "Best figure 80 (13 lb above field), 7 lb well handicapped, consistent; only minor pace query"}
+  ]}
+]}

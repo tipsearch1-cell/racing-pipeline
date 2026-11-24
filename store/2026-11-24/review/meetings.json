@@ -1,0 +1,30 @@
+{
+ "lingfield_aw": {
+  "course": "Lingfield (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-24/review/in_lingfield_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-24/review/out_lingfield_aw.json",
+  "races": 9,
+  "checks": 5
+ },
+ "southwell": {
+  "course": "Southwell",
+  "in": "/home/claude/racing-pipeline/store/2026-11-24/review/in_southwell.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-24/review/out_southwell.json",
+  "races": 8,
+  "checks": 4
+ },
+ "tramore": {
+  "course": "Tramore",
+  "in": "/home/claude/racing-pipeline/store/2026-11-24/review/in_tramore.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-24/review/out_tramore.json",
+  "races": 7,
+  "checks": 4
+ },
+ "wolverhampton_aw": {
+  "course": "Wolverhampton (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-24/review/in_wolverhampton_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-24/review/out_wolverhampton_aw.json",
+  "races": 9,
+  "checks": 4
+ }
+}

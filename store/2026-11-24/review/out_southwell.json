@@ -1,0 +1,60 @@
+{"meeting": "southwell", "races": [
+  {"race_id": "rac_32305388089", "changes": [
+    {"horse_id": "hrs_27982899", "horse": "Imperial Bede", "chance_pct": 19.0, "reason": "Recent figures 14 lb below current mark and carries 10 lb more than average; model only 9%"},
+    {"horse_id": "hrs_59551324", "horse": "Colby Mayfield", "chance_pct": 13.5, "reason": "Best recent figure 70 is 8 lb below field average and figures 9 lb below mark; winless in five"},
+    {"horse_id": "hrs_33774671", "horse": "Grain Trade", "chance_pct": 8.5, "reason": "Figures 15 lb below mark, faded last time, held-up style in a slow-pace race"},
+    {"horse_id": "hrs_28191422", "horse": "Doors Breaker", "chance_pct": 6.5, "reason": "Returns from 1210-day break with PU-heavy form; OR 19 lb below field average"},
+    {"horse_id": "hrs_27301729", "horse": "Bravethewaves", "chance_pct": 10.0, "reason": "First-time tongue tie/blinkers and prominent style suits the expected slow pace"},
+    {"horse_id": "hrs_46913510", "horse": "Rap Soul", "chance_pct": 10.0, "reason": "Two wins in last five, top-rated (OR 98) and prominent racer in a slow-pace race; model 19%"},
+    {"horse_id": "hrs_24141278", "horse": "Henry Box Brown", "chance_pct": 5.5, "reason": "Trainer 0/23 in last 14 days, faded last time and jumping mistakes noted"},
+    {"horse_id": "hrs_40819569", "horse": "Dynamite Defense", "chance_pct": 4.0, "reason": "Winless in six, OR 11 lb below field average and faded last time"}
+  ], "checks": [
+    {"horse_id": "hrs_27982899", "horse": "Imperial Bede", "verdict": "SKIP", "reason": "Looks high in the weights: recent figures 14 lb below his mark of 94, model 9% vs market 24%"}
+  ]},
+  {"race_id": "rac_32305390026", "changes": [
+    {"horse_id": "hrs_52055528", "horse": "Kastellion", "chance_pct": 19.0, "reason": "Best recent figure 97 is 16 lb above field average and finished strongly last time"},
+    {"horse_id": "hrs_46850860", "horse": "Danger Nap", "chance_pct": 7.5, "reason": "168-day break, first run over fences and jumping mistakes in 2 of last 4"}
+  ], "checks": [
+    {"horse_id": "hrs_58565304", "horse": "Sledgehammer", "verdict": "BET", "reason": "Won last two, has won at the trip, best figure 10 lb above field; model 26% supports market"}
+  ]},
+  {"race_id": "rac_32305391963", "changes": [
+    {"horse_id": "hrs_17394313034", "horse": "Beau de Maine", "chance_pct": 23.0, "reason": "Lone habitual front-runner likely to get an uncontested lead; NH Flat figure 103 is best in field"},
+    {"horse_id": "hrs_59025540", "horse": "Popton Point", "chance_pct": 18.0, "reason": "Returns from 262-day break on first run over hurdles"},
+    {"horse_id": "hrs_17395918211", "horse": "Grandorado", "chance_pct": 9.0, "reason": "Returns from 268-day break"}
+  ], "checks": [
+    {"horse_id": "hrs_17394313034", "horse": "Beau de Maine", "verdict": "BET", "reason": "Should get an easy lead and holds the best figure in the field; no specific negative beyond light experience"}
+  ]},
+  {"race_id": "rac_32305814229", "changes": [
+    {"horse_id": "hrs_58099503", "horse": "Made In Reugny", "chance_pct": 55.0, "reason": "Returns from a 400-day break with only one run"},
+    {"horse_id": "hrs_58412137", "horse": "Campfield Flyer", "chance_pct": 9.5, "reason": "275-day break and pulled up on only hurdles start"},
+    {"horse_id": "hrs_17394071058", "horse": "Goodbye Earl", "chance_pct": 12.0, "reason": "NH Flat figure 101 on heavy and yard in form (2/10); model 19.9%"},
+    {"horse_id": "hrs_40687486", "horse": "Chilly Breeze", "chance_pct": 2.6, "reason": "Only habitual front-runner, may get an uncontested lead"}
+  ], "checks": []},
+  {"race_id": "rac_32305393900", "changes": [
+    {"horse_id": "hrs_31259193", "horse": "Nobody Told Me", "chance_pct": 40.0, "reason": "Returns from 243-day break and winless in five; model only 9.6%"},
+    {"horse_id": "hrs_41845643", "horse": "Everest", "chance_pct": 7.5, "reason": "Recent figures 5 lb above mark (well handicapped) and finished strongly last time"},
+    {"horse_id": "hrs_51273285", "horse": "Gaelic Glow", "chance_pct": 6.0, "reason": "Best figure 97 is 8 lb above field average; trainer 5/24 last 14 days"},
+    {"horse_id": "hrs_38018211", "horse": "Little Lady Lucy", "chance_pct": 1.8, "reason": "Figures 12 lb below mark, faded last time, slipped to 7th and 9th"}
+  ], "checks": []},
+  {"race_id": "rac_32305395837", "changes": [
+    {"horse_id": "hrs_58380224", "horse": "In The Purple", "chance_pct": 15.0, "reason": "Returns from 279-day break; only win came after a run of unplaced efforts"},
+    {"horse_id": "hrs_57718752", "horse": "Typhoon Warrior", "chance_pct": 12.5, "reason": "Winless in five, ninth last time, faded and poor recent finishing positions"},
+    {"horse_id": "hrs_44264472", "horse": "Presenting Milan", "chance_pct": 11.5, "reason": "Recent figure 105 above field average and finished strongly last time"},
+    {"horse_id": "hrs_50401694", "horse": "Eternity Rose", "chance_pct": 5.0, "reason": "197-day break and jumping mistakes in 3 of last 4"},
+    {"horse_id": "hrs_23836848", "horse": "Ithaka", "chance_pct": 1.3, "reason": "Failed to complete in last four, first run over hurdles, aged 10"}
+  ], "checks": [
+    {"horse_id": "hrs_58380224", "horse": "In The Purple", "verdict": "SKIP", "reason": "279 days off after a lone win following unplaced runs; model 10% vs market 18.5%"}
+  ]},
+  {"race_id": "rac_32305397774", "changes": [
+    {"horse_id": "hrs_33081034", "horse": "Harrys Hope", "chance_pct": 13.5, "reason": "Best figure 106 is 14 lb above field and 7 lb above mark (well handicapped); consistent"},
+    {"horse_id": "hrs_40224996", "horse": "Elusive Shine", "chance_pct": 8.5, "reason": "Returns from a 698-day break"},
+    {"horse_id": "hrs_23905735", "horse": "Has Troke", "chance_pct": 4.8, "reason": "280-day break, faded last time, slipped to 5th and 7th"},
+    {"horse_id": "hrs_30455124", "horse": "Eyeeye", "chance_pct": 3.2, "reason": "Recent figures 13 lb below mark, best figure 19 lb below field"}
+  ], "checks": []},
+  {"race_id": "rac_32305399711", "changes": [
+    {"horse_id": "hrs_53081168", "horse": "The Cistercian", "chance_pct": 12.0, "reason": "244-day break, held-up style in slow-pace race, unseated in 2 of last 4"},
+    {"horse_id": "hrs_30315586", "horse": "Klitschko", "chance_pct": 11.5, "reason": "Two recent seconds with figures 118/116 and prominent style suits slow pace"},
+    {"horse_id": "hrs_40605845", "horse": "Mister Cessna", "chance_pct": 3.5, "reason": "Figures 15 lb below mark, faded last time, first run over hurdles"},
+    {"horse_id": "hrs_22598401", "horse": "He's A Latchico", "chance_pct": 3.6, "reason": "Faded last time, last of 8, held up in slow-pace race"}
+  ], "checks": []}
+]}
