@@ -1,0 +1,9 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-25,2:25,Newcastle (AW),rac_32305519805,Always Happy,hrs_62394339,4.33,4.0,Betfred,4.33,William Hill 4.33,2026-11-25-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-25,4:25,Newcastle (AW),rac_32305527553,Massimo Blue,hrs_47162024,4.5,4.33,Betfred,4.33,William Hill 4.5,2026-11-25-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-25,4:40,Dundalk (AW),rac_32305484939,Gavoo,hrs_52496150,5.5,5.0,Betfred,5.5,"Bet Victor 5, William Hill 5",2026-11-25-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-25,6:00,Newcastle (AW),rac_32305533364,Multaneighttothree,hrs_60527747,4.0,3.75,Betfred,4.0,William Hill 3.75,2026-11-25-Betfred-1,Lucky 15,15,0.5,7.5
+2026-11-25,8:00,Kempton (AW),rac_32305515931,Midnight Media,hrs_55795019,4.0,3.75,Betfred,4.0,"Bet Victor 4, William Hill 4",2026-11-25-Betfred-2,Double,1,0.5,0.5
+2026-11-25,8:30,Kempton (AW),rac_32305517868,Split Elevens,hrs_21713517,4.33,4.33,Betfred,4.33,"Bet Victor 4.33, William Hill 4.33",2026-11-25-Betfred-2,Double,1,0.5,0.5
+2026-11-25,2:01,Dundalk (AW),rac_32305477191,Firewalker,hrs_57315881,3.5,3.5,William Hill,3.5,,2026-11-25-William Hill-1,Double,1,0.5,0.5
+2026-11-25,6:30,Newcastle (AW),rac_32305837473,Victory Sound,hrs_39961719,5.0,4.5,William Hill,5.0,"Bet Victor 4.5, Betfred 4.5",2026-11-25-William Hill-1,Double,1,0.5,0.5

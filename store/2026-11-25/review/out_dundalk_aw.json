@@ -1,0 +1,65 @@
+{"meeting": "dundalk_aw", "races": [
+  {"race_id": "rac_32305477191", "changes": [
+    {"horse_id": "hrs_57315881", "horse": "Firewalker", "chance_pct": 25.0, "reason": "Won last two, best recent figure 91 is 13 lb above field average, trainer 2/8 in 14 days"},
+    {"horse_id": "hrs_412692728", "horse": "Eclairage", "chance_pct": 6.5, "reason": "Winless last six, recent figures 8 lb below current mark, poor recent finishing positions"},
+    {"horse_id": "hrs_23324903", "horse": "The Highway Rat", "chance_pct": 5.5, "reason": "Unplaced last two, recent figures 9 lb below mark, aged 8"},
+    {"horse_id": "hrs_37673566", "horse": "Gerrit's Gem", "chance_pct": 6.0, "reason": "Second in each of last three runs with figures 75/76, carries 8 lb less than average"}
+  ], "checks": [
+    {"horse_id": "hrs_57315881", "horse": "Firewalker", "verdict": "BET", "reason": "Top on figures and rating, won last two at 6f here; only negative is weight"}
+  ]},
+  {"race_id": "rac_32305479128", "changes": [
+    {"horse_id": "hrs_30017484", "horse": "Grey Fable", "chance_pct": 10.5, "reason": "Best recent figure 62 is 16 lb above field average and 4 lb above mark (well handicapped)"},
+    {"horse_id": "hrs_22372560", "horse": "Red Glory", "chance_pct": 13.5, "reason": "Lone habitual front-runner may get an uncontested lead; trainer 9/43 in 14 days"},
+    {"horse_id": "hrs_54712329", "horse": "Chant d'Or", "chance_pct": 6.5, "reason": "Best recent figure 40, 6 lb below field average; OR 38 is 10 lb below field average"},
+    {"horse_id": "hrs_35337568", "horse": "Bhean Saibhre", "chance_pct": 9.0, "reason": "Faded to sixth then unplaced, returns after 59 days off"},
+    {"horse_id": "hrs_34775111", "horse": "Goodie Girl", "chance_pct": 2.0, "reason": "Recent figures 12 lb below current mark, poor recent finishing positions"}
+  ], "checks": []},
+  {"race_id": "rac_32305481065", "changes": [
+    {"horse_id": "hrs_17394334937", "horse": "Beauxvarus", "chance_pct": 2.6, "reason": "Debut figure 57 is 8 lb above field average; trainer 9/43 in 14 days"},
+    {"horse_id": "hrs_17395783664", "horse": "Victorious Star", "chance_pct": 0.9, "reason": "Last of 13 on debut with figure 28, 21 lb below field average, faded"}
+  ], "checks": []},
+  {"race_id": "rac_32305835536", "changes": [
+    {"horse_id": "hrs_52205090", "horse": "Sedro Woolley", "chance_pct": 23.0, "reason": "Comment flags 40-day layoff and 136 lb from stall 11"},
+    {"horse_id": "hrs_35040054", "horse": "The Bear Trap", "chance_pct": 19.0, "reason": "Best recent figure 69 is 23 lb above field average and 7 lb above mark; won two back"},
+    {"horse_id": "hrs_45193463", "horse": "Magna Gee Gee", "chance_pct": 7.5, "reason": "Seventh last time and unplaced before that, poor recent finishing positions"},
+    {"horse_id": "hrs_36036714", "horse": "Roman Harry", "chance_pct": 10.5, "reason": "Won last time with figure 58, 12 lb above field average"},
+    {"horse_id": "hrs_30765084", "horse": "Miss Abby Jools", "chance_pct": 1.6, "reason": "Recent figures 32 lb below mark, unplaced last three, faded last time"},
+    {"horse_id": "hrs_19510351", "horse": "Manhattan Dandy", "chance_pct": 1.5, "reason": "Unplaced last three, best recent figure 22 is 24 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305483002", "changes": [
+    {"horse_id": "hrs_37014103", "horse": "Red Hugh O'Donnell", "chance_pct": 9.0, "reason": "Held up into a likely steady gallop, winless with 6th/5th last two, carries 10 lb more than average"},
+    {"horse_id": "hrs_54712392", "horse": "John La Bear", "chance_pct": 7.5, "reason": "Two ninths, recent figures 7 lb below mark, trainer 0/16 in 14 days, faded last time"},
+    {"horse_id": "hrs_22939973", "horse": "River Derwent", "chance_pct": 5.0, "reason": "Held up in a race expected to be steadily run; best figure 9 lb below field average"},
+    {"horse_id": "hrs_50875377", "horse": "Teffian Warrior", "chance_pct": 4.5, "reason": "Recent figures 9 lb below mark, poor recent finishing positions, 142 lb"},
+    {"horse_id": "hrs_17392596256", "horse": "Freddiesadienray", "chance_pct": 4.2, "reason": "Held up into steady pace, 46 days off, 139 lb from stall one"}
+  ], "checks": [
+    {"horse_id": "hrs_37014103", "horse": "Red Hugh O'Donnell", "verdict": "SKIP", "reason": "Hold-up style against a slow/tactical pace and winless last six"}
+  ]},
+  {"race_id": "rac_32305484939", "changes": [
+    {"horse_id": "hrs_55633830", "horse": "Leveraging", "chance_pct": 6.5, "reason": "Front-runner likely to be taken on for the lead in a strong pace"},
+    {"horse_id": "hrs_24907491", "horse": "Exquisite Acclaim", "chance_pct": 5.5, "reason": "Leader likely to be taken on, 141 lb from draw 11, winless last six"},
+    {"horse_id": "hrs_43826930", "horse": "Bishopton", "chance_pct": 8.5, "reason": "Best recent figure 83 (top of field), hold-up style suits contested lead"},
+    {"horse_id": "hrs_43385566", "horse": "Gotta Catch'em All", "chance_pct": 2.3, "reason": "Likely to be taken on for the lead, best figure 8 lb below field average"},
+    {"horse_id": "hrs_32597908", "horse": "Brewing", "chance_pct": 1.0, "reason": "Recent figures 12 lb below mark, unplaced last two"}
+  ], "checks": [
+    {"horse_id": "hrs_52496150", "horse": "Gavoo", "verdict": "BET", "reason": "Recent figures 4 lb above mark, hold-up style suits strong pace, no DATA against"}
+  ]},
+  {"race_id": "rac_32305486876", "changes": [
+    {"horse_id": "hrs_17392946704", "horse": "Copper Dog", "chance_pct": 10.0, "reason": "Only run was 12th of 18, back after 60 days"},
+    {"horse_id": "hrs_56746270", "horse": "Lilannbee", "chance_pct": 4.2, "reason": "Trainer 2/5 in 14 days, finished strongly last time with figure 62"},
+    {"horse_id": "hrs_34457073", "horse": "Ossie's Lodge", "chance_pct": 3.0, "reason": "Returns from an 894-day break"},
+    {"horse_id": "hrs_20085632", "horse": "Sargent Lightfoot", "chance_pct": 1.8, "reason": "OR 95 is 26 lb above field, finished strongly last time"},
+    {"horse_id": "hrs_17390243248", "horse": "Sierra's Dream", "chance_pct": 2.2, "reason": "Last figure 64 matches the best in field, 9 lb above average"}
+  ], "checks": []},
+  {"race_id": "rac_32305488813", "changes": [
+    {"horse_id": "hrs_34333677", "horse": "Letiza", "chance_pct": 15.0, "reason": "Trainer 0/14 in 14 days and carries 5 lb more than average"},
+    {"horse_id": "hrs_36095451", "horse": "Ozark Daze", "chance_pct": 10.5, "reason": "Winless last five, 154 lb off 65 flagged as sticking point, poor recent finishing positions"},
+    {"horse_id": "hrs_23921618", "horse": "The Mediator", "chance_pct": 6.0, "reason": "Held up in a likely steady gallop, top weight 168 lb"},
+    {"horse_id": "hrs_46697357", "horse": "Palmezzano", "chance_pct": 5.0, "reason": "Recent figures 15 lb below mark, trainer 0/11 in 14 days"},
+    {"horse_id": "hrs_34678483", "horse": "Big Dispute", "chance_pct": 5.5, "reason": "Returns from 114 days, unplaced recently, held up into steady pace"},
+    {"horse_id": "hrs_27427876", "horse": "Eskimo Komet", "chance_pct": 2.3, "reason": "Returns from an 866-day break"},
+    {"horse_id": "hrs_63422632", "horse": "Western Bandit", "chance_pct": 3.2, "reason": "118 days off, faded last time, held up into steady pace"}
+  ], "checks": [
+    {"horse_id": "hrs_34333677", "horse": "Letiza", "verdict": "SKIP", "reason": "Trainer 0 wins from 14 runs in 14 days and extra weight are specific doubts"}
+  ]}
+]}

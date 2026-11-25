@@ -1,0 +1,55 @@
+{"meeting": "hereford", "races": [
+  {"race_id": "rac_32305490750", "changes": [
+    {"horse_id": "hrs_17394731277", "horse": "North Gale", "chance_pct": 29.0, "reason": "Held-up runner in a race expected to be slow/tactical; card says hard to come from off the pace."},
+    {"horse_id": "hrs_64938118", "horse": "Teleleo", "chance_pct": 8.0, "reason": "Returns from a 141-day break and makes hurdles debut."},
+    {"horse_id": "hrs_39996495", "horse": "Jonjo Bravo", "chance_pct": 1.8, "reason": "Returns from a 336-day break after form figures /676P."}
+  ], "checks": []},
+  {"race_id": "rac_32305492687", "changes": [
+    {"horse_id": "hrs_51735943", "horse": "Criminal", "chance_pct": 5.0, "reason": "Faded last time (-4.6% finishing speed), hurdles debut, held up into a steady pace."},
+    {"horse_id": "hrs_59928645", "horse": "Sharu", "chance_pct": 4.5, "reason": "OR 105 with good recent finishing positions (2nd, 2nd, 4th over hurdles), prominent style suits the slow pace."},
+    {"horse_id": "hrs_59216318", "horse": "Lucky Bailly", "chance_pct": 2.5, "reason": "Pulled up on hurdles debut last time."},
+    {"horse_id": "hrs_47531582", "horse": "Soizick", "chance_pct": 0.9, "reason": "Returns from a 726-day break."},
+    {"horse_id": "hrs_29945027", "horse": "Trojan Truth", "chance_pct": 1.2, "reason": "Best recent figure 86 is 14 lb below the field average; held up into a steady pace."}
+  ], "checks": []},
+  {"race_id": "rac_32305494624", "changes": [
+    {"horse_id": "hrs_41814171", "horse": "Onehundredneighty", "chance_pct": 40.0, "reason": "Habitual leader likely to be taken on in a strong contested pace, plus 44-day break and 9 lb more than average."},
+    {"horse_id": "hrs_37702294", "horse": "Prairie Queen", "chance_pct": 12.5, "reason": "Front-runner likely to be taken on for the lead; OR 14 lb below field average; 61 days off."},
+    {"horse_id": "hrs_33302654", "horse": "Mavis Pike", "chance_pct": 14.0, "reason": "Recent figures 6 lb above its mark and hold-up style should suit the contested lead."},
+    {"horse_id": "hrs_51735894", "horse": "Hans Lippershey", "chance_pct": 10.0, "reason": "Recent figures 6 lb below current mark and carries 10 lb more than average."},
+    {"horse_id": "hrs_58099510", "horse": "Monark Wood", "chance_pct": 5.5, "reason": "First run over fences and a front-runner likely to be taken on."}
+  ], "checks": []},
+  {"race_id": "rac_32305496561", "changes": [
+    {"horse_id": "hrs_33036003", "horse": "Cawthorne Cracker", "chance_pct": 14.0, "reason": "Won last time out (form 562121), finished strongly, prominent style suits slow pace."},
+    {"horse_id": "hrs_46233873", "horse": "An Buachaill Rua", "chance_pct": 8.3, "reason": "Recent figures 7 lb below current mark; fell two starts back."},
+    {"horse_id": "hrs_32597831", "horse": "Little Pi", "chance_pct": 8.0, "reason": "Form has slipped to 7th and 8th in last two runs."},
+    {"horse_id": "hrs_40942090", "horse": "Wistmans Prince", "chance_pct": 7.5, "reason": "Faded last time (-4.0%), held up into a steady pace, winless in last five."},
+    {"horse_id": "hrs_30245698", "horse": "Gone In Sixty", "chance_pct": 7.5, "reason": "Hold-up runner in a slow-pace race, aged 9, comment says hard to fancy."},
+    {"horse_id": "hrs_31982321", "horse": "V Power", "chance_pct": 5.5, "reason": "Recent figures 13 lb below current mark; best figure 14 lb below field average."},
+    {"horse_id": "hrs_59710805", "horse": "Isabella Islay", "chance_pct": 4.0, "reason": "Seventh and faded (-5.0%) last time, carrying 166 lb."},
+    {"horse_id": "hrs_60818471", "horse": "Lucky Sevens", "chance_pct": 4.8, "reason": "Recent figures 97/98 match OR 98 and 11 lb above field average while carrying 8 lb less than average; fit after 13 days."}
+  ], "checks": [
+    {"horse_id": "hrs_31996209", "horse": "God of Fire", "verdict": "BET", "reason": "Best figure 99 is 12 lb above field, finished strongly last time, prominent style suits slow pace; no specific negative beyond weight."}
+  ]},
+  {"race_id": "rac_32305498498", "changes": [
+    {"horse_id": "hrs_38855719", "horse": "My Bobby's Lass", "chance_pct": 26.0, "reason": "Recent figures 6 lb below current mark and trainer 0 from 11 in last 14 days."},
+    {"horse_id": "hrs_40805576", "horse": "Doctor Midas", "chance_pct": 18.5, "reason": "Unseated last time, back after 11 days."},
+    {"horse_id": "hrs_29907108", "horse": "Minella Blueway", "chance_pct": 6.0, "reason": "Trainer 0 from 23 in 14 days and recent figures 12 lb below current mark."}
+  ], "checks": []},
+  {"race_id": "rac_32305500435", "changes": [
+    {"horse_id": "hrs_58566025", "horse": "Ghost Dancing", "chance_pct": 10.5, "reason": "Returns from a 203-day break, pulled up two back, held up into a steady pace."},
+    {"horse_id": "hrs_56188965", "horse": "Guildhall Graduate", "chance_pct": 8.5, "reason": "Recent figures 14 lb below current mark."},
+    {"horse_id": "hrs_52418037", "horse": "Ritaan", "chance_pct": 7.5, "reason": "Best figure 11 lb below field average and hold-up style into a steady pace."},
+    {"horse_id": "hrs_61911752", "horse": "Thetype Istitle", "chance_pct": 6.0, "reason": "Recent figures 12 lb below current mark and carries 10 lb more than average."},
+    {"horse_id": "hrs_58196705", "horse": "Silvereen", "chance_pct": 6.2, "reason": "Trainer 3 from 14 in 14 days, won two starts back, top-rated OR 99."},
+    {"horse_id": "hrs_58283071", "horse": "Adba", "chance_pct": 4.2, "reason": "Recent figures 7 lb below mark, faded last time (10th of 11), held up into a steady pace."},
+    {"horse_id": "hrs_43730729", "horse": "Chloe's Courage", "chance_pct": 5.0, "reason": "Last hurdles figure 98 is 15 lb above field average, fit after 15 days."},
+    {"horse_id": "hrs_27236461", "horse": "Opticality", "chance_pct": 3.0, "reason": "First run over hurdles in our data, OR 15 lb below field average."},
+    {"horse_id": "hrs_59710798", "horse": "Ashpriors", "chance_pct": 2.5, "reason": "Figures 12 lb below mark, faded last time, fell three back, poor recent placings."}
+  ], "checks": [
+    {"horse_id": "hrs_58566018", "horse": "Saxons Pride", "verdict": "BET", "reason": "Best figure 100 is 17 lb above field, recent figures 4 lb above mark, finished strongly last time; no specific doubt on the card."}
+  ]},
+  {"race_id": "rac_32305502372", "changes": [
+    {"horse_id": "hrs_17395102585", "horse": "Wings of Mori", "chance_pct": 5.2, "reason": "Trainer 0 from 23 in last 14 days, noted in the comment."},
+    {"horse_id": "hrs_17394945092", "horse": "I Never Said", "chance_pct": 9.5, "reason": "Only runner with form; finished strongly (+4.6%) on debut 21 days ago."}
+  ], "checks": []}
+]}

@@ -1,0 +1,67 @@
+{"meeting": "newcastle_aw", "races": [
+  {"race_id": "rac_32305519805", "changes": [
+    {"horse_id": "hrs_35991977", "horse": "Per Contra", "chance_pct": 15.0, "reason": "Best recent figure 89 is 18 lb above field average and recent figures are 8 lb above his mark; finished strongly last time."},
+    {"horse_id": "hrs_17391999660", "horse": "Wadacre Icon", "chance_pct": 5.5, "reason": "Best recent figure 44 is 27 lb below field average and recent figures are 32 lb below his mark; trainer 0/10. The lone lead only partly offsets this."},
+    {"horse_id": "hrs_47313952", "horse": "Caromb", "chance_pct": 2.0, "reason": "Recent figures 14 lb below his mark, carries 140 lb, and the comment says it looks a lot to ask."},
+    {"horse_id": "hrs_42520926", "horse": "Izzari", "chance_pct": 1.7, "reason": "Finished 8th and 7th in his last two, recent figures 8 lb below his mark, trainer 0/9."}
+  ], "checks": [
+    {"horse_id": "hrs_62394339", "horse": "Always Happy", "verdict": "BET", "reason": "Best figure 87 is 16 lb above field average, trainer 5/8 in the last 14 days, and three straight seconds; nothing specific counts against her."}
+  ]},
+  {"race_id": "rac_32305521742", "changes": [
+    {"horse_id": "hrs_17396000608", "horse": "Perfect Supernova", "chance_pct": 12.5, "reason": "Trainer 3/9 (33%) in the last 14 days."},
+    {"horse_id": "hrs_17395451990", "horse": "Lucky For Baileys", "chance_pct": 8.0, "reason": "Trainer 0 wins from 10 runs in the last 14 days."}
+  ], "checks": []},
+  {"race_id": "rac_32305523679", "changes": [
+    {"horse_id": "hrs_17396005823", "horse": "Quavo", "chance_pct": 8.0, "reason": "Trainer 6/22 (27%) in the last 14 days."},
+    {"horse_id": "hrs_17396003737", "horse": "Helvellyn", "chance_pct": 4.8, "reason": "Trainer 0 wins from 10 runs in the last 14 days."}
+  ], "checks": [
+    {"horse_id": "hrs_17392818415", "horse": "Grinanbearit", "verdict": "BET", "reason": "Best figure 56 is 14 lb above field average, placed both starts, and the model (27.8%) agrees with the market."}
+  ]},
+  {"race_id": "rac_32305525616", "changes": [
+    {"horse_id": "hrs_40918913", "horse": "God of War", "chance_pct": 9.5, "reason": "Recent figures 11 lb above his mark; best figure 98 is the top in the field."},
+    {"horse_id": "hrs_42005474", "horse": "Canvas", "chance_pct": 6.5, "reason": "Only habitual front-runner, so may get an uncontested lead; won last time and model rates him at 14.2%."},
+    {"horse_id": "hrs_54090743", "horse": "Previous", "chance_pct": 2.3, "reason": "Recent figures 8 lb below her mark, and drawn 13."},
+    {"horse_id": "hrs_54613727", "horse": "Lost Signal", "chance_pct": 8.5, "reason": "Returns from a 109-day break."}
+  ], "checks": []},
+  {"race_id": "rac_32305527553", "changes": [
+    {"horse_id": "hrs_37701622", "horse": "Diligent Resdev", "chance_pct": 14.0, "reason": "Poor recent finishing positions (form 969606) and the comment flags no win in six plus 41 days off."},
+    {"horse_id": "hrs_42521689", "horse": "Dandy Magic", "chance_pct": 10.0, "reason": "Best figure 82 is 10 lb above field average, and a strong contested pace suits her hold-up style."},
+    {"horse_id": "hrs_51897629", "horse": "Saffron Dandy", "chance_pct": 1.0, "reason": "Recent figures 35 lb below her mark; faded and finished 12th of 12 last time."},
+    {"horse_id": "hrs_40132855", "horse": "Yorkshire Glory", "chance_pct": 2.2, "reason": "Last-run finishing speed -11.3% (faded badly) and unplaced in his last three."}
+  ], "checks": [
+    {"horse_id": "hrs_47162024", "horse": "Massimo Blue", "verdict": "BET", "reason": "Won two starts back and second last time, best figure 79 is 7 lb above field average, and the model matches the market."}
+  ]},
+  {"race_id": "rac_32305529490", "changes": [
+    {"horse_id": "hrs_63203483", "horse": "Shadow Boxer", "chance_pct": 16.0, "reason": "Best figure 60 is 9 lb below field average and recent figures are 15 lb below his mark."},
+    {"horse_id": "hrs_65036055", "horse": "Yimmna", "chance_pct": 20.0, "reason": "Best figure 80 is 11 lb above field average and 6 lb above her mark; finished strongly and races prominently in a slow-pace race."},
+    {"horse_id": "hrs_55030073", "horse": "Aqua Bear", "chance_pct": 8.5, "reason": "Unplaced in his last three (19th of 20 last time) and faded -8.0% last run."},
+    {"horse_id": "hrs_51988979", "horse": "Blue To Blue", "chance_pct": 7.5, "reason": "Recent figures 6 lb below his mark, and as a hold-up horse he faces a steady gallop."}
+  ], "checks": [
+    {"horse_id": "hrs_63203483", "horse": "Shadow Boxer", "verdict": "SKIP", "reason": "Recent figures 15 lb below his mark and best figure 9 lb below field average; still a maiden after three runs."}
+  ]},
+  {"race_id": "rac_32305531427", "changes": [
+    {"horse_id": "hrs_46913300", "horse": "Dc Cogent", "chance_pct": 13.5, "reason": "Finished 9th of 9 last time and returns after 55 days (the comment flags both); model only 10.7%."},
+    {"horse_id": "hrs_29691396", "horse": "King's Crown", "chance_pct": 9.0, "reason": "Recent figures 10 lb below his mark and poor recent finishing positions (form 405000)."},
+    {"horse_id": "hrs_53960263", "horse": "Powernap", "chance_pct": 2.0, "reason": "Recent figures 13 lb below her mark; beaten in her last four."},
+    {"horse_id": "hrs_36234639", "horse": "Wrestling Revenue", "chance_pct": 6.0, "reason": "Only habitual front-runner, so may get an uncontested lead over 5f."}
+  ], "checks": [
+    {"horse_id": "hrs_46913300", "horse": "Dc Cogent", "verdict": "SKIP", "reason": "Finished last of nine last time and returns after 55 days off, both flagged as risks on the card."}
+  ]},
+  {"race_id": "rac_32305533364", "changes": [
+    {"horse_id": "hrs_36207647", "horse": "Diligent Henry", "chance_pct": 16.5, "reason": "Won last time with figure 58 (9 lb above field average); recent figures 13 lb above his mark."},
+    {"horse_id": "hrs_47655293", "horse": "The New Bay Pearl", "chance_pct": 7.0, "reason": "Finished 14th of 14 last time and faded -4.0%."},
+    {"horse_id": "hrs_45475584", "horse": "Take The A Train", "chance_pct": 5.0, "reason": "Recent figures 10 lb below his mark."},
+    {"horse_id": "hrs_36137451", "horse": "Tomorrow Day", "chance_pct": 19.5, "reason": "Only habitual front-runner, so may get an uncontested lead; consistent, with the joint-best figure 54."}
+  ], "checks": [
+    {"horse_id": "hrs_60527747", "horse": "Multaneighttothree", "verdict": "BET", "reason": "Joint-best figure 54 and top-rated at 55; the model (20.1%) agrees with the market."}
+  ]},
+  {"race_id": "rac_32305837473", "changes": [
+    {"horse_id": "hrs_37026010", "horse": "Gressington", "chance_pct": 15.5, "reason": "Recent figures 8 lb below his mark and finished 12th of 14 last time; model only 10.2%."},
+    {"horse_id": "hrs_48818924", "horse": "Sovereign Class", "chance_pct": 13.0, "reason": "Best figure 62 is 15 lb above field average; recent figures 14 lb above her mark."},
+    {"horse_id": "hrs_43605611", "horse": "Mister Sky Blue", "chance_pct": 7.5, "reason": "Recent figures 13 lb above his mark, and he races prominently in a race expected to be slow-run."},
+    {"horse_id": "hrs_22439851", "horse": "Yaaser", "chance_pct": 7.5, "reason": "Back after two days from an 11th of 13, and as a hold-up horse he faces a steady gallop."},
+    {"horse_id": "hrs_39961607", "horse": "Toy Soldier", "chance_pct": 1.6, "reason": "Recent figures 19 lb below his mark; finished 8th of 8 last time."}
+  ], "checks": [
+    {"horse_id": "hrs_39961719", "horse": "Victory Sound", "verdict": "BET", "reason": "Best figure 56 is 9 lb above field average, recent figures are above his mark, and his form is placed and consistent."}
+  ]}
+]}

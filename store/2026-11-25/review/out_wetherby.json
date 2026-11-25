@@ -1,0 +1,53 @@
+{"meeting": "wetherby", "races": [
+  {"race_id": "rac_32305535301", "changes": [
+    {"horse_id": "hrs_57757672", "horse": "Mets Ta Ceinture", "chance_pct": 74.0, "reason": "Returns from a 259-day break with only 1 run in data"},
+    {"horse_id": "hrs_62393905", "horse": "Island Jetaway", "chance_pct": 5.5, "reason": "Held-up style in a slow tactical pace; trainer 0/6 last 14 days"},
+    {"horse_id": "hrs_64522934", "horse": "Marie d'Altalinara", "chance_pct": 4.2, "reason": "First-time tongue tie plus wind surgery"},
+    {"horse_id": "hrs_47191424", "horse": "Recobella", "chance_pct": 0.6, "reason": "Faded last run (-6.3% finishing speed), beaten in a 4-runner hurdle"}
+  ], "checks": []},
+  {"race_id": "rac_32305537238", "changes": [
+    {"horse_id": "hrs_24373006", "horse": "Getaway Master", "chance_pct": 11.0, "reason": "Eighth last time, winless in five, best figure 4 lb below field average"},
+    {"horse_id": "hrs_33479859", "horse": "Glory Hights", "chance_pct": 13.5, "reason": "Lone habitual front-runner, may get an uncontested lead; finished strongly last time"},
+    {"horse_id": "hrs_53504248", "horse": "Final Straw", "chance_pct": 4.0, "reason": "Recent figures 8 lb below current mark under 165 lb"},
+    {"horse_id": "hrs_32278442", "horse": "Matoury", "chance_pct": 2.2, "reason": "Seventh in each of last three starts"},
+    {"horse_id": "hrs_50433026", "horse": "It's Party Time", "chance_pct": 1.6, "reason": "Pulled up in three of last four, back from 234 days"},
+    {"horse_id": "hrs_34652751", "horse": "Jacenry", "chance_pct": 1.4, "reason": "759-day absence after a pulled up and a fall, under 165 lb"},
+    {"horse_id": "hrs_40899635", "horse": "Rock Armour", "chance_pct": 1.1, "reason": "Pulled up last time, unseated three back, winless in five"},
+    {"horse_id": "hrs_46850839", "horse": "Smart Bucks", "chance_pct": 3.0, "reason": "251-day break and OR 19 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305539175", "changes": [
+    {"horse_id": "hrs_39959682", "horse": "In The Age", "chance_pct": 16.0, "reason": "Form tailed off with two fifths, 168 lb, model only 9.4%"},
+    {"horse_id": "hrs_29816514", "horse": "Slaney Opera", "chance_pct": 16.0, "reason": "Cracking nick, won last time and three back, proven at trip and going"},
+    {"horse_id": "hrs_32780258", "horse": "Jeteye", "chance_pct": 14.5, "reason": "Won last three with rising figures 99-100-101, finished strongly"},
+    {"horse_id": "hrs_35150325", "horse": "Ski Lodge", "chance_pct": 10.0, "reason": "207-day absence under 170 lb, faded last run"},
+    {"horse_id": "hrs_47837118", "horse": "Daly Boy", "chance_pct": 3.3, "reason": "Winless in five, unplaced and faded last time"}
+  ], "checks": [
+    {"horse_id": "hrs_39959682", "horse": "In The Age", "verdict": "SKIP", "reason": "Comment flags tailed-off form (two fifths) under 168 lb"}
+  ]},
+  {"race_id": "rac_32305839410", "changes": [
+    {"horse_id": "hrs_41442009", "horse": "Kefir d'Oudairies", "chance_pct": 36.0, "reason": "Won last time, figures 4 lb above mark, lone front-runner may get easy lead"},
+    {"horse_id": "hrs_47773922", "horse": "El Gavilan", "chance_pct": 20.0, "reason": "Figures 7 lb below mark, pulled up two back, jumping mistakes noted"},
+    {"horse_id": "hrs_35388983", "horse": "Diamond Koda", "chance_pct": 9.5, "reason": "Ninth last time, figures 9 lb below mark"},
+    {"horse_id": "hrs_33344829", "horse": "Old Gregorian", "chance_pct": 4.0, "reason": "Figures 11 lb below mark, top weight 170 lb"},
+    {"horse_id": "hrs_38884776", "horse": "Kaikoura", "chance_pct": 4.0, "reason": "Ninth last time, faded, jumping mistakes in 2 of last 3"},
+    {"horse_id": "hrs_59116785", "horse": "Dontelimurnamepike", "chance_pct": 4.5, "reason": "Winless in four with a refusal, comment says hard to fancy"}
+  ], "checks": []},
+  {"race_id": "rac_32305541112", "changes": [
+    {"horse_id": "hrs_38305561", "horse": "Gentleman Bill", "chance_pct": 20.0, "reason": "Rising form, best figure 118 is 16 lb above field average"},
+    {"horse_id": "hrs_51186863", "horse": "Hay Max", "chance_pct": 13.5, "reason": "Recent figures 6 lb below mark, 161 lb after 38 days"},
+    {"horse_id": "hrs_35107583", "horse": "Azahara Palace", "chance_pct": 8.0, "reason": "Unseated last time, 69-day absence, poor recent positions"},
+    {"horse_id": "hrs_53743389", "horse": "La Lolita", "chance_pct": 6.5, "reason": "Winless in five, best figure 14 lb below field average"},
+    {"horse_id": "hrs_23706921", "horse": "Punxsutawney Phil", "chance_pct": 7.5, "reason": "Lone front-runner may get easy lead; trainer 29% last 14 days"},
+    {"horse_id": "hrs_40553499", "horse": "Dramatic License", "chance_pct": 1.8, "reason": "Pulled up in 2 of last 4, poor recent positions"}
+  ], "checks": [
+    {"horse_id": "hrs_40786361", "horse": "Theatre Tom", "verdict": "BET", "reason": "Second last time and finished strongly (+4.6%); no strong specific doubt beyond an earlier fall"}
+  ]},
+  {"race_id": "rac_32305543049", "changes": [
+    {"horse_id": "hrs_49578116", "horse": "Gaelic Rover", "chance_pct": 13.0, "reason": "249-day absence, first run over fences, fell in 1 of last 3"},
+    {"horse_id": "hrs_51558171", "horse": "Halftheworldaway", "chance_pct": 5.0, "reason": "Eighth last time, figures 11 lb below mark"},
+    {"horse_id": "hrs_47161331", "horse": "Ninna Collina", "chance_pct": 6.5, "reason": "332-day absence with 169 lb"}
+  ], "checks": []},
+  {"race_id": "rac_32305544986", "changes": [
+    {"horse_id": "hrs_63202923", "horse": "Share A Dream", "chance_pct": 6.5, "reason": "Only run 17th of 19 and faded, back from 211 days"}
+  ], "checks": []}
+]}
