@@ -10,3 +10,6 @@ day,bet_id,bookmaker,bet_type,legs,winners,stake,returns,pl
 2026-11-23,2026-11-23-William Hill-1,William Hill,Lucky 15,4,1,7.5,2.0,-5.5
 2026-11-23,2026-11-23-William Hill-single,William Hill,Single only (no partner leg),1,0,0.5,0.0,-0.5
 2026-11-24,2026-11-24-William Hill-1,William Hill,Lucky 15,4,1,7.5,1.62,-5.88
+2026-11-25,2026-11-25-Betfred-1,Betfred,Lucky 15,4,1,7.5,2.16,-5.34
+2026-11-25,2026-11-25-Betfred-2,Betfred,Double,2,1,0.5,0.0,-0.5
+2026-11-25,2026-11-25-William Hill-1,William Hill,Double,2,1,0.5,0.0,-0.5
