@@ -55,6 +55,7 @@ drops races off within 5 minutes.
    the seal time is before the first off). `python3 pipeline/reviewer_bets_csv.py DAY`.
 4. `python3 pipeline/multiples.py build DAY` (rebuilt 12 Nov; prereg/MULTIPLES_REBUILD_2026-11-12.md), then publish reviewer bets + multiples for McCoy; append DAY,LIVE to data/live_days.csv;
    SendUserFile store/DAY/reviewer_bets_DAY.csv and reviewer_bets_detail_DAY.csv; SendUserMessage with a time-ordered table
+   (from 27 Nov the bot file holds CHECK BETs only - user decision 26 Nov; value flags stay in the detail file as PAPER)
    (time, course, horse, CHECK BET / value flag, 09:00 median, min price, best 09:00 exchange price), excluded picks, SKIPs,
    and the reminder that the rebuilt reviewer is on trial (small stakes).
 4b. Page: `python3 report/build_old_page.py DAY` (old design + recovered 12 Oct - 9 Nov history in report/history_data.json;

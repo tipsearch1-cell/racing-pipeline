@@ -1,13 +1,16 @@
 """Bot upload file from the sealed LIVE reviewer: python3 pipeline/reviewer_bets_csv.py DAY
 
 CHECK verdict BET  -> MinPrice = 0.95 x 09:00 median (CHECK rule amended 12 Nov: fav, median 3.0-7.0, not marked down)
-reviewer value flag -> MinPrice = 100 / reviewer chance
+reviewer value flag -> MinPrice = 100 / reviewer chance; from VALUE_CUT_DAY (27 Nov, user decision 26 Nov) value flags are
+                       PAPER only: listed in the detail file, never in the bot file.
 Races with an unraced runner (no form figures; amended 10 Nov) are EXCLUDED from the bot file.
 Writes store/DAY/reviewer_bets_DAY.csv (MB Bot Manager format), reviewer_bets_detail_DAY.csv and out/for_vps copies.
 """
 import os, shutil, sys
 import pandas as pd
 from common import p
+
+VALUE_CUT_DAY = "2026-11-27"  # user decision 26 Nov 22:58: stop sending value flags to the bot
 
 
 def main(day):
@@ -24,7 +27,8 @@ def main(day):
                          Course=r.course, SelectionName=r.horse, Code=r.code, Source="CHECK verdict BET" if chk else "reviewer BET flag",
                          MorningMedian=r["median"], MinPrice=minp, BestPrice9am=r.best,
                          Matchbook9am=r.get("mb"), ReviewerChancePct=r.rev, MarketChancePct=r.mkt,
-                         Reason=r.reason, Status=("EXCLUDED - unknown runner(s) or off before seal" if r.excluded
+                         Reason=r.reason, Status=("PAPER - value flag (cut from bot from 27 Nov)" if (not chk and day >= VALUE_CUT_DAY)
+                                                     else "EXCLUDED - unknown runner(s) or off before seal" if r.excluded
                                                      else "EXCLUDED - off within 5 min of file time" if pd.Timestamp(r.off_dt) <= now + pd.Timedelta(minutes=5)
                                                      else "BOT FILE")))
     det = pd.DataFrame(rows, columns=["OffUK", "StartTimeUTC", "Course", "SelectionName", "Code", "Source", "MorningMedian", "MinPrice",
@@ -41,9 +45,10 @@ def main(day):
     os.makedirs(p("out", "for_vps"), exist_ok=True)
     for name in (f"reviewer_bets_{day}.csv", "reviewer_bets_latest.csv"):
         shutil.copy(f, p("out", "for_vps", name))
-    exc = det[det.Status != "BOT FILE"].SelectionName.tolist()
+    exc = det[det.Status.str.startswith("EXCLUDED")].SelectionName.tolist()
     print(f"{f}: {len(out)} reviewer bets ({(bot.Source == 'CHECK verdict BET').sum()} CHECK BET, "
-          f"{(bot.Source != 'CHECK verdict BET').sum()} value flags); excluded for unknown runners: {len(exc)} ({', '.join(exc) or 'none'})")
+          f"{(bot.Source != 'CHECK verdict BET').sum()} value flags); excluded for unknown runners: {len(exc)} ({', '.join(exc) or 'none'})"
+          + (f"; paper value flags (not in bot file): {(det.Status.str.startswith('PAPER')).sum()}" if day >= VALUE_CUT_DAY else ""))
 
 
 if __name__ == "__main__":

@@ -268,6 +268,8 @@ def summary(df):
         ld = pd.read_csv(p("data", "live_days.csv"))
         live = set(ld[ld.status == "LIVE"].day)
     s["status"] = np.where(s.day.isin(live), "LIVE", "PAPER")
+    # value flags are PAPER from 27 Nov (user decision 26 Nov: cut from the bot file)
+    s.loc[(s.bet == True) & (s.verdict != "BET") & (s.day >= "2026-11-27"), "status"] = "PAPER"  # noqa: E712
     ll = []
     for _, g in s.groupby(["day", "race_id"]):
         if g.won.sum() != 1:
@@ -279,7 +281,7 @@ def summary(df):
     groups = []
     for st in ("LIVE", "PAPER"):
         g = s[s.status == st]
-        groups += [(f"{st} CHECK BET", g[g.verdict == "BET"]), (f"{st} value flags", g[g.bet == True])]  # noqa: E712
+        groups += [(f"{st} CHECK BET", g[g.verdict == "BET"]), (f"{st} value flags", g[(g.bet == True) & (g.verdict != "BET")])]  # noqa: E712
     for lab, x in groups:
         if not len(x):
             continue
