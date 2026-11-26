@@ -1,0 +1,19 @@
+OffUK,StartTimeUTC,Course,SelectionName,Code,Source,MorningMedian,MinPrice,BestPrice9am,Matchbook9am,ReviewerChancePct,MarketChancePct,Reason,Status
+12:11,2026-11-26T12:11:00+00:00,Thurles,Ceroc,Jumps,reviewer BET flag,6.0,7.14,9.2,9.2,14.0,11.06,"Won last time, best figure 110 is 15 lb above field average; model 17.5%",BOT FILE
+12:37,2026-11-26T12:37:00+00:00,Lingfield,Betty's Tiara,Jumps,reviewer BET flag,8.0,7.14,9.0,8.8,14.0,10.81,Lone leader likely to get an easy lead; best recent figure 103 and has won at this trip; model 19.6%.,BOT FILE
+12:37,2026-11-26T12:37:00+00:00,Lingfield,West Orchard,Jumps,reviewer BET flag,19.0,16.67,23.0,23.0,6.0,4.48,Trainer 7/26 in 14 days and has won at this trip; model 11.8%.,BOT FILE
+12:37,2026-11-26T12:37:00+00:00,Lingfield,Cooler Than Me,Jumps,CHECK verdict BET,3.0,2.85,3.2,3.2,30.93,29.47,"Won last time out, three wins in last five, finished strongly; only minor jumping-error note.",BOT FILE
+12:46,2026-11-26T12:46:00+00:00,Thurles,Apple's Of Bresil,Jumps,reviewer BET flag,29.0,22.22,34.0,32.0,4.5,3.04,Lone habitual front-runner may get an uncontested lead; good recent placings,BOT FILE
+12:55,2026-11-26T12:55:00+00:00,Taunton,Poet's Muse,Jumps,CHECK verdict BET,3.75,3.56,4.0,4.0,26.0,23.52,"Fit (2nd 4 days ago), figures well above mark, uncontested lead likely; jumping errors noted but not decisive",BOT FILE
+13:30,2026-11-26T13:30:00+00:00,Taunton,Venetian Beauty,Jumps,reviewer BET flag,15.0,13.33,17.5,17.5,7.5,5.95,Won last time out 28 days ago; unexposed and could have more to offer,BOT FILE
+14:05,2026-11-26T14:05:00+00:00,Taunton,Savanna Storm,Jumps,CHECK verdict BET,3.75,3.56,4.1,4.1,23.58,22.24,"Won last time with fig 102 (5 lb above mark, 12 lb above field) and trainer 3/12; weight and hold-up style are only mild concerns",BOT FILE
+14:22,2026-11-26T14:22:00+00:00,Lingfield,Royal Way,Jumps,reviewer BET flag,13.0,11.76,15.0,15.0,8.5,6.7,"First four in last five starts, finished strongly last time; model 16.6%.",BOT FILE
+15:06,2026-11-26T15:06:00+00:00,Thurles,Abando,Jumps,reviewer BET flag,17.0,20.0,26.0,26.0,5.0,3.87,Good recent placings and prominent style suits the expected slow pace; model 13.0%,EXCLUDED - unknown runner(s) or off before seal
+15:15,2026-11-26T15:15:00+00:00,Taunton,Handsome Stan,Jumps,CHECK verdict BET,3.5,3.32,3.85,3.85,26.46,25.03,Former winner who finished strongly (+4.5%) when 4th of 14 at Aintree; trainer 2/21; absence shared by main rival,EXCLUDED - unknown runner(s) or off before seal
+15:39,2026-11-26T15:39:00+00:00,Thurles,Might Be The One,Jumps,CHECK verdict BET,4.0,3.8,3.95,3.95,20.0,18.35,In-form last-time winner with the best recent figure in the field; only weight counts against,BOT FILE
+16:30,2026-11-26T16:30:00+00:00,Chelmsford (AW),Masego,Flat,CHECK verdict BET,3.0,2.85,3.15,3.15,31.51,27.42,"Second in last two, best fig 55 is 11 lb above field average; no specific negative",BOT FILE
+16:30,2026-11-26T16:30:00+00:00,Chelmsford (AW),Cavalry Call,Flat,reviewer BET flag,12.0,12.5,16.0,16.0,8.0,6.17,"Lone leader per pace data; recent figures 6 lb above mark, fig 53 third over C&D-type course last time",BOT FILE
+17:30,2026-11-26T17:30:00+00:00,Chelmsford (AW),Crystal Dagger,Flat,reviewer BET flag,13.0,13.33,22.0,22.0,7.5,5.08,"Fig 60 last time, 19 lb above field average and 8 lb above mark; first-time tongue tie/visor",BOT FILE
+17:30,2026-11-26T17:30:00+00:00,Chelmsford (AW),Henry Tudor,Flat,CHECK verdict BET,4.5,4.27,4.8,4.8,18.57,17.97,Consistently placed over trip and going; no specific negative on the card,BOT FILE
+18:30,2026-11-26T18:30:00+00:00,Chelmsford (AW),Forbidden Colours,Flat,CHECK verdict BET,3.875,3.68,4.2,4.2,23.84,22.74,"Best recent fig 69, 8 lb above field average; only risk cited is winless run",BOT FILE
+20:30,2026-11-26T20:30:00+00:00,Chelmsford (AW),Kokoluna,Flat,reviewer BET flag,7.0,8.7,13.0,13.0,11.5,9.17,Won over C&D last time with fig 77; first-time cheekpieces,BOT FILE

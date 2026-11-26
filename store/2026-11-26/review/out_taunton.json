@@ -1,0 +1,38 @@
+{"meeting": "taunton", "races": [
+  {"race_id": "rac_32305618592", "changes": [
+    {"horse_id": "hrs_17394424635", "horse": "Theybouncewell", "chance_pct": 22.0, "reason": "Held up (8% led) into a slow/tactical pace; one run only, model 14.4%; trainer 0/2 in 14d"},
+    {"horse_id": "hrs_56961765", "horse": "Arms Park", "chance_pct": 20.0, "reason": "Trainer 0 wins from 23 runs last 14 days; pulled up in 1 of last 2 hurdle runs"}
+  ], "checks": []},
+  {"race_id": "rac_32305620529", "changes": [
+    {"horse_id": "hrs_51618973", "horse": "Poet's Muse", "chance_pct": 26.0, "reason": "Runner-up 4 days ago with fig 110 (28 lb above mark) and lone leader with likely uncontested lead"},
+    {"horse_id": "hrs_41378393", "horse": "Makinbecon", "chance_pct": 11.5, "reason": "Pulled up last time after 5th and two 6ths; comment says hard to fancy off 159 lb"},
+    {"horse_id": "hrs_52772209", "horse": "Anothermanicmonday", "chance_pct": 11.5, "reason": "Pulled up 10 days ago; best figure 73, 14 lb below field average"},
+    {"horse_id": "hrs_56559433", "horse": "C'Est Pour Moi", "chance_pct": 8.5, "reason": "Figures 7 lb below current mark; jumping mistakes in 3 of last 4 runs"}
+  ], "checks": [
+    {"horse_id": "hrs_51618973", "horse": "Poet's Muse", "verdict": "BET", "reason": "Fit (2nd 4 days ago), figures well above mark, uncontested lead likely; jumping errors noted but not decisive"}
+  ]},
+  {"race_id": "rac_32305622466", "changes": [
+    {"horse_id": "hrs_35337575", "horse": "Courageous Strike", "chance_pct": 19.0, "reason": "Returns from 296-day break, only 2 runs in data, no win in those, model 15.9%"},
+    {"horse_id": "hrs_51491811", "horse": "Venetian Beauty", "chance_pct": 7.5, "reason": "Won last time out 28 days ago; unexposed and could have more to offer"}
+  ], "checks": [
+    {"horse_id": "hrs_35337575", "horse": "Courageous Strike", "verdict": "SKIP", "reason": "296-day absence and lightly raced with 3rd and 6th in last two runs; model only 15.9%"}
+  ]},
+  {"race_id": "rac_32305624403", "changes": [
+    {"horse_id": "hrs_29479254", "horse": "Asian Spice", "chance_pct": 10.0, "reason": "223-day break, out of sorts (7th, PU), faded last run, held up into slow pace; model 5.4%"},
+    {"horse_id": "hrs_46483066", "horse": "Gone Country", "chance_pct": 10.0, "reason": "Won two of last three starts, has won at this trip; model 18.2%"},
+    {"horse_id": "hrs_37027144", "horse": "Forest Hills", "chance_pct": 3.2, "reason": "Winless in five, faded 9.7% last time, OR 14 lb below field average; comment hard to fancy"}
+  ], "checks": [
+    {"horse_id": "hrs_64360870", "horse": "Savanna Storm", "verdict": "BET", "reason": "Won last time with fig 102 (5 lb above mark, 12 lb above field) and trainer 3/12; weight and hold-up style are only mild concerns"}
+  ]},
+  {"race_id": "rac_32305626340", "changes": [
+    {"horse_id": "hrs_46850909", "horse": "Calvino", "chance_pct": 40.0, "reason": "Lone habitual leader likely to get uncontested lead; best figure 109, 12 lb above field"},
+    {"horse_id": "hrs_51800336", "horse": "Lord Cauvelliere", "chance_pct": 19.0, "reason": "Best figure 79 is 18 lb below field average; figures 8 lb below current mark"},
+    {"horse_id": "hrs_34253275", "horse": "Kandor", "chance_pct": 16.5, "reason": "First-time tongue tie and cheekpieces; finished strongly (+4.8%) last run"},
+    {"horse_id": "hrs_46024832", "horse": "Tashan", "chance_pct": 12.5, "reason": "Faded 5.7% last time after two pulled-up runs; lightly raced"}
+  ], "checks": []},
+  {"race_id": "rac_32305628277", "changes": [
+    {"horse_id": "hrs_17393555816", "horse": "French Fancy", "chance_pct": 14.0, "reason": "Trainer 0 wins from 23 runs last 14 days; model only 6.1%"}
+  ], "checks": [
+    {"horse_id": "hrs_62393926", "horse": "Handsome Stan", "verdict": "BET", "reason": "Former winner who finished strongly (+4.5%) when 4th of 14 at Aintree; trainer 2/21; absence shared by main rival"}
+  ]}
+]}

@@ -1,0 +1,68 @@
+{"meeting": "chelmsford_aw", "races": [
+  {"race_id": "rac_32305630214", "changes": [
+    {"horse_id": "hrs_34471794", "horse": "Cavalry Call", "chance_pct": 8.0, "reason": "Lone leader per pace data; recent figures 6 lb above mark, fig 53 third over C&D-type course last time"},
+    {"horse_id": "hrs_22327886", "horse": "Sea of Charm", "chance_pct": 9.0, "reason": "Second 10 days ago with fig 53, 9 lb above field average; model 13%"},
+    {"horse_id": "hrs_45126039", "horse": "Stitching Wheel", "chance_pct": 12.5, "reason": "Fifth and sixth in last two, 40 days off; model only 7%"},
+    {"horse_id": "hrs_52236261", "horse": "Kevin The Great", "chance_pct": 10.0, "reason": "Returns from 91-day break after poor recent finishing positions"},
+    {"horse_id": "hrs_40075616", "horse": "Damzon", "chance_pct": 4.5, "reason": "Back-to-back eighths; recent figures 12 lb below current mark"},
+    {"horse_id": "hrs_57008448", "horse": "Head Girl", "chance_pct": 1.2, "reason": "Last fig 20, 35 lb below mark, faded last time"},
+    {"horse_id": "hrs_41229783", "horse": "Vinny's Dream", "chance_pct": 1.2, "reason": "Recent figures 25 lb below mark and faded last time"}
+  ], "checks": [
+    {"horse_id": "hrs_43228136", "horse": "Masego", "verdict": "BET", "reason": "Second in last two, best fig 55 is 11 lb above field average; no specific negative"}
+  ]},
+  {"race_id": "rac_32305975000", "changes": [
+    {"horse_id": "hrs_39940719", "horse": "Dashing Donkey", "chance_pct": 16.0, "reason": "Strong pace with three front-runners; likely to be taken on for the lead"},
+    {"horse_id": "hrs_18809490", "horse": "Sir Rodneyredblood", "chance_pct": 4.5, "reason": "Ninth last time, figures 9 lb below mark and likely taken on for the lead"},
+    {"horse_id": "hrs_40786172", "horse": "Solid Bond", "chance_pct": 7.0, "reason": "Fig 53 last time and finished strongly (+2.5%), suits strong pace"},
+    {"horse_id": "hrs_29917853", "horse": "He's An Angel", "chance_pct": 1.8, "reason": "Last fig 18, 33 lb below mark"},
+    {"horse_id": "hrs_25745853", "horse": "Candy Warhol", "chance_pct": 1.8, "reason": "Unplaced last two, figures 11 lb below mark, trainer 0/16"}
+  ], "checks": []},
+  {"race_id": "rac_32305632151", "changes": [
+    {"horse_id": "hrs_54933662", "horse": "Crystal Dagger", "chance_pct": 7.5, "reason": "Fig 60 last time, 19 lb above field average and 8 lb above mark; first-time tongue tie/visor"},
+    {"horse_id": "hrs_34470968", "horse": "Forever Noah", "chance_pct": 9.5, "reason": "Last of 11 with fig 29, figures 26 lb below mark, though lone leader"},
+    {"horse_id": "hrs_25938808", "horse": "Starsong", "chance_pct": 9.5, "reason": "85-day absence and stall 12 flagged as main risk"},
+    {"horse_id": "hrs_39961971", "horse": "Addictive", "chance_pct": 3.5, "reason": "Figures 16 lb below mark, unplaced last two"},
+    {"horse_id": "hrs_37603538", "horse": "Tilsworth Turf", "chance_pct": 0.8, "reason": "Last fig 8, 36 lb below mark"}
+  ], "checks": [
+    {"horse_id": "hrs_53420332", "horse": "Henry Tudor", "verdict": "BET", "reason": "Consistently placed over trip and going; no specific negative on the card"}
+  ]},
+  {"race_id": "rac_32305634088", "changes": [
+    {"horse_id": "hrs_65938957", "horse": "Roosike", "chance_pct": 28.0, "reason": "Fig 84 second over C&D-type 7f here, 14 lb above field and 9 lb above mark, finished strongly"},
+    {"horse_id": "hrs_65974587", "horse": "By Jove Grace", "chance_pct": 9.5, "reason": "Four seconds or better in last five, 4 lb well handicapped; model 19.6%"}
+  ], "checks": []},
+  {"race_id": "rac_32305636025", "changes": [
+    {"horse_id": "hrs_50434517", "horse": "Overbudget", "chance_pct": 19.5, "reason": "Form 113, fig 69 is 8 lb above field and 4 lb above mark"},
+    {"horse_id": "hrs_37275434", "horse": "Bella Bisbee", "chance_pct": 6.5, "reason": "Last fig 40, 25 lb below mark, faded, trainer 0/16"},
+    {"horse_id": "hrs_54555550", "horse": "Vishaka", "chance_pct": 9.5, "reason": "Seventh and ninth in last two (form 160-79)"}
+  ], "checks": [
+    {"horse_id": "hrs_57223089", "horse": "Forbidden Colours", "verdict": "BET", "reason": "Best recent fig 69, 8 lb above field average; only risk cited is winless run"}
+  ]},
+  {"race_id": "rac_32305637962", "changes": [
+    {"horse_id": "hrs_17394428807", "horse": "Sexy", "chance_pct": 7.5, "reason": "Debutante; trainer 0 wins from 14 runs last 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32305639899", "changes": [
+    {"horse_id": "hrs_54555529", "horse": "Oh So Perfect", "chance_pct": 17.5, "reason": "Lone leader per pace data; recent figures 11 lb above mark"},
+    {"horse_id": "hrs_59609879", "horse": "Splinterwood", "chance_pct": 7.0, "reason": "102-day break, model only 4.5%"},
+    {"horse_id": "hrs_45791935", "horse": "Bad Habits", "chance_pct": 5.0, "reason": "Unplaced last time, figures 9 lb below mark"},
+    {"horse_id": "hrs_19601526", "horse": "Amaysmont", "chance_pct": 3.2, "reason": "Ninth last time, figures 12 lb below mark"},
+    {"horse_id": "hrs_35417326", "horse": "Fistral Beach", "chance_pct": 2.0, "reason": "Two unplaced runs, figures 23 lb below mark"}
+  ], "checks": []},
+  {"race_id": "rac_32305641836", "changes": [
+    {"horse_id": "hrs_56370664", "horse": "Freddie's Star", "chance_pct": 25.0, "reason": "Trainer 0 wins from 10 runs last 14 days; modest record before last win, model 17.3%"},
+    {"horse_id": "hrs_35767543", "horse": "Macanudo", "chance_pct": 10.5, "reason": "Placed last three, 5 lb well handicapped, finished strongly last time"},
+    {"horse_id": "hrs_45950660", "horse": "Insuspense", "chance_pct": 12.0, "reason": "Fig 68 second last time, good recent positions; model 22.3%"},
+    {"horse_id": "hrs_26116608", "horse": "Rebel Path", "chance_pct": 7.0, "reason": "Trainer 0 wins from 9 runs last 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_56370664", "horse": "Freddie's Star", "verdict": "SKIP", "reason": "Trainer 0/10 in 14 days and only 6 lb clear on figures with Insuspense close behind"}
+  ]},
+  {"race_id": "rac_32305643773", "changes": [
+    {"horse_id": "hrs_43228864", "horse": "Caledonian", "chance_pct": 18.0, "reason": "Hold-up horse in slow/tactical race, back after only 4 days"},
+    {"horse_id": "hrs_58196453", "horse": "Kokoluna", "chance_pct": 11.5, "reason": "Won over C&D last time with fig 77; first-time cheekpieces"},
+    {"horse_id": "hrs_46013527", "horse": "Nizam", "chance_pct": 11.5, "reason": "Unplaced in last six, carries 7 lb more than average"},
+    {"horse_id": "hrs_34775195", "horse": "Charlie's Choice", "chance_pct": 8.8, "reason": "Held up in steady-pace race; back after 3 days"},
+    {"horse_id": "hrs_47621434", "horse": "Thinthread", "chance_pct": 4.0, "reason": "Ninth last time, figures 13 lb below mark"},
+    {"horse_id": "hrs_24854599", "horse": "Marsh Benham", "chance_pct": 2.5, "reason": "Two ninths, figures 9 lb below mark, held up in steady pace"}
+  ], "checks": [
+    {"horse_id": "hrs_43228864", "horse": "Caledonian", "verdict": "SKIP", "reason": "Hold-up style against a slow pace and quick 4-day turnaround"}
+  ]}
+]}

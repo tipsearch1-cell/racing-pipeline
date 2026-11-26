@@ -1,0 +1,37 @@
+{
+ "market_rasen": {
+  "course": "Market Rasen",
+  "in": "/home/claude/racing-pipeline/store/2026-11-26/review/in_market_rasen.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-26/review/out_market_rasen.json",
+  "races": 7,
+  "checks": 4
+ },
+ "thurles": {
+  "course": "Thurles",
+  "in": "/home/claude/racing-pipeline/store/2026-11-26/review/in_thurles.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-26/review/out_thurles.json",
+  "races": 7,
+  "checks": 5
+ },
+ "taunton": {
+  "course": "Taunton",
+  "in": "/home/claude/racing-pipeline/store/2026-11-26/review/in_taunton.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-26/review/out_taunton.json",
+  "races": 6,
+  "checks": 4
+ },
+ "lingfield": {
+  "course": "Lingfield",
+  "in": "/home/claude/racing-pipeline/store/2026-11-26/review/in_lingfield.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-26/review/out_lingfield.json",
+  "races": 6,
+  "checks": 2
+ },
+ "chelmsford_aw": {
+  "course": "Chelmsford (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-26/review/in_chelmsford_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-26/review/out_chelmsford_aw.json",
+  "races": 9,
+  "checks": 5
+ }
+}

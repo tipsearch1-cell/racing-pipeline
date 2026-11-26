@@ -1,0 +1,65 @@
+{"meeting": "thurles", "races": [
+  {"race_id": "rac_32305546923", "changes": [
+    {"horse_id": "hrs_39959332", "horse": "Chanceitlucky", "chance_pct": 12.5, "reason": "First run over fences in our data and OR 89 is 8 lb below field average; model only 9.4%"},
+    {"horse_id": "hrs_29538726", "horse": "Everystep Oftheway", "chance_pct": 10.0, "reason": "Comment says 140 lb off 81 is a big ask; best figure 79 is 16 lb below field average"},
+    {"horse_id": "hrs_52495352", "horse": "Mistyburn", "chance_pct": 10.0, "reason": "Stable 0/33 in last 14 days and jumping mistakes in 2 of last 5"},
+    {"horse_id": "hrs_28295127", "horse": "Ceroc", "chance_pct": 14.0, "reason": "Won last time, best figure 110 is 15 lb above field average; model 17.5%"},
+    {"horse_id": "hrs_40918479", "horse": "Mickey Cohen", "chance_pct": 10.5, "reason": "Won last time with fig 100 and trainer 3/15 in last 14 days"},
+    {"horse_id": "hrs_38217592", "horse": "Giant Haystacks", "chance_pct": 6.5, "reason": "Recent figures 6 lb below current mark and trainer 0/17 in last 14 days"},
+    {"horse_id": "hrs_43097369", "horse": "Knocknagoran Lady", "chance_pct": 4.5, "reason": "Best recent figure 103 is 8 lb above field average; model 10.3%"},
+    {"horse_id": "hrs_35231938", "horse": "Dorans Law", "chance_pct": 2.2, "reason": "Fell or unseated in 2 of last 5 and trainer 0/33 in last 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_39959332", "horse": "Chanceitlucky", "verdict": "SKIP", "reason": "First run over fences and rated 8 lb below the field average"}
+  ]},
+  {"race_id": "rac_32305548860", "changes": [
+    {"horse_id": "hrs_23332561", "horse": "Champ Kiely", "chance_pct": 20.0, "reason": "Returns after 211 days having been pulled up last time; poor recent form, model 8.9%"},
+    {"horse_id": "hrs_29917741", "horse": "Ile Atlantique", "chance_pct": 25.0, "reason": "Placed in 3 of last 4, finished strongly last time (+5.3%); model 27.3%"},
+    {"horse_id": "hrs_29523179", "horse": "Lecky Watson", "chance_pct": 8.5, "reason": "Pulled up in 2 of last 3 with jumping mistakes in all 3 recent runs"},
+    {"horse_id": "hrs_21327712", "horse": "Gerri Colombe", "chance_pct": 13.0, "reason": "Top-rated on OR 160 (9 lb above average) and has won at this trip; model 18.8%"},
+    {"horse_id": "hrs_24141285", "horse": "High Class Hero", "chance_pct": 8.0, "reason": "Pulled up in 3 of last 4 jumps runs, including last time"},
+    {"horse_id": "hrs_34361698", "horse": "Apple's Of Bresil", "chance_pct": 4.5, "reason": "Lone habitual front-runner may get an uncontested lead; good recent placings"}
+  ], "checks": [
+    {"horse_id": "hrs_23332561", "horse": "Champ Kiely", "verdict": "SKIP", "reason": "Fitness doubt after 211 days off, pulled up last time and poor recent form"}
+  ]},
+  {"race_id": "rac_32305550797", "changes": [
+    {"horse_id": "hrs_65451379", "horse": "Dieux Diligence", "chance_pct": 20.0, "reason": "Returns from 119-day break, first run over hurdles, only 2 runs in data; model 9.7%"},
+    {"horse_id": "hrs_17389191904", "horse": "The Ocean Queen", "chance_pct": 9.0, "reason": "Best recent figure 111 is 14 lb above field average"},
+    {"horse_id": "hrs_17391680502", "horse": "Give It A Crack", "chance_pct": 9.5, "reason": "Best recent figure 91 is 6 lb below field average"},
+    {"horse_id": "hrs_57071763", "horse": "Dunleer Crystal", "chance_pct": 7.5, "reason": "Returns from 211-day break after being pulled up last time"},
+    {"horse_id": "hrs_17389681071", "horse": "Conor'salwaysright", "chance_pct": 7.5, "reason": "Trainer 0/33 in last 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_65451379", "horse": "Dieux Diligence", "verdict": "SKIP", "reason": "Hurdling debut after a 119-day break with only two bumper runs to go on"}
+  ]},
+  {"race_id": "rac_32305552734", "changes": [
+    {"horse_id": "hrs_62296514", "horse": "Neria", "chance_pct": 34.0, "reason": "Returns from a 238-day break with no runs in our data"},
+    {"horse_id": "hrs_56406868", "horse": "Maxminelli", "chance_pct": 16.0, "reason": "Best figure 104 is 11 lb above field average, finished strongly last time, first-time tongue-tie and cheekpieces"},
+    {"horse_id": "hrs_55978517", "horse": "Sunrush", "chance_pct": 12.5, "reason": "Trainer 0/16 in last 14 days"},
+    {"horse_id": "hrs_55453937", "horse": "Belle Nuit", "chance_pct": 3.5, "reason": "Trainer 3/14 in last 14 days and finished strongly (+4.6%) on hurdling debut"}
+  ], "checks": []},
+  {"race_id": "rac_32305554671", "changes": [
+    {"horse_id": "hrs_17396009995", "horse": "Mahollia", "chance_pct": 31.0, "reason": "Returns from a 278-day break with no runs in our data"},
+    {"horse_id": "hrs_41346536", "horse": "Divaboriva", "chance_pct": 21.0, "reason": "OR 115 and finished strongly (+7.6%) when second last time; model 30.5%"},
+    {"horse_id": "hrs_59429475", "horse": "Born Believing", "chance_pct": 5.0, "reason": "Has won at this trip, finished strongly last time; model 11.7%"}
+  ], "checks": []},
+  {"race_id": "rac_32305556608", "changes": [
+    {"horse_id": "hrs_17395958888", "horse": "Moment Of Grace", "chance_pct": 21.0, "reason": "Returns from a 390-day break with no runs in our data"},
+    {"horse_id": "hrs_17395145348", "horse": "Werner", "chance_pct": 20.0, "reason": "Best figure 116 is 17 lb above field average, finished strongly, prominent style suits slow pace"},
+    {"horse_id": "hrs_60089946", "horse": "Malte De Solzen", "chance_pct": 12.0, "reason": "Returns from a 337-day break"},
+    {"horse_id": "hrs_52417876", "horse": "Abando", "chance_pct": 5.0, "reason": "Good recent placings and prominent style suits the expected slow pace; model 13.0%"},
+    {"horse_id": "hrs_57654457", "horse": "Apache Peak", "chance_pct": 9.5, "reason": "Trainer 0/17 in last 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_17395958888", "horse": "Moment Of Grace", "verdict": "SKIP", "reason": "Absent 390 days with nothing in our data to confirm the form"}
+  ]},
+  {"race_id": "rac_32305558545", "changes": [
+    {"horse_id": "hrs_50412635", "horse": "Might Be The One", "chance_pct": 20.0, "reason": "Won last time, best figure 100 is 19 lb above field average, finished strongly"},
+    {"horse_id": "hrs_412652261", "horse": "Cosmic Front", "chance_pct": 11.0, "reason": "Form heading the wrong way (6th, 8th, 9th); model 4.3%"},
+    {"horse_id": "hrs_34153483", "horse": "Bowgate Street", "chance_pct": 9.5, "reason": "Recent figures 4 lb above current mark and second in last two"},
+    {"horse_id": "hrs_40669041", "horse": "Arctic Piper", "chance_pct": 6.0, "reason": "Last figure 82 modest and jumping mistakes in 2 of last 5"},
+    {"horse_id": "hrs_40225346", "horse": "Doyen Og", "chance_pct": 4.0, "reason": "Fell last time; OR 72 is 15 lb below field average"},
+    {"horse_id": "hrs_35828023", "horse": "Andyourbirdcansing", "chance_pct": 2.0, "reason": "Recent figures 7 lb below current mark and faded last time"},
+    {"horse_id": "hrs_40393444", "horse": "Avandra", "chance_pct": 1.5, "reason": "Recent figures 19 lb below current mark and trainer 0/33 in last 14 days"},
+    {"horse_id": "hrs_62645618", "horse": "Cool As A Cat", "chance_pct": 1.2, "reason": "Recent figures 20 lb below current mark and poor recent finishes"}
+  ], "checks": [
+    {"horse_id": "hrs_50412635", "horse": "Might Be The One", "verdict": "BET", "reason": "In-form last-time winner with the best recent figure in the field; only weight counts against"}
+  ]}
+]}

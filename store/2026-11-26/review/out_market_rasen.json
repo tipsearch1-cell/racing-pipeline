@@ -1,0 +1,52 @@
+{"meeting": "market_rasen", "races": [
+  {"race_id": "rac_32305605033", "changes": [
+    {"horse_id": "hrs_17395399840", "horse": "Keeptheflagflying", "chance_pct": 13.0, "reason": "Returns from a 298-day break with no runs in data; model only 6.8%"},
+    {"horse_id": "hrs_61874456", "horse": "Equi Libre", "chance_pct": 0.6, "reason": "Form 3-PR7U: unseated last time, fell/unseated 2 of last 4, pulled up 1 of last 4"}
+  ], "checks": []},
+  {"race_id": "rac_32305606970", "changes": [
+    {"horse_id": "hrs_58535281", "horse": "Midnight Bella", "chance_pct": 18.0, "reason": "Unseated last time (form 0692-U), carries 6 lb above average, trainer 1/13 in 14 days, model 12.7%"},
+    {"horse_id": "hrs_21341523", "horse": "Grand Scheme", "chance_pct": 6.5, "reason": "Recent figures 12 lb below current mark; hold-up style unsuited by expected steady pace"},
+    {"horse_id": "hrs_43163729", "horse": "Eskimo Sam", "chance_pct": 7.5, "reason": "Trainer 0/8 in 14 days, faded last time, hold-up style vs steady pace"},
+    {"horse_id": "hrs_32682510", "horse": "Present de Vango", "chance_pct": 7.5, "reason": "Returns from a 1127-day absence"},
+    {"horse_id": "hrs_57941968", "horse": "Contemplation", "chance_pct": 5.5, "reason": "Recent figures 8 lb below current mark; comment says vulnerable off 91"}
+  ], "checks": [
+    {"horse_id": "hrs_58535281", "horse": "Midnight Bella", "verdict": "SKIP", "reason": "Unseated last time, 6 lb above average weight, cold trainer, model well below market"}
+  ]},
+  {"race_id": "rac_32305608907", "changes": [
+    {"horse_id": "hrs_35431347", "horse": "Kala Conti", "chance_pct": 42.0, "reason": "Best recent figure 119 is 10 lb below field average; fell in 1 of last 3; model 26.3%"},
+    {"horse_id": "hrs_34457402", "horse": "Bluey", "chance_pct": 29.0, "reason": "Best recent figure 137, 8 lb above field average, with good recent form"},
+    {"horse_id": "hrs_28903581", "horse": "Ruby Island", "chance_pct": 15.5, "reason": "Won last time with figure 132 and finished strongly (+2.6%)"},
+    {"horse_id": "hrs_35321636", "horse": "Overabottleofred", "chance_pct": 6.0, "reason": "Won last two, has won at this trip, finished strongly; model 20.5%"}
+  ], "checks": []},
+  {"race_id": "rac_32305610844", "changes": [
+    {"horse_id": "hrs_41052368", "horse": "Natus Vincere", "chance_pct": 16.0, "reason": "Pulled up last time, returns from 227 days, first run over fences"},
+    {"horse_id": "hrs_48082657", "horse": "Chatty Girl", "chance_pct": 18.5, "reason": "Best figure 92 is 13 lb above field average, top-rated, first-time tongue tie"},
+    {"horse_id": "hrs_41190415", "horse": "Dance Rules", "chance_pct": 11.0, "reason": "Figures 11 lb below current mark, best figure 13 lb below field average; model 8.5%"},
+    {"horse_id": "hrs_34814542", "horse": "Ever Ready", "chance_pct": 6.5, "reason": "First run over fences with jumping mistakes in 2 of last 5; figures 8 lb below mark"}
+  ], "checks": [
+    {"horse_id": "hrs_41052368", "horse": "Natus Vincere", "verdict": "SKIP", "reason": "Pulled up last time, 227-day break and fencing debut"}
+  ]},
+  {"race_id": "rac_32305612781", "changes": [
+    {"horse_id": "hrs_49578067", "horse": "Jury's In", "chance_pct": 23.0, "reason": "Sixth last time and tenth before that, 46-day break, top weight 170 lb; model 18.1%"},
+    {"horse_id": "hrs_58469236", "horse": "Frisky Whiskey", "chance_pct": 15.0, "reason": "Best figure 9 lb below field average, hold-up style vs steady pace; model 7.1%"},
+    {"horse_id": "hrs_29816129", "horse": "Billy Boi Blue", "chance_pct": 14.5, "reason": "Won last two (fig 113), finished strongly, has won at trip"},
+    {"horse_id": "hrs_13382810", "horse": "Ladronne", "chance_pct": 7.0, "reason": "Recent figures 6 lb above current mark (well handicapped)"},
+    {"horse_id": "hrs_25204760", "horse": "Happy And Fine", "chance_pct": 2.2, "reason": "Fell or unseated in 3 of last 5, trainer 0/8 in 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_49578067", "horse": "Jury's In", "verdict": "SKIP", "reason": "Poor last two runs (6th, 10th), 46-day break and 170 lb"}
+  ]},
+  {"race_id": "rac_32305614718", "changes": [
+    {"horse_id": "hrs_32683350", "horse": "Jukebox d'Eddy", "chance_pct": 18.0, "reason": "Returns from 234-day break and likely taken on for the lead in a strong pace"},
+    {"horse_id": "hrs_39392066", "horse": "Brother Boris", "chance_pct": 9.5, "reason": "Pulled up last time, 234-day break, likely taken on for the lead"},
+    {"horse_id": "hrs_37890426", "horse": "Jo Lescribaa", "chance_pct": 8.0, "reason": "Pulled up last time, 243-day break, 168 lb, contested lead"},
+    {"horse_id": "hrs_31835125", "horse": "Jimmyjeroo", "chance_pct": 9.5, "reason": "Leader likely to be taken on in a strong pace; winless in last five"},
+    {"horse_id": "hrs_29226393", "horse": "El Muchacho", "chance_pct": 4.2, "reason": "Hold-up style suited by contested lead; good recent placings"},
+    {"horse_id": "hrs_34238176", "horse": "Subtle Fortune", "chance_pct": 16.0, "reason": "Top-rated, finished strongly last time, first-time tongue tie, prominent style"}
+  ], "checks": [
+    {"horse_id": "hrs_32683350", "horse": "Jukebox d'Eddy", "verdict": "SKIP", "reason": "234-day absence and likely to be taken on for the lead in a strong pace"}
+  ]},
+  {"race_id": "rac_32305616655", "changes": [
+    {"horse_id": "hrs_62235775", "horse": "Nevada Samba", "chance_pct": 18.0, "reason": "Won last time finishing strongly (+7.6%); model 22.4%"},
+    {"horse_id": "hrs_60395006", "horse": "Cayenne", "chance_pct": 10.0, "reason": "Finished strongly (+4.5%) on debut with figure 106, now has a run under his belt"}
+  ], "checks": []}
+]}

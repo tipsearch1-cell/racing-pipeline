@@ -1,0 +1,40 @@
+{"meeting": "lingfield", "races": [
+  {"race_id": "rac_32305593411", "changes": [
+    {"horse_id": "hrs_31660727", "horse": "Teorie", "chance_pct": 25.0, "reason": "Comment flags 165 lb burden and a run of 6th/7th/6th before the last win."},
+    {"horse_id": "hrs_32567801", "horse": "Betty's Tiara", "chance_pct": 14.0, "reason": "Lone leader likely to get an easy lead; best recent figure 103 and has won at this trip; model 19.6%."},
+    {"horse_id": "hrs_51341647", "horse": "Nancefordshore", "chance_pct": 5.0, "reason": "Comment hard to fancy; best figure 83 well below field, 13 lb below mark, trainer 0/9."},
+    {"horse_id": "hrs_34153553", "horse": "Shengai Enki", "chance_pct": 3.5, "reason": "Figures 8 lb below field average, looks high in weights, pulled up 2 of last 5."},
+    {"horse_id": "hrs_27027280", "horse": "West Orchard", "chance_pct": 6.0, "reason": "Trainer 7/26 in 14 days and has won at this trip; model 11.8%."}
+  ], "checks": [
+    {"horse_id": "hrs_29012718", "horse": "Cooler Than Me", "verdict": "BET", "reason": "Won last time out, three wins in last five, finished strongly; only minor jumping-error note."}
+  ]},
+  {"race_id": "rac_32305595348", "changes": [
+    {"horse_id": "hrs_37701391", "horse": "Lifetime In Milan", "chance_pct": 20.0, "reason": "Returns from 277-day break, first run over fences, faded last time; model 12.5%."},
+    {"horse_id": "hrs_37889656", "horse": "Honey Jack", "chance_pct": 23.0, "reason": "Comment: 609-day absence is the big risk, plus 158 lb."},
+    {"horse_id": "hrs_30207716", "horse": "Poncho", "chance_pct": 10.0, "reason": "Held up in a likely slow pace, 13 lb above recent figures, jumping mistakes in last 2 runs."},
+    {"horse_id": "hrs_47098807", "horse": "Pop's Folly", "chance_pct": 10.0, "reason": "Pulled up last two runs and held up in a likely steady pace."}
+  ], "checks": [
+    {"horse_id": "hrs_37701391", "horse": "Lifetime In Milan", "verdict": "SKIP", "reason": "277-day absence, first run over fences and faded last time give specific reasons to doubt."}
+  ]},
+  {"race_id": "rac_32305597285", "changes": [
+    {"horse_id": "hrs_58843960", "horse": "Pure Ocean", "chance_pct": 13.0, "reason": "Lone leader with an easy lead likely; finished strongly when 2nd last time; model 16.8%."},
+    {"horse_id": "hrs_59645495", "horse": "Western Charm", "chance_pct": 16.0, "reason": "Finished strongly last time with a 99 figure in her hurdle debut."}
+  ], "checks": []},
+  {"race_id": "rac_32305599222", "changes": [
+    {"horse_id": "hrs_48499311", "horse": "Laughing John", "chance_pct": 27.0, "reason": "Comment: fell last time, unplaced before, 156 lb off 122."},
+    {"horse_id": "hrs_45759602", "horse": "Blue Carpet", "chance_pct": 25.0, "reason": "Form 21212, finished strongly last time, trainer 21/94; model 30%."},
+    {"horse_id": "hrs_47837237", "horse": "Fortune Timmy", "chance_pct": 17.0, "reason": "Two unplaced runs, faded last time, 229-day break and first time over fences."},
+    {"horse_id": "hrs_38370892", "horse": "Royal Way", "chance_pct": 8.5, "reason": "First four in last five starts, finished strongly last time; model 16.6%."},
+    {"horse_id": "hrs_37890594", "horse": "General Briar", "chance_pct": 4.5, "reason": "Comment hard to fancy: unplaced and two pulled-ups, 10 lb above recent figures."}
+  ], "checks": []},
+  {"race_id": "rac_32305601159", "changes": [
+    {"horse_id": "hrs_50809724", "horse": "Ruling Planet", "chance_pct": 6.0, "reason": "Held-up runner in a likely steady pace."}
+  ], "checks": []},
+  {"race_id": "rac_32305603096", "changes": [
+    {"horse_id": "hrs_47685015", "horse": "Marhaba Prince", "chance_pct": 31.0, "reason": "Won last time with best figure 113 and may get an uncontested lead."},
+    {"horse_id": "hrs_34401864", "horse": "Ventara", "chance_pct": 10.5, "reason": "Returns from 561 days off, ninth last time, rated 13 lb below field average."},
+    {"horse_id": "hrs_412653178", "horse": "Moon Monarch", "chance_pct": 7.5, "reason": "Winless in last four, faded last time, 221-day break."},
+    {"horse_id": "hrs_62779458", "horse": "Longmoor", "chance_pct": 4.0, "reason": "Comment hard to fancy: declining form 3-4-6 and faded last time."},
+    {"horse_id": "hrs_53928385", "horse": "Galactique", "chance_pct": 3.5, "reason": "242-day absence after unplaced run, carries 9 lb more than average."}
+  ], "checks": []}
+]}
