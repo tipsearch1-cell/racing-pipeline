@@ -13,7 +13,7 @@ audit ledger, verification, daily status and the sealed analysis. Research only:
 Spec: prereg/FORWARD_TEST_PHASE5_SPEC_2026-11-19.md. Files are written once into the Phase 3 archive layout
 (research/market_intelligence/phase3/archive/archive_data/DAY/...) with the chained manifest.
 """
-import argparse, datetime as dt, glob, gzip, hashlib, json, os, subprocess, sys
+import argparse, datetime as dt, glob, gzip, hashlib, json, os, subprocess, sys, time
 from zoneinfo import ZoneInfo
 import numpy as np
 
@@ -377,7 +377,12 @@ def gh_pushes(pages=3):
 
 def stamp(day, out_dir=None):
     head = subprocess.run(["git", "-C", ROOT, "rev-parse", "HEAD"], capture_output=True, text=True).stdout.strip()
-    hit = [p for p in gh_pushes(1) if p["after"] == head]
+    hit = []
+    for _ in range(12):  # the activity API can lag a push by a few seconds (27 Nov: stamp ran 1 s after the push and saw none)
+        hit = [p for p in gh_pushes(1) if p["after"] == head]
+        if hit:
+            break
+        time.sleep(10)
     files = {os.path.basename(p): sha_file(p) for p in glob.glob(os.path.join(cfg(out_dir)["out_dir"], day, "phase5", "*.json.gz"))}
     rec = dict(day=day, kind="push_stamp", head=head, github_push_utc=hit[0]["at"] if hit else None, files_at_head=files,
                recorded_utc=iso(now()), note="GitHub server-side push time from the repository activity API" if hit else "push not found in GitHub activity (not pushed yet?)")
