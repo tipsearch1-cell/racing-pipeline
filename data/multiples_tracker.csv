@@ -14,3 +14,4 @@ day,bet_id,bookmaker,bet_type,legs,winners,stake,returns,pl
 2026-11-25,2026-11-25-Betfred-2,Betfred,Double,2,1,0.5,0.0,-0.5
 2026-11-25,2026-11-25-William Hill-1,William Hill,Double,2,1,0.5,0.0,-0.5
 2026-11-26,2026-11-26-Betfred-1,Betfred,Trixie (3 doubles + treble),3,0,2.0,0.0,-2.0
+2026-11-27,2026-11-27-Betfred-1,Betfred,Trixie (3 doubles + treble),3,1,2.0,0.0,-2.0
