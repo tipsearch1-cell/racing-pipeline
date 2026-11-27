@@ -1,0 +1,21 @@
+{
+ "day": "2026-11-27",
+ "generated_utc": "2026-11-27T09:00:30+00:00",
+ "eligible_races_processed": 0,
+ "races_on_card": 38,
+ "model_E_predictions": 38,
+ "model_D2_predictions": 38,
+ "capture_0900": true,
+ "capture_evening_races": 38,
+ "sweep_snapshots": 0,
+ "archive_verification": "OK",
+ "model_hash_ok": true,
+ "timestamp_violations": 38,
+ "mapping_errors": 0,
+ "exclusion_reasons": {
+  "no GitHub push stamp for the prediction file": 38
+ },
+ "valid_prospective_races_to_date": 261,
+ "next_look": 1000,
+ "note": "No outcome statistics are computed before a pre-registered look (spec)."
+}
