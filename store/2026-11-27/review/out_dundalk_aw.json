@@ -1,0 +1,68 @@
+{"meeting": "dundalk_aw", "races": [
+  {"race_id": "rac_32305843284", "changes": [
+    {"horse_id": "hrs_17391961069", "horse": "Chicago Caray", "chance_pct": 24.0, "reason": "Eighth last time (form 848); model only 14.8% and best fig 63 no better than Rejoinder's 65"},
+    {"horse_id": "hrs_65451442", "horse": "Rejoinder", "chance_pct": 22.0, "reason": "Best recent fig 65, 16 lb above field average; model 34.4%"},
+    {"horse_id": "hrs_17396158101", "horse": "Present Perfect", "chance_pct": 6.0, "reason": "Debutante; trainer 0 wins from 8 in last 14 days"},
+    {"horse_id": "hrs_17395783664", "horse": "Victorious Star", "chance_pct": 2.2, "reason": "Best recent fig 33, 16 lb below field average; form 00"},
+    {"horse_id": "hrs_17391825479", "horse": "Let Me Free", "chance_pct": 6.0, "reason": "Best recent fig 41, 8 lb below field average"}
+  ], "checks": [
+    {"horse_id": "hrs_17391961069", "horse": "Chicago Caray", "verdict": "SKIP", "reason": "Beaten eighth last time and model rates him only 14.8%, half the market"}
+  ]},
+  {"race_id": "rac_32305845221", "changes": [
+    {"horse_id": "hrs_17390841930", "horse": "Moyanna Castle", "chance_pct": 15.0, "reason": "Second at Dundalk over C&D last time (fig 55); model 16.5%"},
+    {"horse_id": "hrs_17393965715", "horse": "Ria's Angel", "chance_pct": 12.5, "reason": "Best recent fig 61, 10 lb above field average, fourth at Dundalk last time"},
+    {"horse_id": "hrs_63810215", "horse": "Chesham", "chance_pct": 8.5, "reason": "Returns from 196-day break after last of 7 on only start"},
+    {"horse_id": "hrs_17395792008", "horse": "Solar Palace", "chance_pct": 3.0, "reason": "Best recent fig 38, 13 lb below field average; ran 2 days ago"}
+  ], "checks": [
+    {"horse_id": "hrs_17396162273", "horse": "Kodiak Gold", "verdict": "BET", "reason": "Unraced; card gives no specific negative beyond lack of data"}
+  ]},
+  {"race_id": "rac_32305847158", "changes": [
+    {"horse_id": "hrs_17389030239", "horse": "Invincible Irish", "chance_pct": 54.0, "reason": "Fig 71 is 30 lb above field average, 11 lb above mark, consistent placed form"},
+    {"horse_id": "hrs_65225090", "horse": "Scarlet Dream", "chance_pct": 10.0, "reason": "Trainer 0 from 17 in last 14 days; poor recent finishing positions"},
+    {"horse_id": "hrs_64846803", "horse": "Stellar Path", "chance_pct": 6.5, "reason": "71-day absence and run of unplaced efforts (988908)"},
+    {"horse_id": "hrs_64102423", "horse": "No Time Faults", "chance_pct": 3.8, "reason": "92-day break, faded last time, held-up style in a steady-pace race"},
+    {"horse_id": "hrs_66494176", "horse": "Mirissa Beach", "chance_pct": 2.8, "reason": "Recent figures 16 lb below current mark"},
+    {"horse_id": "hrs_64812776", "horse": "Chiquitita Bee", "chance_pct": 1.2, "reason": "Fig 0 last time, 42 lb below mark, trainer 0 from 17"}
+  ], "checks": []},
+  {"race_id": "rac_32305849095", "changes": [
+    {"horse_id": "hrs_21666736", "horse": "Go Athletico", "chance_pct": 10.0, "reason": "Trainer 0 from 17 in last 14 days; aged 8 with 6 lb more than average; model 7.8%"},
+    {"horse_id": "hrs_66198846", "horse": "Saint Acclaim", "chance_pct": 10.5, "reason": "Fig 84 last time, 22 lb above field and 12 lb above mark"},
+    {"horse_id": "hrs_55211184", "horse": "My Cubby Bear", "chance_pct": 11.5, "reason": "Form 23 last two, OR 73; model 22.2%"},
+    {"horse_id": "hrs_42912933", "horse": "Carrigans Grove", "chance_pct": 9.0, "reason": "Held-up style in a steady-pace race"},
+    {"horse_id": "hrs_43951131", "horse": "Blue Anthem", "chance_pct": 7.0, "reason": "Held up into steady pace, figs below field average, trainer 0 from 17"},
+    {"horse_id": "hrs_57622173", "horse": "Sovereign Cry", "chance_pct": 3.8, "reason": "Recent figures 8 lb below mark, poor finishes, held up into steady pace"},
+    {"horse_id": "hrs_52451931", "horse": "Leonie", "chance_pct": 1.3, "reason": "Faded 7.3% last time, eighth last two, 134 lb from stall 15"}
+  ], "checks": [
+    {"horse_id": "hrs_21666736", "horse": "Go Athletico", "verdict": "SKIP", "reason": "Trainer 0 from 17 in last 14 days and model only 7.8%"}
+  ]},
+  {"race_id": "rac_32305851032", "changes": [
+    {"horse_id": "hrs_30096731", "horse": "Not Just Any Eagle", "chance_pct": 17.5, "reason": "Habitual leader likely to be taken on with three front-runners in a strong pace"},
+    {"horse_id": "hrs_41171823", "horse": "Murat", "chance_pct": 14.5, "reason": "86-day absence and a front-runner in a contested lead; ninth last time"},
+    {"horse_id": "hrs_43797138", "horse": "Delta", "chance_pct": 6.0, "reason": "Likely taken on for lead, 63 days off, trainer 0 from 15"},
+    {"horse_id": "hrs_49389263", "horse": "Glenroyal", "chance_pct": 6.8, "reason": "Unplaced in three of last four, 61 days off"},
+    {"horse_id": "hrs_36614963", "horse": "Tatateo", "chance_pct": 4.0, "reason": "Poor recent finishes, faded last time, trainer 0 from 15"},
+    {"horse_id": "hrs_46697343", "horse": "Mister Adam", "chance_pct": 3.8, "reason": "Recent figures 8 lb below current mark"}
+  ], "checks": [
+    {"horse_id": "hrs_30096731", "horse": "Not Just Any Eagle", "verdict": "SKIP", "reason": "Pace against: front-runner likely to be taken on for the lead"}
+  ]},
+  {"race_id": "rac_32305852969", "changes": [
+    {"horse_id": "hrs_42943698", "horse": "Bye Bye Now", "chance_pct": 19.5, "reason": "Only habitual front-runner, may get an uncontested lead over 5f"},
+    {"horse_id": "hrs_53960053", "horse": "One Cool Bear", "chance_pct": 18.0, "reason": "Best fig 63, 15 lb above field average, placed in two of last three at C&D"},
+    {"horse_id": "hrs_53841081", "horse": "The Love Machine", "chance_pct": 11.5, "reason": "51 days off, unplaced and faded last time"},
+    {"horse_id": "hrs_30208178", "horse": "Phil's Dream", "chance_pct": 4.3, "reason": "Recent figures 8 lb below mark, trainer 0 from 17"},
+    {"horse_id": "hrs_31188213", "horse": "Hasiyna", "chance_pct": 3.4, "reason": "Best fig 31, 17 lb below field average, poor finishes"},
+    {"horse_id": "hrs_17389460998", "horse": "Gaineamh Min", "chance_pct": 3.0, "reason": "Figures 6 lb below mark, poor recent finishes"}
+  ], "checks": [
+    {"horse_id": "hrs_42943698", "horse": "Bye Bye Now", "verdict": "BET", "reason": "Lone leader with best fig 6 lb above field; no specific reason to doubt"}
+  ]},
+  {"race_id": "rac_32305854906", "changes": [
+    {"horse_id": "hrs_43951047", "horse": "Flying Fortress", "chance_pct": 13.5, "reason": "Won last time over C&D with fig 74, 13 lb above field average"},
+    {"horse_id": "hrs_53960032", "horse": "Love Orchid", "chance_pct": 10.5, "reason": "Fig 72 second over C&D last time, first-time cheekpieces"},
+    {"horse_id": "hrs_55764506", "horse": "A Pretty Penny", "chance_pct": 4.5, "reason": "Lone leader, may get an uncontested lead"},
+    {"horse_id": "hrs_36665132", "horse": "Tribal Moon", "chance_pct": 6.8, "reason": "Poor recent finishes, declining figs 64-59-53"},
+    {"horse_id": "hrs_17389581986", "horse": "Emily Estherfaye", "chance_pct": 1.8, "reason": "Recent figures 22 lb below mark, trainer 0 from 16"},
+    {"horse_id": "hrs_17392594170", "horse": "Rosanella", "chance_pct": 1.6, "reason": "OR 19 lb below field average, poor finishes"}
+  ], "checks": [
+    {"horse_id": "hrs_42451878", "horse": "Movin And Groovin", "verdict": "BET", "reason": "Won C&D last time, fit after 16 days; no specific negative on card"}
+  ]}
+]}

@@ -1,0 +1,61 @@
+{"meeting": "southwell_aw", "races": [
+  {"race_id": "rac_32305740623", "changes": [
+    {"horse_id": "hrs_53359635", "horse": "Beckford's Folly", "chance_pct": 17.0, "reason": "Returns from 209-day break after being unplaced in last two (8th, 11th); model only 9.8%."},
+    {"horse_id": "hrs_42943852", "horse": "Crestofdistinction", "chance_pct": 21.5, "reason": "Won last time (fig 113), fresh at 20 days, prominent racer suits expected slow pace."},
+    {"horse_id": "hrs_22372042", "horse": "Montassib", "chance_pct": 14.0, "reason": "Hold-up horse in a race with a steady gallop expected; 8yo winless in last five."},
+    {"horse_id": "hrs_32499964", "horse": "Partisan Hero", "chance_pct": 5.0, "reason": "75-day absence and poor recent finishing positions (7th, 15th, 12th)."},
+    {"horse_id": "hrs_39961502", "horse": "Ain't Nobody", "chance_pct": 7.5, "reason": "Upward curve (3rd, 2nd), prominent style suits slow pace; model 12.3%."}
+  ], "checks": [
+    {"horse_id": "hrs_53359635", "horse": "Beckford's Folly", "verdict": "SKIP", "reason": "209 days off and unplaced on last two runs give a specific reason to doubt the favourite."}
+  ]},
+  {"race_id": "rac_32305742560", "changes": [
+    {"horse_id": "hrs_35828240", "horse": "By The Book", "chance_pct": 11.0, "reason": "First-time cheekpieces, trainer 5/10 in 14 days, consistent placings; model 20%."}
+  ], "checks": []},
+  {"race_id": "rac_32305744497", "changes": [
+    {"horse_id": "hrs_46944569", "horse": "Lili Marleen", "chance_pct": 12.5, "reason": "Course-and-distance form 2nd and 1st at Southwell 8f in October; model 14.4%."},
+    {"horse_id": "hrs_52117331", "horse": "Boy Named Sioux", "chance_pct": 10.0, "reason": "Trainer 0/14 in last 14 days and only one placing in last six; model 6.8%."},
+    {"horse_id": "hrs_30765105", "horse": "Tasever", "chance_pct": 6.5, "reason": "Trainer 0/15 in last 14 days and poor recent finishing positions."},
+    {"horse_id": "hrs_29906261", "horse": "Double Time", "chance_pct": 2.5, "reason": "Recent figures 16 lb below mark, best fig 42, poor recent finishes."},
+    {"horse_id": "hrs_20977691", "horse": "Fools Rush In", "chance_pct": 3.3, "reason": "Recent figures 7 lb below current mark; 9th and 10th last two."},
+    {"horse_id": "hrs_29842631", "horse": "Bass Player", "chance_pct": 2.5, "reason": "Returns from a 155-day break."}
+  ], "checks": [
+    {"horse_id": "hrs_42846776", "horse": "El Fox", "verdict": "BET", "reason": "Two-race winning streak including Southwell 8f, best recent fig 59 tops field; cold trainer is the only negative."}
+  ]},
+  {"race_id": "rac_32305746434", "changes": [], "checks": [
+    {"horse_id": "hrs_17396119510", "horse": "Southover Gardens", "verdict": "BET", "reason": "Debutant with no specific negative on the card; trainer 3/25 is neutral."}
+  ]},
+  {"race_id": "rac_32305748371", "changes": [
+    {"horse_id": "hrs_17394744836", "horse": "So This Is Love", "chance_pct": 15.0, "reason": "Fig 66 is 21 lb above field average, first-time cheekpieces, trainer 5/10 in 14 days."},
+    {"horse_id": "hrs_17394903372", "horse": "Princess Aurelia", "chance_pct": 1.8, "reason": "Debut fig 52 is 7 lb above field average."}
+  ], "checks": []},
+  {"race_id": "rac_32305750308", "changes": [
+    {"horse_id": "hrs_17396122639", "horse": "Ezz Al Leith", "chance_pct": 22.0, "reason": "Unraced and trainer 0/11 in last 14 days against a rival with established superior figures."},
+    {"horse_id": "hrs_17390534245", "horse": "Flick of An Eye", "chance_pct": 27.0, "reason": "Best fig 69 is 17 lb above field, 2nd over C&D-type at Southwell last time, first-time cheekpieces, trainer 5/10; model 36.7%."},
+    {"horse_id": "hrs_17394654095", "horse": "Baysline", "chance_pct": 7.5, "reason": "Only fig 40 is 12 lb below field average."}
+  ], "checks": [
+    {"horse_id": "hrs_17396122639", "horse": "Ezz Al Leith", "verdict": "SKIP", "reason": "Cold trainer (0/11) and a debutant facing Flick of An Eye with a fig 17 lb above field."}
+  ]},
+  {"race_id": "rac_32305752245", "changes": [
+    {"horse_id": "hrs_27794781", "horse": "Blackjack", "chance_pct": 3.0, "reason": "Lone habitual front-runner who may get an easy lead, recent Southwell win; but OR 18 lb below field caps it."},
+    {"horse_id": "hrs_35040019", "horse": "Betsen", "chance_pct": 9.5, "reason": "Yard 2/39 in 14 days and poor recent finishing positions (8th, 11th)."},
+    {"horse_id": "hrs_36416485", "horse": "Buzz Box", "chance_pct": 5.5, "reason": "Poor recent finishes and 99-day break."}
+  ], "checks": []},
+  {"race_id": "rac_32305754182", "changes": [
+    {"horse_id": "hrs_55947675", "horse": "Saxophonic", "chance_pct": 36.0, "reason": "Best fig 63 is 17 lb above field and recent figures 4 lb above mark (well handicapped)."},
+    {"horse_id": "hrs_42452067", "horse": "Storm On Jura", "chance_pct": 7.0, "reason": "Recent figures 9 lb below mark and hold-up style versus steady pace expected."},
+    {"horse_id": "hrs_51244340", "horse": "Dollar's Dream", "chance_pct": 5.5, "reason": "Recent figures 13 lb below mark; 10th in last two."},
+    {"horse_id": "hrs_28637623", "horse": "Neddies Boy", "chance_pct": 4.5, "reason": "Recent figures 14 lb below mark, hold-up horse in slow-pace race."},
+    {"horse_id": "hrs_40553604", "horse": "Katana", "chance_pct": 1.8, "reason": "Carries 139 lb, figures 10 lb below mark, poor recent finishes."},
+    {"horse_id": "hrs_33729864", "horse": "Fashionelle", "chance_pct": 2.5, "reason": "Returns from 213-day break with fading form."},
+    {"horse_id": "hrs_53602024", "horse": "Angelardo", "chance_pct": 2.5, "reason": "161-day break and faded (-10.3% finishing speed) last time."}
+  ], "checks": []},
+  {"race_id": "rac_32306095094", "changes": [
+    {"horse_id": "hrs_28221466", "horse": "Urban Road", "chance_pct": 8.0, "reason": "Winless in six with three straight 7ths, hold-up horse in slow-pace race; model 6.3%."},
+    {"horse_id": "hrs_23264549", "horse": "It's A Love Thing", "chance_pct": 8.5, "reason": "Won last time at 12f, prominent style suits slow pace, trainer 6/29 in 14 days."},
+    {"horse_id": "hrs_24734906", "horse": "Sisterandbrother", "chance_pct": 1.8, "reason": "Recent figures 14 lb below mark, hold-up in slow pace."},
+    {"horse_id": "hrs_33789826", "horse": "Palazzo Persico", "chance_pct": 1.3, "reason": "Faded last time (-8.1%), 15th of 15, yard 2/39."},
+    {"horse_id": "hrs_31451378", "horse": "Light Speed", "chance_pct": 5.0, "reason": "Winless in last five and top weight 156 lb."}
+  ], "checks": [
+    {"horse_id": "hrs_47162038", "horse": "Spec of Light", "verdict": "BET", "reason": "Back-to-back Southwell 11f wins, finished strongly last time; no specific negative on the card."}
+  ]}
+]}

@@ -1,0 +1,66 @@
+{"meeting": "newbury", "races": [
+  {"race_id": "rac_32306093157", "changes": [
+    {"horse_id": "hrs_62549193", "horse": "Prince Rupert", "chance_pct": 35.0, "reason": "Returns from 258-day break with only 1 run in data; model 19.6% well below market"},
+    {"horse_id": "hrs_44975161", "horse": "Lover Desbois", "chance_pct": 17.0, "reason": "First run over hurdles after a 251-day break"},
+    {"horse_id": "hrs_56559335", "horse": "Midnight Escape", "chance_pct": 3.3, "reason": "Best recent hurdle figure 111, 7 lb above field average, and finished strongly 26 days ago"},
+    {"horse_id": "hrs_17394787599", "horse": "Burk Flight", "chance_pct": 1.35, "reason": "Prominent racer (led 38%) in a slow/tactical race that favours prominent runners"},
+    {"horse_id": "hrs_63202769", "horse": "Island Getaway", "chance_pct": 0.7, "reason": "First-time hood after wind surgery"},
+    {"horse_id": "hrs_64522955", "horse": "Cool Million", "chance_pct": 0.4, "reason": "Faded last time (-10.0%) and hold-up style unsuited by steady pace"},
+    {"horse_id": "hrs_412693407", "horse": "Lady Kluck", "chance_pct": 1.0, "reason": "Returns from a 586-day break"}
+  ], "checks": []},
+  {"race_id": "rac_32305727064", "changes": [
+    {"horse_id": "hrs_58099447", "horse": "Tally Ho Back", "chance_pct": 15.0, "reason": "261-day break, first run over hurdles, model only 5.3%"},
+    {"horse_id": "hrs_62941116", "horse": "Duhallow Storm", "chance_pct": 5.5, "reason": "Won last time with figure 108, 5 lb above field average, finished strongly; prominent style suits slow pace"},
+    {"horse_id": "hrs_59862523", "horse": "Plan de Stan", "chance_pct": 1.4, "reason": "Fell on last run, his only hurdle start"},
+    {"horse_id": "hrs_17393184508", "horse": "Days of Joy", "chance_pct": 0.3, "reason": "Pulled up last time and hold-up style unsuited by steady pace"}
+  ], "checks": []},
+  {"race_id": "rac_32305729001", "changes": [
+    {"horse_id": "hrs_50433131", "horse": "Hardly Surprising", "chance_pct": 28.0, "reason": "Won last time, trainer 2/5 in 14 days, carries 11 lb less than average; model 36.2%"},
+    {"horse_id": "hrs_52267257", "horse": "Masked Man", "chance_pct": 19.0, "reason": "Fell last time and 9th before that; first run over fences"},
+    {"horse_id": "hrs_38417561", "horse": "Country Mile", "chance_pct": 20.0, "reason": "Lone habitual front-runner likely to get an uncontested lead; top-rated (OR 137)"}
+  ], "checks": []},
+  {"race_id": "rac_32305730938", "changes": [
+    {"horse_id": "hrs_59367301", "horse": "Koala Rose", "chance_pct": 40.0, "reason": "Best hurdle figure 64 is 21 lb below field average; model 11.1%"},
+    {"horse_id": "hrs_53841046", "horse": "Espritroyale", "chance_pct": 12.5, "reason": "Won last time with hurdle figure 102, 17 lb above field average"},
+    {"horse_id": "hrs_60818436", "horse": "Echo Valley", "chance_pct": 6.5, "reason": "Won last time with hurdle figure 96, 11 lb above field average"},
+    {"horse_id": "hrs_58745225", "horse": "Red Moon", "chance_pct": 1.5, "reason": "Hurdle figure 86 is around field average, better than her price suggests"}
+  ], "checks": []},
+  {"race_id": "rac_32305732875", "changes": [
+    {"horse_id": "hrs_49757792", "horse": "Taurus Bay", "chance_pct": 40.0, "reason": "Won last time with chase figure 145, 11 lb above field average, 20 days ago"},
+    {"horse_id": "hrs_32733491", "horse": "Favour And Fortune", "chance_pct": 9.5, "reason": "Chase figure 138, 4 lb above field average, on last run"},
+    {"horse_id": "hrs_41190121", "horse": "Catchintsavo", "chance_pct": 4.5, "reason": "Best recent figure 112, 22 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305734812", "changes": [
+    {"horse_id": "hrs_37807133", "horse": "Kap Ouest", "chance_pct": 31.0, "reason": "Returns from a 266-day break; OR 125 is 12 lb below field average; model 18.6%"},
+    {"horse_id": "hrs_27698342", "horse": "Etalon", "chance_pct": 12.0, "reason": "Recent figures 10 lb below current mark; winless in last five"},
+    {"horse_id": "hrs_24638887", "horse": "Teddy Blue", "chance_pct": 9.5, "reason": "8th last time and jumping mistakes in 2 of last 5 runs"},
+    {"horse_id": "hrs_29509004", "horse": "Issar d'Airy", "chance_pct": 8.5, "reason": "Returns from a 391-day break after an 8th last time"},
+    {"horse_id": "hrs_21955059", "horse": "Gemirande", "chance_pct": 5.0, "reason": "602-day break and trainer 0/11 in last 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32305736749", "changes": [
+    {"horse_id": "hrs_50188446", "horse": "Soldier Reeves", "chance_pct": 15.5, "reason": "Hold-up horse in a slow/tactical race; 230-day break; model 6.1%"},
+    {"horse_id": "hrs_38288460", "horse": "Ma Shantou", "chance_pct": 10.5, "reason": "Faded last time (-11.1%, 8th) and returns from 260-day break"},
+    {"horse_id": "hrs_32538835", "horse": "Impose Toi", "chance_pct": 10.0, "reason": "Fell last time and pulled up before that, plus 230-day break"},
+    {"horse_id": "hrs_30096829", "horse": "Strong Leader", "chance_pct": 12.0, "reason": "Won last time 27 days ago with figure 154, the best recent hurdle figure shown; race-fit against absentees"},
+    {"horse_id": "hrs_35767767", "horse": "Lud'or", "chance_pct": 4.8, "reason": "Won last time at 3m+, prominent style suits slow pace; model 18.6%"},
+    {"horse_id": "hrs_29117284", "horse": "Supremely West", "chance_pct": 1.0, "reason": "Pulled up last time; hold-up style unsuited by steady pace"},
+    {"horse_id": "hrs_27997151", "horse": "Thomas Mor", "chance_pct": 1.6, "reason": "Hold-up style unsuited by steady pace; 261-day break"},
+    {"horse_id": "hrs_29212862", "horse": "Caldwell Potter", "chance_pct": 4.5, "reason": "Returns from a 602-day break"}
+  ], "checks": [
+    {"horse_id": "hrs_50666882", "horse": "Le Frimeur", "verdict": "BET", "reason": "Four straight wins and prominent style suits slow pace; 212-day break is shared by most main rivals"}
+  ]},
+  {"race_id": "rac_32305738686", "changes": [
+    {"horse_id": "hrs_38580591", "horse": "Western Monkey", "chance_pct": 14.0, "reason": "7th last time (fig 122); model only 6.1%"},
+    {"horse_id": "hrs_37589286", "horse": "Alentejo", "chance_pct": 11.5, "reason": "224-day break; DATA shows poor recent finishing positions and a pulled up"},
+    {"horse_id": "hrs_29226547", "horse": "Lihyan", "chance_pct": 11.5, "reason": "Winless in last five, no better than 4th; trainer 0/10 in 14 days"},
+    {"horse_id": "hrs_34789769", "horse": "Geezer Rockstar", "chance_pct": 10.5, "reason": "Won last two starts, finished strongly, trainer 2/5 in 14 days"},
+    {"horse_id": "hrs_29409646", "horse": "Deep Cave", "chance_pct": 4.8, "reason": "Recent figures 8 lb below current mark; poor recent finishing positions"},
+    {"horse_id": "hrs_30967356", "horse": "Wonderful Eagle", "chance_pct": 4.3, "reason": "Returns from a 637-day break under 161 lb"},
+    {"horse_id": "hrs_32709537", "horse": "Isaac des Obeaux", "chance_pct": 3.3, "reason": "Top weight 169 lb after 223-day break; jumping mistakes in 2 of last 3"},
+    {"horse_id": "hrs_32709600", "horse": "Inoui Machin", "chance_pct": 2.0, "reason": "Returns from a 743-day break"},
+    {"horse_id": "hrs_29522556", "horse": "Moonset", "chance_pct": 1.1, "reason": "Pulled up in last two starts"},
+    {"horse_id": "hrs_29509879", "horse": "Blizzard of Oz", "chance_pct": 0.9, "reason": "Faded last time (-6.3%) with poor recent finishing positions"}
+  ], "checks": [
+    {"horse_id": "hrs_50590421", "horse": "Harbour Light", "verdict": "BET", "reason": "Four-race winning streak, 20 days since last run, carries 6 lb less than average; model 19.4% supports"}
+  ]}
+]}

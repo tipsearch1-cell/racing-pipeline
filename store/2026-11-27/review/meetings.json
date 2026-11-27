@@ -1,0 +1,37 @@
+{
+ "newbury": {
+  "course": "Newbury",
+  "in": "/home/claude/racing-pipeline/store/2026-11-27/review/in_newbury.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-27/review/out_newbury.json",
+  "races": 8,
+  "checks": 2
+ },
+ "musselburgh": {
+  "course": "Musselburgh",
+  "in": "/home/claude/racing-pipeline/store/2026-11-27/review/in_musselburgh.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-27/review/out_musselburgh.json",
+  "races": 7,
+  "checks": 3
+ },
+ "doncaster": {
+  "course": "Doncaster",
+  "in": "/home/claude/racing-pipeline/store/2026-11-27/review/in_doncaster.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-27/review/out_doncaster.json",
+  "races": 7,
+  "checks": 2
+ },
+ "southwell_aw": {
+  "course": "Southwell (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-27/review/in_southwell_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-27/review/out_southwell_aw.json",
+  "races": 9,
+  "checks": 5
+ },
+ "dundalk_aw": {
+  "course": "Dundalk (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-27/review/in_dundalk_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-27/review/out_dundalk_aw.json",
+  "races": 7,
+  "checks": 6
+ }
+}

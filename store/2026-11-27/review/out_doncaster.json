@@ -1,0 +1,41 @@
+{"meeting": "doncaster", "races": [
+  {"race_id": "rac_32305717379", "changes": [
+    {"horse_id": "hrs_31479336", "horse": "Palamon", "chance_pct": 40.0, "reason": "Won last time; best figure 129 and OR 131 both 8 lb above field average; trainer 23/95 in 14 days"},
+    {"horse_id": "hrs_49325913", "horse": "Kent de Thaix", "chance_pct": 35.0, "reason": "Only chase figure 119 is 10 lb below Palamon's 129; pulled up in 1 of last 5 and carries 155 lb"},
+    {"horse_id": "hrs_33660928", "horse": "Kayf Dancer", "chance_pct": 23.0, "reason": "Best figure 116 and OR 117 below field average; jumping mistakes in 2 of last 5 runs"}
+  ], "checks": []},
+  {"race_id": "rac_32305713505", "changes": [
+    {"horse_id": "hrs_17396108037", "horse": "Jubilate", "chance_pct": 10.0, "reason": "Trainer 0 wins from 10 runs in last 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_17393682019", "horse": "Invino Honnetete", "verdict": "BET", "reason": "Last-time-out winner, first-time hood, trainer 2/7 in 14 days; no specific negative on the card beyond a 50-day break"}
+  ]},
+  {"race_id": "rac_32305715442", "changes": [
+    {"horse_id": "hrs_65287229", "horse": "Matty's Mate", "chance_pct": 58.0, "reason": "Returns from a 177-day break with only one run (NH Flat) in the data"},
+    {"horse_id": "hrs_64523277", "horse": "Masterius", "chance_pct": 22.0, "reason": "Prominent racer (led 29% of runs) suits the expected slow/tactical pace; consistent form 22314"}
+  ], "checks": []},
+  {"race_id": "rac_32305719316", "changes": [
+    {"horse_id": "hrs_33547703", "horse": "Toothless", "chance_pct": 26.5, "reason": "Race comments mention jumping mistakes in 3 of last 5 runs; carries 163 lb"},
+    {"horse_id": "hrs_29593011", "horse": "Cuban Court", "chance_pct": 22.0, "reason": "Best figure 111 is 8 lb below field average and OR 114 is 12 lb below"},
+    {"horse_id": "hrs_32683301", "horse": "Bowmore", "chance_pct": 15.0, "reason": "First run over fences in our data; winless in last five"},
+    {"horse_id": "hrs_34760047", "horse": "Primoz", "chance_pct": 11.0, "reason": "Recent figures 9 lb below current mark; faded last time (-3.1% finishing speed); fell/unseated in 1 of last 5"},
+    {"horse_id": "hrs_35218302", "horse": "Jaipaletemps", "chance_pct": 7.0, "reason": "Recent figures 8 lb below current mark and faded last time (-4.9% finishing speed)"}
+  ], "checks": [
+    {"horse_id": "hrs_33547703", "horse": "Toothless", "verdict": "SKIP", "reason": "Jumping mistakes in 3 of last 5 runs is a specific doubt in a chase, plus top weight 163 lb"}
+  ]},
+  {"race_id": "rac_32305721253", "changes": [
+    {"horse_id": "hrs_50187837", "horse": "River Glance", "chance_pct": 12.0, "reason": "Best figure 71 is 16 lb below field average; jumping mistakes in 2 of last 4 runs"},
+    {"horse_id": "hrs_64621466", "horse": "Moi Mon Vieux", "chance_pct": 8.5, "reason": "Recent figures 5 lb above current mark (looks well handicapped); third last time"}
+  ], "checks": []},
+  {"race_id": "rac_32305723190", "changes": [
+    {"horse_id": "hrs_61911598", "horse": "Anxious Moments", "chance_pct": 33.0, "reason": "Recent figures 9 lb below current mark after two wins; 162 lb off OR 92"},
+    {"horse_id": "hrs_57439228", "horse": "Thesoldiersminit", "chance_pct": 24.0, "reason": "Best figure 90, 7 lb above field average and highest in the race; finished strongly when second last time"},
+    {"horse_id": "hrs_412652912", "horse": "Snapaudaciaheros", "chance_pct": 6.5, "reason": "Trainer 0 wins from 10 runs in last 14 days"},
+    {"horse_id": "hrs_48700470", "horse": "Bouboule", "chance_pct": 7.5, "reason": "Recent figures 4 lb above current mark; creeping closer (third, fourth) with 11 lb less than average"}
+  ], "checks": []},
+  {"race_id": "rac_32305725127", "changes": [
+    {"horse_id": "hrs_58565304", "horse": "Sledgehammer", "chance_pct": 42.0, "reason": "Chase winner having first run over hurdles; jumping mistakes in 2 of last 5; hold-up style vs slow pace; ran 3 days ago"},
+    {"horse_id": "hrs_50188873", "horse": "Johnny Moonshine", "chance_pct": 20.0, "reason": "Best figure 110, 8 lb above field average; recent figures 6 lb above current mark"},
+    {"horse_id": "hrs_52451658", "horse": "Biglesisback", "chance_pct": 22.0, "reason": "Consistent seconds and finished strongly last time (+3.3% finishing speed)"},
+    {"horse_id": "hrs_31996251", "horse": "Vaguely Royal", "chance_pct": 9.0, "reason": "Recent runs all on the Flat, first run over hurdles in our data; hold-up style vs slow pace"}
+  ], "checks": []}
+]}

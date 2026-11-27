@@ -1,0 +1,8 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian
+Frankie,Nobotheratall,WIN,2026-11-27 14:32:00,BACK,2.85,false,Musselburgh,14:32,Jumps,3.0
+Frankie,Le Frimeur,WIN,2026-11-27 15:00:00,BACK,3.8,false,Newbury,15:00,Jumps,4.0
+Frankie,Lillistar,WIN,2026-11-27 15:07:00,BACK,4.75,false,Musselburgh,15:07,Jumps,5.0
+Frankie,Harbour Light,WIN,2026-11-27 15:35:00,BACK,4.75,false,Newbury,15:35,Jumps,5.0
+Frankie,El Fox,WIN,2026-11-27 15:45:00,BACK,4.27,false,Southwell (AW),15:45,Flat,4.5
+Frankie,Spec of Light,WIN,2026-11-27 18:45:00,BACK,5.22,false,Southwell (AW),18:45,Flat,5.5
+Frankie,Bye Bye Now,WIN,2026-11-27 20:00:00,BACK,4.27,false,Dundalk (AW),20:00,Flat,4.5

@@ -1,0 +1,48 @@
+{"meeting": "musselburgh", "races": [
+  {"race_id": "rac_32305756119", "changes": [
+    {"horse_id": "hrs_57717947", "horse": "Guevara", "chance_pct": 36.0, "reason": "Returns from a 145-day break, unraced in our data, and trainer 0/3 in last 14 days"},
+    {"horse_id": "hrs_57255142", "horse": "Elm Creek", "chance_pct": 29.0, "reason": "Best hurdle fig 101 is 13 lb above field average and finished strongly last time (form 33)"},
+    {"horse_id": "hrs_55634229", "horse": "Shushi", "chance_pct": 17.0, "reason": "Best hurdle fig 83 is 5 lb below field average, 7th last time"},
+    {"horse_id": "hrs_52709783", "horse": "Phantom Shadow", "chance_pct": 5.5, "reason": "Flat winner at Ayr in July; form model rates him 24.1%, though first run over hurdles"},
+    {"horse_id": "hrs_57718696", "horse": "Al Qatem", "chance_pct": 0.5, "reason": "Fig 79 is 9 lb below field average, poor finishes, and held up into a likely steady pace"}
+  ], "checks": []},
+  {"race_id": "rac_32305758056", "changes": [
+    {"horse_id": "hrs_25026316", "horse": "Carcaci Castle", "chance_pct": 18.0, "reason": "Trainer 2/5 in last 14 days; fig 97 and OR 100 both above field average"},
+    {"horse_id": "hrs_37576770", "horse": "Too Cool Forshrule", "chance_pct": 7.5, "reason": "Pulled up, unseated, pulled up in his last three (form U1PU-P)"},
+    {"horse_id": "hrs_24555363", "horse": "Huit Reflets", "chance_pct": 10.0, "reason": "Winless in six; best fig 83 is 9 lb below and OR 80 is 15 lb below field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305759993", "changes": [
+    {"horse_id": "hrs_52204572", "horse": "Novak", "chance_pct": 62.0, "reason": "Returns from a 181-day break and makes his first start over hurdles in our data"},
+    {"horse_id": "hrs_40787278", "horse": "Hunters Spring", "chance_pct": 8.0, "reason": "Jumping mistakes in 2 of last 5, plus a fall/unseat and a pull-up; fig 90 below field average"},
+    {"horse_id": "hrs_30908514", "horse": "Falcon Nine", "chance_pct": 3.2, "reason": "Trainer 0/13 in last 14 days, first time over hurdles, and held up into a likely steady pace"},
+    {"horse_id": "hrs_51373721", "horse": "Tee Aitch Aye", "chance_pct": 3.3, "reason": "Trainer 0/13 in last 14 days and first time over hurdles"}
+  ], "checks": []},
+  {"race_id": "rac_32305761930", "changes": [
+    {"horse_id": "hrs_53181443", "horse": "Iamyouare", "chance_pct": 44.0, "reason": "Won her last two (form 3F2211); best fig 116 is 8 lb above field average and she finished strongly"},
+    {"horse_id": "hrs_34775006", "horse": "Snowrocco", "chance_pct": 23.0, "reason": "Only habitual front-runner, so she may get an uncontested lead; 2nd last time, fig 110"},
+    {"horse_id": "hrs_48006042", "horse": "Gintime", "chance_pct": 25.0, "reason": "Best fig 97 and OR 98 are both 10 lb below field average"},
+    {"horse_id": "hrs_50622649", "horse": "A Chara", "chance_pct": 11.0, "reason": "Wears cheekpieces for the first time"}
+  ], "checks": []},
+  {"race_id": "rac_32305763867", "changes": [
+    {"horse_id": "hrs_59367245", "horse": "Masterfield", "chance_pct": 25.0, "reason": "Jumping mistakes in 2 of last 4 runs and fell in 1 of last 4; form model only 14.2%"},
+    {"horse_id": "hrs_35243250", "horse": "Magnolia", "chance_pct": 20.0, "reason": "Best fig 110 is 8 lb above and OR 109 is 6 lb above field average, consistent placings; first time over fences"},
+    {"horse_id": "hrs_49757890", "horse": "Laristote", "chance_pct": 25.0, "reason": "Best fig 96 is 6 lb below and OR 98 is 5 lb below field average; 5th last time"}
+  ], "checks": [
+    {"horse_id": "hrs_59367245", "horse": "Masterfield", "verdict": "SKIP", "reason": "Jumping errors (mistakes in 2 of last 4, a fall) in a chase give a specific reason to doubt him"}
+  ]},
+  {"race_id": "rac_32305765804", "changes": [
+    {"horse_id": "hrs_40553723", "horse": "Saint Polo", "chance_pct": 19.0, "reason": "Form 111331; best fig 112 is 8 lb above field average, won last time and finished strongly"},
+    {"horse_id": "hrs_22523781", "horse": "Gemini Man", "chance_pct": 15.0, "reason": "Pulled up last time over hurdles and trainer 0/13 in last 14 days"},
+    {"horse_id": "hrs_44015860", "horse": "Bruce Banner", "chance_pct": 18.0, "reason": "Trainer 0/10 in last 14 days; pulled up in 1 of his last 2 jumps runs"}
+  ], "checks": [
+    {"horse_id": "hrs_51341444", "horse": "Nobotheratall", "verdict": "BET", "reason": "Won last time (fig 102) and is the lone front-runner; jumping mistakes are a minor worry, not enough to skip"}
+  ]},
+  {"race_id": "rac_32305767741", "changes": [
+    {"horse_id": "hrs_45982223", "horse": "Walk On Son", "chance_pct": 11.0, "reason": "Jumping mistakes in 2 of last 5, plus an unseat and a pull-up (form 8-4PU4)"},
+    {"horse_id": "hrs_28592487", "horse": "Lone Star", "chance_pct": 15.0, "reason": "Winless recent run, 7th last time; best fig 82 is 8 lb below field average"},
+    {"horse_id": "hrs_21326921", "horse": "Evenwood Sonofagun", "chance_pct": 9.0, "reason": "Recent 7th and 8th; held up into a likely steady pace while carrying 163 lb"},
+    {"horse_id": "hrs_29509676", "horse": "National Question", "chance_pct": 5.5, "reason": "Faded last time (-4.3% finishing speed) and held up into a likely steady pace"}
+  ], "checks": [
+    {"horse_id": "hrs_33302500", "horse": "Lillistar", "verdict": "BET", "reason": "Won last time over this trip and finished strongly, with good recent placings; no specific reason to doubt her"}
+  ]}
+]}
