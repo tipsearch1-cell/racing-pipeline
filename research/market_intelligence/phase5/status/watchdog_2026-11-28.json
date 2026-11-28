@@ -1,0 +1,20 @@
+{
+  "day": "2026-11-28",
+  "checked_utc": "2026-11-28T10:24:36Z",
+  "files_present": [
+    "store/2026-11-28/sealed_card.json.gz",
+    "research/market_intelligence/phase3/archive/archive_data/2026-11-28/phase5/components.json.gz",
+    "research/market_intelligence/phase3/archive/archive_data/2026-11-28/phase5/pred_0900.json.gz",
+    "research/market_intelligence/phase3/archive/archive_data/2026-11-28/phase5/stamps/f95f6d10d366.json.gz",
+    "research/market_intelligence/phase3/archive/archive_data/2026-11-28/phase5/snapshots/E/20261127T210947Z.json.gz"
+  ],
+  "files_missing": [],
+  "verify": {"ok": true, "archive_integrity_failures": 0, "frozen_model_sha256_ok": true, "races": 45, "eligible_0900": 45, "confirmatory_settled": 0, "timestamp_violations": 0, "mapping_errors": 0, "model_hash_discrepancies": 0, "missing_E": 0, "missing_M": 0, "duplicate_snapshots": 0},
+  "schedule": {
+    "build_tomorrow": {"name": "29 Nov 08:35 racing build", "id": "trig_01LVW5XBtwVSe81uwKg2efiy", "next_run_utc": "2026-11-29T08:35:00Z"},
+    "evening_snapshot_task": "enabled",
+    "watchdog_task": "enabled"
+  },
+  "build_chain": "intact",
+  "notes": "Local main was a stale shallow graft (unrelated histories on pull); reset to origin/main before checks."
+}
