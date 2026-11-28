@@ -5,8 +5,11 @@ from sklearn.ensemble import HistGradientBoostingClassifier
 import features as F
 SCR = "/tmp/claude-0/-home-claude/cd2f780b-543c-598d-8d36-a8da908aed77/scratchpad"
 THROUGH = int(sys.argv[1]) if len(sys.argv) > 1 else 2
-BMAX = float(sys.argv[2]) if len(sys.argv) > 2 else 1e9   # liquidity cap on BSP (bets only; the model still trains on all runners)
+BMAX = float(sys.argv[2]) if len(sys.argv) > 2 else 1e9
+FAV = len(sys.argv) > 3 and sys.argv[3] == "fav"   # train and bet on BSP favourites only   # liquidity cap on BSP (bets only; the model still trains on all runners)
 d = pd.read_pickle(f"{SCR}/feat.pkl")
+if FAV:
+    d = d[d.fav_rank == 1].reset_index(drop=True)
 B = d["Betfair SP"].values
 
 def outcomes(kind, x):
@@ -26,10 +29,10 @@ def pl(y, G, c):
 def ev(P, G, c):
     Gc = np.where(G > 0, G * (1 - c), G); return (P * Gc).sum(1)
 
-STRATS = [("btl", .3), ("btl", .5), ("ltb", .5), ("ltb", 1.0)]
+STRATS = [("btl", .2), ("btl", .3), ("btl", .5), ("ltb", .3), ("ltb", .5), ("ltb", 1.0)] if FAV else [("btl", .3), ("btl", .5), ("ltb", .5), ("ltb", 1.0)]
 tr = (d.year <= 2023).values; va = (d.year == 2024).values; te = (d.year >= 2025).values
 X = d[F.FEATS].astype(float).values
-res = {"through_ticks": THROUGH, "bsp_cap": BMAX, "n": {"train": int(tr.sum()), "valid": int(va.sum()), "test": int(te.sum())}, "strategies": {}}
+res = {"through_ticks": THROUGH, "bsp_cap": BMAX, "favourites_only": FAV, "n": {"train": int(tr.sum()), "valid": int(va.sum()), "test": int(te.sum())}, "strategies": {}}
 for kind, x in STRATS:
     name = f"{kind}{int(x*100)}"; y, G = outcomes(kind, x)
     m = HistGradientBoostingClassifier(max_iter=300, learning_rate=0.05, max_leaf_nodes=31, l2_regularization=1.0, random_state=0)
@@ -45,7 +48,7 @@ for kind, x in STRATS:
         best = None
         for tau in (0, .02, .05, .1, .15, .2, .3):
             sel = va & (e > tau)
-            if sel.sum() < 200: continue
+            if sel.sum() < (100 if FAV else 200): continue
             tot = p_all[sel].sum()
             if best is None or tot > best[1]: best = (tau, tot, int(sel.sum()), float(p_all[sel].mean()))
         if best:
@@ -60,4 +63,4 @@ for kind, x in STRATS:
             r[f"select_c{int(c*100)}"] = "no threshold with >=200 validation bets and positive selection"
     res["strategies"][name] = r
     print(name, json.dumps(r)[:900], flush=True)
-json.dump(res, open(f"out_study_t{THROUGH}_cap{int(min(BMAX,9999))}.json", "w"), indent=1)
+json.dump(res, open(f"out_study_t{THROUGH}_cap{int(min(BMAX,9999))}{'_fav' if FAV else ''}.json", "w"), indent=1)

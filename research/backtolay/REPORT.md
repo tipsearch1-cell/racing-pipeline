@@ -34,3 +34,12 @@
 Timestamped in-running prices with traded volume (Betfair historical stream data, or a live capture). With those, fills could be simulated properly and pre-race information timed (e.g. known front-runners) could be tested. Until then, no further work is recommended.
 
 Files: load.py, features.py, study.py (args: fill-through ticks, BSP cap), diag.py, out_*.json.
+
+## Follow-up: favourites only (28 Nov)
+- **Sample:** BSP favourites only, 44,880 runners (median BSP 3.2, win rate 34%).
+- **Method:** six trades (BTL 20/30/50%, LTB 30/50/100%). The models were retrained on favourites, with the same 2020–23 / 2024 / 2025–26 protocol, a 2-tick trade-through and a minimum of 100 validation bets.
+- **All favourites, test 2025–26, 2% commission:** −23% to −28% for every trade.
+- **Fill rates:** every trade gets matched less often than fair pricing implies. For example, BTL 20% is 70% observed against 87% fair, and LTB 100% is 75% against 83%.
+- **Model selection:** no threshold gives a positive selection on 2024, so the model made no picks.
+- **Best tenth of the model's picks (BTL 20%):** 2024 actual −8.8% against a predicted −8.7%; 2025–26 actual −10.1% against a predicted −8.8%. The model is well calibrated, and it says even its best favourites lose.
+- **Verdict:** still no-go.
