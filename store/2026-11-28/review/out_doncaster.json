@@ -1,0 +1,42 @@
+{"meeting": "doncaster", "races": [
+  {"race_id": "rac_32305860717", "changes": [
+    {"horse_id": "hrs_30123037", "horse": "Paddy de Pole", "chance_pct": 42.0, "reason": "Form 2-1 last two, finished strongly last time (+2.8%), trainer 5/28 in 14d, model 47.9%"},
+    {"horse_id": "hrs_21327649", "horse": "Docpickedme", "chance_pct": 30.0, "reason": "Beaten 12th of 16 last time out and carries 5 lb more than average"}
+  ], "checks": []},
+  {"race_id": "rac_32305856843", "changes": [
+    {"horse_id": "hrs_40787243", "horse": "One Knight", "chance_pct": 28.0, "reason": "Best recent figure 89 is 8 lb below field average and unseated in one of last three"},
+    {"horse_id": "hrs_52526194", "horse": "Down To Business", "chance_pct": 32.0, "reason": "Best recent figure 108, 11 lb above field average, and trainer 27/97 in 14d (jumping errors noted)"},
+    {"horse_id": "hrs_17394621762", "horse": "Dancing Soldier", "chance_pct": 16.0, "reason": "Returns from a 363-day break, only partly offset by first-time tongue tie and wind surgery"},
+    {"horse_id": "hrs_50906254", "horse": "Arm's of An Angel", "chance_pct": 15.0, "reason": "Figure 101 last time with strong finish (+2.4%), model 23.2%, though first run over hurdles"}
+  ], "checks": []},
+  {"race_id": "rac_32305858780", "changes": [
+    {"horse_id": "hrs_31479336", "horse": "Palamon", "chance_pct": 32.0, "reason": "Card flags quick return after just one day since last run, plus 9 lb more than average"},
+    {"horse_id": "hrs_47621588", "horse": "Nazare", "chance_pct": 28.0, "reason": "Comment flags 153 lb off a mark of 119 as the main risk"},
+    {"horse_id": "hrs_40996865", "horse": "Fairlawn Skipper", "chance_pct": 23.0, "reason": "Won last time, three wins in last six, carries 5 lb less than average, model 29.9%"},
+    {"horse_id": "hrs_42041650", "horse": "Nardaran", "chance_pct": 10.0, "reason": "Ninth last time, recent figures 9 lb below his mark, first run over fences"}
+  ], "checks": []},
+  {"race_id": "rac_32305862654", "changes": [
+    {"horse_id": "hrs_63390404", "horse": "Queen Alice", "chance_pct": 33.0, "reason": "Returns from a 236-day break with only one run (bumper third), model just 16.2%"},
+    {"horse_id": "hrs_48003809", "horse": "Briery Rose", "chance_pct": 27.0, "reason": "Won last time with figure 104, 8 lb above field average, trainer 3/12 in 14d"},
+    {"horse_id": "hrs_58196635", "horse": "Lady Litigator", "chance_pct": 20.0, "reason": "Consistent recent placings, finished strongly last time (+4.0%), model 42.0%"},
+    {"horse_id": "hrs_49110537", "horse": "La Trinite", "chance_pct": 8.5, "reason": "Best recent hurdle figure 105 is 10 lb above field average"}
+  ], "checks": []},
+  {"race_id": "rac_32305864591", "changes": [
+    {"horse_id": "hrs_57877911", "horse": "Itsinthename", "chance_pct": 9.0, "reason": "Comment says hard to fancy: 5th, PU, 7th, 6th since last win; model 7.0%"},
+    {"horse_id": "hrs_58931166", "horse": "Cotton Socks", "chance_pct": 6.0, "reason": "Best recent figure 91 is 16 lb below field average and figures 9 lb below his mark"}
+  ], "checks": []},
+  {"race_id": "rac_32305866528", "changes": [
+    {"horse_id": "hrs_34845440", "horse": "Camarrate", "chance_pct": 22.0, "reason": "Jumping mistakes in 2 of last 5 and a pulled-up run; figures slipping (105 then 102, 3rd of 4), model 20.0%"},
+    {"horse_id": "hrs_33165153", "horse": "Mumford's Magic", "chance_pct": 22.0, "reason": "Best recent figure 111, 8 lb above field average, trainer 27/97 in 14d"},
+    {"horse_id": "hrs_28903700", "horse": "Copshill Lad", "chance_pct": 15.0, "reason": "Returns from a 207-day absence after finishing sixth last time"},
+    {"horse_id": "hrs_40820402", "horse": "I Am The Moon", "chance_pct": 11.0, "reason": "150-day layoff, faded last time (-7.3%), OR 10 lb below field average"},
+    {"horse_id": "hrs_39568382", "horse": "Getaway Vic", "chance_pct": 10.5, "reason": "Jumping mistakes in 3 of last 5 runs and pulled up two starts back"},
+    {"horse_id": "hrs_51123751", "horse": "Breezethroughlife", "chance_pct": 9.0, "reason": "Recent figures 8 lb below his mark, best figure 12 lb below field average, faded last time"}
+  ], "checks": [
+    {"horse_id": "hrs_34845440", "horse": "Camarrate", "verdict": "SKIP", "reason": "Jumping errors (2 of last 5) plus a PU, and last figure 102 trails Mumford's Magic's 111"}
+  ]},
+  {"race_id": "rac_32305868465", "changes": [
+    {"horse_id": "hrs_17394434022", "horse": "Lady Loki", "chance_pct": 25.0, "reason": "Beat the favourite Ignite The Night in the same Stratford race (2nd vs 3rd), figure 107 is 6 lb above field average"},
+    {"horse_id": "hrs_17393894791", "horse": "Jolanta", "chance_pct": 5.5, "reason": "Trainer 0 wins from 17 runs in the last 14 days, unraced"}
+  ], "checks": []}
+]}

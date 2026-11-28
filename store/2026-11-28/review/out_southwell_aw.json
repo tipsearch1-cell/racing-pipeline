@@ -1,0 +1,71 @@
+{"meeting": "southwell_aw", "races": [
+  {"race_id": "rac_32305889772", "changes": [
+    {"horse_id": "hrs_49142604", "horse": "Levens Hall", "chance_pct": 62.0, "reason": "Returns from a 138-day break and only 2 runs in data; slight trim from short price"},
+    {"horse_id": "hrs_17394098176", "horse": "Beatrice Briannie", "chance_pct": 1.2, "reason": "Held up into a steady pace with weak figures 45/41 at sprint trips"},
+    {"horse_id": "hrs_17395635558", "horse": "Quipster", "chance_pct": 0.9, "reason": "Faded last run (-10.7% finishing speed), finished 9/9"},
+    {"horse_id": "hrs_35938518", "horse": "I Am Legend", "chance_pct": 1.2, "reason": "Returns from a 1255-day break"}
+  ], "checks": []},
+  {"race_id": "rac_32305891709", "changes": [
+    {"horse_id": "hrs_66130638", "horse": "Marsala", "chance_pct": 14.5, "reason": "63 days off and 132lb per comment; held up into a steady pace"},
+    {"horse_id": "hrs_17391344656", "horse": "Thai Baht", "chance_pct": 12.5, "reason": "Last-time winner with fig 73, recent figures 6lb above mark"},
+    {"horse_id": "hrs_17390700082", "horse": "Knightbolt", "chance_pct": 4.5, "reason": "Recent figures 19lb below current mark"},
+    {"horse_id": "hrs_64555421", "horse": "Lion's Den", "chance_pct": 3.5, "reason": "Held up into steady pace and figures 6lb below mark"},
+    {"horse_id": "hrs_62170129", "horse": "Frumoasa", "chance_pct": 1.7, "reason": "Poor recent finishing positions (18/18, 10/12, 6/9)"},
+    {"horse_id": "hrs_17391656513", "horse": "Jeepers Fortune", "chance_pct": 1.2, "reason": "Figures 16lb below mark and trainer 0/10 in 14 days"}
+  ], "checks": [
+    {"horse_id": "hrs_17390697996", "horse": "Arthur Carrot", "verdict": "BET", "reason": "Last-time winner with best fig 77 (12lb above field), prominent style suits slow pace, trainer 7/26; weight concern already priced"}
+  ]},
+  {"race_id": "rac_32306184196", "changes": [
+    {"horse_id": "hrs_50433481", "horse": "Goldwork", "chance_pct": 19.5, "reason": "Best fig 87 is 17lb above field and 6lb above mark, finished strongly when winning"},
+    {"horse_id": "hrs_30123457", "horse": "King of Ithaca", "chance_pct": 7.5, "reason": "Recent figures 20lb below mark, winless in six"},
+    {"horse_id": "hrs_52054415", "horse": "Jellystone Park", "chance_pct": 9.5, "reason": "Only habitual front-runner, may get an easy lead"},
+    {"horse_id": "hrs_45193442", "horse": "Tasdeed", "chance_pct": 8.5, "reason": "65-day break and 136lb off 73 per comment"},
+    {"horse_id": "hrs_35796656", "horse": "Electric Avenue", "chance_pct": 1.7, "reason": "Returns from 213-day break with poor recent form"},
+    {"horse_id": "hrs_53476101", "horse": "Patricia R", "chance_pct": 1.2, "reason": "Recent figures 13lb below mark"},
+    {"horse_id": "hrs_50965026", "horse": "Spy Kingdom", "chance_pct": 0.8, "reason": "Figures 16lb below mark, poor recent finishes"}
+  ], "checks": [
+    {"horse_id": "hrs_50433481", "horse": "Goldwork", "verdict": "BET", "reason": "Last-time winner, figures 6lb above mark and 17lb above field average; no specific doubt on card beyond weight"}
+  ]},
+  {"race_id": "rac_32305893646", "changes": [
+    {"horse_id": "hrs_57590561", "horse": "Venetian Sky", "chance_pct": 11.5, "reason": "Recent figures 10lb below mark and held up into a steady pace"},
+    {"horse_id": "hrs_56843850", "horse": "Mo Anam Chara", "chance_pct": 11.0, "reason": "Best fig 73 (8lb above field) and solid recent form"},
+    {"horse_id": "hrs_50433467", "horse": "Decem Starr", "chance_pct": 11.0, "reason": "Recent figures 10lb below mark, winless in six"},
+    {"horse_id": "hrs_41939156", "horse": "Stenmark", "chance_pct": 10.5, "reason": "Figures 7lb below mark, poor recent finishes"},
+    {"horse_id": "hrs_52862537", "horse": "Seoul Force", "chance_pct": 10.0, "reason": "Returns from a 189-day break"},
+    {"horse_id": "hrs_40919256", "horse": "Glamorous Angela", "chance_pct": 7.0, "reason": "347-day absence raises fitness doubts"},
+    {"horse_id": "hrs_19208154", "horse": "Beauty Choice", "chance_pct": 8.0, "reason": "Recent figures 11lb above mark, prominent style suits slow pace"},
+    {"horse_id": "hrs_64877302", "horse": "Dark Angel Light", "chance_pct": 0.7, "reason": "Recent figures 32lb below mark"}
+  ], "checks": [
+    {"horse_id": "hrs_57590561", "horse": "Venetian Sky", "verdict": "SKIP", "reason": "Figures 10lb below current mark and hold-up style unsuited to expected steady pace"}
+  ]},
+  {"race_id": "rac_32305895583", "changes": [
+    {"horse_id": "hrs_17394083574", "horse": "Unfurled", "chance_pct": 37.0, "reason": "Best fig 70 (9lb above field) and trainer 5/13 in 14 days"},
+    {"horse_id": "hrs_17395879620", "horse": "Al Basos", "chance_pct": 5.8, "reason": "Trainer 0 wins from 14 runs in 14 days"}
+  ], "checks": []},
+  {"race_id": "rac_32305897520", "changes": [
+    {"horse_id": "hrs_17392761050", "horse": "Palms Oasis", "chance_pct": 22.0, "reason": "Last-time course winner, trainer 6/10 in 14 days"},
+    {"horse_id": "hrs_7000000392", "horse": "Longshanks Luke", "chance_pct": 5.0, "reason": "Held up into a steady pace"},
+    {"horse_id": "hrs_65322432", "horse": "Cloud Summit", "chance_pct": 3.4, "reason": "Three straight sixths, rated 5lb below field"},
+    {"horse_id": "hrs_17390484181", "horse": "Green Star", "chance_pct": 1.6, "reason": "Recent figures 38lb below mark, faded last time, trainer 0/10"}
+  ], "checks": [
+    {"horse_id": "hrs_65287250", "horse": "Henley On Thames", "verdict": "BET", "reason": "Best fig 84 (14lb above field), prominent style suits slow pace, trainer 3/12"}
+  ]},
+  {"race_id": "rac_32305899457", "changes": [
+    {"horse_id": "hrs_22897546", "horse": "Baldomero", "chance_pct": 12.5, "reason": "Winless in six, best fig 83 is 8lb below field"},
+    {"horse_id": "hrs_52897194", "horse": "Jack The Bachelor", "chance_pct": 1.7, "reason": "Returns from a 309-day break"}
+  ], "checks": []},
+  {"race_id": "rac_32305901394", "changes": [
+    {"horse_id": "hrs_57041586", "horse": "Leading Times", "chance_pct": 21.5, "reason": "Hold-up horse into steady pace, course hold-up bias 0.6x, trainer 0/17 in 14 days"},
+    {"horse_id": "hrs_40745957", "horse": "Sir Yoshi", "chance_pct": 18.0, "reason": "Best fig 88 (9lb above field), figures 6lb above mark"},
+    {"horse_id": "hrs_17762514", "horse": "Alligator Alley", "chance_pct": 5.0, "reason": "Figures 8lb below mark, poor finishes, held up against course bias"},
+    {"horse_id": "hrs_51866311", "horse": "Anaisa", "chance_pct": 5.3, "reason": "Held up against course bias, rated 7lb below field"}
+  ], "checks": [
+    {"horse_id": "hrs_57041586", "horse": "Leading Times", "verdict": "SKIP", "reason": "Held-up style vs slow pace and 0.6x course hold-up bias, plus trainer 0/17"}
+  ]},
+  {"race_id": "rac_32305903331", "changes": [
+    {"horse_id": "hrs_55545749", "horse": "Lord d'Or", "chance_pct": 27.0, "reason": "Winless in six (runner-up habit per comment), OR 5lb below field average, model 8.5%"},
+    {"horse_id": "hrs_36515178", "horse": "Deira Mile", "chance_pct": 4.5, "reason": "Best fig 104 (12lb above field), first-time visor"},
+    {"horse_id": "hrs_43730568", "horse": "Ghaiyya", "chance_pct": 5.3, "reason": "Trainer 0 wins from 15 in 14 days, unplaced 21/23 last time"},
+    {"horse_id": "hrs_25795280", "horse": "Brasil Power", "chance_pct": 2.8, "reason": "Poor recent finishes, best fig 8lb below field"}
+  ], "checks": []}
+]}

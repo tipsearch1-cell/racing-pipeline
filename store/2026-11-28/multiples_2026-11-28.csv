@@ -1,0 +1,4 @@
+day,off_uk,course,race_id,horse,horse_id,best_price,median,bookmaker,price,also_ok_at,bet_id,bet_type,n_lines,stake_per_line,total_stake
+2026-11-28,5:00,Southwell (AW),rac_32305891709,Arthur Carrot,hrs_17390697996,3.5,3.5,William Hill,3.5,Betfred 3.5,2026-11-28-William Hill-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-28,5:30,Southwell (AW),rac_32306184196,Goldwork,hrs_50433481,4.33,4.0,William Hill,4.33,Betfred 4,2026-11-28-William Hill-1,Trixie (3 doubles + treble),4,0.5,2.0
+2026-11-28,7:00,Southwell (AW),rac_32305897520,Henley On Thames,hrs_65287250,3.25,3.25,William Hill,3.25,Betfred 3.25,2026-11-28-William Hill-1,Trixie (3 doubles + treble),4,0.5,2.0

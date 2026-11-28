@@ -1,0 +1,72 @@
+{"meeting": "newbury", "races": [
+  {"race_id": "rac_32305870402", "changes": [
+    {"horse_id": "hrs_57877967", "horse": "Trial By Jury", "chance_pct": 16.5, "reason": "Returns from a 346-day break"},
+    {"horse_id": "hrs_17396183133", "horse": "Well Achieved", "chance_pct": 14.5, "reason": "Returns from a 286-day break"},
+    {"horse_id": "hrs_58099412", "horse": "Sappingirl", "chance_pct": 18.0, "reason": "Best recent hurdle figure 114, 11 lb above field average, from a run 23 days ago over this course"},
+    {"horse_id": "hrs_58931026", "horse": "Livio", "chance_pct": 5.5, "reason": "Highest OR in field (128) and an August hurdle win; model rates well above market"},
+    {"horse_id": "hrs_52021431", "horse": "Wonder Flying", "chance_pct": 2.4, "reason": "Trainer 0 wins from 11 runs in last 14 days"},
+    {"horse_id": "hrs_56559496", "horse": "Mister Coko", "chance_pct": 1.4, "reason": "Best recent figure 99, 4 lb below field average"},
+    {"horse_id": "hrs_66655491", "horse": "Company Charge", "chance_pct": 0.4, "reason": "Best recent figure 88, 15 lb below field average"}
+  ], "checks": [
+    {"horse_id": "hrs_58316230", "horse": "Aqua Bleu", "verdict": "BET", "reason": "Best recent figure 113 is 10 lb above field average and finished strongly last time; single PU is not enough to doubt"}
+  ]},
+  {"race_id": "rac_32305872339", "changes": [
+    {"horse_id": "hrs_54644611", "horse": "Salsinha", "chance_pct": 19.0, "reason": "Best recent figure 124 (9 lb above field) and OR 127, 12 lb above field average"},
+    {"horse_id": "hrs_51897566", "horse": "Ti'mamzel", "chance_pct": 6.2, "reason": "Returns from a 233-day break and first run over hurdles"},
+    {"horse_id": "hrs_50433243", "horse": "Boombox", "chance_pct": 4.0, "reason": "Best recent hurdle figure 119, 4 lb above field, and won last time out"},
+    {"horse_id": "hrs_43730582", "horse": "Mythical Bird", "chance_pct": 0.7, "reason": "First run over hurdles; recent form all on the Flat"}
+  ], "checks": []},
+  {"race_id": "rac_32305874276", "changes": [
+    {"horse_id": "hrs_32936519", "horse": "Norn Iron", "chance_pct": 10.5, "reason": "Returns from a 211-day break with jumping mistakes in 2 of last 4"},
+    {"horse_id": "hrs_28916517", "horse": "El Capitaine", "chance_pct": 11.0, "reason": "Best recent chase figure 132, 7 lb above field, won last two, and contested pace suits hold-up style"},
+    {"horse_id": "hrs_41072773", "horse": "Kdeux Saint Fray", "chance_pct": 7.0, "reason": "Jumping mistakes mentioned in 4 of last 5 runs"},
+    {"horse_id": "hrs_38288257", "horse": "Barlovento", "chance_pct": 7.2, "reason": "Returns from a 220-day break"},
+    {"horse_id": "hrs_28294658", "horse": "King's Threshold", "chance_pct": 3.4, "reason": "Recent figures 7 lb below current mark; jumping mistakes in 2 of last 3"},
+    {"horse_id": "hrs_23240714", "horse": "Demnat", "chance_pct": 2.6, "reason": "Returns from a 625-day absence; trainer 0/11 in last 14 days"},
+    {"horse_id": "hrs_34975990", "horse": "Holetown", "chance_pct": 2.9, "reason": "Returns from 253 days off; trainer 0/11 in last 14 days"},
+    {"horse_id": "hrs_34962137", "horse": "Royal Jewel", "chance_pct": 2.2, "reason": "First-time tongue tie, good recent form 63132 and strong pace suits hold-up style"},
+    {"horse_id": "hrs_21100394", "horse": "Neon Moon", "chance_pct": 0.8, "reason": "Recent figures 10 lb below mark and faded last time"}
+  ], "checks": [
+    {"horse_id": "hrs_38018330", "horse": "Knight of Allen", "verdict": "BET", "reason": "Best recent chase figure 129 above field average, second last time, trainer 3/7 in last 14 days; weight is in line with his mark"}
+  ]},
+  {"race_id": "rac_32305876213", "changes": [
+    {"horse_id": "hrs_41052095", "horse": "Moneygarrow", "chance_pct": 21.0, "reason": "Returns from a 260-day break and hold-up style is against a likely steady pace"},
+    {"horse_id": "hrs_40095853", "horse": "Gentleman Toboot", "chance_pct": 8.5, "reason": "Returns from 266 days off after fading into seventh last time"},
+    {"horse_id": "hrs_46265569", "horse": "Frontier Prince", "chance_pct": 7.5, "reason": "Won last two, latest hurdle figure 128 at Cheltenham, at today's trip"},
+    {"horse_id": "hrs_32638277", "horse": "Fingle Bridge", "chance_pct": 4.6, "reason": "Unplaced last two, faded last time, 232 days off, held-up style against slow pace"},
+    {"horse_id": "hrs_37890573", "horse": "Califet En Vol", "chance_pct": 4.0, "reason": "Form slipped to seventh and sixth in last two and faded last time"},
+    {"horse_id": "hrs_34788775", "horse": "Jig's Forge", "chance_pct": 3.8, "reason": "Returns from a 294-day break after fading last time"},
+    {"horse_id": "hrs_34470660", "horse": "Court In The Act", "chance_pct": 1.9, "reason": "Returns from a 608-day absence"},
+    {"horse_id": "hrs_38306268", "horse": "Ace of Spades", "chance_pct": 2.7, "reason": "Recent hurdle figures 7 lb below current mark and poor recent finishing positions"}
+  ], "checks": []},
+  {"race_id": "rac_32304613289", "changes": [
+    {"horse_id": "hrs_41228957", "horse": "Idaho Sun", "chance_pct": 31.0, "reason": "Returns from a 337-day absence; comment flags rustiness"},
+    {"horse_id": "hrs_49577822", "horse": "White Noise", "chance_pct": 11.0, "reason": "Trainer 6/18 (33%) in last 14 days, recent hurdle figure 133, ran 20 days ago"},
+    {"horse_id": "hrs_48499283", "horse": "Our Boy Stan", "chance_pct": 6.6, "reason": "Returns from 224 days; OR 120 is 12 lb below field average"},
+    {"horse_id": "hrs_37672796", "horse": "Mondo Man", "chance_pct": 5.5, "reason": "Returns from a 162-day break after fading last time"}
+  ], "checks": []},
+  {"race_id": "rac_32303247704", "changes": [
+    {"horse_id": "hrs_34457227", "horse": "Wendigo", "chance_pct": 19.0, "reason": "Best recent chase figure 154, 16 lb above field, well handicapped, and strong pace suits hold-up style"},
+    {"horse_id": "hrs_37095968", "horse": "Regent's Stroll", "chance_pct": 9.8, "reason": "Returns from a 232-day absence"},
+    {"horse_id": "hrs_39827186", "horse": "Road To Home", "chance_pct": 9.0, "reason": "Won last time and trainer 16/53 (30%) in last 14 days"},
+    {"horse_id": "hrs_33975739", "horse": "Booster Bob", "chance_pct": 4.7, "reason": "Returns from 232 days, unplaced last time and fell two starts back"},
+    {"horse_id": "hrs_20789300", "horse": "Panic Attack", "chance_pct": 4.0, "reason": "Returns from 220 days, a fall two back, and likely to be taken on for the lead"},
+    {"horse_id": "hrs_29987923", "horse": "Havaila", "chance_pct": 3.5, "reason": "Three straight chase wins, won at this trip or further, and strong pace suits hold-up style"},
+    {"horse_id": "hrs_28220514", "horse": "Myretown", "chance_pct": 2.7, "reason": "Patchy form, jumping mistakes, and likely to be taken on for the lead"},
+    {"horse_id": "hrs_34888679", "horse": "Here Comes Georgie", "chance_pct": 2.0, "reason": "Best recent chase figure 126, 12 lb below field, and likely taken on for the lead"}
+  ], "checks": [
+    {"horse_id": "hrs_34457227", "horse": "Wendigo", "verdict": "BET", "reason": "Won last time with a figure 16 lb above the field and pace should suit"}
+  ]},
+  {"race_id": "rac_32305878150", "changes": [
+    {"horse_id": "hrs_40075875", "horse": "Daytime Dreaming", "chance_pct": 7.5, "reason": "Recent figures 12 lb below mark and trainer 0/11 in last 14 days"},
+    {"horse_id": "hrs_37889768", "horse": "Pleasington", "chance_pct": 7.5, "reason": "Returns from 225 days with a fall and a PU in last three"},
+    {"horse_id": "hrs_28903728", "horse": "Breaking Cover", "chance_pct": 4.8, "reason": "Best recent chase figure 139, 12 lb above field, and hat-trick earlier this autumn"},
+    {"horse_id": "hrs_23433641", "horse": "Escapeandevade", "chance_pct": 4.0, "reason": "Lone habitual front-runner, may get an uncontested lead"},
+    {"horse_id": "hrs_41325242", "horse": "Stencil", "chance_pct": 2.5, "reason": "Recent figures 13 lb below mark, faded last time, PU before"},
+    {"horse_id": "hrs_29212904", "horse": "The Four Sixes", "chance_pct": 4.8, "reason": "Jumping mistakes in 3 of last 5 runs"},
+    {"horse_id": "hrs_35363566", "horse": "Jour d'Evasion", "chance_pct": 4.5, "reason": "Fell last time, eighth and PU before that"},
+    {"horse_id": "hrs_40899544", "horse": "Jony R", "chance_pct": 0.8, "reason": "Pulled up in last two starts"}
+  ], "checks": [
+    {"horse_id": "hrs_41052697", "horse": "Un Sens A La Vie", "verdict": "BET", "reason": "Won last two, best chase figure 131 above field average, finished strongly"}
+  ]}
+]}

@@ -1,0 +1,44 @@
+{
+ "doncaster": {
+  "course": "Doncaster",
+  "in": "/home/claude/racing-pipeline/store/2026-11-28/review/in_doncaster.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-28/review/out_doncaster.json",
+  "races": 7,
+  "checks": 1
+ },
+ "newcastle": {
+  "course": "Newcastle",
+  "in": "/home/claude/racing-pipeline/store/2026-11-28/review/in_newcastle.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-28/review/out_newcastle.json",
+  "races": 7,
+  "checks": 3
+ },
+ "fairyhouse": {
+  "course": "Fairyhouse",
+  "in": "/home/claude/racing-pipeline/store/2026-11-28/review/in_fairyhouse.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-28/review/out_fairyhouse.json",
+  "races": 8,
+  "checks": 3
+ },
+ "bangor_on_dee": {
+  "course": "Bangor-on-Dee",
+  "in": "/home/claude/racing-pipeline/store/2026-11-28/review/in_bangor_on_dee.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-28/review/out_bangor_on_dee.json",
+  "races": 7,
+  "checks": 1
+ },
+ "newbury": {
+  "course": "Newbury",
+  "in": "/home/claude/racing-pipeline/store/2026-11-28/review/in_newbury.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-28/review/out_newbury.json",
+  "races": 7,
+  "checks": 4
+ },
+ "southwell_aw": {
+  "course": "Southwell (AW)",
+  "in": "/home/claude/racing-pipeline/store/2026-11-28/review/in_southwell_aw.md",
+  "out": "/home/claude/racing-pipeline/store/2026-11-28/review/out_southwell_aw.json",
+  "races": 9,
+  "checks": 5
+ }
+}

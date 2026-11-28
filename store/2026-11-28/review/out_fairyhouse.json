@@ -1,0 +1,65 @@
+{"meeting": "fairyhouse", "races": [
+  {"race_id": "rac_32305976937", "changes": [
+    {"horse_id": "hrs_40553618", "horse": "King Rasko Grey", "chance_pct": 32.0, "reason": "211-day break, first run over fences, and likely to be taken on for the lead in a strong-pace race"},
+    {"horse_id": "hrs_52204565", "horse": "Narciso Has", "chance_pct": 25.0, "reason": "299-day absence flagged by comment; only 1 run in data and likely taken on for the lead"},
+    {"horse_id": "hrs_39699037", "horse": "Spinningayarn", "chance_pct": 7.5, "reason": "Pulled up last time, 213 days off, first over fences, likely taken on for the lead"},
+    {"horse_id": "hrs_39431644", "horse": "He Can't Dance", "chance_pct": 3.2, "reason": "Won last two, last-run finishing speed +7.6%, has won at this trip; model 15.1%"},
+    {"horse_id": "hrs_62813079", "horse": "Robertjames", "chance_pct": 3.5, "reason": "Last-time winner, finishing speed +3.4%, trainer 16/53 in 14 days; model 20.6%"},
+    {"horse_id": "hrs_25795245", "horse": "Zanndabad", "chance_pct": 2.6, "reason": "Only runner with recent chase form (2nd, fig 124, 29 days ago); hold-up style suits contested strong pace"}
+  ], "checks": []},
+  {"race_id": "rac_32305978874", "changes": [
+    {"horse_id": "hrs_34961507", "horse": "Katie Daniels", "chance_pct": 13.0, "reason": "Comment says hard to fancy; OR 12 lb below field average, faded last time, PU two back; model 5.4%"},
+    {"horse_id": "hrs_41378631", "horse": "The Great Nudie", "chance_pct": 13.5, "reason": "Recent figures 18 lb below current mark; ninth last time out"},
+    {"horse_id": "hrs_29212855", "horse": "Ballybawn Belter", "chance_pct": 9.5, "reason": "Recent figures 14 lb below mark, jumping mistakes in 2 of last 5, winless recent spell"},
+    {"horse_id": "hrs_35107317", "horse": "Karia Des Blaises", "chance_pct": 14.5, "reason": "213-day absence after a ninth and a pulled up; faded -6.9% last time"},
+    {"horse_id": "hrs_35054649", "horse": "Qualimita", "chance_pct": 8.7, "reason": "Returns from a 370-day break"}
+  ], "checks": [
+    {"horse_id": "hrs_34961507", "horse": "Katie Daniels", "verdict": "SKIP", "reason": "Card calls her hard to fancy: PU two back, OR 12 lb below field average, faded last time"}
+  ]},
+  {"race_id": "rac_32305980811", "changes": [
+    {"horse_id": "hrs_28517419", "horse": "Western Diego", "chance_pct": 14.0, "reason": "212-day absence after unplaced run and a fall; faded -7.2% last time; model 5.7%"},
+    {"horse_id": "hrs_40605824", "horse": "Raffles Dolce Vita", "chance_pct": 18.0, "reason": "Lone habitual front-runner, may get an uncontested lead"},
+    {"horse_id": "hrs_39208106", "horse": "Moudan", "chance_pct": 10.0, "reason": "Won last time, finished strongly (+4.8%), good recent positions, has won at trip"},
+    {"horse_id": "hrs_37774534", "horse": "Drumgill", "chance_pct": 5.5, "reason": "Second last time 21 days ago; recent figures 5 lb above mark (well handicapped)"},
+    {"horse_id": "hrs_39296397", "horse": "Coral River", "chance_pct": 9.5, "reason": "Recent figures 6 lb below mark; yard 1/20 lately"},
+    {"horse_id": "hrs_34571397", "horse": "Springt De La Mare", "chance_pct": 3.8, "reason": "587-day absence after sixth and eighth"},
+    {"horse_id": "hrs_34598060", "horse": "Dee Capo", "chance_pct": 3.7, "reason": "Pulled up last time, jumping mistakes in 2 of last 4, 213 days off, top weight"},
+    {"horse_id": "hrs_29341473", "horse": "The King Of Prs", "chance_pct": 2.8, "reason": "Fell and pulled up in last two, poor recent positions, 212 days off"}
+  ], "checks": [
+    {"horse_id": "hrs_28517419", "horse": "Western Diego", "verdict": "SKIP", "reason": "212-day absence after a fall and unplaced run, faded last time; model only 5.7%"}
+  ]},
+  {"race_id": "rac_32305982748", "changes": [
+    {"horse_id": "hrs_60343444", "horse": "Huntin Boots", "chance_pct": 22.0, "reason": "Best recent figure 5 lb below field average; refusal two starts back raises reliability doubt"},
+    {"horse_id": "hrs_56127659", "horse": "Bartholomew", "chance_pct": 29.5, "reason": "Best figure 4 lb above field average, prominent racer in a slow tactical race, 20 days since run"},
+    {"horse_id": "hrs_58195508", "horse": "Ole Ole", "chance_pct": 8.0, "reason": "OR 12 lb below field average; jumping mistakes and a fall in last 4 runs"}
+  ], "checks": []},
+  {"race_id": "rac_32305984685", "changes": [
+    {"horse_id": "hrs_17392983209", "horse": "El Bilo", "chance_pct": 4.5, "reason": "Best recent figure 126, 8 lb above field average, won at trip last time (tempered by hold-up style in slow pace)"},
+    {"horse_id": "hrs_58811340", "horse": "Puma's Dream", "chance_pct": 2.3, "reason": "Faded -14.9% last time, finished 10/10, 254 days off"},
+    {"horse_id": "hrs_59186106", "horse": "Martymill", "chance_pct": 8.5, "reason": "Trainer 0 wins from 8 runs in 14 days"},
+    {"horse_id": "hrs_51373623", "horse": "Joe Cool", "chance_pct": 7.2, "reason": "Best figure 4 lb below field average"},
+    {"horse_id": "hrs_33479866", "horse": "Taras Halls", "chance_pct": 1.3, "reason": "287 days off, first run over hurdles, OR 6 lb below average, aged 8"}
+  ], "checks": []},
+  {"race_id": "rac_32305986622", "changes": [
+    {"horse_id": "hrs_59186134", "horse": "Premier Division", "chance_pct": 25.5, "reason": "Best recent figure 13 lb above field average, won last time, finished strongly"},
+    {"horse_id": "hrs_63586712", "horse": "The Farmers Bar", "chance_pct": 2.0, "reason": "Best figure 7 lb above field average, trainer 2/9, finished strongly last time"},
+    {"horse_id": "hrs_59429349", "horse": "Wilton Mills Trier", "chance_pct": 3.2, "reason": "Won last time and finished strongly (+3.5%), prominent style"},
+    {"horse_id": "hrs_17389779113", "horse": "Confidence Within", "chance_pct": 1.1, "reason": "Trainer 0 from 32 in 14 days; faded and finished 16/22 last time"}
+  ], "checks": []},
+  {"race_id": "rac_32305988559", "changes": [
+    {"horse_id": "hrs_40095671", "horse": "Nelson County", "chance_pct": 10.0, "reason": "252-day break and first run over hurdles in data"},
+    {"horse_id": "hrs_42847476", "horse": "Kim Roque", "chance_pct": 9.7, "reason": "224-day absence, first run over hurdles, carries 8 lb more than average"},
+    {"horse_id": "hrs_50433047", "horse": "Fairlander", "chance_pct": 7.8, "reason": "Yard 0/32 lately and 174 days off"},
+    {"horse_id": "hrs_52297938", "horse": "Zam Bobbler", "chance_pct": 4.5, "reason": "Yard 0/32 lately and 237 days off"},
+    {"horse_id": "hrs_51650039", "horse": "Carrigg Island", "chance_pct": 5.2, "reason": "Best recent figure 117, 6 lb above field average, fit from a run 20 days ago"},
+    {"horse_id": "hrs_28707049", "horse": "Yeah Man", "chance_pct": 2.2, "reason": "Pulled up in 2 of last 4 jumps runs, 236 days off"},
+    {"horse_id": "hrs_22180501", "horse": "Sequoiaspirit", "chance_pct": 1.3, "reason": "Recent figures 7 lb below mark, trainer 0/8, poor recent positions"},
+    {"horse_id": "hrs_40786732", "horse": "Magic Day", "chance_pct": 1.9, "reason": "Trainer 0/9 in 14 days, jumping mistakes in 2 of last 5"}
+  ], "checks": [
+    {"horse_id": "hrs_59678787", "horse": "Hey Now", "verdict": "BET", "reason": "No specific negative on the card: first-time tongue tie, recent win and fourth, no DATA against"}
+  ]},
+  {"race_id": "rac_32305990496", "changes": [
+    {"horse_id": "hrs_17396239455", "horse": "Golden Current", "chance_pct": 12.0, "reason": "333-day absence flagged as fitness question"},
+    {"horse_id": "hrs_17391192378", "horse": "Noharmintrying", "chance_pct": 9.5, "reason": "First-time tongue tie and finished strongly (+3.6%) last time"}
+  ], "checks": []}
+]}

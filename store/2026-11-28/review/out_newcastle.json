@@ -1,0 +1,45 @@
+{"meeting": "newcastle", "races": [
+  {"race_id": "rac_32305880087", "changes": [
+    {"horse_id": "hrs_51491860", "horse": "Leader Allen", "chance_pct": 46.0, "reason": "Returns from a 119-day break with only 1 run in data; trims a short price slightly"},
+    {"horse_id": "hrs_17393777975", "horse": "Nikolavs Otto", "chance_pct": 26.0, "reason": "Held up in a race expected to be slowly run, hard to close from off the pace"},
+    {"horse_id": "hrs_17394321378", "horse": "Measure of A Man", "chance_pct": 13.5, "reason": "Best recent figure 110, 6 lb above field average, and a prominent racer suited by the steady pace"}
+  ], "checks": []},
+  {"race_id": "rac_32305882024", "changes": [
+    {"horse_id": "hrs_34557782", "horse": "Red Delta", "chance_pct": 21.0, "reason": "Comment flags 41-day layoff and 159 lb after a sixth two back; model only 10.9%"},
+    {"horse_id": "hrs_35335776", "horse": "Passengerontheship", "chance_pct": 26.0, "reason": "Won last two, has run over trip and going, prominent racer suits slow pace, trainer 6/27"},
+    {"horse_id": "hrs_39296628", "horse": "Ki Woo", "chance_pct": 13.5, "reason": "Best recent figure 131, 10 lb above field average, second last time"},
+    {"horse_id": "hrs_37987908", "horse": "I Wish You", "chance_pct": 15.5, "reason": "Unseated last time and off 44 days; comment says hard to fancy"}
+  ], "checks": [
+    {"horse_id": "hrs_34557782", "horse": "Red Delta", "verdict": "SKIP", "reason": "Comment cites 41-day layoff and top-weight 159 lb, model rates him well below market"}
+  ]},
+  {"race_id": "rac_32305883961", "changes": [
+    {"horse_id": "hrs_51831577", "horse": "Splendid Fellow", "chance_pct": 39.0, "reason": "Best recent figure 125, 11 lb above field average; model 43.6%"},
+    {"horse_id": "hrs_17395002457", "horse": "Elusive Dreams", "chance_pct": 16.0, "reason": "Unbeaten, finished strongly last time and may get an uncontested lead as lone front-runner"}
+  ], "checks": []},
+  {"race_id": "rac_32304615226", "changes": [
+    {"horse_id": "hrs_37096024", "horse": "Crest of Fortune", "chance_pct": 14.0, "reason": "Winless in last five, figures 8 lb below mark and jumping mistakes in 3 of last 3"},
+    {"horse_id": "hrs_40494090", "horse": "Jordans Cross", "chance_pct": 12.5, "reason": "Off 232 days and brought down last time"},
+    {"horse_id": "hrs_30709889", "horse": "Konfusion", "chance_pct": 4.2, "reason": "Pulled up 7 days ago, jumping mistakes in 4 of last 5, trainer 0/14"},
+    {"horse_id": "hrs_32936512", "horse": "Alcedo", "chance_pct": 4.8, "reason": "Pulled up last time, 259-day absence, trainer 0/11"}
+  ], "checks": [
+    {"horse_id": "hrs_37096024", "horse": "Crest of Fortune", "verdict": "SKIP", "reason": "Figures 8 lb below mark, best figure below field average and jumping errors in all last 3 runs"}
+  ]},
+  {"race_id": "rac_32304617163", "changes": [
+    {"horse_id": "hrs_39208155", "horse": "Alexei", "chance_pct": 42.0, "reason": "Best recent figure 157, 11 lb above field, won last time 21 days ago over trip and going"},
+    {"horse_id": "hrs_50401701", "horse": "Mydaddypaddy", "chance_pct": 36.0, "reason": "Returns from a 263-day absence carrying 164 lb off 153"}
+  ], "checks": []},
+  {"race_id": "rac_32305885898", "changes": [
+    {"horse_id": "hrs_50622628", "horse": "Brace For Landing", "chance_pct": 19.5, "reason": "Recent figures 6 lb below current mark after the win; model 12.9%"},
+    {"horse_id": "hrs_47065039", "horse": "Las Canals", "chance_pct": 20.0, "reason": "Won last three, finished strongly last time (+6.1%), won at this trip"},
+    {"horse_id": "hrs_46850825", "horse": "Kool Raoul", "chance_pct": 8.5, "reason": "Won last two and may get an uncontested lead as lone front-runner"},
+    {"horse_id": "hrs_32780083", "horse": "Captain Butler", "chance_pct": 4.2, "reason": "225-day absence after pulling up last time"},
+    {"horse_id": "hrs_34456870", "horse": "Cannock Park", "chance_pct": 1.0, "reason": "Refused last time and off 168 days"}
+  ], "checks": [
+    {"horse_id": "hrs_50622628", "horse": "Brace For Landing", "verdict": "SKIP", "reason": "DATA shows recent figures 6 lb below his current mark, so he looks high in the weights"}
+  ]},
+  {"race_id": "rac_32305887835", "changes": [
+    {"horse_id": "hrs_38648869", "horse": "Authorized Mission", "chance_pct": 14.0, "reason": "253-day absence and first run over fences in data"},
+    {"horse_id": "hrs_32911074", "horse": "Looking Splendid", "chance_pct": 11.5, "reason": "Won last time and has run over trip and going"},
+    {"horse_id": "hrs_32780251", "horse": "Treaty Boy", "chance_pct": 5.5, "reason": "Comment says hard to fancy; best figure 96, 8 lb below field average"}
+  ], "checks": []}
+]}

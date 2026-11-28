@@ -1,0 +1,9 @@
+Provider,SelectionName,MarketType,StartTime,BetType,MinPrice,BSP,Course,OffUK,Code,MorningMedian
+Frankie,Aqua Bleu,WIN,2026-11-28 12:00:00,BACK,3.56,false,Newbury,12:00,Jumps,3.75
+Frankie,Knight of Allen,WIN,2026-11-28 13:10:00,BACK,4.27,false,Newbury,13:10,Jumps,4.5
+Frankie,Wendigo,WIN,2026-11-28 15:00:00,BACK,4.19,false,Newbury,15:00,Jumps,4.415
+Frankie,Hey Now,WIN,2026-11-28 15:13:00,BACK,5.7,false,Fairyhouse,15:13,Jumps,6.0
+Frankie,Un Sens A La Vie,WIN,2026-11-28 15:38:00,BACK,3.8,false,Newbury,15:38,Jumps,4.0
+Frankie,Arthur Carrot,WIN,2026-11-28 17:00:00,BACK,3.32,false,Southwell (AW),17:00,Flat,3.5
+Frankie,Goldwork,WIN,2026-11-28 17:30:00,BACK,3.8,false,Southwell (AW),17:30,Flat,4.0
+Frankie,Henley On Thames,WIN,2026-11-28 19:00:00,BACK,3.09,false,Southwell (AW),19:00,Flat,3.25

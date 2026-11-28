@@ -1,0 +1,51 @@
+{"meeting": "bangor_on_dee", "races": [
+  {"race_id": "rac_32305905268", "changes": [
+    {"horse_id": "hrs_40095650", "horse": "Cahier's Den", "chance_pct": 28.0, "reason": "Winless in last five, 7th last time, jumping mistakes in 2 of last 5 and carries 166lb (5lb above average)."},
+    {"horse_id": "hrs_59150581", "horse": "Cool Master", "chance_pct": 15.0, "reason": "Comment says hard to fancy; best figure 83 is 6lb below field average and OR 10lb below average."},
+    {"horse_id": "hrs_50187830", "horse": "Eaststone Buck's", "chance_pct": 13.5, "reason": "221-day break, trainer 0/11 in 14 days, faded last run."},
+    {"horse_id": "hrs_24228806", "horse": "Malinas Glory", "chance_pct": 14.0, "reason": "2nd last time, two wins in last five, best figure 94 (top of field) and has won at this trip."},
+    {"horse_id": "hrs_34665274", "horse": "Clondaw Royale", "chance_pct": 6.5, "reason": "Recent figures 13lb below current mark, poor recent finishing positions, pulled up in last five."},
+    {"horse_id": "hrs_28518245", "horse": "Exmoor Forest", "chance_pct": 4.5, "reason": "Returns from a 491-day break with no runs in data."}
+  ], "checks": []},
+  {"race_id": "rac_32305907205", "changes": [
+    {"horse_id": "hrs_17395279895", "horse": "Koaly Play", "chance_pct": 9.0, "reason": "Returns from a 265-day break with no runs in data (model 4.9%)."},
+    {"horse_id": "hrs_60250113", "horse": "Blackswan d'Oroux", "chance_pct": 2.8, "reason": "Trainer 27/97 (28%) in last 14 days; model 13.9%."}
+  ], "checks": []},
+  {"race_id": "rac_32305909142", "changes": [
+    {"horse_id": "hrs_24467954", "horse": "It's Easy", "chance_pct": 10.0, "reason": "Jumping mistakes in 2 of last 4 runs, pulled up over fences, faded last run."},
+    {"horse_id": "hrs_33975053", "horse": "Lexie's Moon", "chance_pct": 9.5, "reason": "Ninth last time; recent figures 12lb below mark and best figure 12lb below field average."},
+    {"horse_id": "hrs_37563071", "horse": "Epinephrine", "chance_pct": 9.0, "reason": "228-day absence, trainer 0/11 in 14 days, faded last run."},
+    {"horse_id": "hrs_51865975", "horse": "Pottersville", "chance_pct": 5.5, "reason": "Pulled up last time, 224 days off, trainer 0/10, top weight on chase debut."},
+    {"horse_id": "hrs_24638754", "horse": "All The Glory", "chance_pct": 5.5, "reason": "Comment: arrives in good heart after two thirds, ran 19 days ago, has run over the trip."}
+  ], "checks": []},
+  {"race_id": "rac_32306186133", "changes": [
+    {"horse_id": "hrs_62296689", "horse": "Minutes To Spare", "chance_pct": 2.3, "reason": "Form 8-9 and a hold-up runner in a race expected to be steadily run."},
+    {"horse_id": "hrs_17395162036", "horse": "Works For Me", "chance_pct": 9.8, "reason": "Returns from a 208-day break with no runs in data."},
+    {"horse_id": "hrs_17395280938", "horse": "Montevallo", "chance_pct": 9.8, "reason": "Returns from a 280-day break with no runs in data."}
+  ], "checks": []},
+  {"race_id": "rac_32305911079", "changes": [
+    {"horse_id": "hrs_17394658267", "horse": "Hang Out", "chance_pct": 48.0, "reason": "Unbeaten (1-1), won over course and distance with fig 119 and may get an uncontested lead."},
+    {"horse_id": "hrs_17394937791", "horse": "Bears Socks", "chance_pct": 9.8, "reason": "Finished strongly last run (+8.8% finishing speed), form 22-4."},
+    {"horse_id": "hrs_50590288", "horse": "Queen Marcia", "chance_pct": 1.9, "reason": "Returns from a 259-day break on hurdles debut."}
+  ], "checks": []},
+  {"race_id": "rac_32305913016", "changes": [
+    {"horse_id": "hrs_47837363", "horse": "Doctors Hill", "chance_pct": 29.0, "reason": "Comment: yet to win in last five and carries 157lb after 37 days off."},
+    {"horse_id": "hrs_53052391", "horse": "Locquirec", "chance_pct": 9.5, "reason": "Comment says hard to fancy: sixth in four of last five, fell three back."},
+    {"horse_id": "hrs_46602892", "horse": "The Hawkstonian", "chance_pct": 10.0, "reason": "Returns from 276-day break on first run over fences."},
+    {"horse_id": "hrs_38884594", "horse": "A Moments Madness", "chance_pct": 9.5, "reason": "233-day absence and unplaced last time, carries 169lb."},
+    {"horse_id": "hrs_47555452", "horse": "Mr Mojo Risin", "chance_pct": 10.5, "reason": "Second last time and finished strongly (+5.4%), carries 5lb less than average."},
+    {"horse_id": "hrs_53475996", "horse": "Luron d'Oudairies", "chance_pct": 8.5, "reason": "Trainer 0/11 in 14 days and returns from 186 days under 168lb."},
+    {"horse_id": "hrs_31965255", "horse": "Royal Mer", "chance_pct": 9.5, "reason": "Won last two over fences, finished strongly, has won at this trip; model 20.8%."}
+  ], "checks": []},
+  {"race_id": "rac_32305914953", "changes": [
+    {"horse_id": "hrs_49326053", "horse": "The Price of Peace", "chance_pct": 16.0, "reason": "Pulled up last time, 260 days off, trainer 0/10, first run over fences, model only 5.3%."},
+    {"horse_id": "hrs_39699289", "horse": "Big Cadillac", "chance_pct": 15.5, "reason": "Won last time over fences, finished strongly, trainer 27/97 in 14 days."},
+    {"horse_id": "hrs_48353361", "horse": "Laganhill", "chance_pct": 9.0, "reason": "Pulled up last time and returns from 238 days under 167lb."},
+    {"horse_id": "hrs_34652597", "horse": "Gasmani", "chance_pct": 11.0, "reason": "Second at course last time with best figure 111 (6lb above field), finished strongly."},
+    {"horse_id": "hrs_34665414", "horse": "Grand Albert", "chance_pct": 4.4, "reason": "259-day absence and faded last run (-7.0%)."},
+    {"horse_id": "hrs_51024309", "horse": "Lucky d'Aubrelle", "chance_pct": 4.3, "reason": "Trainer 0/11 in 14 days, 233 days off under 170lb."},
+    {"horse_id": "hrs_23425738", "horse": "One Last Glance", "chance_pct": 4.3, "reason": "Comment: arrives in cracking nick, won last time and finished strongly."}
+  ], "checks": [
+    {"horse_id": "hrs_49326053", "horse": "The Price of Peace", "verdict": "SKIP", "reason": "260-day absence after pulling up, trainer 0/10 and first run over fences."}
+  ]}
+]}
