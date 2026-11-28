@@ -1,0 +1,99 @@
+{
+ "through_ticks": 2,
+ "bsp_cap": 20.0,
+ "n": {
+  "train": 230037,
+  "valid": 61430,
+  "test": 109130
+ },
+ "strategies": {
+  "btl30": {
+   "base_hit_rate": {
+    "train": 0.5466,
+    "valid": 0.4698,
+    "test": 0.4513
+   },
+   "pred_hit_valid": 0.4973,
+   "base_hit_rate_capped": {
+    "valid": 0.4616,
+    "test": 0.4383
+   },
+   "all_c2": {
+    "valid": -0.3822,
+    "test": -0.4144
+   },
+   "select_c2": "no threshold with >=200 validation bets and positive selection",
+   "all_c5": {
+    "valid": -0.387,
+    "test": -0.4189
+   },
+   "select_c5": "no threshold with >=200 validation bets and positive selection"
+  },
+  "btl50": {
+   "base_hit_rate": {
+    "train": 0.3993,
+    "valid": 0.3366,
+    "test": 0.3231
+   },
+   "pred_hit_valid": 0.3557,
+   "base_hit_rate_capped": {
+    "valid": 0.3481,
+    "test": 0.3275
+   },
+   "all_c2": {
+    "valid": -0.4083,
+    "test": -0.4462
+   },
+   "select_c2": "no threshold with >=200 validation bets and positive selection",
+   "all_c5": {
+    "valid": -0.4157,
+    "test": -0.4532
+   },
+   "select_c5": "no threshold with >=200 validation bets and positive selection"
+  },
+  "ltb50": {
+   "base_hit_rate": {
+    "train": 0.9173,
+    "valid": 0.8891,
+    "test": 0.8612
+   },
+   "pred_hit_valid": 0.9023,
+   "base_hit_rate_capped": {
+    "valid": 0.875,
+    "test": 0.8522
+   },
+   "all_c2": {
+    "valid": -0.3356,
+    "test": -0.343
+   },
+   "select_c2": "no threshold with >=200 validation bets and positive selection",
+   "all_c5": {
+    "valid": -0.3441,
+    "test": -0.3518
+   },
+   "select_c5": "no threshold with >=200 validation bets and positive selection"
+  },
+  "ltb100": {
+   "base_hit_rate": {
+    "train": 0.8989,
+    "valid": 0.869,
+    "test": 0.8361
+   },
+   "pred_hit_valid": 0.883,
+   "base_hit_rate_capped": {
+    "valid": 0.8561,
+    "test": 0.8311
+   },
+   "all_c2": {
+    "valid": -0.2774,
+    "test": -0.2819
+   },
+   "select_c2": "no threshold with >=200 validation bets and positive selection",
+   "all_c5": {
+    "valid": -0.2899,
+    "test": -0.2946
+   },
+   "select_c5": "no threshold with >=200 validation bets and positive selection"
+  }
+ }
+}

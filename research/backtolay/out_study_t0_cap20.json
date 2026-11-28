@@ -1,0 +1,131 @@
+{
+ "through_ticks": 0,
+ "bsp_cap": 20.0,
+ "n": {
+  "train": 230037,
+  "valid": 61430,
+  "test": 109130
+ },
+ "strategies": {
+  "btl30": {
+   "base_hit_rate": {
+    "train": 0.5898,
+    "valid": 0.5142,
+    "test": 0.4944
+   },
+   "pred_hit_valid": 0.5353,
+   "base_hit_rate_capped": {
+    "valid": 0.4947,
+    "test": 0.4685
+   },
+   "all_c2": {
+    "valid": -0.3368,
+    "test": -0.373
+   },
+   "select_c2": "no threshold with >=200 validation bets and positive selection",
+   "all_c5": {
+    "valid": -0.3419,
+    "test": -0.3779
+   },
+   "select_c5": "no threshold with >=200 validation bets and positive selection"
+  },
+  "btl50": {
+   "base_hit_rate": {
+    "train": 0.428,
+    "valid": 0.362,
+    "test": 0.3483
+   },
+   "pred_hit_valid": 0.3829,
+   "base_hit_rate_capped": {
+    "valid": 0.3623,
+    "test": 0.3409
+   },
+   "all_c2": {
+    "valid": -0.3831,
+    "test": -0.422
+   },
+   "select_c2": "no threshold with >=200 validation bets and positive selection",
+   "all_c5": {
+    "valid": -0.3909,
+    "test": -0.4293
+   },
+   "select_c5": "no threshold with >=200 validation bets and positive selection"
+  },
+  "ltb50": {
+   "base_hit_rate": {
+    "train": 0.9223,
+    "valid": 0.8952,
+    "test": 0.8694
+   },
+   "pred_hit_valid": 0.9074,
+   "base_hit_rate_capped": {
+    "valid": 0.8799,
+    "test": 0.8577
+   },
+   "all_c2": {
+    "valid": -0.3132,
+    "test": -0.3215
+   },
+   "select_c2": "no threshold with >=200 validation bets and positive selection",
+   "all_c5": {
+    "valid": -0.3218,
+    "test": -0.3302
+   },
+   "select_c5": "no threshold with >=200 validation bets and positive selection"
+  },
+  "ltb100": {
+   "base_hit_rate": {
+    "train": 0.9029,
+    "valid": 0.874,
+    "test": 0.8431
+   },
+   "pred_hit_valid": 0.8877,
+   "base_hit_rate_capped": {
+    "valid": 0.8597,
+    "test": 0.8354
+   },
+   "all_c2": {
+    "valid": -0.2623,
+    "test": -0.2687
+   },
+   "select_c2": {
+    "tau": 0,
+    "valid_bets": 336,
+    "valid_roi": 0.1348,
+    "test_bets": 675,
+    "test_roi": -0.3491,
+    "test_hit": 0.8356,
+    "test_roi_by_year": {
+     "2025": -0.3982,
+     "2026": -0.3029
+    },
+    "test_roi_90ci": [
+     -0.5388,
+     -0.179
+    ],
+    "test_avg_bsp": 9.54
+   },
+   "all_c5": {
+    "valid": -0.2749,
+    "test": -0.2814
+   },
+   "select_c5": {
+    "tau": 0,
+    "valid_bets": 231,
+    "valid_roi": 0.1422,
+    "test_bets": 477,
+    "test_roi": -0.3132,
+    "test_hit": 0.847,
+    "test_roi_by_year": {
+     "2025": -0.4006,
+     "2026": -0.2338
+    },
+    "test_roi_90ci": [
+     -0.5034,
+     -0.1133
+    ],
+    "test_avg_bsp": 9.87
+   }
+  }
+ }
+}
